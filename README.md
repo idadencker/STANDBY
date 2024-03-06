@@ -1,14 +1,11 @@
-to do
+To do: 
 
 Download folder from the shared drive when on au campus
 
-finder
-
-cmd + k
-
-smb://uni.au.dk/dfs
-
-kode= same as to my au mail
+- go to finder
+- cmd + k
+- smb://uni.au.dk/dfs
+- kode= same as to my au mail
 
 Make a local folder 
 
