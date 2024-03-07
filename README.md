@@ -1,19 +1,5 @@
 To do: 
 
-Download folder from the shared drive when on au campus
-
-- go to finder
-- cmd + k
-- smb://uni.au.dk/dfs
-- kode= same as to my au mail
-
-Make a local folder 
-
-- Put all downloaded data folders in there
-- Start R script for cleaning and preprocessing
-- push to a new GitHub repo
-- Add [read.me](http://read.me) file with ‘to do’, ‘where im at’ etc.
-
 Get overview of the the Facebook ‘experiment’ 
 
 - Make a description to how it was carried out:
