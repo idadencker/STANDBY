@@ -1,0 +1,52 @@
+{
+  "authorName": "Kashif Ahmad",
+  "authorId": "profile.php",
+  "text": "4. maj 1945 sluttede krigen i Danmark. Lad os tænde et lys for at mindes dette. Men lad os også tænde et lys for alle de mennesker, som verden over i dag lever i krig og undertrykkelse🕯️\n(Sidder til møde i Københavns Borgerrepræsentation)",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/100035911236238/videos/243039641723002/?__cft__[0]=AZW2BekCNAzCs8DNV0_5OiZ9OKNuk0Bk1ifm7VHPdwMVmcyfNOWnet41s_n9EaiMkZTkfTMVqQ_3N8TQT2M73bsEMU_U_1B-nbaQD6tS4CUw1x9L8OCMnUNK9OIro1yzxYzW9aJIP9eVTGml_EyRLHyj&amp;__tn__=%2B%3FFH-R",
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "10"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "795661592186886",
+      "parentId": null,
+      "authorName": "Valon Ajeti Shaqiri",
+      "authorId": "ValonSacirl",
+      "timeLabel": "Kommentar fra Valon Ajeti Shaqiri for 8 uger siden",
+      "text": "Hyggeligt at overvære jeres byrådsmøde igår 👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "544412901191888",
+      "parentId": null,
+      "authorName": "Chrisstine Aurelia Munch",
+      "authorId": "chrisstineaurelia.munch",
+      "timeLabel": "Kommentar fra Chrisstine Aurelia Munch for 7 uger siden",
+      "text": "Det er så udansk.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

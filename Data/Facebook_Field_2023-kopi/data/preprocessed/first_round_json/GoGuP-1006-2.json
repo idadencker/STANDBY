@@ -1,0 +1,37 @@
+{
+  "authorName": "Gorm Anker GunnarsenGorm Anker GunnarsenGorm Anker GunnarsenVielser",
+  "authorId": "gorm.gunnarsen",
+  "text": "Astrid og Carl Emil, 10/6 2023.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171133112177037&amp;set=a.10152448496067037&amp;__cft__[0]=AZWk4C81U2gtR07nSnk3WtqZMF27XbJcwRrkJLC7TWMIWFKaPhgcTdW7IfreTbP3gFF2MFHP8V5WUdD97XgcrVCJnQ8IhhRPJjHQdfDi7nHSsb0OG45JH0qkVDaPtBjb5_E&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer og bryllup",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "53"
+    },
+    {
+      "type": "heart",
+      "count": "18"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2483841308452362",
+      "parentId": null,
+      "authorName": "Ellie Marie Dam",
+      "authorId": "nakatakutli",
+      "timeLabel": "Kommentar fra Ellie Marie Dam for 3 dage siden",
+      "text": "🇩🇰🇩🇰🇩🇰🇩🇰🇩🇰🇩🇰❤️🇩🇰🇩🇰🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

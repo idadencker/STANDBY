@@ -1,0 +1,32 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Jeg vil være der.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "9"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Annette Mørk",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Annette Mørk for 15 uger siden",
+      "text": "Vi kommer selvfølgelig - med tre stk. faner. Horserød-Stutthof foreningen og De Spanienfrivilliges Venner 🏳️‍⚧️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

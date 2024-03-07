@@ -1,0 +1,52 @@
+{
+  "authorName": "Yilmaz Yildiz",
+  "authorId": "Yilmaz.Yildiz.SF.Kandidat.BR",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "14"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 8 uger siden",
+      "text": "Metro til Bispebjerg, nordvest, brønshøj og tingbjerg",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Kommentar fra SF København for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    }
+  ]
+}

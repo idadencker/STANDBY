@@ -1,0 +1,71 @@
+{
+  "authorName": "Christopher Røhl",
+  "authorId": "RohlChristopher",
+  "text": "Jeg har her til aften fået hjemmestrik til min kommende søn fra Enhedslistens forperson! 😍\nSå faldt jeg alligevel i med gaverne… ☺️\nHvor mange parkeringspladser, sagde I, at vi skulle nedlægge? 😏",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=699144182212520&amp;set=a.245000677626875&amp;__cft__[0]=AZWfoxiCs94G7ylJj5q0JH0mGWqG1HftJei0FwFikBCB7ruRXx0i1deqjAzTUq2H73nGTTPyQScxlHQnHSnGFKKEf5EE9RkK7v6zJjVfpzkxD2UFZiDNYxC2DVd7J_S_5_Amo30KaHQeyTAaecaBFa2o&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "39"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    },
+    {
+      "type": "haha",
+      "count": "9"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Charlotte LundBente",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Kommentar fra Charlotte Lund for 14 uger siden",
+      "text": "❤️ Bente",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kristina Junge Jørgensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Kristina Junge Jørgensen for 14 uger siden",
+      "text": "Hvis du kan skaffe parkeringspladser til turistbusserne ved Amaliemborg, så får du også en (stor) gave af mig. Vi guider har ondt i maven over hvordan det skal gå med buskørsel denne sæson.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Christopher RøhlVerificeret kontoKristina Junge Jørgensen",
+      "authorId": "RohlChristopher",
+      "timeLabel": "Svar fra Christopher Røhl på Kristina Junge Jørgensens kommentar for 14 uger siden",
+      "text": "Kristina Junge Jørgensen uha, se det var nok sådan en gave jeg lige ville overveje en ekstra gang 😅\nMen on a serious note, så noterer jeg problemet 👍😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

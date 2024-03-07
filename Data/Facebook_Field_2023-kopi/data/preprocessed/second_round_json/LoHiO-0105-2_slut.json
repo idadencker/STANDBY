@@ -1,0 +1,80 @@
+{
+  "authorName": "Lone HindøLone HindøLone Hindø",
+  "authorId": "LoneHindoe",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=706723631456387&amp;set=a.245532607575494&amp;__cft__[0]=AZWvZ7EctvhClz3kv1litwDZcFynfFNCsnapBkWNRPx7kxftzW0CfC9xIi8dkmvCXUo4g23OLhGt1cQn7ZP9HWQSUWUw8cxqvFZ3f-JLdV04sv5iIdOQWwwjk2ZwziTloxb0CCElyfvCzK0k10-HDKqjualu_zrnaYl-AoNfPyeCzg&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "46"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lone Hindø",
+      "authorId": "LoneHindoe",
+      "timeLabel": "Kommentar fra Lone Hindø for 14 uger siden",
+      "text": "1. maj. Fællesskab.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Berit Rousing i Aarhus byråd",
+      "authorId": "StemBeritRousing.KV25",
+      "timeLabel": "Kommentar fra Berit Rousing i Aarhus byråd for 14 uger siden",
+      "text": "Tak for I dag 🚩🌹",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Inge Fogsgaard Degn",
+      "authorId": "ingefogsgaard.degn",
+      "timeLabel": "Kommentar fra Inge Fogsgaard Degn for 14 uger siden",
+      "text": "Dejligt trekløver!❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Charlotte Pernille Vestergaard-Nielsen",
+      "authorId": "Motormus",
+      "timeLabel": "Kommentar fra Charlotte Pernille Vestergaard-Nielsen for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

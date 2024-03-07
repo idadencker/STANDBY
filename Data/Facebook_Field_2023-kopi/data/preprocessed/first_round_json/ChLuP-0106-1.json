@@ -1,0 +1,69 @@
+{
+  "authorName": "Charlotte Lund",
+  "authorId": "charlottelund82kjyj",
+  "text": "Når ❤️ trumfer had\nOnkel Reje (og ham der er inde i Onkel Reje) har noget, han gerne vil sige ❤️🦐\n#onkelreje #cirkussummarum #drtv #drramasjang",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/drminisjangramasjang/videos/967725354523410/?__cft__[0]=AZXdpm-dGr4BTg-3NPxjxnmVA4AC9xMxLFKyWqpydu0SxZNdC31uo7WpcrzgIrYoR-ryYERcGXVQcaUpHGjKSmY836JT4ZTSMICVl8cnyjC1zfasvuvx6eDMQT_KGxXNtzWMhT_Sjd3dE8vu22gzVy4Tfw_0GwrEvJy0CHBf9hOWgIfKKp1b4lpzGfe4sleboPk&amp;__tn__=%2B%3FFH-y-R",
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "29"
+    },
+    {
+      "type": "heart",
+      "count": "27"
+    }
+  ],
+  "comments": [
+    {
+      "id": "799090114790127",
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "632065795498114",
+      "parentId": null,
+      "authorName": "Ulf Baldrian Kudsk Harbo",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Ulf Baldrian Kudsk Harbo for 5 dage siden",
+      "text": "Jeg hader bestemt ikke hverken Onkel Reje eller Mads og jeg har altid synes han var sjov, men jeg synes også noget af den underholdning han har lavet har været for voksenseksualiseret og ikke egner sig til børneunderholdning. Hvor er mellemvejen og nuancerne?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "266947542685171",
+      "parentId": "632065795498114",
+      "authorName": "Charlotte Lund",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Svar fra Charlotte Lund på Ulf Baldrian Kudsk Harbos kommentar for 4 dage siden",
+      "text": "Ulf Baldrian Kudsk Harbo Jeg synes at debatten har været spækket med nuancer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 11,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

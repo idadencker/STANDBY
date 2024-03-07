@@ -1,0 +1,50 @@
+{
+  "authorName": "Thomas Medom",
+  "authorId": "stemmedom",
+  "text": "I dag er der Aarhus Pride. Folkene bag ønsker at være med til at skabe et mere mangfoldigt samfund i Aarhus og gøre opmærksom på alle de organisationer, der arbejder for rettigheder for mennesker og grupper der er marginaliserede.\nRigtig god Pride.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=747514397376962&set=a.201557508639323&__cft__[0]=AZWWABzCgZerLeP-1soQpgLrIQoh7koxZtzQ3hdjamxba5OaN_Uf7hsl2ko4s_VIiV51m6gbO7GmhDikwQZouzVPT3uU4AR-8KklxzbsQwEVK7pK8SrQzm8C2clQcSAkdT4w5COtujjpIelssJSAevD7&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person og skæg",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "54"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1349463335666907",
+      "parentId": null,
+      "authorName": "Sofie Lippert",
+      "authorId": "sofielippertSF",
+      "timeLabel": "Kommentar fra Sofie Lippert for 5 uger siden",
+      "text": "God Pride!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "647627780257517",
+      "parentId": null,
+      "authorName": "Emil Olsen",
+      "authorId": "olsen.e",
+      "timeLabel": "Kommentar fra Emil Olsen for 5 uger siden",
+      "text": "God Pride!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

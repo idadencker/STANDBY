@@ -1,0 +1,154 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Så mødte jeg lige Nikolaj Kirk øjeblikket efter ankomst til Folkemødet. Vi tror begge på, at folk vil vælge Amager Fælled som naturområde den 18/11 2025!",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171145880077037&amp;set=a.10150534890722037&amp;__cft__[0]=AZVRjVzxaxjyxlerV1WyTVgDuguL5x1nVjtdOhH-R0MrJmL6rzFWkCUMKAyzKVxNI9vjIjswF_T6qaNoUmXhBM3xnY4JhRz4zBR69QXrcEwun07lKg0P_UQtLppkCy54g8I&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "65"
+    },
+    {
+      "type": "heart",
+      "count": "14"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2354996491336926",
+      "parentId": null,
+      "authorName": "Grete Sonne",
+      "authorId": "grete.sonne.1",
+      "timeLabel": "Kommentar fra Grete Sonne for 4 dage siden",
+      "text": "💚🦉💚🦉💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "281056090966204",
+      "parentId": null,
+      "authorName": "Nikolaj Noel Christensen",
+      "authorId": "nikolajnoel",
+      "timeLabel": "Kommentar fra Nikolaj Noel Christensen for 4 dage siden",
+      "text": "🙏🦉🌳💚Håber i får et fantastisk folkemøde på klippeøen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "692594409340046",
+      "parentId": null,
+      "authorName": "Carsten Brodersen",
+      "authorId": "carsten.brodersen.1",
+      "timeLabel": "Kommentar fra Carsten Brodersen for 4 dage siden",
+      "text": "Rigtig god fornøjelse.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "284252760733055",
+      "parentId": null,
+      "authorName": "Jette Blok Worm",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jette Blok Worm for 4 dage siden",
+      "text": "Sikker på I taler naturens stemme 💚👍💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "568492772152823",
+      "parentId": null,
+      "authorName": "Annette Dres",
+      "authorId": "annette.dres",
+      "timeLabel": "Kommentar fra Annette Dres for 4 dage siden",
+      "text": "Hvor godtfolk er, kommer godtfolk til.\nHyggeligt lige at stævne sammen i Allinge Havn 😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1338431007095572",
+      "parentId": null,
+      "authorName": "Anni B. Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Anni B. Nielsen for 3 dage siden",
+      "text": "Godt at se dig i trøjen 💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "676615704276677",
+      "parentId": null,
+      "authorName": "Helge Stautz",
+      "authorId": "helge.stautz",
+      "timeLabel": "Kommentar fra Helge Stautz for 3 dage siden",
+      "text": "Hej Gorm, nyd sommeren! 🙂\nHør lige om Nikolaj og AmarCaminoen har interesse i et udflugtsmål og traktørsted på en af de gamle skanser på SydAmager.\nSol over Gudhjem og røgede sild! Helge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "935644004334140",
+      "parentId": null,
+      "authorName": "Klaus De León Heinecke",
+      "authorId": "klausheinecke",
+      "timeLabel": "Kommentar fra Klaus De León Heinecke for en dag siden",
+      "text": "Stærkt hold - Kommunalvalg 2025 bliver i naturens navn. Radikale Venstre og SF kan stadig nå at redde naturen. De sidder med de afgørende stemmer til at stoppe byggeriet midt i københavns kommunes mest artsrige naturområde. De to 'grønne' partier er nu tungen på vægtskålen for om fælledbyggeriet skal lægges permanent i graven Så vi ikke mister flere arter i København. #BevarAmagerFælled",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

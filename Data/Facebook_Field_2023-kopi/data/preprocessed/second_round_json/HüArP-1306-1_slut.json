@@ -1,0 +1,148 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "İş ve sanat sahibi olma konulu konfetanstayım",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160509743610890&set=a.10150124840715890&__cft__[0]=AZXnQBbpL7cMyEhEG147ojGsst9y9X22SN8r3gwepInWwvgLnELJBTlNAL8ykug_O8sLcCIcLFHsc_sJZOzPva_9WYzevByQ_q1w9lR0_b0oP6UUoJiIcEQdrJ1U4Rejcqc&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "91"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Ekrem Buldak",
+      "authorId": "ekrem.buldak",
+      "timeLabel": "Kommentar fra Ekrem Buldak for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ahmet Göze",
+      "authorId": "ahmet.goze.52",
+      "timeLabel": "Kommentar fra Ahmet Göze for 10 uger siden",
+      "text": "meget flott",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Hüseyin AracAhmet Göze",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Ahmet Gözes kommentar for 10 uger siden",
+      "text": "Ahmet Göze tak så mygget",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Halil Ipek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Halil Ipek for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Susan Arac",
+      "authorId": "susan.arac",
+      "timeLabel": "Kommentar fra Susan Arac for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Susan Arac",
+      "authorId": "susan.arac",
+      "timeLabel": "Kommentar fra Susan Arac for 10 uger siden",
+      "text": "Abi senin kadar bir çalışkan bir kendimi bilirim",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Hüseyin AracSusan Arac",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Susan Aracs kommentar for 10 uger siden",
+      "text": "Susan Arac kimin kızı olduğun belli",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Sefade Tilki",
+      "authorId": "sefade.tilki",
+      "timeLabel": "Kommentar fra Sefade Tilki for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ahmet Imaç",
+      "authorId": "ahmet.imac.1",
+      "timeLabel": "Kommentar fra Ahmet Imaç for 10 uger siden",
+      "text": "Kolay ğelsin kaptan,Önemli bir konu topluma faydalı ve imkan sağlar,",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

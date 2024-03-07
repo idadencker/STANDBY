@@ -1,0 +1,84 @@
+{
+  "authorName": "Aase Pedersen",
+  "authorId": "profile.php",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "14"
+    },
+    {
+      "type": "wow",
+      "count": "4"
+    },
+    {
+      "type": "sad",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Marie Louise Hald Weber-Esmann",
+      "authorId": "weberesmann",
+      "timeLabel": "Kommentar fra Marie Louise Hald Weber-Esmann for 14 uger siden",
+      "text": "Kære Aase\nHusk at skifte password på Facebook og alle andre steder du har brugt det samme, siger Rasmus",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Anne Bille",
+      "authorId": "anne.bille.1",
+      "timeLabel": "Kommentar fra Anne Bille for 14 uger siden",
+      "text": "Også du, øv",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gerner Petersen",
+      "authorId": "nicklascp",
+      "timeLabel": "Kommentar fra Gerner Petersen for 14 uger siden",
+      "text": "Du er ikke hacket, der er bare en idiot der har kopieret dit profilbillede og har brugt det på en kopi profil og sikkert blokeret din profil, så du skal have venner til at anmelde kopi til Facebook.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Eva Hamrum",
+      "authorId": "eva.hamrum",
+      "timeLabel": "Kommentar fra Eva Hamrum for 14 uger siden",
+      "text": "Jeg var godt klar over det, da jeg modtog en venneanmodning fra dig, så den blev straks slettet.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

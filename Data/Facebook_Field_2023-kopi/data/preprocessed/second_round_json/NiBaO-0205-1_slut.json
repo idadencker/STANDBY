@@ -1,0 +1,52 @@
+{
+  "authorName": "Nicolaj Bang",
+  "authorId": "Bang.Nicolaj",
+  "text": "Byudvikling med respekt for de historiske omgivelser\nVi har solgt det gamle amtssygehus, og dygtige entreprenører skal nu modernisere bygningen, så der bliver boliger til unge, børnefamilier og ældre.\nDer har været mange aarhusianske patienter indlagt på Amtssygehuset igennem årene, og derfor har stedet også stor affektionsværdi for borgerne og byen. Det er vigtigt, at vi byudvikler med respekt for byens historie. Derfor bliver det entreprenørernes opgave at omdanne bygningerne til gode boliger, samtidig med at bygningen bevares",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=698426768950119&set=a.246295720829895&__cft__[0]=AZXKLHw_uwsrbo34c5yQmR_8q_aCVTUkCOqqykBCoX1IJ797tnAv_pxxu8cdB2m7KgOYVN0AfspSvIaxu2v5JhlR36Rcy9Vv9BtyVHTqE-85KYEKeqoKrl56bBunMAAe4wk9iJauN7Jm4E2dr_Y4KwIW&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "48"
+    },
+    {
+      "type": "heart",
+      "count": "5"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Nicolaj Aarøe",
+      "authorId": "nicolaj.aaroe.7",
+      "timeLabel": "Kommentar fra Nicolaj Aarøe for 15 uger siden",
+      "text": "Det er virkelig flot. Fedt!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lene Schødt",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lene Schødt for 15 uger siden",
+      "text": "TAK Nicolaj det blir spændende at følge....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

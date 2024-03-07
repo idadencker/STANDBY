@@ -1,0 +1,69 @@
+{
+  "authorName": "Hassan Nur Wardere, Enhedslisten",
+  "authorId": "hassanharbrugfordinstemme",
+  "text": "Jeg er glad for at være på arbejde, selvom om det er pinsedag i dag fordi det giver mening mit arbejde og heldigvis er jeg rask. Men jeg synes, at vi er gået for langt i forhold til borgernes arbejdsevne skal afklares, selv om de ikke har arbejdsevne tilbage.\nVi skal have tilliden tilbage.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "11"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "816510253143902",
+      "parentId": null,
+      "authorName": "Vita Thomsen",
+      "authorId": "vita.thomsen.7",
+      "timeLabel": "Kommentar fra Vita Thomsen for 5 uger siden",
+      "text": "Det forudsætter jo nok, at menneskene står sammen om, at gøre det gode. 🤔",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1852949075076758",
+      "parentId": "816510253143902",
+      "authorName": "Vita Thomsen",
+      "authorId": "vita.thomsen.7",
+      "timeLabel": "Svar fra Vita Thomsen på Vita Thomsens kommentar for 5 uger siden",
+      "text": "PS. For hinanden ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "272987498510295",
+      "parentId": null,
+      "authorName": "Birte Lundgreen",
+      "authorId": "birte.lundgreen.798",
+      "timeLabel": "Kommentar fra Birte Lundgreen for 5 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

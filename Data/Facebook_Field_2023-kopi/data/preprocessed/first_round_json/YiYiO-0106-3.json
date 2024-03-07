@@ -1,0 +1,41 @@
+{
+  "authorName": "Yilmaz YildizYilmaz YildizYilmaz Yildiz",
+  "authorId": "Yilmaz.Yildiz.SF.Kandidat.BR",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=631147035699126&set=a.209143234566177&__cft__[0]=AZVpuknebmKTnhvRAc2fkp_zioD0bzz9CC9M23MXV5xmII9yVepyWX5NlYvD8cJwJ29Kb9bdoRFl9odIehRPAkQ6NHWaAEzSwxaJbloSSaJgPB3qTQDWe1VkLOB30KGzsAO4WTxKNeBjfjBUoVjlGBaJv0CJn3OIAo9bkElnbY4sTQ&__tn__=~H-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "32"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1399413950845644",
+      "parentId": null,
+      "authorName": "Zeynal Yu",
+      "authorId": "zeynal.yu",
+      "timeLabel": "Kommentar fra Zeynal Yu for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    }
+  ]
+}

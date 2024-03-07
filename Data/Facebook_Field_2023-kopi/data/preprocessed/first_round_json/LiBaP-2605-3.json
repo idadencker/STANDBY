@@ -1,0 +1,101 @@
+{
+  "authorName": "Line Barfod",
+  "authorId": "line.barfod",
+  "text": "DRØMME KAN BLIVE TIL VIRKELIGHED\nI dag har jeg været med til at indvie det store skybruds- og byrumsprojekt Karens Minde Aksen sammen med en masse sydhavnere og samarbejdspartnere.\nBorgerne i Sydhavnen har i flere år arbejdet med deres drømme om et fantastisk byrum ved kulturhuset Karens Minde. Sammen med områdefornyelsen fra Københavns Kommune, HOFORs skybrudssikring og flere andre gode folk er drømmene nu blevet til virkelighed.\nProjektet er et foregangseksempel på, hvordan vi på baggrund af yderst grundig borgerinddragelse skaber skønne byrum, mens vi samtidig håndterer de massive mængder af regn, som vi vil opleve hyppigere i fremtiden.\nKarens Minde Aksen er noget ganske særligt. Der er fokus på børnefamilier, hundeejere og øldrikkere, enlige, unge og ældre og alt derimellem. Det gavner vores plante- og dyreliv, og det er et oplagt sted at mødes og bruge tid.\nJeg kan kun anbefale, at du lægger vejen forbi.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6635355299816770&set=a.127382063947492&__cft__[0]=AZUbk8P_Y5alTId-XH8icrnRc2dDRNYEn7mSfxYIpaiVDrRirphTzV3G82diFMqw17i9rdxycLp06GL9UnZCQuYrD95HD2Y-BwRT6LOWLiVW3AJMvnYCqOPFR8W4wnCF3qc&__tn__=EH-R",
+  "mediaText": "Kan være et billede af menneskemængde",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "120"
+    },
+    {
+      "type": "heart",
+      "count": "10"
+    }
+  ],
+  "comments": [
+    {
+      "id": "642675987768384",
+      "parentId": null,
+      "authorName": "Pernille Falcon",
+      "authorId": "pernille.falcon",
+      "timeLabel": "Kommentar fra Pernille Falcon for 4 dage siden",
+      "text": "Fantastisk smukt og godt lavet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "632662472094591",
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 4 dage siden",
+      "text": "Det samne kan jeg.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "589820493267875",
+      "parentId": null,
+      "authorName": "Kim Hjerrild",
+      "authorId": "kimhjerrild",
+      "timeLabel": "Kommentar fra Kim Hjerrild for 3 dage siden",
+      "text": "Vigtigt at fejre sejrene! Tænk hvor meget mere værdifuld den slags byudvikling er, sammenlignet med det meste af det, som foregår i By & Havn-land.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 7,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2089417371262428",
+      "parentId": "589820493267875",
+      "authorName": "Anders Krarup",
+      "authorId": "andkrup",
+      "timeLabel": "Svar fra Anders Krarup på Kim Hjerrilds kommentar for 2 dage siden",
+      "text": "Det er aldrig for sent at ændre mening og bygge en rigtig skybrudssikrende kæmpe ø i Kalveboderne!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "799827078052154",
+      "parentId": null,
+      "authorName": "Mille Maria Dalsgaard",
+      "authorId": "mille.dalsgaard",
+      "timeLabel": "Kommentar fra Mille Maria Dalsgaard for 4 timer siden",
+      "text": "Det er blevet så helt utroligt vellykket!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

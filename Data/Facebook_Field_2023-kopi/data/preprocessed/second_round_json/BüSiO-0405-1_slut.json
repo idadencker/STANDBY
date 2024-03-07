@@ -1,0 +1,50 @@
+{
+  "authorName": "Bünyamin Simsek",
+  "authorId": "MTMRaadmandSimsek",
+  "text": "🇩🇰❤️🧿",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=547641314219890&amp;set=a.144865577830801&amp;__cft__[0]=AZXCw3jqiZTm-qSZ6NkfOqvdyhsMNEnWSF4Ffdkoo6zXHc2PRtFZVLcmq34KmQcDvUbIXREP0hSXPqjE4TvFiUxino6jSGJGD0U_EgK-XmsGLMPXyNQajtvQlNWSaXbN1mzqqSObLQUJjNmoGho0utIH&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "171"
+    },
+    {
+      "type": "heart",
+      "count": "10"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Sati Akkaya",
+      "authorId": "sati.akkaya.79",
+      "timeLabel": "Kommentar fra Sati Akkaya for 13 uger siden",
+      "text": "Danmarks befrielse under 2 verdenskrig..🙏🕯️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Henrik Olsen",
+      "authorId": "henrik.olsen.71271",
+      "timeLabel": "Kommentar fra Henrik Olsen for 13 uger siden",
+      "text": "Nemlig 🥰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

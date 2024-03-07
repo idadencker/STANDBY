@@ -1,0 +1,38 @@
+{
+  "authorName": "Yildiz Akdogan",
+  "authorId": "YildizAkdogan",
+  "text": "Tillykke med de 4 år Mette",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "3"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    },
+    {
+      "type": "angry",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lars Kjølhede Christensen",
+      "authorId": "larskc",
+      "timeLabel": "Kommentar fra Lars Kjølhede Christensen for 7 uger siden",
+      "text": "Jeg ville nu hellere ha' haft en socialdemokrat.....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

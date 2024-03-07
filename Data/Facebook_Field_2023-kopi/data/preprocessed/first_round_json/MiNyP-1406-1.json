@@ -1,0 +1,284 @@
+{
+  "authorName": "Mia Nyegaard",
+  "authorId": "mia.nyegaard",
+  "text": "Ankommet til årets folkemøde, forbereder debatter og ser at jeg også skal spille håndbold i morgen, jeg har ikke rørt en håndbold i snart 30 år,, pt ikke helt sikker på om det var klogt, at sige ja til det. Nå satser på at de mange barndomstimer brugt i jyske haller ikke var helt spildt. Men vi får se.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10159557734288224&set=a.10150597959558224&__cft__[0]=AZX7YQB3QLDWON4Hlh2dW4_jQcwIC6wAx14505a54C7PoHLq93nf33Ra0h538tPld9uCcvW16s4m9eWIlh4tKOisp0ZynLLEi1pNAH_lhTTfdLXKxyL39Fi-Yqt8pYWXk_Y&__tn__=EH-R",
+  "mediaText": "Kan være et billede af silo og Cotswolds",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "94"
+    },
+    {
+      "type": "haha",
+      "count": "7"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1386605225308834",
+      "parentId": null,
+      "authorName": "Peter Bugge",
+      "authorId": "peter.bugge.7",
+      "timeLabel": "Kommentar fra Peter Bugge for 6 dage siden",
+      "text": "Det lugter af forvredne ankler og fibersprængninger...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "227702936724974",
+      "parentId": "1386605225308834",
+      "authorName": "Mia NyegaardPeter Bugge",
+      "authorId": "mia.nyegaard",
+      "timeLabel": "Svar fra Mia Nyegaard på Peter Bugges kommentar for 6 dage siden",
+      "text": "Peter Bugge Hope not, men ja lidt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "963715798302797",
+      "parentId": "1386605225308834",
+      "authorName": "Mia NyegaardPeter Bugge",
+      "authorId": "mia.nyegaard",
+      "timeLabel": "Svar fra Mia Nyegaard på Peter Bugges kommentar for 5 dage siden",
+      "text": "Peter Bugge ingen fiber eller vred, men blåmærker, hudafskrabninger og ømme led",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1778821722538495",
+      "parentId": null,
+      "authorName": "Heidi Winkler",
+      "authorId": "HeidiWinklerChristensen",
+      "timeLabel": "Kommentar fra Heidi Winkler for 6 dage siden",
+      "text": "Mia, det klarer du - ligesom i gamle dage i hal 1",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "675746444381453",
+      "parentId": "1778821722538495",
+      "authorName": "Mia NyegaardHeidi Winkler",
+      "authorId": "mia.nyegaard",
+      "timeLabel": "Svar fra Mia Nyegaard på Heidi Winklers kommentar for 5 dage siden",
+      "text": "Heidi Winkler jeg var vist hverken god i går eller i gamle dage men kampånden fejlede intet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1454811945369585",
+      "parentId": "1778821722538495",
+      "authorName": "Heidi WinklerMia Nyegaard",
+      "authorId": "HeidiWinklerChristensen",
+      "timeLabel": "Svar fra Heidi Winkler på Mia Nyegaards kommentar for 4 dage siden",
+      "text": "Mia Nyegaard fighterviljen har jo aldrig fejlet noget",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "692589365961809",
+      "parentId": null,
+      "authorName": "Kirstine Chege",
+      "authorId": "kirstinechege",
+      "timeLabel": "Kommentar fra Kirstine Chege for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "4186011911624640",
+      "parentId": null,
+      "authorName": "Dorthe Petersen",
+      "authorId": "dorthe.petersen.14",
+      "timeLabel": "Kommentar fra Dorthe Petersen for 6 dage siden",
+      "text": "Du bliver god ses i Allinge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "167541472809572",
+      "parentId": null,
+      "authorName": "Jan Ellebye",
+      "authorId": "jan.ellebye",
+      "timeLabel": "Kommentar fra Jan Ellebye for 6 dage siden",
+      "text": "Håber vi ses derovre",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2155233494835131",
+      "parentId": null,
+      "authorName": "Michael Humle",
+      "authorId": "michael.humle.3",
+      "timeLabel": "Kommentar fra Michael Humle for 6 dage siden",
+      "text": "Du har hermed fået en invitation til en hjemmekamp hos København håndbold med mulighed for at blive mandagstræner ligesom os andre. Håber du har lyst.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "5731390190296536",
+      "parentId": "2155233494835131",
+      "authorName": "Mia NyegaardMichael Humle",
+      "authorId": "mia.nyegaard",
+      "timeLabel": "Svar fra Mia Nyegaard på Michael Humles kommentar for 5 dage siden",
+      "text": "Michael Humle ja da",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "901374447625315",
+      "parentId": null,
+      "authorName": "Jakob Ramlau",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Kommentar fra Jakob Ramlau for 5 dage siden",
+      "text": ",,... De radikale bliver vel sendt ud på fløjene???",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "963704418299623",
+      "parentId": null,
+      "authorName": "Christian Herskind",
+      "authorId": "christian.herskind",
+      "timeLabel": "Kommentar fra Christian Herskind for 5 dage siden",
+      "text": "Som fredericianer er du født til at kunne spille håndbold,- så en lille pause på 30 år betyder intet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2002725513397454",
+      "parentId": "963704418299623",
+      "authorName": "Mia NyegaardChristian Herskind",
+      "authorId": "mia.nyegaard",
+      "timeLabel": "Svar fra Mia Nyegaard på Christian Herskinds kommentar for 5 dage siden",
+      "text": "Christian Herskind mere rigtigt end man skulle tro",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3573197462926560",
+      "parentId": null,
+      "authorName": "Kristina W. Thomsen",
+      "authorId": "kristina.thomsen.5",
+      "timeLabel": "Kommentar fra Kristina W. Thomsen for 5 dage siden",
+      "text": "Omg.. hvor ser jer det henne og hvornår?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "805128448291799",
+      "parentId": "3573197462926560",
+      "authorName": "Mia NyegaardKristina W. Thomsen",
+      "authorId": "mia.nyegaard",
+      "timeLabel": "Svar fra Mia Nyegaard på Kristina W. Thomsens kommentar for 5 dage siden",
+      "text": "Kristina W. Thomsen det var i går, men hvis vi ses kan jeg fremvise x antal blåmærker",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

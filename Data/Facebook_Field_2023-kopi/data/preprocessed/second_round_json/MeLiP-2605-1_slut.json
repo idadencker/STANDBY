@@ -1,0 +1,80 @@
+{
+  "authorName": "Metin Lindved Aydin",
+  "authorId": "metin.lindved.aydin",
+  "text": "Tummel og bummel for voksne hver fredag 15:00-16:00 - lige til at gå på weekend på.\nCardio, styrke- og mentaltræning med inspiration og øvelser lånt fra kampsport, yoga og fitnesscenteret.\nFrisk?",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231012342590760&set=a.4403662568462&__cft__[0]=AZUMdQ9n6mrOUQNYQRkV43Gi4Vv8Y72wcoodwuy0mc4vubRb5qnnO8GvWERkeQV6oR0yANk-VpWhCurwINyGoN4UBk4-QUbsDrMplkxgOiGhcDWmS0J66fQYmdp73h22LvY&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer, personer, der dyrker kampsport og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "37"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1877463942638710",
+      "parentId": null,
+      "authorName": "Per Falk Bredgaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Falk Bredgaard for 8 uger siden",
+      "text": "Du er jo altid frisk\nJeg er vist for gammel til det, men dejligt at I nyder hinandens selskab",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "574092344843879",
+      "parentId": null,
+      "authorName": "Maria Og Muharrem Aydin",
+      "authorId": "mariaog.muharrem.3",
+      "timeLabel": "Kommentar fra Maria Og Muharrem Aydin for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "782749223324809",
+      "parentId": null,
+      "authorName": "Orhan Kaplan",
+      "authorId": "orhan.kaplan.7169",
+      "timeLabel": "Kommentar fra Orhan Kaplan for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "948010123192012",
+      "parentId": null,
+      "authorName": "Mads Jensen",
+      "authorId": "mads.jensen.3323457",
+      "timeLabel": "Kommentar fra Mads Jensen for 8 uger siden",
+      "text": "wtf - Dollaren?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

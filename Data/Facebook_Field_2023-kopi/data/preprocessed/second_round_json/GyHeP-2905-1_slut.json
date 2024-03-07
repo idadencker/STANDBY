@@ -1,0 +1,50 @@
+{
+  "authorName": "Gyda Heding",
+  "authorId": "gyda.heding",
+  "text": "Sidste dag på Enhedslisten Årsmødet hvor vi diskuteret borgerløn. Meninger mødes og brydes ❤️\nGræsrodsprisen gik til STOP Lynetteholm! Stor respekt for at blive ved med at kæmpe imod den katastrofe af en Ø.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160364349855169&amp;set=pcb.10160364357055169&amp;__cft__[0]=AZWJMTS4K1CbLYj_USLA-LZ95QcdXG8UbtMkmz4CyG45kQ8Fip72r0Uj8mPLmMO211lvXzFaRexTyCGpIQ2xrCI9GTajKXc4r3PRQv0TmyvBXJwaneQO4PDHa2TxHDZPWWI&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "49"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lars Schou",
+      "authorId": "lars.schou.18",
+      "timeLabel": "Kommentar fra Lars Schou for 11 uger siden",
+      "text": "Tak for orienteringen Gyda",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Per Henriksen",
+      "authorId": "per.henriksen.3950",
+      "timeLabel": "Kommentar fra Per Henriksen for 11 uger siden",
+      "text": "https://www.klimabevaegelsen.dk/nyheder/lynetteholm...",
+      "hasMedia": true,
+      "mediaAltText": "Derfor skal Lynetteholm stoppes! — Klimabevægelsen i Danmark",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "authorName": "Metin Lindved AydinMetin Lindved AydinMetin Lindved Aydin",
+  "authorId": "metin.lindved.aydin",
+  "text": "Så kan de lære det!",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=4037184966751&amp;set=a.1770978192998&amp;__cft__[0]=AZWdtd-h0AeeUPSzcQFDAWCzzNvcBXP9jtRqfDd93pgu8i57wlBjkGNwUe5pRGTNMSiV8SRE1Yk27cuaU_lDA_2pR0ZfSpLUbJXpoT4aOiD7PIbeMNs7eCzhZDkXIW0T0Npbff00IH7tZg9Uc2gFsb68&amp;__tn__=EHH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "30"
+    },
+    {
+      "type": "wow",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "9005779029492428",
+      "parentId": null,
+      "authorName": "Maria Og Muharrem Aydin",
+      "authorId": "mariaog.muharrem.3",
+      "timeLabel": "Kommentar fra Maria Og Muharrem Aydin for 4 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2225062337882434",
+      "parentId": null,
+      "authorName": "Benny Bjørnsholm",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Benny Bjørnsholm for 4 dage siden",
+      "text": "Kan du ikke afprøve samme teknik på (JB) (S) 🤷🏼‍♂️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "193001946542926",
+      "parentId": "2225062337882434",
+      "authorName": "Metin Lindved AydinBenny Bjørnsholm",
+      "authorId": "metin.lindved.aydin",
+      "timeLabel": "Svar fra Metin Lindved Aydin på Benny Bjørnsholms kommentar for 4 dage siden",
+      "text": "Vi slår ikke på hinanden i byrådet Benny Bjørnsholm!\n(Havde det bare været så enkelt 🙂)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "6457291014289487",
+      "parentId": null,
+      "authorName": "Steffen Sinning",
+      "authorId": "steffen.sinning",
+      "timeLabel": "Kommentar fra Steffen Sinning for 4 dage siden",
+      "text": "Sætter byggematerialer sammen om dagen, smadrer byggematerialer i fritiden.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "143770488679466",
+      "parentId": null,
+      "authorName": "Jan Olesen",
+      "authorId": "janxolesen",
+      "timeLabel": "Kommentar fra Jan Olesen for 3 dage siden",
+      "text": "Slemme, slemme murstene.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

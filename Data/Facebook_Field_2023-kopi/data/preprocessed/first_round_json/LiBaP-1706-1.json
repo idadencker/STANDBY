@@ -1,0 +1,86 @@
+{
+  "authorName": "Line Barfod",
+  "authorId": "line.barfod",
+  "text": "Jeg har mange gange oplevet, hvor meget bedre en udsat borger får det, når de kommer med i et arbejdsfællesskab, får kolleger og er med til at lave noget, som andre værdsætter.\nJeg har arbejdet meget med socialøkonomiske virksomheder, da jeg var advokat. Jeg var også med til at skrive loven om registrerede socialøkonomiske virksomheder.\nPå folkemødet idag deltog jeg i en god debat om, hvad vi kan gøre i kommunerne for at få flere socialøkonomiske virksomheder.\nJeg mener, at Københavns Kommune skal være langt bedre til at forstå de socialøkonomiske virksomheders behov. Og så skal kommunen i langt højere grad købe ind hos dem.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6715952075090425&set=a.127382063947492&__cft__[0]=AZWgI8TZ8E4-pRZLzgjKtsdr-Ai-UfUyxiawfTn1EIzjYQXqhkn3iNzafci5ceRcpdrk6vBK3nws8PVj1qt-BCdUr6qkGR_-cclPIOyWf7wRbV1JI4nmLyb9rHMWGUCw3us&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 4 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "122"
+    },
+    {
+      "type": "heart",
+      "count": "10"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1703411780094520",
+      "parentId": null,
+      "authorName": "Arne Skov",
+      "authorId": "arne.skov2",
+      "timeLabel": "Kommentar fra Arne Skov for 3 dage siden",
+      "text": "Behøver det være en virksomhed? Vi tilbyder masser af arbejdsfællesskab i https://repaircafedanmark.dk/",
+      "hasMedia": true,
+      "mediaAltText": "Repair Cafe DK – Repair Cafe Danmark",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1187822331914818",
+      "parentId": null,
+      "authorName": "Anne Kristine Grosbøll",
+      "authorId": "akgrosboell",
+      "timeLabel": "Kommentar fra Anne Kristine Grosbøll for 3 dage siden",
+      "text": "Godsspeed med det, Line",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "621348329957583",
+      "parentId": null,
+      "authorName": "Peter Haugelund",
+      "authorId": "peter.haugelund",
+      "timeLabel": "Kommentar fra Peter Haugelund for 3 dage siden",
+      "text": "Ugens tilbud. 150.000 måltider til misbrugsområdet = 2 millioner dkk. Du ringer bare.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "714263937177689",
+      "parentId": null,
+      "authorName": "Lone Bording Jensen",
+      "authorId": "lonebording.jensen",
+      "timeLabel": "Kommentar fra Lone Bording Jensen for 3 dage siden",
+      "text": "Profit frit",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

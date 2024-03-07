@@ -1,0 +1,101 @@
+{
+  "authorName": "Metin Lindved Aydin - Radikale VenstreMetin Lindved Aydin - Radikale Venstre",
+  "authorId": "Metin.Lindved.Aydin.DK",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "25"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2384041875098942",
+      "parentId": null,
+      "authorName": "Metin Lindved Aydin - Radikale Venstre",
+      "authorId": "Metin.Lindved.Aydin.DK",
+      "timeLabel": "Kommentar fra Metin Lindved Aydin - Radikale Venstre for 2 dage siden",
+      "text": "NÅR DU OPLEVER FJENDTLIGE KOMMENTARER: SIG FRA, ANMELD, STØT OP!\nVi ønsker alle platforme, hvor vi kan diskutere åbent. Men fjendtlige kommentarer på sociale medier forekommer ofte, rammer alle og kommer i mange former. At opleve fjendtlighed giver f… Se mere\nSe mere",
+      "hasMedia": true,
+      "mediaAltText": "Sig fra, Anmeld, Støt op",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1668357816925533",
+      "parentId": null,
+      "authorName": "Claus Vildrik",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Claus Vildrik for en dag siden",
+      "text": "Aarhus kommune burde implementere reel og ikke symbolsk borgerindragelse.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "255604480343012",
+      "parentId": "1668357816925533",
+      "authorName": "Metin Lindved Aydin - Radikale VenstreClaus Vildrik",
+      "authorId": "Metin.Lindved.Aydin.DK",
+      "timeLabel": "Svar fra Metin Lindved Aydin - Radikale Venstre på Claus Vildriks kommentar for en dag siden",
+      "text": "Enig, og det tror jeg også gerne kommunen vil Claus Vildrik - men det kræver mod og et nyt mindset at opnå.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3070888493216459",
+      "parentId": "255604480343012",
+      "authorName": "Claus VildrikMetin Lindved Aydin - Radikale Venstre",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Claus Vildrik på Metin Lindved Aydin - Radikale Venstres svarfor en dag siden",
+      "text": "Metin Lindved Aydin - Radikale Venstre Det kunne blive et emne til KV25 - hvilke partier vil sikre reel borgerindragelse.?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "275942851458050",
+      "parentId": null,
+      "authorName": "Kåre Thorkild Sørensen",
+      "authorId": "kaare.soerensen",
+      "timeLabel": "Kommentar fra Kåre Thorkild Sørensen for en dag siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

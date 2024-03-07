@@ -1,0 +1,132 @@
+{
+  "authorName": "Peter Sporleder",
+  "authorId": "petersporleder",
+  "text": "Danmark frit🇩🇰🇩🇰🇩🇰",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231129736371950&amp;set=pcb.10231129738412001&amp;__cft__[0]=AZW_yAq7jee1BMlR8_HntifodPVORRrnrjreDNtwe7bQAMLh4-8ywlpq4HuiNN8CWcFDOuIgOIjAyBAtuaeP1wZYDMFb9Vp6CPv16uu4Jo7wPByhTK4Gy4wFEElp_qdpkFs&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "212"
+    },
+    {
+      "type": "heart",
+      "count": "27"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Brian Stoltenborg",
+      "authorId": "brian.stoltenborg",
+      "timeLabel": "Kommentar fra Brian Stoltenborg for 14 uger siden",
+      "text": "Du må med til Lysfest i Haderslev næste år😉🕯️🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Claus Richard Liljegren",
+      "authorId": "claus.liljegren",
+      "timeLabel": "Kommentar fra Claus Richard Liljegren for 14 uger siden",
+      "text": "Vi joiner dig🇩🇰🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Tina Vaaben",
+      "authorId": "tina.vaaben",
+      "timeLabel": "Kommentar fra Tina Vaaben for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Marlene Jessen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Marlene Jessen for 14 uger siden",
+      "text": "Vi må aldrig glemme....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Christoffer Skov",
+      "authorId": "christoffer.skov.10",
+      "timeLabel": "Kommentar fra Christoffer Skov for 14 uger siden",
+      "text": "Husk nu bare at ikke hele Danmark blev befriet denne dag.... Der var stadigvæk en ø i Østersøen der ikke blev befriet før 5. April 1946",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Flemming Amter",
+      "authorId": "famter",
+      "timeLabel": "Kommentar fra Flemming Amter for 14 uger siden",
+      "text": "Ja vi kan stadig forvente noget fra de russere!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Else Nørgaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Else Nørgaard for 14 uger siden",
+      "text": "Haft lys i vinduerne i 78 år - lyder helt vildt og tænder dem nu mere end nogensinde i taknemmelighed over vi til dags dato ikke har haft væbnede konflikter i vort dejlige land",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

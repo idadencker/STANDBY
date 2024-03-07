@@ -1,0 +1,44 @@
+{
+  "authorName": "Anders Winnerskjold",
+  "authorId": "winnerskjold",
+  "text": "God 1.maj 🔥",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=628192895991845&amp;set=a.215836077227531&amp;__cft__[0]=AZU3OEoasMadVLBsHzUC0J6VU-jBaUsq5Z7vE3v2waHfsyLwdqFxMrUXwh0HPHBP1AgXwwbX7J6tPHouKiPHfl6Xqo3tsRtu-HoVxsS4kVZGjo-3MCRHAzZJay03qHunLXHfDl_cd75xOiLMbI_rMCeW&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "121"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Mike Højrup",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Mike Højrup for 15 uger siden",
+      "text": "I lige måde Anders",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Betty Fuller Barr",
+      "authorId": "betty.fullerbarr",
+      "timeLabel": "Kommentar fra Betty Fuller Barr for 15 uger siden",
+      "text": "Hello, Anders☺️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

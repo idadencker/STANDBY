@@ -1,0 +1,52 @@
+{
+  "authorName": "Klaus Mygind",
+  "authorId": "klaus.mygind.1",
+  "text": "Natteravne til Distortion på Islands Brygge - Stor glæde - Tessa gav den gas og vi natteravne blev godt modtaget. Et par unge skulle have hjælp. Det fik de og der var paramedicinere til at tage over.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10162764882383626&amp;set=pcb.10162764882418626&amp;__cft__[0]=AZXcaUZNwtFLEixNhD-bC9qA9lt0N9H1BqlVC1AyYgPcm9PZFBZe0GqK4Bl3BX3346fjR9T-MZ1FfCbHWE0sbsoi9TZ-NjyT0N28MYZ9ApXCrEu9D8jJA78q4u8O_f3CB28&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "56"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1035216230777708",
+      "parentId": null,
+      "authorName": "Klaus Mygind",
+      "authorId": "klaus.mygind.1",
+      "timeLabel": "Kommentar fra Klaus Mygind for 5 dage siden",
+      "text": "Sådan så derud kl. 8 her til morgen. Fin oprydning.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 8,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1410417853129393",
+      "parentId": "1035216230777708",
+      "authorName": "Bo BechgaardKlaus Mygind",
+      "authorId": "bo.bechgaard",
+      "timeLabel": "Svar fra Bo Bechgaard på Klaus Myginds kommentar for 4 dage siden",
+      "text": "Klaus Mygind super oprydning, det har kbh kommune fået rigtig godt styr på 💪👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

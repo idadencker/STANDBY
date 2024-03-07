@@ -1,0 +1,54 @@
+{
+  "authorName": "Kashif Ahmad",
+  "authorId": "profile.php",
+  "text": "Demokratiets ansigter.\nAf personlige årsager har jeg ikke kunne deltage til Folkemøde på Bornholm i år. Men jeg er alligevel stolt af at være til at finde på Øen, i form af ét af demokratiets ansigter😎\nFolkemødet 2023 Martin Thaulow",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=959230995283933&amp;set=pcb.959231048617261&amp;__cft__[0]=AZVuQuZX3h70T70A2wkmKKW-rQo0qiISLIxyhdGQtEgDTxdh9ggQ2o6pAyWMfmGngOQJyWIpbk3ZpssEiImMojGEFMLIaPhJ_YX54XPpMhPE4UwanqQIqEPA7nlqgMvzekM&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "45"
+    },
+    {
+      "type": "heart",
+      "count": "13"
+    }
+  ],
+  "comments": [
+    {
+      "id": "918931066070295",
+      "parentId": null,
+      "authorName": "Rodrigo Galindo",
+      "authorId": "rodrigo.i.galindo",
+      "timeLabel": "Kommentar fra Rodrigo Galindo for 2 uger siden",
+      "text": "- og dét er du i dén grad, både som folkevalgt og som forkæmper, kære ven. All the way, som jeg har sagt ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "811016880225008",
+      "parentId": "918931066070295",
+      "authorName": "Kashif AhmadRodrigo Galindo",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Kashif Ahmad på Rodrigo Galindos kommentar for 2 uger siden",
+      "text": "Rodrigo Galindo All the way my man💯❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

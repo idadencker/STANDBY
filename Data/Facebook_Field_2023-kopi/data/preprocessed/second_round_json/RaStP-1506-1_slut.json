@@ -1,0 +1,77 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Luftforurening dræber! Har du skrevet under?\nhttps://www.borgerforslag.dk/se-og-stoet-forslag/...",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161711331764271&set=a.10150290430239271&__cft__[0]=AZXcOiGhUpoYVDQzivq90Ojk-D-JMy7AFW46YccDcveuHClHJ_3wPwU3BDWoyTAJWZJd33fMaVauyMKkWs-7J9BTe57ImHyfS-pUFe1EY-0scQIAubTS3zoUjdMBPQ7Qw4I&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger \"Danmark skal opfylde WHO's luftkvalitetskriterier luftkvalitetsk inden 2030 Stot\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "15"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Rune Duban Grandal",
+      "authorId": "rune.grandal",
+      "timeLabel": "Kommentar fra Rune Duban Grandal for 9 uger siden",
+      "text": "Ja, åbenbart",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoRune",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rune Duban Grandals kommentar for 9 uger siden",
+      "text": "Super fedt, Rune Del-del-del med alle vennerne",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ole Kobberup Larsen",
+      "authorId": "ole.k.larsen",
+      "timeLabel": "Kommentar fra Ole Kobberup Larsen for 9 uger siden",
+      "text": "Det er selvfølgelig støttet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Soeren Jensen",
+      "authorId": "sorenjen456",
+      "timeLabel": "Kommentar fra Soeren Jensen for 8 uger siden",
+      "text": "De nye miljø/klima krag, gælder jo også CPH? SVM reg. og miljøminister er klar over at den kraftige luftforureningen fra CPH, gør det meget sværere for Kastrup og omegn, at overholde de skærpede miljøkrav. SJ.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "authorName": "Charlotte Lund",
+  "authorId": "charlottelund82kjyj",
+  "text": "Forslaget har været stillet mange gange, men nu bliver det vedtaget. Der er et stort lokalt ønske om det, og det giver mening i forhold til den lange tradition med at navngive efter lande og byer.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160379274716187&amp;set=a.10150331919156187&amp;__cft__[0]=AZWxBBv_8mk5FCx1ikGg0wca1onKAPQeTFwCprDUiFUpFKsPML_AZX1mvXG031IqN9d0rFKpioOsI6T6Q92m0O2d4DT7c8gXeqTr8f53eqwOCzjAa2zQM_abgR-PYG3yqaU&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person og tekst, der siger &quot;Ny plads i Kobenhavn: Palaestinas Plads VO&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "42"
+    },
+    {
+      "type": "heart",
+      "count": "15"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Jeppe Studtmund Andersen",
+      "authorId": "jeppe.s.andersen",
+      "timeLabel": "Kommentar fra Jeppe Studtmund Andersen for 10 uger siden",
+      "text": "Hvor bliver det henne? 💞",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Charlotte LundJeppe Studtmund Andersen",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Svar fra Charlotte Lund på Jeppe Studtmund Andersens kommentar for 10 uger siden",
+      "text": "Jeppe Studtmund Andersen Pladsen mellem Nørrebrogade og Hillerødgade",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Jeppe Studtmund Andersen",
+      "authorId": "jeppe.s.andersen",
+      "timeLabel": "Svar fra Jeppe Studtmund Andersen på Charlotte Lunds kommentar for 10 uger siden",
+      "text": "Fantastisk. Det er jo lige i demoafstand til både Palæstinas Plads ved Nørrebro Station og Palæstinas Plads ved Nørreport ❤🤍💚🖤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Maja ThallingCharlotte Lund",
+      "authorId": "maja.thalling",
+      "timeLabel": "Svar fra Maja Thalling på Charlotte Lunds kommentar for 10 uger siden",
+      "text": "Charlotte Lund Altså den del af Nørrebroparken, der består af en skaterbane, udeservering og det lille hjørne med hjertet lavet af våben, eller et andet sted? Jeg synes nemlig ikke, der er en egentlig *plads* nogen steder mellem de to gader 🤔",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Maja ThallingCharlotte Lund",
+      "authorId": "maja.thalling",
+      "timeLabel": "Svar fra Maja Thalling på Charlotte Lunds kommentar for 10 uger siden",
+      "text": "Charlotte Lund Ah nu fik jeg læst forslaget. Så desværre ikke rigtigt en 'plads', hvor nogen kan mødes eller holde arrangementer...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jonas Paludan",
+      "authorId": "jonas.paludan",
+      "timeLabel": "Kommentar fra Jonas Paludan for 10 uger siden",
+      "text": "Sejt! Det er godt kæmpet København! Tak for det.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Allan Krautwald",
+      "authorId": "allan.krautwald",
+      "timeLabel": "Kommentar fra Allan Krautwald for 10 uger siden",
+      "text": "❤ ❤ ❤ Endelig - godt kæmpet ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Charlotte Lund",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Kommentar fra Charlotte Lund for 10 uger siden",
+      "text": "Læs forslaget her: https://www.kk.dk/.../m%C3%B8de-12062023/dagsorden/punkt-15",
+      "hasMedia": true,
+      "mediaAltText": "Medlemsforslag om navngivning af en plads på Nørrebro til Palæstinas Plads",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

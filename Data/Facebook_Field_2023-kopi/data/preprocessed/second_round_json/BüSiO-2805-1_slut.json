@@ -1,0 +1,68 @@
+{
+  "authorName": "Bünyamin Simsek",
+  "authorId": "MTMRaadmandSimsek",
+  "text": "Tak til Ergün fra PLAZA Aarhus for lækre Adana kebap spyd, klar til at grille i haven hjemme hos Kirsten, Søren og Ida😋🧿",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=561090342874987&amp;set=a.144865577830801&amp;__cft__[0]=AZUHCigy9uTO1aR44-f_QA9Iamlf2LSvj2errWF5H3526ii4WkhEerVB3WkBFhGKx80Sh76PQ1ne2fw-csE9Mw3updd93neq0K0_7x45FxWjUF39xqc8GUzF7NXmn46Ye07lt6xxo4VlWfwB-3-6-UQR&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af souvlaki (lammespid)",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "75"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Aysel Uslu",
+      "authorId": "aysel.uslu.733",
+      "timeLabel": "Kommentar fra Aysel Uslu for 9 uger siden",
+      "text": "Velbekomme hils❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jytte Grosen Andersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jytte Grosen Andersen for 9 uger siden",
+      "text": "Lækre sager",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Rikke Hvistendahl",
+      "authorId": "rikke.hvistendahl",
+      "timeLabel": "Kommentar fra Rikke Hvistendahl for 9 uger siden",
+      "text": "Aij bliver da liiige sulten",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

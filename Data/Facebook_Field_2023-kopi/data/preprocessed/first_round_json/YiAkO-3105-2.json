@@ -1,0 +1,26 @@
+{
+  "authorName": "",
+  "authorId": "100045676207484",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [],
+  "comments": [
+    {
+      "id": "259304233319547",
+      "parentId": null,
+      "authorName": "Hanim Akdogan",
+      "authorId": "hanim.akdogan.399",
+      "timeLabel": "Kommentar fra Hanim Akdogan for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

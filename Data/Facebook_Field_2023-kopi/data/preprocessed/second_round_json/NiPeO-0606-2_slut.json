@@ -1,0 +1,137 @@
+{
+  "authorName": "Niels Peder Ravn",
+  "authorId": "NielsPederRavn.DetKonservativeFolkeparti",
+  "text": "Dagens bedste overskrift findes på Politiken\nhttps://politiken.dk/del/UDQmnrAA-YjA",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=659141976229807&set=a.219219533555389&__cft__[0]=AZWRZqi0cbpu_hsyYm8YVyuNE-L6CusyV6AOwDVUYu-pPszpsONMkW2BcG34oTdWK-3S5gADNcBusN8cxgdgOlDYnTJ2cuFAunpXHD-2ojABoDJwJMQVQjfVew-xbgLtEak1cUxw2kY5P3UgbBogpjpG&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 10 personer og tekst, der siger \"Opsigtsvaekkende aftale giver kobenhavnere skattelettelser, mere metro og flere p-pladser HOVEDSTADEN\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "12"
+    },
+    {
+      "type": "angry",
+      "count": "3"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "6506147716108680",
+      "parentId": null,
+      "authorName": "Bent Breining",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Bent Breining for 7 uger siden",
+      "text": "Og elendighedslisten er udenfor",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "211971311675169",
+      "parentId": null,
+      "authorName": "Hein Christensen",
+      "authorId": "Hein.Christensen",
+      "timeLabel": "Kommentar fra Hein Christensen for 7 uger siden",
+      "text": "Sådan godt gået…..et coop",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "280048631125440",
+      "parentId": null,
+      "authorName": "Charlotte Nellemann - Liberal Alliance",
+      "authorId": "Charlotte.Nellemann.LA",
+      "timeLabel": "Kommentar fra Charlotte Nellemann - Liberal Alliance for 7 uger siden",
+      "text": "Jeg er nu også ret pjattet med den her:",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "177359188598869",
+      "parentId": "280048631125440",
+      "authorName": "Danske politikeres holdninger til rusmidler",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Danske politikeres holdninger til rusmidler på Charlotte Nellemann - Liberal Alliances kommentar for 7 uger siden",
+      "text": "Tak skæbne",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "217334384443649",
+      "parentId": null,
+      "authorName": "Cafe Runddelen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Cafe Runddelen for 7 uger siden",
+      "text": "Enig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "784062726584669",
+      "parentId": null,
+      "authorName": "Danske politikeres holdninger til rusmidler",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Danske politikeres holdninger til rusmidler for 7 uger siden",
+      "text": "Tekst mangler. Dejligt at du morer dig i dit nye parti",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "930962604652959",
+      "parentId": null,
+      "authorName": "Nilas Skovtrold Moeller",
+      "authorId": "nilasm",
+      "timeLabel": "Kommentar fra Nilas Skovtrold Moeller for 7 uger siden",
+      "text": "Dejligt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

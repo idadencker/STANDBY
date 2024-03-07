@@ -1,0 +1,116 @@
+{
+  "authorName": "Aase Pedersen",
+  "authorId": "profile.php",
+  "text": "Min favorit. RIP Tina Turner\nIt is with great sadness that we announce the passing of Tina Turner. With her music and her boundless passion for life, she enchanted millions of fans around the world and inspired the stars of tomorrow. Today we say goodbye to a dear friend who leaves us all her greatest work: her music. All our heartfelt compassion goes out to her family. Tina, we will miss you dearly. (© Peter Lindbergh)",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=812263870256006&set=a.258881695594229&__cft__[0]=AZXJrXwd1UGx5DDoKjc0DW2dmK6Rn7DMt-uHpADOuakDx6OELsQ-xhj6rfBeOb0yJ-xUggQXVOmQXsWIpo7b-t9Tz7qbC0IYvpDfl-pdCgJJgtX10RFd_TgI5Aj2HvtluPLDhKzkR4_jQ48P53qQn6ni9BDWVw3WeRhv_ojv5OiBnN3lsJEK2mqIt82gZLStfdY&__tn__=EH-y-R",
+  "mediaText": "Kan være et sort-hvidt billede af 1 person, pandehår og blond hår",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "18"
+    },
+    {
+      "type": "care",
+      "count": "7"
+    },
+    {
+      "type": "sad",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "566838378968843",
+      "parentId": null,
+      "authorName": "Helle Colding Seiersen",
+      "authorId": "helle.c.seiersen",
+      "timeLabel": "Kommentar fra Helle Colding Seiersen for 4 uger siden",
+      "text": "Oh no. Også en stor stjerne for mig. Hun havde ikke et nemt liv - men sangen overtrumfede alt!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "907974783618341",
+      "parentId": null,
+      "authorName": "Leif Limkilde",
+      "authorId": "leiflimkilde.bloch",
+      "timeLabel": "Kommentar fra Leif Limkilde for 4 uger siden",
+      "text": "R.I.P",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "280839534508589",
+      "parentId": null,
+      "authorName": "Mogens Jensen",
+      "authorId": "mogens18",
+      "timeLabel": "Kommentar fra Mogens Jensen for 4 uger siden",
+      "text": "R.I.P.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "620855603300692",
+      "parentId": null,
+      "authorName": "Iris Kasper",
+      "authorId": "iris.kasper",
+      "timeLabel": "Kommentar fra Iris Kasper for 4 uger siden",
+      "text": "R:I:P",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "986973248968615",
+      "parentId": null,
+      "authorName": "Sefa Yürükel",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Sefa Yürükel for 4 uger siden",
+      "text": "Hvil i fred",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3386348808296192",
+      "parentId": null,
+      "authorName": "John Hviid Jakobsen",
+      "authorId": "john.hviidjakobsen",
+      "timeLabel": "Kommentar fra John Hviid Jakobsen for 4 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

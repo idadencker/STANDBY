@@ -1,0 +1,103 @@
+{
+  "authorName": "Charlotte Lund",
+  "authorId": "charlottelund82kjyj",
+  "text": "❤️ Allan\n“Når folk har ondt af, at enlige mænd sidder på værtshus om formiddagen, overser de det sociale aspekt.\"\nSiden 1990’erne har Allan Mylius Thomsen formidlet københavnsk lokalhistorie, og det gør han stadig med glemte værtshuse som afsæt. I dag fylder han 75 år",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "33"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "id": "933358397878960",
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 2 dage siden",
+      "text": "En rigtig god historiefortæller.🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1943045162725226",
+      "parentId": "933358397878960",
+      "authorName": "Charlotte LundHelga Mark",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Svar fra Charlotte Lund på Helga Marks kommentar for 2 dage siden",
+      "text": "Helga Mark Meget. Jeg havde det privilegium at sidde ved siden af ham i BR-salen i fire år. Og hold da op, jeg blev klog på Københavns historie 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "575908164683455",
+      "parentId": "933358397878960",
+      "authorName": "Helga MarkCharlotte Lund",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Charlotte Lunds kommentar for 2 dage siden",
+      "text": "Charlotte Lund\nDer er ingen tvivl om, at hvis man er interesseret i Københavns historie, så er Allan den rette mand, han er et omvandrene leksikon.🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "781103646744301",
+      "parentId": null,
+      "authorName": "Andreas Keil",
+      "authorId": "andreas.keil.904",
+      "timeLabel": "Kommentar fra Andreas Keil for 2 dage siden",
+      "text": "Allan er en skøn, vidende og et rigtig rart menneske.\nHam savner jeg i BR.☺️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "924917878767970",
+      "parentId": "781103646744301",
+      "authorName": "Charlotte LundAndreas Keil",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Svar fra Charlotte Lund på Andreas Keils kommentar for 2 dage siden",
+      "text": "Andreas Keil også mig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

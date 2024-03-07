@@ -1,0 +1,91 @@
+{
+  "authorName": "Bünyamin Simsek",
+  "authorId": "MTMRaadmandSimsek",
+  "text": "Efes øl+Pastirma (marineret og tørrede oksemørbrad🥩)❤️🧿",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=565014275815927&amp;set=a.144865577830801&amp;__cft__[0]=AZXnY8ad0Js76a1RwzXJxCuSrHerdSe7qFybXGL3bCv03F2djyL5f1_Do1_6e6n6ursX3UV6tf5XntmteUvKidY_huz1KiuABUGBxK7r4DYiQK23fMPVpuWfPyE3SBjZSMwMrZN8PkszFELTk9e5poyi&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "65"
+    }
+  ],
+  "comments": [
+    {
+      "id": "791162292357956",
+      "parentId": null,
+      "authorName": "Birgit Vibeke Olesen",
+      "authorId": "birgit.vibekeolesen",
+      "timeLabel": "Kommentar fra Birgit Vibeke Olesen for 4 dage siden",
+      "text": "Det ser ulækker ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "631636968867687",
+      "parentId": "791162292357956",
+      "authorName": "Anna GoztupBirgit Vibeke Olesen",
+      "authorId": "selinmaria.akdeniz",
+      "timeLabel": "Svar fra Anna Goztup på Birgit Vibeke Olesens kommentar for 4 dage siden",
+      "text": "Birgit Vibeke Olesen ja det gør du",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1303171060557575",
+      "parentId": null,
+      "authorName": "Bente Heilmann",
+      "authorId": "bente.heilmann.904",
+      "timeLabel": "Kommentar fra Bente Heilmann for en dag siden",
+      "text": "Velbekomme!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "667069065259183",
+      "parentId": null,
+      "authorName": "Yalçın Topcu",
+      "authorId": "yalcin68",
+      "timeLabel": "Kommentar fra Yalçın Topcu for 4 dage siden",
+      "text": "Velbekomme min ven 😋",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "585691350361271",
+      "parentId": null,
+      "authorName": "Serdal Nida Dursun",
+      "authorId": "nida.dursun.1",
+      "timeLabel": "Kommentar fra Serdal Nida Dursun for 4 dage siden",
+      "text": "Dejlig kombi til kampen 🤍💙❤️💛",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

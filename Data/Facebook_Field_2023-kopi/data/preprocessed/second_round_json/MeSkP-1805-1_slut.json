@@ -1,0 +1,77 @@
+{
+  "authorName": "Uffe StæhrUffe StæhrUffe StæhrMette Susanne SkautrupMette Susanne SkautrupMette Susanne Skautrup2 andre2 andreRuths HotelRuths HotelRuths Hotel",
+  "authorId": "profile.php",
+  "text": "Foredrag med Tom Boye arrangeret af Foreningen Skagens Venner",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10228343677595790&set=pcb.10228343680875872&__cft__[0]=AZWt6gDS-vcob7Qg_gp-tyampYbHQDDaOKqpOSV2efwwL5IVSQVCGG980dVA-fuW-kUspIeqJIHUNwMi_VCDafIoxqoXryaXxFWlZQalTw_Nkqp7NWQDQ33XP-ptTkzhJXKEAdPYuWqVZmIc2N-q8GAsRstoqSuuDxvpSlgOsyx1VA&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "77"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lone Reenberg",
+      "authorId": "lone.reenbergiversen",
+      "timeLabel": "Kommentar fra Lone Reenberg for 13 uger siden",
+      "text": "Sikkert spændende",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Karina Boldsen",
+      "authorId": "karina.boldsen",
+      "timeLabel": "Kommentar fra Karina Boldsen for 13 uger siden",
+      "text": "Tak fordi I kom og jeres opbakning",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Uffe StæhrKarina Boldsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Uffe Stæhr på Karina Boldsens kommentar for 13 uger siden",
+      "text": "Karina Boldsen selvfølgelig, det var et super arrangement",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ole Mejrup",
+      "authorId": "ole.mejrup",
+      "timeLabel": "Kommentar fra Ole Mejrup for 13 uger siden",
+      "text": "Var der et gulvtæppe på til 7 millioner???",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

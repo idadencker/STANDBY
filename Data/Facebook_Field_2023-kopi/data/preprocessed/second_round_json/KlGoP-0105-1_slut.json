@@ -1,0 +1,116 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "Så er vi på vej til Fælledparken.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230944593817356&set=a.4380583711778&__cft__[0]=AZWVSjRko3Etsj3a_vJnQ_n9GRrvM63ckOetouYSMZBz1E9Q7lDw728HCFMPGd8bPIXIHG8E1vAZAtpPRvU2CYfeqhRrE5fCXFsszOxpFhFjNTP8EoiLWjukYjiEV8B8ANo&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "336"
+    },
+    {
+      "type": "heart",
+      "count": "39"
+    }
+  ],
+  "comments": [
+    {
+      "id": "930307771635575",
+      "parentId": null,
+      "authorName": "Maia Graner Alsing",
+      "authorId": "maia.alsing",
+      "timeLabel": "Kommentar fra Maia Graner Alsing for 13 uger siden",
+      "text": "Jeg er på arbejde. kan huske jeg engang havde fri....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "112683961817086",
+      "parentId": null,
+      "authorName": "Ole Vilhelm Wagner",
+      "authorId": "olevilhelm.wagner.3",
+      "timeLabel": "Kommentar fra Ole Vilhelm Wagner for 13 uger siden",
+      "text": "Du blev transporteret dit heldige asen. Fotografen måtte træde hårdt i sine pedaler...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "192952433574334",
+      "parentId": null,
+      "authorName": "Dorthe Hecht",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Dorthe Hecht for 13 uger siden",
+      "text": "Sådan venner!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "634016738073480",
+      "parentId": null,
+      "authorName": "Josie Nicolie Ingemann",
+      "authorId": "josie.koelert",
+      "timeLabel": "Kommentar fra Josie Nicolie Ingemann for 13 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "219541867370890",
+      "parentId": null,
+      "authorName": "Jetthe J T Damgård",
+      "authorId": "solvigjoergensen",
+      "timeLabel": "Kommentar fra Jetthe J T Damgård for 13 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "798511035273215",
+      "parentId": null,
+      "authorName": "Josef Mulvad",
+      "authorId": "josef.mulvad",
+      "timeLabel": "Kommentar fra Josef Mulvad for 13 uger siden",
+      "text": "The trumpets of Jericho",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

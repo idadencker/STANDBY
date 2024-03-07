@@ -1,0 +1,116 @@
+{
+  "authorName": "Rasmus SteenbergerRasmus SteenbergerRasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Studietur til Amsterdam med Sundheds- og Omsorgsudvalget\nMeget at vinde ved at udfase fossilerne",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161660962089271&set=a.10150290430239271&__cft__[0]=AZXe0B3kQeAkA6Zg5RXPdbD0BET05UrpcDczIsU5l35YcEBGMi1-7OR6B_qj5WLagT0EAroLKoCFLEjT0ZL2eUfThyuWNLWashXmwenRnet1sjS7Bo0IdkzBpawWF6GPEQM&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer, vejnavn og tekst, der siger \"STOP FOSSIELE UBSIDIE A12 27 MEI 12:00 DEN HAAG Vo\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "27"
+    }
+  ],
+  "comments": [
+    {
+      "id": "813308473523937",
+      "parentId": null,
+      "authorName": "Lis Lendal",
+      "authorId": "lis.lendal",
+      "timeLabel": "Kommentar fra Lis Lendal for 3 dage siden",
+      "text": "Et problem: der er kun en ellademulighed for lastbiler i Danmark. Er det nødvendigt, at staten betaler for at oprette denne infrastruktur?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "151241041146216",
+      "parentId": "813308473523937",
+      "authorName": "Rasmus SteenbergerLis",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Lis Lendals kommentar for 2 dage siden",
+      "text": "Hej Lis, ja absolut nødvendigt. Og EU.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "777204204076848",
+      "parentId": "813308473523937",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Lis Lendals kommentar for 2 dage siden",
+      "text": "og der skal også opbygges brint-infrastruktur",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "703448381535680",
+      "parentId": null,
+      "authorName": "Helene Bach",
+      "authorId": "helene.bach.56",
+      "timeLabel": "Kommentar fra Helene Bach for 2 dage siden",
+      "text": "Håber I tog toget Særligt når det er sundhedsudvalget. Luftforurening er hvert år skyld i mere end 4.000 for tidlige dødsfald og koster 95 mia i sundhedsudgifter. Husk at skrive under på https://www.noget-i-luften.dk/?fbclid=IwAR2qcaIRLcwaYnh5N70E9bZb_NjKLlkXqxe9oFRvrOqnidlYGiY0QES8YlY",
+      "hasMedia": true,
+      "mediaAltText": "Der er noget i luften",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "203026269285320",
+      "parentId": "703448381535680",
+      "authorName": "Rasmus SteenbergerHelene",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Helene Bachs kommentar for 2 dage siden",
+      "text": "Tak for link, Helene - jeg havde en god tog-tur med nattoget til Hamborg",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "9747039398647108",
+      "parentId": null,
+      "authorName": "Jacob Rask",
+      "authorId": "jordbo",
+      "timeLabel": "Kommentar fra Jacob Rask for en dag siden",
+      "text": "Fik du talt med nogle af vores Doughnut-kumpaner?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

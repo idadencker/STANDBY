@@ -1,0 +1,227 @@
+{
+  "authorName": "Lone Hindø",
+  "authorId": "profile.php",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "807349733944395",
+      "parentId": null,
+      "authorName": "Peter Bundgaard Christensen",
+      "authorId": "peterbundgaard.christensen.5",
+      "timeLabel": "Kommentar fra Peter Bundgaard Christensen for 3 dage siden",
+      "text": "Fjerne den og tilføje den igen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1532396017535736",
+      "parentId": "807349733944395",
+      "authorName": "Manfred ThurmannPeter Bundgaard Christensen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Manfred Thurmann på Peter Bundgaard Christensens kommentar for 3 dage siden",
+      "text": "Peter Bundgaard Christensen Jeps, gå ind og afinstallere og geninstallere derefter...\nEllers er du blevet hacket\nDet kan være en opdatering der er gået galt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1330418484495635",
+      "parentId": null,
+      "authorName": "Hardy Jørgensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Hardy Jørgensen for 3 dage siden",
+      "text": "Smider pc ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "262988219645935",
+      "parentId": null,
+      "authorName": "Christian Dahlerup",
+      "authorId": "cdahlerup",
+      "timeLabel": "Kommentar fra Christian Dahlerup for 3 dage siden",
+      "text": "Virker det ikke at fjerne og geninstallere Messenger kan du også opdatere din mobils system hvilket også bør gøres regelmæssigt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "637525894917206",
+      "parentId": null,
+      "authorName": "Lone Rasmussen",
+      "authorId": "loner2",
+      "timeLabel": "Kommentar fra Lone Rasmussen for 3 dage siden",
+      "text": "Slapper af og nyder det",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "566416492346000",
+      "parentId": null,
+      "authorName": "Niels-Peter Buus",
+      "authorId": "1234taiwan",
+      "timeLabel": "Kommentar fra Niels-Peter Buus for 3 dage siden",
+      "text": "Det må da være dejligt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "782881326657697",
+      "parentId": null,
+      "authorName": "Niels Schou",
+      "authorId": "niels.schou.18",
+      "timeLabel": "Kommentar fra Niels Schou for 3 dage siden",
+      "text": "Klag 😜",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "939170700625843",
+      "parentId": null,
+      "authorName": "Kaj Jessen",
+      "authorId": "kaj.jessen.1",
+      "timeLabel": "Kommentar fra Kaj Jessen for 3 dage siden",
+      "text": "Har du prøvet at downloade selve app'en, og ikke kun bruge Messenger via FB?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1204101663587805",
+      "parentId": null,
+      "authorName": "Jo Larsen",
+      "authorId": "jo.larsen.5686",
+      "timeLabel": "Kommentar fra Jo Larsen for 3 dage siden",
+      "text": "Din browser er sikkert forældet - det er min på min Ipad og jeg køber ikke en ny og derfor kan jeg ikke bruge Messenger på min Ipad.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1028591621466560",
+      "parentId": null,
+      "authorName": "Margrethe Bennike",
+      "authorId": "margrethe.bennike",
+      "timeLabel": "Kommentar fra Margrethe Bennike for 3 dage siden",
+      "text": "På computeren? Jeg kan anbefale at spørge JSF IT PARTNER - www.jsf.dk .",
+      "hasMedia": true,
+      "mediaAltText": "IT-service Aarhus | JSF IT PARTNER ApS",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "265981156108210",
+      "parentId": null,
+      "authorName": "Mogens Uggerhøj",
+      "authorId": "ug.hoej",
+      "timeLabel": "Kommentar fra Mogens Uggerhøj for 3 dage siden",
+      "text": "Messanger, er en app.\nHar du glemt opdater?\nEllers geninstaler, ny log ind, samt kode!\n(Pissetræls iøvrigt)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "630328982449077",
+      "parentId": null,
+      "authorName": "Anne Herskind",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Anne Herskind for 3 dage siden",
+      "text": "Skriver et brev, lægger i kuvert, sætter frimærke på, går på posthuset?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "198670586040026",
+      "parentId": null,
+      "authorName": "Henrik Aagaard",
+      "authorId": "henrik.aagaard.14",
+      "timeLabel": "Kommentar fra Henrik Aagaard for 2 dage siden",
+      "text": "Jeg praktiserer \"dét muliges kunst\". Så jeg ville bare lade være med at bruge Messenger. Dét kommer nok til at fungere igen, men spørgsmålet er bare hvornår 😵‍💫🤔☺️💝🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

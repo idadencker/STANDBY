@@ -1,0 +1,80 @@
+{
+  "authorName": "Niels Peder RavnNiels Peder RavnNiels Peder RavnKongens NytorvKongens NytorvKongens Nytorv",
+  "authorId": "NielsPederRavn.DetKonservativeFolkeparti",
+  "text": "Vi gi’r den sidste hvede.\nI morgen fejrer Danmark den sidste Store Bededag. Kom forbi Kgs. Nytorv her til morgen og få den sidste hvede med. Vi gi’r!\nGod Store Bededag.\nHelle Bonnesen Mathilde Kastbjerg Morten Melchiors Jakob Næsager Line Ervolder Helle Jønch Det Konservative Folkeparti",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=638697061607632&amp;set=pcb.638697111607627&amp;__cft__[0]=AZXTywlr4tC1ZeiclcEPz7UNdpZ0A5n22YSmllGqW4yP-W25C5yDvOhi7gYc7XllmBvXvlBDa9NiE-wxxFZMvtBm_-mKFe6CNuzyquByuHeqir0Ds-e8zsIze6JlW9Bv9oA7ogmU0Sk0E_oVYVjNBxKT&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "16"
+    }
+  ],
+  "comments": [
+    {
+      "id": "923420668907483",
+      "parentId": null,
+      "authorName": "Morten Petersen",
+      "authorId": "morten.petersen.731",
+      "timeLabel": "Kommentar fra Morten Petersen for 12 uger siden",
+      "text": "Om det er den sidste 'dag' er da heldigvis noget vi selv bestemmer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "971183830963029",
+      "parentId": null,
+      "authorName": "Bjarke Stilling",
+      "authorId": "bjarke.stilling",
+      "timeLabel": "Kommentar fra Bjarke Stilling for 12 uger siden",
+      "text": "Det blir´ næppe den sidste.\nLang fredag + 4 uger er ikke svært at huske !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "259424133165952",
+      "parentId": "971183830963029",
+      "authorName": "Niels Peder RavnBjarke Stilling",
+      "authorId": "NielsPederRavn.DetKonservativeFolkeparti",
+      "timeLabel": "Svar fra Niels Peder Ravn på Bjarke Stillings kommentar for 12 uger siden",
+      "text": "Bjarke Stilling Nemlig👍🏼",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "562019329341661",
+      "parentId": null,
+      "authorName": "Castle Chizzy",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Castle Chizzy for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "authorName": "Gorm Anker GunnarsenGorm Anker GunnarsenGorm Anker GunnarsenVielser",
+  "authorId": "gorm.gunnarsen",
+  "text": "Sandra og Samuel, 10/6 2023.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171133247527037&amp;set=a.10152448496067037&amp;__cft__[0]=AZVDVhnp9Em4gkg2nFU3CJiPOoLL3xKEvAdZlc08O1VOlcatSnT9r4HDdPs8Fkw7WvCRp6fSWtse_0CgYN6rCH7898_GR2ZpAr2W4avcs_nNQOlJoBqTkDxVX0Tvrb1Rfgo&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer og bryllup",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "65"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 10 uger siden",
+      "text": "Tillykke🇩🇰🇩🇰🇩🇰🇩🇰🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Per Ejnar Viberg",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Ejnar Viberg for 10 uger siden",
+      "text": "Tillykke og Hurra for 💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Paul Christofersen",
+      "authorId": "paulchristofersen",
+      "timeLabel": "Kommentar fra Paul Christofersen for 10 uger siden",
+      "text": "Woot woot! Proud Papa! Congratulations all around!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Gorm Anker GunnarsenPaul Christofersen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Paul Christofersens kommentar for 10 uger siden",
+      "text": "Paul Christofersen I’m proud yes.. - proudly officiating.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "authorName": "Paul Christofersen",
+      "authorId": "paulchristofersen",
+      "timeLabel": "Svar fra Paul Christofersen på Gorm Anker Gunnarsens kommentar for 10 uger siden",
+      "text": "Gorm Anker Gunnarsen Gorm: Nothing wrong with having the right friends in the right places! (As long as it’s for doing all the right things!) Please say our hellos ~ we still have fond memories of the wedding in Cleveland when Samuel, his brother, and our Aubrey entertained everyone with their Mr. Roboto dance!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "authorName": "Gorm Anker GunnarsenPaul Christofersen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Paul Christofersens kommentar for 10 uger siden",
+      "text": "Paul Christofersen I have turned weddings into a hobby. Definitely the greatest perk as city councillor. https://www.facebook.com/media/set/...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Martin Tved",
+      "authorId": "martintved",
+      "timeLabel": "Kommentar fra Martin Tved for 10 uger siden",
+      "text": "Tak for din hilsen, Gorm 🥰 Vi havde/ har en rigtig god og følelsesladet fest ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Meg Davis",
+      "authorId": "meg.davis.54",
+      "timeLabel": "Kommentar fra Meg Davis for 9 uger siden",
+      "text": "Congratulations 💕💕💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

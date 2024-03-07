@@ -1,0 +1,52 @@
+{
+  "authorName": "Katrine Kildgaard",
+  "authorId": "KatrineKildgaard",
+  "text": "Bevar udeservering efter kl. 22\nLigesom mange andre elsker jeg lange sommeraftener udenfor på barer og caféer. Men et lille flertal har besluttet, at udeservering skal slutte kl. 22 fra søndag til torsdag\nEn storby hvor man bor tæt er fyldt med svære balancer, men det her er ramt helt skævt.\nDet er blevet sagt, at det er gjort for at begrænse nattelivet, men for mig er en sen middag, der slutter 22.30 ikke natteliv men helt almindelig hverdagsliv i en storby\nJeg håber, at mine kolleger fra Socialdemokratiet, SF, Alternativet og Konservative ombestemmer sig",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=652556236885765&set=a.215050070636386&__cft__[0]=AZWJ4lH9-BjRegiowlyTRpxtAEUBrZ6Tc0jjYlvIgJZYg4Vz49C0kbw-k8dD2wVeMxqs5y7SOoaWVQMRzqGIlnVQDdsaNvCWudd5UaT-wMBRagFFHMzT_mpxS4lRc55X8PfRHkAZ9p5Lhx_-xcnROPXK&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person, øl og dirndl",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "26"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "829984565269808",
+      "parentId": null,
+      "authorName": "Thomas Rohden",
+      "authorId": "thomas.rohden",
+      "timeLabel": "Kommentar fra Thomas Rohden for 8 uger siden",
+      "text": "Ja tak!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1178300270236854",
+      "parentId": "829984565269808",
+      "authorName": "Katrine Kildgaard",
+      "authorId": "KatrineKildgaard",
+      "timeLabel": "Svar fra Katrine Kildgaard på Thomas Rohdens kommentar for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

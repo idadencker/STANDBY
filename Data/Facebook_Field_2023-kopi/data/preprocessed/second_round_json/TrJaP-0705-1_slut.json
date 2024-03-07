@@ -1,0 +1,126 @@
+{
+  "authorName": "Troels Christian Jakobsen",
+  "authorId": "tcjakobsen",
+  "text": "BRUNCH HOS Å I LIFLANDSGADE 2\nKig forbi til lidt hygge og let politisk snak - sammen med kaffe og lidt brød.\nVi er her til kl.13.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160594449441506&set=a.10151658848496506&__cft__[0]=AZWPjE884J_6dGZ8kTXslsCFROg18J-HWaQ1i-PefLd-OhVbhPGutUCvQofKDlUVzXxO9qsK5Ht-j1DPsP9mPHKD-u2MnWXg5ibypkXJGWvDOYwwPWFo66cClpQLwksvGfM&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "65"
+    },
+    {
+      "type": "heart",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Rasmus Vind Ludvigsen",
+      "authorId": "rasmus.vind.ludvigsen",
+      "timeLabel": "Kommentar fra Rasmus Vind Ludvigsen for 15 uger siden",
+      "text": "Den sku jeg lige ha set lidt tidligere",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 15 uger siden",
+      "text": "Men en udfordring for el-kørestole.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Lisbeth AndersenHelga Mark",
+      "authorId": "lisbeth.andersen.378",
+      "timeLabel": "Svar fra Lisbeth Andersen på Helga Marks kommentar for 15 uger siden",
+      "text": "Helga Mark umuligt rent faktisk",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Lisbeth Andersen",
+      "authorId": "lisbeth.andersen.378",
+      "timeLabel": "Svar fra Lisbeth Andersen på Lisbeth Andersens kommentar for 15 uger siden",
+      "text": "At få besøg af mennesker i store elkørestole skal man gøre sig fortjent til",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Troels Christian JakobsenHelga Mark",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Helga Marks kommentar for 14 uger siden",
+      "text": "Helga Mark Ja, desværre er vores økonomi ikke til at være kræsne ved valg af lokale. Vi har knap råd til dette.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Lisbeth AndersenTroels Christian Jakobsen",
+      "authorId": "lisbeth.andersen.378",
+      "timeLabel": "Svar fra Lisbeth Andersen på Troels Christian Jakobsens kommentar for 14 uger siden",
+      "text": "Troels Christian Jakobsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kim Hjerrild",
+      "authorId": "kimhjerrild",
+      "timeLabel": "Kommentar fra Kim Hjerrild for 14 uger siden",
+      "text": "Hvor er den blevet fin, vores facade",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

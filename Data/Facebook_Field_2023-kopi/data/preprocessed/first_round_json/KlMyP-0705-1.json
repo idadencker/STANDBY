@@ -1,0 +1,259 @@
+{
+  "authorName": "Klaus Mygind",
+  "authorId": "klaus.mygind.1",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "14"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "907537593864183",
+      "parentId": null,
+      "authorName": "Stig Ekman",
+      "authorId": "stig.ekman",
+      "timeLabel": "Kommentar fra Stig Ekman for 4 dage siden",
+      "text": "Sejt så må man jo håbe folk har råd til at skifte bil. Og ja jeg ved der er 6 1/2 til, men hvis det vedtages så falder prisen på brugte fossil biler.\nJeg er enige i fremtiden. Men det bliver ikke forbudt at sælge fossil biler før 2035 tror jeg det er",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "948820512935786",
+      "parentId": "907537593864183",
+      "authorName": "Rasmus SteenbergerStig",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Stig Ekmans kommentar for en dag siden",
+      "text": "Yes, vi går foran, Stig 🙂 Og vi tror på at Københavnerne er klar til klimahandling",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "700127248534981",
+      "parentId": "907537593864183",
+      "authorName": "Stig Ekman",
+      "authorId": "stig.ekman",
+      "timeLabel": "Svar fra Stig Ekman på Stig Ekmans kommentar for en dag siden",
+      "text": "Hej rasmus, jeg er ikke uenig vi skal bare også passe på de københavnere der ikke har råd til at skifte , som arbejder hårdt for at få enderne til at hænge sammen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "271740605192362",
+      "parentId": null,
+      "authorName": "Richard Martinsen",
+      "authorId": "Rmreidar",
+      "timeLabel": "Kommentar fra Richard Martinsen for 4 dage siden",
+      "text": "Så alle køretøjer i militæret skal køre på batteri???",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "167606286255453",
+      "parentId": "271740605192362",
+      "authorName": "Rasmus SteenbergerRichard",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Richard Martinsens kommentar for 4 dage siden",
+      "text": "Nej ,Richard, der er ingen kaserne i København",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3466703296982453",
+      "parentId": "271740605192362",
+      "authorName": "Richard MartinsenRasmus Steenberger",
+      "authorId": "Rmreidar",
+      "timeLabel": "Svar fra Richard Martinsen på Rasmus Steenbergers kommentar for 4 dage siden",
+      "text": "Rasmus Steenberger jo der er. At de ikke bruges til soldater, er uvedkommende. Men det var nu mere det. At før de kunne føre krig. Så kommer elselskabet og sætter ladestandere op i nærheden !!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "644173534194624",
+      "parentId": "271740605192362",
+      "authorName": "John ReynoldsRichard Martinsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra John Reynolds på Richard Martinsens kommentar for en dag siden",
+      "text": "Richard Martinsen sæføli",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "633427282002718",
+      "parentId": "271740605192362",
+      "authorName": "Rasmus SteenbergerRichard Martinsen",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Richard Martinsens kommentar for en dag siden",
+      "text": "Ikke forstået, Richard Martinsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "580213784215501",
+      "parentId": "271740605192362",
+      "authorName": "Richard MartinsenRasmus Steenberger",
+      "authorId": "Rmreidar",
+      "timeLabel": "Svar fra Richard Martinsen på Rasmus Steenbergers kommentar for en dag siden",
+      "text": "Rasmus Steenberger nej og det er forståeligt. Jeg fatter heller ikke en skid. Nu er Putin, blevet skubbet ud på et sidespor. Hvor han ikke forstår hvorfor vi alle helst vil være venner med USA. Men det er fordi USA tar det de vil og vi \"den frie verden… Se mere\nSe mere",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1209242830474853",
+      "parentId": "271740605192362",
+      "authorName": "Richard Martinsen",
+      "authorId": "Rmreidar",
+      "timeLabel": "Svar fra Richard Martinsen på Rasmus Steenbergers kommentar for en dag siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "792158165922375",
+      "parentId": null,
+      "authorName": "Richard Martinsen",
+      "authorId": "Rmreidar",
+      "timeLabel": "Kommentar fra Richard Martinsen for 4 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "584063333707150",
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 4 dage siden",
+      "text": "😊👍💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "962423311862190",
+      "parentId": null,
+      "authorName": "Arne Bo Nielsen",
+      "authorId": "arnebo.nielsen",
+      "timeLabel": "Kommentar fra Arne Bo Nielsen for 4 dage siden",
+      "text": "Så hellere svine i andre lande hvor udvinding af metaller til batterier skaber store globale miljøudfordringer for ikke at tale om håndtering af batteri affald - eller sendes det bare tilbage til de lande hvor udvindingen bliver foretaget under ‘kyndig… Se mere\nSe mere",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "929282108314427",
+      "parentId": "962423311862190",
+      "authorName": "Rasmus SteenbergerArne Bo Nielsen",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Arne Bo Nielsens kommentar for en dag siden",
+      "text": "Alle biler sviner når man producerer dem Arne Bo Nielsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "6530850193612942",
+      "parentId": "962423311862190",
+      "authorName": "Arne Bo NielsenRasmus Steenberger",
+      "authorId": "arnebo.nielsen",
+      "timeLabel": "Svar fra Arne Bo Nielsen på Rasmus Steenbergers kommentar for en dag siden",
+      "text": "Rasmus Steenberger det har du ret i, men noget svineri er mere legalt end andet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}
