@@ -1,0 +1,50 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "I morgen. Alle er velkomne.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230955196042405&amp;set=a.4380583711778&amp;__cft__[0]=AZUXFR1NaAfOqY6g1X9negOqM_jwQIahd7yzimFG708SaNhSPGtD3IkNFwo9u-XJ05XyfWbwlnVZy5sbiZtq0-goo7TkqVo6bUON0Qs6bKAUAnXdjl8roiixrry9ChNWTC8&amp;__tn__=EH-R",
+  "mediaText": "Kan være en grafik af tekst, der siger &quot;KAMPAGNE STORMODE TID: ONSDAG D. 3. MAJ 18.00-20.00 STED: Studiestraede 24, stuen Fra bilrum til byrum ENHEDSLISTEN ROD-GRON UNGDOM KOBENHAVN&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "33"
+    }
+  ],
+  "comments": [
+    {
+      "id": "5884264415016081",
+      "parentId": null,
+      "authorName": "Eva-Pernille Naserian Stæhr PoulsenThomas Otzen",
+      "authorId": "naserian8",
+      "timeLabel": "Kommentar fra Eva-Pernille Naserian Stæhr Poulsen for en uge siden",
+      "text": "Se Thomas Otzen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "260427446489145",
+      "parentId": null,
+      "authorName": "Jytte Kristensen",
+      "authorId": "jytte.kristensen.7359",
+      "timeLabel": "Kommentar fra Jytte Kristensen for en uge siden",
+      "text": "Dejligt slogan: Fra bilrum til byrum. 🌿🌹🌿",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

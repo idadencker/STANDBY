@@ -1,0 +1,54 @@
+{
+  "authorName": "Metin Lindved Aydin",
+  "authorId": "metin.lindved.aydin",
+  "text": "I morgen taler jeg ved demonstrationen i Aarhus - jeg er enormt ærgerlig over, at et flertal i byrådet har valgt at ignorere så mange borgeres ønsker og ødelægge bugt, miljø og klima. Imod al sund fornuft og imod al sagkundskab.\nKom og vær med kl.13:00 lørdag 13./5.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231517310985369&amp;set=pcb.567673258820310&amp;__cft__[0]=AZUwQEAF8oHY0fi7kdLfAxqxds07yLRyc4aCAlLl6bqJJ5__r47kRKCGhdk35nr1wqB0_EAdbdUJHlD_UNaJ4ftzOr1XTpAREWVLwCLsSXoYs87sTNJrfe9L8vnuVpKG8K4w4Yp5Mx00JeC9J0X8zdefQw91957NGsSuPsMxrvZjag_OljJGaNylwAmimj0jPJk&amp;__tn__=*bH-y-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "13"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1428874017949090",
+      "parentId": null,
+      "authorName": "Kuzubey Simsek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Kuzubey Simsek for 17 timer siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1305662926996523",
+      "parentId": null,
+      "authorName": "Mette Telefoni",
+      "authorId": "mette.telefoni",
+      "timeLabel": "Kommentar fra Mette Telefoni for 15 timer siden",
+      "text": "Tak for dig og dit store engagement!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Hylden blomstrer",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161698410549271&set=a.10150290430239271&__cft__[0]=AZUzGtsBqA5pAUPocvAHXhhbvOiclsI3-oVDP868MMEKjN1CEll5bZTQUgqpAesJm4dAJRsl4_zGmWA_BvhhLZGXG2Ax6jfHelFgH8X86mOWPNYRtWWyI6mFSWdYRLztbJo&__tn__=EH-R",
+  "mediaText": "Kan være et billede af gul jasmin og devilwood (oliventræ)",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "75"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Pia Cramer Hansson",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Pia Cramer Hansson for 10 uger siden",
+      "text": "Også gået helt bersærk i vores have men helt sikkert til stor glæde for de vilde bier",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerPia",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Pia Cramer Hanssons kommentar for 10 uger siden",
+      "text": "Skynd dig at få den gravet frem, Pia",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jeanne R Bergmansen",
+      "authorId": "JeanneBergmansen",
+      "timeLabel": "Kommentar fra Jeanne R Bergmansen for 10 uger siden",
+      "text": "Og dufter skønt af sommer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJeanne",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jeanne R Bergmansens kommentar for 10 uger siden",
+      "text": "Det er nærmest helt bedøvende, Jeanne",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Leo Matre",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Leo Matre for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Leo Matres kommentar for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "John Dyhr",
+      "authorId": "john.dyhr",
+      "timeLabel": "Kommentar fra John Dyhr for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på John Dyhrs kommentar for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Steven Snedker",
+      "authorId": "Internetforbrugeren",
+      "timeLabel": "Kommentar fra Steven Snedker for 10 uger siden",
+      "text": "Dufter de også i stuen ind?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoSteven",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Steven Snedkers kommentar for 10 uger siden",
+      "text": "Absolut, Steven",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gunner Holm Petersen",
+      "authorId": "gunner.holmpetersen",
+      "timeLabel": "Kommentar fra Gunner Holm Petersen for 10 uger siden",
+      "text": "Plant et tørst-træ - hvis du ikke har .et .. det er den bedste sommergave du kan give dine insekter,,,,\nDet eneste træ der blomstre hele sommeren...",
+      "hasMedia": true,
+      "mediaAltText": "Plant et tørstetræ i haven og hjælp citronsommerfuglen - Danmarks Naturfredningsforening",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoGunner",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Gunner Holm Petersens kommentar for 10 uger siden",
+      "text": "Jeg fik en lille stikling en gang, Gunner, men den gik ud. Så jeg må prøve igen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "sad"
+        ]
+      }
+    },
+    {
+      "authorName": "Gunner Holm Petersen",
+      "authorId": "gunner.holmpetersen",
+      "timeLabel": "Svar fra Gunner Holm Petersen på Gunner Holm Petersens kommentar for 10 uger siden",
+      "text": "Ja jeg ahr 3 store træer/buske - insekterne er helt vilde i varmen bogstaveligt talt .... hvis du hverken ved ud eller ind kan jeg godt skaffe dig en til efteråret... jeg har dem stående i min lille uofficielle planteskole...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoGunner",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Gunner Holm Petersens kommentar for 10 uger siden",
+      "text": "Det vil jeg gerne tage imod, Gunner",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mikael Hulbæk Christensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Mikael Hulbæk Christensen for 10 uger siden",
+      "text": "Tid til at fiske suder.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Marianne Wiltrup",
+      "authorId": "marianne.wiltrup",
+      "timeLabel": "Kommentar fra Marianne Wiltrup for 9 uger siden",
+      "text": "midsommer træet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Marie Frederiksen",
+      "authorId": "marie.frederiksen.35",
+      "timeLabel": "Kommentar fra Marie Frederiksen for 9 uger siden",
+      "text": "Ja og også her og den dufter godt!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

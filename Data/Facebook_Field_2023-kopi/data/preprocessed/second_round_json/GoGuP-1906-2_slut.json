@@ -1,0 +1,30 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Kan det drømmes, kan det gøres.\nFRA BILRUM TIL BYRUM 🌱🪱🌳🐌💚",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/Kbh.Enhedslisten/videos/1018514162851228/?__cft__[0]=AZX6CBpIZK_nFK54CVbq2kY56nXeactl3JAldhY6FEbbaAvt8I__0YxGo2P_gFLszrIApqad_fm2z9grwnHPVCx8HyTxgADlE4JgT9Jx2PArrdeeK06NsZJUVobwWtENY85vMTQb5ZbrtyCEMUoAcx-jgibAAlX2dMiKU1EpPS0pk-9QSPKJKLz1SOWbIgvyB_A&amp;__tn__=%2B%3FFH-y-R",
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "13"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Tania Karpatschof",
+      "authorId": "tania.karpatschof",
+      "timeLabel": "Kommentar fra Tania Karpatschof for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

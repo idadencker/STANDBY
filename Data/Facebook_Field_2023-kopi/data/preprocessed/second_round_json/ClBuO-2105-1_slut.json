@@ -1,0 +1,30 @@
+{
+  "authorName": "Claus Buch",
+  "authorId": "claus.buch.1972",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Hussein Kalach",
+      "authorId": "hussein.kalach.75",
+      "timeLabel": "Kommentar fra Hussein Kalach for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

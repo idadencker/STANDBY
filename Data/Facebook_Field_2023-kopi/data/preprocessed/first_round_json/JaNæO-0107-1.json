@@ -1,0 +1,35 @@
+{
+  "authorName": "Jakob Næsager",
+  "authorId": "Jakob.naesager.politiker",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/Jakob.naesager.politiker/videos/806635264205899/?__tn__=%2CO",
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "30"
+    },
+    {
+      "type": "heart",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2377078769141751",
+      "parentId": null,
+      "authorName": "Nikolaj Rasmussen",
+      "authorId": "feldbech",
+      "timeLabel": "Kommentar fra Nikolaj Rasmussen for 2 dage siden",
+      "text": "Fedt. Betyder det så, at I river Bohrs tårn ned?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

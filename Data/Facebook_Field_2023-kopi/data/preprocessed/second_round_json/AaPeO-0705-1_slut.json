@@ -1,0 +1,66 @@
+{
+  "authorName": "Aase PedersenAase PedersenAase PedersenSkanderborgSkanderborgSkanderborg",
+  "authorId": "profile.php",
+  "text": "Til fodbold i Skanderborg hvor barnebarnet spillede. Barnebarnet spiller på U16 holdet i EfB. Hvor er de bare alle så dygtige.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=1693990771057670&set=pcb.1693993354390745&__cft__[0]=AZVl37tqzLd9yh2vSbqEjaF3QzfxMqleSePdn26pOAQyf8rBs25T1lVT8bNFBW2mrMKCeds_tF6NHWVKga6TgYw2_-vS1H0vel4sOR9r-RG7gG6Mw1mPQEq2QZBbWOoh1l0mzSKSSMoeOnYdo0IYxCAx&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "33"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "John Hviid Jakobsen",
+      "authorId": "john.hviidjakobsen",
+      "timeLabel": "Kommentar fra John Hviid Jakobsen for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Johnny Lykke Rasmussen",
+      "authorId": "johnnylykke",
+      "timeLabel": "Kommentar fra Johnny Lykke Rasmussen for 15 uger siden",
+      "text": "Det ser godt ud. God dag herfra.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Anne Mette Christiansen",
+      "authorId": "annemette.christiansen.737",
+      "timeLabel": "Kommentar fra Anne Mette Christiansen for 15 uger siden",
+      "text": "EfB min hjemstavn",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

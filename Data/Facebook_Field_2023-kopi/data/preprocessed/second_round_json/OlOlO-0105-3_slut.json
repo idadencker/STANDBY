@@ -1,0 +1,87 @@
+{
+  "authorName": "Ole Birk Olesen",
+  "authorId": "olebirkolesenLA",
+  "text": "Ingen skat af de første 7.000 kroners månedsløn giver lønmodtagere på mindsteløn meget mere luft i privatøkonomien!",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=775922453903492&set=a.385535002942241&__cft__[0]=AZVNL4bmCt0wyGGN3QX-UmgU6oJcfT0amoaJLXBhFgfnGeuzMEnuRfbSYXjsrmIwtKKEwietX2AiS8-IxkVRtcaQBvE2nI1K9ad2OiyxW7qI8ISFEDzrKA_DJt4481k3Ovi4q2rKgabcIq67K0HAl8de&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "193"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Theis Magle",
+      "authorId": "theis.magle",
+      "timeLabel": "Kommentar fra Theis Magle for 15 uger siden",
+      "text": "Med LA får du mere mellem hænderne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Johnny Jespersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Johnny Jespersen for 15 uger siden",
+      "text": "Kommer skattelettelser til at gå ud over velfærd",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Søren Jakobsen",
+      "authorId": "soren.jakobsen",
+      "timeLabel": "Kommentar fra Søren Jakobsen for 15 uger siden",
+      "text": "Jeg synes den er underligt formuleret. Nettoløn med overenskomst i den røde side, og LA's politik gør vel budskabet noget uklart. Begge eksempler er vel samme løn og samme overenskomst?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Mathias HarrildSøren Jakobsen",
+      "authorId": "mathias.harrild",
+      "timeLabel": "Svar fra Mathias Harrild på Søren Jakobsens kommentar for 15 uger siden",
+      "text": "Søren Jakobsen, men forskelligt resultat - det er netop pointen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Else Stald",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Else Stald for 13 uger siden",
+      "text": "https://bilmagasinet.dk/guides/kobolt-elbil-batterier...",
+      "hasMedia": true,
+      "mediaAltText": "Batteribilerne har en dyster hemmelighed - kan du slippe for dårlig samvittighed?",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

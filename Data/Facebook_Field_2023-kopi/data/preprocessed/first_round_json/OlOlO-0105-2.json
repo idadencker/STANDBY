@@ -1,0 +1,530 @@
+{
+  "authorName": "Ole Birk Olesen",
+  "authorId": "olebirkolesenLA",
+  "text": "Billedet: Falsk individualisme på venteværelset.\nRigtig individualisme: Man skal ikke være noget bestemt, alene fordi andre er sådan. Men man skal heller ikke være noget bestemt, fordi andre ikke er sådan. Man skal være sig selv, men dyrke sine styrker, overkomme sine svagheder og finde frem til, hvordan man kan gøre nytte. I det ligger den værdi, som sand individualisme handler om.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=775843190578085&amp;set=a.385535002942241&amp;__cft__[0]=AZUgDpYdnFHDHJnkGnxsVYy1A-oQJ8k9866pZxPLIBtXmyAS5MQMWXGdAM7QPQoANRCXY3qRHwusDhSAG2ilkwu7LyukKkpprwSoFiHDEoQM1qCvP_Kx1mSjXs2HSzWPrNmnET7uFiuMObAfzeIMDih-&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger &quot;1 BE DIFFERENT&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "335"
+    }
+  ],
+  "comments": [
+    {
+      "id": "751995966408774",
+      "parentId": null,
+      "authorName": "Stefan An",
+      "authorId": "s.hongaard",
+      "timeLabel": "Kommentar fra Stefan An for en uge siden",
+      "text": "Be yourself.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1581152645701532",
+      "parentId": null,
+      "authorName": "Louise Christensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Louise Christensen for en uge siden",
+      "text": "Bare fordi man er unik er man ikke nødvendigvis brugbar. En økse med et skaft lavet af wienerbrød er helt sikkert unikt, men den er fuldstændig ubrugelig.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 8,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "923451635614315",
+      "parentId": "1581152645701532",
+      "authorName": "Morten Soelberg JørgensenLouise Christensen",
+      "authorId": "mortenbergj",
+      "timeLabel": "Svar fra Morten Soelberg Jørgensen på Louise Christensens kommentar for en uge siden",
+      "text": "Louise Christensen Alle mennesker er unikke. Ligesom alle de andre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "648186477216262",
+      "parentId": "1581152645701532",
+      "authorName": "IL FiskerLouise Christensen",
+      "authorId": "lykkefisker",
+      "timeLabel": "Svar fra IL Fisker på Louise Christensens kommentar for en uge siden",
+      "text": "Louise Christensen smager dog bedre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "263822609419897",
+      "parentId": "648186477216262",
+      "authorName": "Louise ChristensenIL Fisker",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Louise Christensen på IL Fiskers svarfor en uge siden",
+      "text": "IL FiskerIkke hvis samme wienerbrød er lavet af tis.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3560892447480921",
+      "parentId": "648186477216262",
+      "authorName": "IL FiskerLouise Christensen",
+      "authorId": "lykkefisker",
+      "timeLabel": "Svar fra IL Fisker på Louise Christensens svarfor en uge siden",
+      "text": "Louise Christensen en opskrift, man normalt kun bruger til udvalgte gæster 😈",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "774148860777627",
+      "parentId": "648186477216262",
+      "authorName": "Louise ChristensenIL Fisker",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Louise Christensen på IL Fiskers svarfor en uge siden",
+      "text": "IL FiskerHåber ikke den er i nogle af dine kogebøger 😂😂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "606149918240405",
+      "parentId": "648186477216262",
+      "authorName": "IL FiskerLouise Christensen",
+      "authorId": "lykkefisker",
+      "timeLabel": "Svar fra IL Fisker på Louise Christensens svarfor en uge siden",
+      "text": "Louise Christensen du gav mig idéen 😅 Men jeg mindes, at i Heksens Håndbog af Dannie Druehyld var der er opskrift på småkager med menstruationsblod. Dem kunne man bruge til at forhekse den mand, man gerne ville have 😅",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "542169734774903",
+      "parentId": "648186477216262",
+      "authorName": "Louise ChristensenIL Fisker",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Louise Christensen på IL Fiskers svarfor en uge siden",
+      "text": "IL Fisker Jeg kan slet ikke beskrive, hvor ulækkert det lyder 😂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "107291172350781",
+      "parentId": "648186477216262",
+      "authorName": "IL FiskerLouise Christensen",
+      "authorId": "lykkefisker",
+      "timeLabel": "Svar fra IL Fisker på Louise Christensens svarfor en uge siden",
+      "text": "Louise Christensen præcis.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1359762734804252",
+      "parentId": null,
+      "authorName": "Louise Brown",
+      "authorId": "louise.brown.10690",
+      "timeLabel": "Kommentar fra Louise Brown for en uge siden",
+      "text": "På min datters teaterskole har de et motto:\nPå Kastali’a lærer eleverne ikke at blive til noget.\nDe lærer at blive til nogen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1435357497221497",
+      "parentId": null,
+      "authorName": "Vi-partiet",
+      "authorId": "vipartiet",
+      "timeLabel": "Kommentar fra Vi-partiet for en uge siden",
+      "text": "Ja, det er sandt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2424065717757517",
+      "parentId": "1435357497221497",
+      "authorName": "Ole Storm HansenVi-partiet",
+      "authorId": "olestormhansen",
+      "timeLabel": "Svar fra Ole Storm Hansen på Vi-partiets kommentar for en uge siden",
+      "text": "Vi-partiet Et ret individuelt spørgsmål, som den enkelte kan have svært at svare en 'vi-person', så denne forstår det i eget billede. - undskyld, 'disse'.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2580567698775806",
+      "parentId": "2424065717757517",
+      "authorName": "Vi-partietOle Storm Hansen",
+      "authorId": "vipartiet",
+      "timeLabel": "Svar fra Vi-partiet på Ole Storm Hansens svarfor en uge siden",
+      "text": "Ole Storm Hansen Der skal være plads til morskab, men det er nu ellers noget meget fint noget:",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "963740645042282",
+      "parentId": "2424065717757517",
+      "authorName": "Ole Storm HansenVi-partiet",
+      "authorId": "olestormhansen",
+      "timeLabel": "Svar fra Ole Storm Hansen på Vi-partiets svarfor en uge siden",
+      "text": "Vi-partiet Så tror jeg vi er enige. Frihed at ikke noget man tager, det er noget vi giver hinanden. 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "4231504103742294",
+      "parentId": "2424065717757517",
+      "authorName": "Vi-partietOle Storm Hansen",
+      "authorId": "vipartiet",
+      "timeLabel": "Svar fra Vi-partiet på Ole Storm Hansens svarfor en uge siden",
+      "text": "Ole Storm Hansen Ja, jeg bliver helt rørt! 😁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "186789737565532",
+      "parentId": "2424065717757517",
+      "authorName": "Ole Storm HansenVi-partiet",
+      "authorId": "olestormhansen",
+      "timeLabel": "Svar fra Ole Storm Hansen på Vi-partiets svarfor en uge siden",
+      "text": "Vi-partiet Det var faktisk meningen... ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "759496818997653",
+      "parentId": null,
+      "authorName": "Nickolei Granell",
+      "authorId": "Granell4640",
+      "timeLabel": "Kommentar fra Nickolei Granell for en uge siden",
+      "text": "Jeg føler mig krænket over at fuglene er sorte 😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "971699047586430",
+      "parentId": null,
+      "authorName": "Boas Kallehave Therkildsen",
+      "authorId": "boaskallehave.therkildsen",
+      "timeLabel": "Kommentar fra Boas Kallehave Therkildsen for en uge siden",
+      "text": "Det skal ikke være et spørgsmål om tvang. For så er det bare (dårligt) skuespil, og ikke ægte.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3212285039061382",
+      "parentId": null,
+      "authorName": "Vi-partiet",
+      "authorId": "vipartiet",
+      "timeLabel": "Kommentar fra Vi-partiet for en uge siden",
+      "text": "Ole, Vi-partiet har brug for hjælp.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "986163999470304",
+      "parentId": null,
+      "authorName": "Anders Thorup",
+      "authorId": "anders.thorup",
+      "timeLabel": "Kommentar fra Anders Thorup for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 13,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1856633468052247",
+      "parentId": "986163999470304",
+      "authorName": "Jacob D JensenAnders Thorup",
+      "authorId": "jacob.dam.182",
+      "timeLabel": "Svar fra Jacob D Jensen på Anders Thorups kommentar for en uge siden",
+      "text": "Anders Thorup Den er som skabt til LA",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "932272401441592",
+      "parentId": null,
+      "authorName": "Jo Larsen",
+      "authorId": "jo.larsen.5686",
+      "timeLabel": "Kommentar fra Jo Larsen for en uge siden",
+      "text": "Smukt sagt 💖🥇",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1996630930544674",
+      "parentId": null,
+      "authorName": "Ole Storm Hansen",
+      "authorId": "olestormhansen",
+      "timeLabel": "Kommentar fra Ole Storm Hansen for en uge siden",
+      "text": "“What if this is as good as it gets?” citat; Melvin Udall.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1872850819767044",
+      "parentId": null,
+      "authorName": "Lisa Søndergaard Perkins",
+      "authorId": "LisaLort",
+      "timeLabel": "Kommentar fra Lisa Søndergaard Perkins for en uge siden",
+      "text": "Der kunne ligeså godt stå “Be an idiot” … der er jo en grund til fuglene sidder ovenpå pinden og ikke hænger nedenunder den 🙄",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "963394058408972",
+      "parentId": null,
+      "authorName": "Nicolaj Bang",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Kommentar fra Nicolaj Bang for en uge siden",
+      "text": "Billedet viser desværre meget godt, hvad udannet liberalisme har det med at udvikle sig til.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "24015361094730184",
+      "parentId": "963394058408972",
+      "authorName": "Ole Birk OlesenVerificeret kontoNicolaj Bang",
+      "authorId": "olebirkolesenLA",
+      "timeLabel": "Svar fra Ole Birk Olesen på Nicolaj Bangs kommentar for en uge siden",
+      "text": "Nicolaj Bang Det har intet med liberalisme at gøre. Man kunne kalde det “kontrarianisme”.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1458724301533059",
+      "parentId": "24015361094730184",
+      "authorName": "Nicolaj BangOle",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Ole Birk Olesens svarfor en uge siden",
+      "text": "Ole du kan nok ikke adskille de to varianter helt så klart, selvom vi godt kunne undvære den sidste 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "599329195560621",
+      "parentId": "24015361094730184",
+      "authorName": "Ole Birk OlesenVerificeret kontoNicolaj Bang",
+      "authorId": "olebirkolesenLA",
+      "timeLabel": "Svar fra Ole Birk Olesen på Nicolaj Bangs svarfor en uge siden",
+      "text": "Nicolaj Bang Det kan man absolut adskille fuldstændigt. Der er intet i liberal tænkning om, at man partout skal være anderledes, og det er latterligt at påstå det.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6204809739542085",
+      "parentId": "24015361094730184",
+      "authorName": "Nicolaj BangOle",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Ole Birk Olesens svarfor en uge siden",
+      "text": "Ole og du synes slet ikke, at der er bare en lille bitte overvægt af den type blandt selverklærede liberale?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1395053531288462",
+      "parentId": "24015361094730184",
+      "authorName": "Ole Birk OlesenVerificeret kontoNicolaj Bang",
+      "authorId": "olebirkolesenLA",
+      "timeLabel": "Svar fra Ole Birk Olesen på Nicolaj Bangs svarfor en uge siden",
+      "text": "Nicolaj Bang Nej, unge liberale har aldrig lavet så meget ballade som KU’ere.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "152971987739839",
+      "parentId": "24015361094730184",
+      "authorName": "Nicolaj BangOle",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Ole Birk Olesens svarfor en uge siden",
+      "text": "Ole formentlig ikke - til gengæld har de nok mere selverkendelse 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

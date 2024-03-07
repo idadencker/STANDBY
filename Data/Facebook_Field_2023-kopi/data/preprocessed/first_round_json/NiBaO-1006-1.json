@@ -1,0 +1,598 @@
+{
+  "authorName": "Nicolaj Bang",
+  "authorId": "Bang.Nicolaj",
+  "text": "Nu gør vi Bernhardt Jensens Boulevard færdig.\nLige om lidt sætter vi spaden i jorden, og går i gang med at gøre boulevarden grønnere og smukkere. Vi har valgt at lade den sno sig fra den ene side til den anden, for at undgå vanvidsbilisme og samtidig skabe små intime byrum med træer og buske.\nVi håber på, at kunne være færdige med den første bue allerede inden sommerferien.\nSe illustrationerne nedenfor.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=725043572955105&amp;set=pcb.725046382954824&amp;__cft__[0]=AZW428Y17KxsABGs7-Nkojr_5mGsePDmw59iBsKVz_b1DWgeBSJjSBC-1ii8LDnQ521T1Sh0moBaYKeXB2DMfH2z2PH_zApWXWOfpVCEUQfdJo4tL08WU1jFGfmHV595dzbaMymhk0PuQiE8zmsV2dGo&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "82"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "930831768141298",
+      "parentId": null,
+      "authorName": "Anette Due",
+      "authorId": "duenden",
+      "timeLabel": "Kommentar fra Anette Due for 5 timer siden",
+      "text": "Endeligt lidt grønt på beton øen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1189705241719514",
+      "parentId": null,
+      "authorName": "Kenneth Martin",
+      "authorId": "kenneth.breschel",
+      "timeLabel": "Kommentar fra Kenneth Martin for 14 timer siden",
+      "text": "Nu holder der biler igen på boulevarden, men det holdt da en dags tid 😩troede at det var slut nu,",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "185114121184213",
+      "parentId": null,
+      "authorName": "Kenneth Martin",
+      "authorId": "kenneth.breschel",
+      "timeLabel": "Kommentar fra Kenneth Martin for 14 timer siden",
+      "text": "Og busser med 10 minutters drift, det bliver da ulideligt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "964383468141661",
+      "parentId": null,
+      "authorName": "Martin Hansen",
+      "authorId": "martin.hansen.3511",
+      "timeLabel": "Kommentar fra Martin Hansen for 3 timer siden",
+      "text": "Færdig?🧐\nSå skulle der jo køre en letbane?\nNå nej, den er jo droppet.\nSynd for dem der har købt i troen på letbanen kom derud👎",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "837452871330091",
+      "parentId": null,
+      "authorName": "Steen Stavnsbo",
+      "authorId": "steen.stavnsbo",
+      "timeLabel": "Kommentar fra Steen Stavnsbo for en dag siden",
+      "text": "simpelthen helt FANTASTISK 👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1192552805473377",
+      "parentId": null,
+      "authorName": "Pernille Sandahl",
+      "authorId": "pernille.sandahl",
+      "timeLabel": "Kommentar fra Pernille Sandahl for 22 timer siden",
+      "text": "Det bliver flot!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "219099494398554",
+      "parentId": "1192552805473377",
+      "authorName": "Nicolaj BangPernille",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Pernille Sandahls kommentar for 21 timer siden",
+      "text": "Hej Pernille, hvis du ser områder i byen, som virker misligholdt, så må du meget gerne indrapportere det med app’en Borgertip, så kigger vi på det 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "640573664614890",
+      "parentId": null,
+      "authorName": "Helle Og Klaus Løwe",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helle Og Klaus Løwe for 22 timer siden",
+      "text": "Det bliver fantastisk 👏🏼☀️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "991273795204471",
+      "parentId": null,
+      "authorName": "Poul M. Schmidt",
+      "authorId": "poul.m.schmidt",
+      "timeLabel": "Kommentar fra Poul M. Schmidt for 4 timer siden",
+      "text": "Vi glæder os til at se det færdige resultat, har kommunen overvejet at bruge en del af arealet på pier 3 til parkering her i sommer, hvor der kommer mange turister og besøgende til Aarhus Ø.\nParkeringspladser i diverse kældere er ret dyrt ift. Aarhus kommunes gadeparkering 🤔🤔🤔",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "976545513524968",
+      "parentId": null,
+      "authorName": "Michael Andersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Michael Andersen for 21 timer siden",
+      "text": "Super, og tiltrængt, med noget grønt der. Håber der er penge i budget til vedligehold..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1339130613484781",
+      "parentId": null,
+      "authorName": "Peter Sporleder",
+      "authorId": "petersporleder",
+      "timeLabel": "Kommentar fra Peter Sporleder for en dag siden",
+      "text": "Det bliver fantastisk! Tak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "287283510479981",
+      "parentId": null,
+      "authorName": "Klaus Rou JensenRasmus Rou Bach Jensing",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Klaus Rou Jensen for en dag siden",
+      "text": "Rasmus Rou Bach Jensing",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "275060835007470",
+      "parentId": null,
+      "authorName": "Christian Overby",
+      "authorId": "christian.b.overby",
+      "timeLabel": "Kommentar fra Christian Overby for 3 dage siden",
+      "text": "Go ide 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1340068703519202",
+      "parentId": null,
+      "authorName": "Bjarne W. Andresen",
+      "authorId": "bjarnewandresen",
+      "timeLabel": "Kommentar fra Bjarne W. Andresen for 2 dage siden",
+      "text": "Fjerner I også den stolpe, som står ret umotiveret på cykelstien og ud over at være til gene kan være direkte farlig, hvis en cyklist trækker ud umiddelbart inden stolpen, så cyklisten bagved ikke kan undvige?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1298414394097333",
+      "parentId": "1340068703519202",
+      "authorName": "Nicolaj BangBjarne",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Bjarne W. Andresens kommentar for en dag siden",
+      "text": "Hej Bjarne, det ser unægteligt lidt farligt ud - jeg finder lige ud af, om den kan fjernes",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 7,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1331362657418473",
+      "parentId": null,
+      "authorName": "Allan Olsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Allan Olsen for en dag siden",
+      "text": "Udvider man så også staben af cityassistenter ? - behovet er der jo stadig… for gratis parkering.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "282854117442015",
+      "parentId": null,
+      "authorName": "CV Nielsen Nielsen",
+      "authorId": "cvnielsen.nielsen",
+      "timeLabel": "Kommentar fra CV Nielsen Nielsen for en dag siden",
+      "text": "Bare så trafikken ikke flytter til Dagmar Petersens Gade\nEllers mega godt projekt 🌳",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "797782648335208",
+      "parentId": null,
+      "authorName": "Bodil Bernhard Torp",
+      "authorId": "bodil.b.torp",
+      "timeLabel": "Kommentar fra Bodil Bernhard Torp for en dag siden",
+      "text": "Han hed Bernhardt Jensen ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "489486006693241",
+      "parentId": "797782648335208",
+      "authorName": "Nicolaj BangBodil",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Bodil Bernhard Torps kommentar for 21 timer siden",
+      "text": "Hej Bodil, mine tykke fingre rammer ikke altid telefonen som de skal. Jeg beklager stavefejlen, som nu er rettet.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "800686924669679",
+      "parentId": null,
+      "authorName": "Henrik Arens",
+      "authorId": "arensdk",
+      "timeLabel": "Kommentar fra Henrik Arens for 3 dage siden",
+      "text": "Bliver det permanent denne gang?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "624371742955063",
+      "parentId": "800686924669679",
+      "authorName": "Nicolaj BangHenrik",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Henrik Arenss kommentar for 2 dage siden",
+      "text": "Henrik med mindre nogen kommer kommer forbi med en bulldozer 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "582545983964395",
+      "parentId": "624371742955063",
+      "authorName": "Henrik ArensNicolaj Bang",
+      "authorId": "arensdk",
+      "timeLabel": "Svar fra Henrik Arens på Nicolaj Bangs svarfor 2 dage siden",
+      "text": "Nicolaj Bang Det lød bare ikke sådan i avisen. Men godt der er lidt sund fornuft i afdelingen 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1471986160203910",
+      "parentId": null,
+      "authorName": "Tóra Haraldsen Dahl",
+      "authorId": "tora.dahl",
+      "timeLabel": "Kommentar fra Tóra Haraldsen Dahl for en dag siden",
+      "text": "Det vil være skønt hvis den offentlige transport bliver hyppigere. Intensiv busdrift kan nedsætte behovet for bilparkering.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "209518992002501",
+      "parentId": "1471986160203910",
+      "authorName": "Nicolaj BangTóra",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Tóra Haraldsen Dahls kommentar for en dag siden",
+      "text": "Hej Tóra, 3A’eren bliver efter planen forlænget og kommer til at køre forbi med forholdsvis stor hyppighed.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "133275269772291",
+      "parentId": "209518992002501",
+      "authorName": "Tóra Haraldsen DahlNicolaj Bang",
+      "authorId": "tora.dahl",
+      "timeLabel": "Svar fra Tóra Haraldsen Dahl på Nicolaj Bangs svarfor en dag siden",
+      "text": "Nicolaj Bang Tak for dit svar. Kan du give lidt flere detaljer om hvornår og om hyppighed? Effektiv offentlig transport er en nødvendighed, dvs. mindst 4 gange i timen og til langt ud på aftenen. Vi er mange der glæder os til mere busdrift og færre biler.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "161963200193426",
+      "parentId": "209518992002501",
+      "authorName": "Nicolaj BangTóra",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Tóra Haraldsen Dahls svarfor en dag siden",
+      "text": "Hej igen Tóra, pt. kører den hvert 10. minut. Som jeg umiddelbart husker det vil det være med samme frekvens.",
+      "hasMedia": true,
+      "mediaAltText": "3a Rute: Rejseplaner, stop &amp; kort - Rutebilstationen (Opdateret)",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "227564073369308",
+      "parentId": "209518992002501",
+      "authorName": "Tóra Haraldsen DahlNicolaj Bang",
+      "authorId": "tora.dahl",
+      "timeLabel": "Svar fra Tóra Haraldsen Dahl på Nicolaj Bangs svarfor en dag siden",
+      "text": "Nicolaj Bang Tusind tak. Jeg er nysgerrig efter hvornår dette sættes i værk. Fortsat god søndag. Det bliver skønt når boulevarden bliver smuk.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "948171183120134",
+      "parentId": null,
+      "authorName": "Rasmus Bjerner",
+      "authorId": "bjerner",
+      "timeLabel": "Kommentar fra Rasmus Bjerner for en dag siden",
+      "text": "Rimeligt ligegyldigt sponseret opslag, når man ikke er fra Aarhus 😮",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "663211225647627",
+      "parentId": "948171183120134",
+      "authorName": "Nicolaj BangRasmus",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Rasmus Bjerners kommentar for 21 timer siden",
+      "text": "Rasmus sært - den er faktisk sat til kun at vises for midtbyen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "1935324676823191",
+      "parentId": "663211225647627",
+      "authorName": "Solveig HansenNicolaj Bang",
+      "authorId": "solveig.hansen.712",
+      "timeLabel": "Svar fra Solveig Hansen på Nicolaj Bangs svarfor 4 timer siden",
+      "text": "Nicolaj Bang den når helt til Midtdjurs, men jeg gider godt se godt nyt fra min storstad",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "226208980209863",
+      "parentId": null,
+      "authorName": "Bernd Vahl",
+      "authorId": "bernd.vahl",
+      "timeLabel": "Kommentar fra Bernd Vahl for en dag siden",
+      "text": "3A kører da ikke til/fra Aarhus Ø?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "23998149596499800",
+      "parentId": "226208980209863",
+      "authorName": "Nicolaj BangBernd",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Bernd Vahls kommentar for 21 timer siden",
+      "text": "Bernd ikke endnu 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "792422162475004",
+      "parentId": "226208980209863",
+      "authorName": "Kenneth MartinBernd Vahl",
+      "authorId": "kenneth.breschel",
+      "timeLabel": "Svar fra Kenneth Martin på Bernd Vahls kommentar for 14 timer siden",
+      "text": "Bernd Vahl det skulle være så sundt at gå og cykle, ikke flere busser tak, hvis boulevarden bliver fyldt med busser, så forsvinder ideen lidt med den grønne oase",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1962880207414857",
+      "parentId": "226208980209863",
+      "authorName": "Bernd Vahl",
+      "authorId": "bernd.vahl",
+      "timeLabel": "Svar fra Bernd Vahl på Bernd Vahls kommentar for 14 timer siden",
+      "text": "Jeg vil også meget hellere have en letbane.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "290247496797459",
+      "parentId": null,
+      "authorName": "Michael Davidsen",
+      "authorId": "michael.davidsen.79",
+      "timeLabel": "Kommentar fra Michael Davidsen for en dag siden",
+      "text": "Bliver der så oprettet alternative parkeringspladser så folk ikke skal slås yderligere om de resterende få pladser der er?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "6589602621091397",
+      "parentId": "290247496797459",
+      "authorName": "Nicolaj BangMichael",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Michael Davidsens kommentar for en dag siden",
+      "text": "Hej Michael, der er stadig en del ledig kapacitet i de tilgængelige parkeringskældre på øen, så det burde være muligt at finde et sted at stille bilen. Vi overvejer, om det vil være en fordel med nogle klare skilte, så folk kan se, hvor de kan køre hen, og om der er ledigt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

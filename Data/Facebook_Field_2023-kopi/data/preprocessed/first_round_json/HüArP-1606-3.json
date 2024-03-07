@@ -1,0 +1,277 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "75"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Esma Sultan Öcal",
+      "authorId": "eesmasultann",
+      "timeLabel": "Kommentar fra Esma Sultan Öcal for 9 uger siden",
+      "text": "Abi yardımcı olayım.\nKesin fiyat araştırması için isteniyordur",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Hüseyin AracEsma Sultan Öcal",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Esma Sultan Öcals kommentar for 9 uger siden",
+      "text": "Esma Sultan Öcal çok çok teşekkür ederim sağolasın var olasın, iyiki senin gibi kaliteli kültürlü dostlarım var.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Esma Sultan ÖcalHüseyin Arac",
+      "authorId": "eesmasultann",
+      "timeLabel": "Svar fra Esma Sultan Öcal på Hüseyin Aracs kommentar for 9 uger siden",
+      "text": "Hüseyin Arac bilmukabele abiciğim.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Yücel TanriverdiEsma Sultan Öcal",
+      "authorId": "Berberzade",
+      "timeLabel": "Svar fra Yücel Tanriverdi på Esma Sultan Öcals kommentar for 9 uger siden",
+      "text": "Esma Sultan Öcal anlamadığın bir aşcılik vardı onuda kanıtladın sağol",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Esma Sultan Öcal",
+      "authorId": "eesmasultann",
+      "timeLabel": "Svar fra Esma Sultan Öcal på Yücel Tanriverdis kommentar for 9 uger siden",
+      "text": "Yücel Tanriverdi aşçılıkla alakalı değil abi,farklı kültür ve tatlara açık olan herkes bilir, aşçı olmasına gerek yok.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Erdogan Teke",
+      "authorId": "erdogan.teke",
+      "timeLabel": "Kommentar fra Erdogan Teke for 9 uger siden",
+      "text": "Kuru fasülye (etli)\nnohut pilav\ncacık\nmanda yorduğunu mutlaka eklemelisin\nÇoban salatası..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Hüseyin AracErdogan Teke",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Erdogan Tekes kommentar for 9 uger siden",
+      "text": "Erdogan Teke Erdoğan hoca valla bizim Ali can ın ordaki etli ekmek daha lezzetli bence. Ama bugünde böyle olsun",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mehmet Bardak",
+      "authorId": "mehmetmusik",
+      "timeLabel": "Kommentar fra Mehmet Bardak for 9 uger siden",
+      "text": "Sen adamsın abim , biz seni iyi bilir iyi taniriz , elindeki bir cok imkanlarla hic bir zaman kendi insanına ve her hangi bir insana tepeden bakmayan tek ADAM .",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Hüseyin AracMehmet Bardak",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Mehmet Bardaks kommentar for 9 uger siden",
+      "text": "Mehmet Bardak kardeşim çok teşekkür ederim sağolasın",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Halil Ipek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Halil Ipek for 9 uger siden",
+      "text": "Evet adam gibi adam",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Hüseyin AracHalil Ipek",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Halil Ipeks kommentar for 9 uger siden",
+      "text": "Halil Ipek teşekkürler sağolasın",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Müslim Metin",
+      "authorId": "muslim.metin",
+      "timeLabel": "Kommentar fra Müslim Metin for 9 uger siden",
+      "text": "Sen ne yapacaksın kraliçenin menüsünü, o menüyü yedikten sonra karnın doymayacakken akşam dernekte özcanin her zamanki gibi mükemmel akşama hazır mısın?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Haci Murat Ceylan",
+      "authorId": "hacimurat.ceylan.39",
+      "timeLabel": "Kommentar fra Haci Murat Ceylan for 9 uger siden",
+      "text": "Hüseyin Dayi\n-bir gün Margrete ya\n-güzel bir “ kuru fasulye\nVe bulgur pilav yapsan diyom",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Sibel Naz",
+      "authorId": "jadoresibelnaz",
+      "timeLabel": "Kommentar fra Sibel Naz for 9 uger siden",
+      "text": "Herşeyin en iyisine layıksınız abi! Afiyet olsun. Tadını çıkartın Nafiye ablamla",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Durmuş Özgen",
+      "authorId": "durmus.ozgen.9",
+      "timeLabel": "Kommentar fra Durmuş Özgen for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mustafa Soyak",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Mustafa Soyak for 9 uger siden",
+      "text": "Afiyet bal şeker olsun Hüseyin abi. Hürmetle selamlar.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mehmet Dündar Günaydin",
+      "authorId": "mehmet.d.gunaydin",
+      "timeLabel": "Kommentar fra Mehmet Dündar Günaydin for 9 uger siden",
+      "text": "Ağabeyim sen bizim için çok değerlisin ve hep öyle kalacaksın...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Fadime Øzarslan",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Fadime Øzarslan for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Kirsten siger det! Velfærd kræver investeringer.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "74"
+    }
+  ],
+  "comments": [
+    {
+      "id": "955606232446610",
+      "parentId": null,
+      "authorName": "Thomas Claus Meier Nielsen",
+      "authorId": "Thomas.C.M.Nielsen",
+      "timeLabel": "Kommentar fra Thomas Claus Meier Nielsen for 5 dage siden",
+      "text": "Men de syge i cirkus jobcenter, som dagligt, dokumenteret bliver mishandlet, tortureret og slået ihjel, vender vi stadig ryggen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

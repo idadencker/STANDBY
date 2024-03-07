@@ -1,0 +1,32 @@
+{
+  "authorName": "Yilmaz Yildiz",
+  "authorId": "roniwelat",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "25"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Abbas Özen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Abbas Özen for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

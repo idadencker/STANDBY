@@ -1,0 +1,255 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "I går var Majken og jeg alene i byen for første gang i lang tid - ungerne er på svømmelejr.\nUd over god mad og jazz, faldt vi over denne smukke plakat.\nPalads har mange kvaliteter, som kræver nænsom istandsættelse, frem for nedrivning\nIkke det samme som en totalfredning, men et fokus på at bevare bygningens funktion og æstetik, fx ved at der i stedet gives mulighed for at udvide med biografsale under pladsen.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161744324329271&set=a.10150290430239271&__cft__[0]=AZWnrRpwaHwvU-R70hoxvOOP-v0b-ATlshCHDi6Vues5mZE-JggRa4_hNlmBbNqoIz99Mn4E6LCIRN4nQhxnHNtFXNm4AVp8bWDZI894WIZhyiUjIpdp1DwcGlSD6kRZ2KM&__tn__=EH-R",
+  "mediaText": "Kan være et billede af baguette og tekst, der siger \"W TARE PALADS BEVAR \" 之 BEVAR ALADS\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "71"
+    }
+  ],
+  "comments": [
+    {
+      "id": "305410758491929",
+      "parentId": null,
+      "authorName": "Ann Thorsted",
+      "authorId": "ann.thorsted",
+      "timeLabel": "Kommentar fra Ann Thorsted for 3 dage siden",
+      "text": "Der må da være nogle fonde der tør :)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1368760454022380",
+      "parentId": "305410758491929",
+      "authorName": "Rasmus SteenbergerAnn",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ann Thorsteds kommentar for 2 dage siden",
+      "text": "Indtil videre vil Nordisk Film gerne selv, Ann De tror bare at de kan rive ned og bygge nyt. Det bliver en ommer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "791685495666468",
+      "parentId": null,
+      "authorName": "Gunner Holm Petersen",
+      "authorId": "gunner.holmpetersen",
+      "timeLabel": "Kommentar fra Gunner Holm Petersen for 3 dage siden",
+      "text": "SÅ rart ... at se\nKbhs midtby skal ikke gøre til en udvidelse af Tivoli.",
+      "hasMedia": true,
+      "mediaAltText": "Berlins distrikter - Wikipedia, den frie encyklopædi",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1337438970464022",
+      "parentId": "791685495666468",
+      "authorName": "Rasmus SteenbergerGunner",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Gunner Holm Petersens kommentar for en dag siden",
+      "text": "Tak for Berlin-linket, Gunner - der er meget vi kan lære af Berlin",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "934588207651444",
+      "parentId": null,
+      "authorName": "Troels Christian Jakobsen",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Kommentar fra Troels Christian Jakobsen for 3 dage siden",
+      "text": "Spændende. Så vil SF stemme for en bevarende lokalplan næste gang? Og ikke stemme imod som I gjorde her i maj?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "606414494891209",
+      "parentId": "934588207651444",
+      "authorName": "Rasmus SteenbergerTroels",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Troels Christian Jakobsens kommentar for 3 dage siden",
+      "text": "Hej Troels, det er ikke det jeg skriver - du kender godt SFs standpunkt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1334490873824805",
+      "parentId": null,
+      "authorName": "Linnéa Kemppainen",
+      "authorId": "numsenissen",
+      "timeLabel": "Kommentar fra Linnéa Kemppainen for 3 dage siden",
+      "text": "Er problemet ikke at bygningen er ved at drukne i fugt i kælderen? At den ikke kan overleve som den er nu? En fredning ville betyde at man bevarede skallen og fornyede indvendig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "552765360199697",
+      "parentId": "1334490873824805",
+      "authorName": "Rasmus SteenbergerLinnéa",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Linnéa Kemppainens kommentar for 3 dage siden",
+      "text": "Hej Linnéa, en fredning er ikke løsningen - men det er heller ikke løsningen at rive det hele ned",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "655111453156376",
+      "parentId": "1334490873824805",
+      "authorName": "Lene Pia HansenRasmus Steenberger",
+      "authorId": "lene.p.hansen.9",
+      "timeLabel": "Svar fra Lene Pia Hansen på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger hvorfor er fredning ikke løsningen?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3619558318258496",
+      "parentId": "1334490873824805",
+      "authorName": "Rune Skov FeyRasmus Steenberger",
+      "authorId": "rune.fey",
+      "timeLabel": "Svar fra Rune Skov Fey på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger Det er en fin løsning at rive ned. Ingen nævneværdig historisk eller arkitektonisk værdi… Det eneste der taler for bevaring er almen nostalgi.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1210478566301392",
+      "parentId": "1334490873824805",
+      "authorName": "Marianne SonntagRune Skov Fey",
+      "authorId": "marianne.sonntag.9",
+      "timeLabel": "Svar fra Marianne Sonntag på Rune Skov Feys kommentar for 2 dage siden",
+      "text": "Rune Skov Fey Rent miljømæssigt er det faktisk en fordel at restaurere fremfor at rive ned. Og det er da muligt at du synes at det er nostalgi men jeg synes at den er bevaringsværdig. Den er et skønt og frisk pust og man bliver glad af alle de farver Desuden er de forslag, der har været fremme bestemt ikke klædelige for byen (efter min mening)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1415418585904271",
+      "parentId": "1334490873824805",
+      "authorName": "Gustav BradeRasmus Steenberger",
+      "authorId": "gustav.brade",
+      "timeLabel": "Svar fra Gustav Brade på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger hvad er så løsningen?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "969636950905311",
+      "parentId": "1334490873824805",
+      "authorName": "Rasmus SteenbergerGustav",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Gustav Brades kommentar for en dag siden",
+      "text": "Hej Gustav, nu får du SFs officielle synspunkt: Vi vil gerne tillade en nænsom ombygning, som giver mulighed for at modernisere biograf-funktionen, så der igen kan være økonomi i at drive den. Så stedet ikke ender som endnu en lukket facilitet for advokater eller lign.\nDet kunne fx ske ved at få gravet godt ud omkring bygningen og lave biografsale under pladsen og under vejene. Og gerne en ensretning/lukning af Hammerichsgade, så der også kan bygges ud under den, og skabes byliv hele vejen rundt om Palads.\nDet er selvsagt usikkert om den vision kan bære - praktisk og økonomisk. Men det vil vi gerne have undersøgt før vi ser på andre greb.\nFrem for alt ønsker vi at bevare den publikumsvenlige funktion, dernæst bygningens indre og ydre æstetik.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1669531896861115",
+      "parentId": "1334490873824805",
+      "authorName": "Rasmus SteenbergerMarianne",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Marianne Sonntags kommentar for en dag siden",
+      "text": "Enig, Marianne",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "603461754952952",
+      "parentId": "1334490873824805",
+      "authorName": "Gunner Holm PetersenRune Skov Fey",
+      "authorId": "gunner.holmpetersen",
+      "timeLabel": "Svar fra Gunner Holm Petersen på Rune Skov Feys kommentar for 22 timer siden",
+      "text": "Rune Skov Fey og så lige det at der vil blive opført en underholdningssilo som vil dræne omegnen for underholdning og give tivoliseringen af midbyen en spand kul .... men så langt kan man måske ikke tænke.... ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

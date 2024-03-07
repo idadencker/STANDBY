@@ -1,0 +1,211 @@
+{
+  "authorName": "Yildiz Akdogan",
+  "authorId": "YildizAkdogan",
+  "text": "God fars dag til den rareste farmand og dede. Altid støttende og altid kærlig\nHalil Akdogan\nOg god fars dag til alle fædre",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160895102586550&set=a.10150110807546550&__cft__[0]=AZXPd8sdWoNWEgZL9nAQpmm2v-i4M6eNBgQADGj5xGI_j2srfrIIfHV2oO9ovjgtvB51ZOZfjvdlfGvsqN4ggy2Yb3ywJCQVqGjamAdDi5s0ITcO5VfGo0zkfOfwUHa1kdA&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer og smilende personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "107"
+    },
+    {
+      "type": "heart",
+      "count": "29"
+    },
+    {
+      "type": "care",
+      "count": "13"
+    }
+  ],
+  "comments": [
+    {
+      "id": "581388240535641",
+      "parentId": null,
+      "authorName": "Ulla Moth-Lund",
+      "authorId": "ulla.mothlund",
+      "timeLabel": "Kommentar fra Ulla Moth-Lund for 4 dage siden",
+      "text": "God dag til din søde far, som laver de bedste syltede dimser, som jeg har glemt hvad hedder",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "1023763319031423",
+      "parentId": "581388240535641",
+      "authorName": "Yildiz AkdoganUlla Moth-Lund",
+      "authorId": "YildizAkdogan",
+      "timeLabel": "Svar fra Yildiz Akdogan på Ulla Moth-Lunds kommentar for 4 dage siden",
+      "text": "Ulla Moth-Lund tursu med grønsager fra egen have.\nOg vi har allerede bestilt til efteråret",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "484784833833012",
+      "parentId": "581388240535641",
+      "authorName": "Ulla Moth-LundYildiz Akdogan",
+      "authorId": "ulla.mothlund",
+      "timeLabel": "Svar fra Ulla Moth-Lund på Yildiz Akdogans kommentar for 4 dage siden",
+      "text": "Yildiz Akdogan uha det lyder herligt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "195769586325430",
+      "parentId": null,
+      "authorName": "Trine Kamp Larsen",
+      "authorId": "trinekamplarsen",
+      "timeLabel": "Kommentar fra Trine Kamp Larsen for 4 dage siden",
+      "text": "Han ser godtnok også rar ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "213454981577331",
+      "parentId": "195769586325430",
+      "authorName": "Yildiz AkdoganTrine Kamp Larsen",
+      "authorId": "YildizAkdogan",
+      "timeLabel": "Svar fra Yildiz Akdogan på Trine Kamp Larsens kommentar for 4 dage siden",
+      "text": "Trine Kamp Larsen det er han også",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "775748110716035",
+      "parentId": null,
+      "authorName": "Susanne Gupta",
+      "authorId": "susanne.walsh1",
+      "timeLabel": "Kommentar fra Susanne Gupta for 4 dage siden",
+      "text": "Een af Esbjergs rareste",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "5763043357134329",
+      "parentId": null,
+      "authorName": "Lisbeth Kirstine Helbo Hansen",
+      "authorId": "lisbeth.k.helbo",
+      "timeLabel": "Kommentar fra Lisbeth Kirstine Helbo Hansen for 4 dage siden",
+      "text": "Og altid arbejdsom når jeg gik i skole om morgenen, var din far altid i færd med at pakke dagens frugt og grønt ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1061736068135126",
+      "parentId": "5763043357134329",
+      "authorName": "Yildiz AkdoganLisbeth Kirstine Helbo Hansen",
+      "authorId": "YildizAkdogan",
+      "timeLabel": "Svar fra Yildiz Akdogan på Lisbeth Kirstine Helbo Hansens kommentar for 4 dage siden",
+      "text": "Lisbeth Kirstine Helbo Hansen den mest flittige og hårdtarbejdende menneske jeg kender",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "157844500486191",
+      "parentId": null,
+      "authorName": "Zubeyde Aygün",
+      "authorId": "zubeyde.aygun.90",
+      "timeLabel": "Kommentar fra Zubeyde Aygün for 3 dage siden",
+      "text": "Enisdecim Babalar günün kutlu olsun",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "213687631496354",
+      "parentId": null,
+      "authorName": "Şemsi Alp",
+      "authorId": "semsi.alp.1",
+      "timeLabel": "Kommentar fra Şemsi Alp for 3 dage siden",
+      "text": "Babalar günün kutlu olsun nice mutlu sağlıklı ömürler versin inşallah canım ağbim öpüyorum ellrinde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "6152150404883262",
+      "parentId": null,
+      "authorName": "Fadime Bülbül",
+      "authorId": "fadime.bulbul.5680",
+      "timeLabel": "Kommentar fra Fadime Bülbül for 3 dage siden",
+      "text": "Babalar Günü Kutlu olsun",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    }
+  ]
+}

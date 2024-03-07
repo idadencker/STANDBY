@@ -1,0 +1,69 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Sommerfest 2023 på Cykellegepladsen\nTak til Jungle Jim for festlig underholdning for børn og barnlige sjæle, og tak til alle der kom!\nVi fra bestyrelsen er glade for igen at vise områdets dejlige legeplads frem - og skabe opmærksomhed om Cykelbiblioteket.\nDer er åbent for selvbetjening alle dage fra 8-20.\nVi ses igen til Høstfest/Halloween",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161703815449271&set=pcb.10161703825209271&__cft__[0]=AZVtf0usWttdzl7UP_aoZa_4tw-1VPJIxZIhP2sbUTEVkpUFoRHPRR5t4VQkvB3RXItX66eAZ7XphTs04T8AEYgBRtoYQRMCHJBDt5uinC5sRSGKhY66OGqeNo5Qg15BWsCBHFXDq_lonwNwiS_nHWoUS5x_Gg15BCG95fomgwm4xw&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "27"
+    },
+    {
+      "type": "heart",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "275023388334705",
+      "parentId": null,
+      "authorName": "Jungle Jim",
+      "authorId": "junglejim.dk",
+      "timeLabel": "Kommentar fra Jungle Jim for 5 dage siden",
+      "text": "Jeg siger selv tak for en herlig eftermiddag Jeg håber vi ses igen en dag",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1292307554697268",
+      "parentId": "275023388334705",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jungle Jims kommentar for 4 dage siden",
+      "text": "Absolut, Jim",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1301541313782474",
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 4 dage siden",
+      "text": "Vi glæder os til næste gang",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

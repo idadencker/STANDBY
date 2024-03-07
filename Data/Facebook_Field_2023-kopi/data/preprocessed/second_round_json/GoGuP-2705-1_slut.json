@@ -1,0 +1,97 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Når store som små i dag vandrer Amarminoen, så er Fælledvennerne klar til at klæde dem på.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171097606312037&amp;set=a.10150534890722037&amp;__cft__[0]=AZWo7dblSXiMApyiUGMLxRXUn850QSLGqs0yXcKnNkbGv9U9gZyscH7s0f4jxWTYhtlb_9wLzDkJzi5UEL9sy5wjos4SwfoabNjochDXoOHoVFwGe9SxtDNcOgLkbdN7OFE&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "88"
+    },
+    {
+      "type": "heart",
+      "count": "14"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Gorm Anker Gunnarsenhttps://facebook.com/events/s/amager-f%C3%A6lleds-venner-tager-ti/622406569266363/",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Kommentar fra Gorm Anker Gunnarsen for 12 uger siden",
+      "text": "https://facebook.com/events/s/amager-f%C3%A6lleds-venner-tager-ti/622406569266363/",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jens Jacob Bierring",
+      "authorId": "Jebier",
+      "timeLabel": "Kommentar fra Jens Jacob Bierring for 12 uger siden",
+      "text": "Flyt Fælledbyen til Albertslund! Der er masser af gamle industrigrunde der !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Hanne Stolt",
+      "authorId": "hanne.stolt.1",
+      "timeLabel": "Kommentar fra Hanne Stolt for 12 uger siden",
+      "text": "Synes bare det swinger bedre med “ Aminoen “",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Helga MarkHanne Stolt",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Hanne Stolts kommentar for 12 uger siden",
+      "text": "Hanne Stolt\nSå passer det jo ikke til Amager.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 12 uger siden",
+      "text": "Fik udstyret både mig selv og sønnike med t-shirts🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

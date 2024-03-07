@@ -1,0 +1,67 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "“Far, hvornår flytter vi på landet?”\n..Frida er ret glad for natur.\nBornholm lever op til sit navn\nGod kristi himmelfartsferie til alle",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=978618753463080&set=a.496492961675664&__cft__[0]=AZXX0BNJnXH9Tkea21Oog1tOD6XS7vkxDz5xMlDhzfIsG_LjBuMSiK531n-gtn8vi1YUY-meeEQAysYtuirmDf2uXyt5oA46pS2EPZVo4bWAXnhFKirVV0vq24FtQkq7x-JdkgV34vPZRcT40CGNnQXzCMoNt9fJSLDm0CP9e3_TVKB7CopC3Tw--PF4ivtz4oY&__tn__=EH-y-R",
+  "mediaText": "Kan være et billede af 3 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "19"
+    }
+  ],
+  "comments": [
+    {
+      "id": "805926847597762",
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 2 dage siden",
+      "text": "Dagens destination: https://bornholm.info/snogebaek/",
+      "hasMedia": true,
+      "mediaAltText": "Besøg Snogebæk - det hyggelige fiskerleje på Sydøstkysten",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "270287025462439",
+      "parentId": null,
+      "authorName": "Sofie Steenberger",
+      "authorId": "sofie.steenberger",
+      "timeLabel": "Kommentar fra Sofie Steenberger for 2 dage siden",
+      "text": "Så kan hun også få heste, hunde, høns, geder, katte, ænder osv. osv.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "639197650976636",
+      "parentId": "270287025462439",
+      "authorName": "Rasmus SteenbergerSofie",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Sofie Steenbergers kommentar for en dag siden",
+      "text": "Yeah, det er sagen, Sofie! Kan hun ikke bare flytte ind hos jer?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

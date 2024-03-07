@@ -1,0 +1,123 @@
+{
+  "authorName": "Karina BergmannKarina BergmannKarina BergmannJakob TørringJakob TørringJakob TørringBøtø Strand, MarielystBøtø Strand, MarielystBøtø Strand, Marielyst",
+  "authorId": "karina.bergmann.165",
+  "text": "Kristi Himmelfartsferie i familiesommerhuset. #evaogelias",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10159819522403842&amp;set=pcb.10159819524773842&amp;__cft__[0]=AZV24GAueSkacNBIFc0RvwdwF-R4DzC2JEYuU4L6zhZ3oEtwGO9bVCmObvPf7gw-84pJjh7mMddYzFaFz82NZEyyLZL66DGdXRdiwLZuXGLIY1162c7iAgeXhk2kdmwd28bO5kn620IQVJyqUducvN-AnhMKDPIhvjL168F05lJKag&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "72"
+    },
+    {
+      "type": "heart",
+      "count": "23"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Ingrid Boll Jensen",
+      "authorId": "ingrid.boll.jensen",
+      "timeLabel": "Kommentar fra Ingrid Boll Jensen for 13 uger siden",
+      "text": "Rigtig god ferie til jer alle 💓",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Karina BergmannIngrid Boll Jensen",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Svar fra Karina Bergmann på Ingrid Boll Jensens kommentar for 13 uger siden",
+      "text": "Ingrid Boll Jensen Prøv lige at se Eva i jakken ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Ingrid Boll JensenKarina Bergmann",
+      "authorId": "ingrid.boll.jensen",
+      "timeLabel": "Svar fra Ingrid Boll Jensen på Karina Bergmanns kommentar for 13 uger siden",
+      "text": "Karina Bergmann ja, så det godt. Hun ser såå godt ud i den ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Karina BergmannIngrid Boll Jensen",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Svar fra Karina Bergmann på Ingrid Boll Jensens kommentar for 13 uger siden",
+      "text": "Ingrid Boll Jensen Hun kalder den sin sommerjakke og er rigtig glad for den.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mikkel Nordvig",
+      "authorId": "mikkel.nordvig",
+      "timeLabel": "Kommentar fra Mikkel Nordvig for 13 uger siden",
+      "text": "Dejligt område🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Karina BergmannMikkel Nordvig",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Svar fra Karina Bergmann på Mikkel Nordvigs kommentar for 13 uger siden",
+      "text": "Mikkel Nordvig Fineste strand. Vi glæder os til at komme tilbage i højsommeren.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Mikkel NordvigKarina Bergmann",
+      "authorId": "mikkel.nordvig",
+      "timeLabel": "Svar fra Mikkel Nordvig på Karina Bergmanns kommentar for 13 uger siden",
+      "text": "Karina Bergmann det kan jeg godt forstå. Den plejer også at være mindre overrendt end længere inde mod Marienlyst.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

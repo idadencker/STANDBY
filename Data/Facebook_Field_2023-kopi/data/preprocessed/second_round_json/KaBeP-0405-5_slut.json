@@ -1,0 +1,129 @@
+{
+  "authorName": "Karina Bergmann",
+  "authorId": "karina.bergmann.165",
+  "text": "Hvis du kun skal læse én artikel om hvorfor Palads skal bevares, så lad det være denne fra Akademirådet. Bevar Palads #bevarpalads",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "25"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Dennis Nino Sanfilippo",
+      "authorId": "dennis.sanfilippo",
+      "timeLabel": "Kommentar fra Dennis Nino Sanfilippo for 15 uger siden",
+      "text": "Jeg ved i øvrigt ikke hvad Nordisk Films ærinde er her. Kan de slippe for at bruge penge på ombygning af biografen ved en ny bygning? De kan jo snildt lave en bedre biograf i nuværende bygning. Men som de kører den nu er de totalt inkompetente. .",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Karina BergmannDennis Nino Sanfilippo",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Svar fra Karina Bergmann på Dennis Nino Sanfilippos kommentar for 12 uger siden",
+      "text": "Dennis Nino Sanfilippo Ja, det er svært at forstå at de ikke bare vælger at slå nogle sale sammen. De kan jo gøre det at de tilbagefører den store oprindelige sal.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Dennis Nino SanfilippoKarina Bergmann",
+      "authorId": "dennis.sanfilippo",
+      "timeLabel": "Svar fra Dennis Nino Sanfilippo på Karina Bergmanns kommentar for 12 uger siden",
+      "text": "Karina Bergmann Jeg var chokeret sidst jeg var derinde. Der blev ikke engang tjekket billet, fordi de havde én, der skulle styrte rundt overalt. Jeg kom ind i verdens mindste sal, hvor sæderne lignede noget fra jeg var barn i 90’erne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Karina BergmannDennis Nino Sanfilippo",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Svar fra Karina Bergmann på Dennis Nino Sanfilippos kommentar for 12 uger siden",
+      "text": "Dennis Nino Sanfilippo Ja, nogle af salene i kælderen er vildt små.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gert Georg Andreas Erichsen",
+      "authorId": "gert.erichsen",
+      "timeLabel": "Kommentar fra Gert Georg Andreas Erichsen for 15 uger siden",
+      "text": "Suk, en øjenbæ.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Tine Gybel",
+      "authorId": "tine.gybel",
+      "timeLabel": "Kommentar fra Tine Gybel for 12 uger siden",
+      "text": "En skam, at @Akademiraadet ikke har en facebookside, hvor man kan svare på deres noget ensidige fokus på Gernes i forbindelse med Palads.\nFor Gernes er ikke den eneste grund til, at bevare Palads.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Karina BergmannTine Gybel",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Svar fra Karina Bergmann på Tine Gybels kommentar for 12 uger siden",
+      "text": "Tine Gybel Ellers er jeg sikker på du kan kontakte dem på mail. Er sikker på de gerne vil have en velbegrundet kritik og svare på den.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Tine GybelKarina Bergmann",
+      "authorId": "tine.gybel",
+      "timeLabel": "Svar fra Tine Gybel på Karina Bergmanns kommentar for 12 uger siden",
+      "text": "Karina Bergmann\nTak.\nMen når den slags forsvinder ind i private mails, så er der ingen andre, der får informationen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

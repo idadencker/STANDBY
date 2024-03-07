@@ -1,0 +1,48 @@
+{
+  "authorName": "Gorm Anker GunnarsenGorm Anker GunnarsenGorm Anker GunnarsenVielser",
+  "authorId": "gorm.gunnarsen",
+  "text": "Peter og Nina, 17/6 2023.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171147857372037&amp;set=a.10152448496067037&amp;__cft__[0]=AZX5awQngaNzlKO0XzSPcS2JB1OrCNKyuBKZX-f8XvzzUSdUTt3IIb5ydantRE0i3hkMB7ueJM-5EEdOZYQqaQVaWOoD_44pO1qQF_yw-YJtgHhDxfQ_4RmChnqFAhvXuxk&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer og bryllup",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "33"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Eric Erichsen",
+      "authorId": "eric.erichsen.1",
+      "timeLabel": "Kommentar fra Eric Erichsen for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kelly Cardai",
+      "authorId": "bruno.filardo.3",
+      "timeLabel": "Kommentar fra Kelly Cardai for 9 uger siden",
+      "text": "Hi friend, I liked your homepage. I hope you can also like my homepage. If you want to be friends, you can send me a message or add me🌹🌹🌹",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

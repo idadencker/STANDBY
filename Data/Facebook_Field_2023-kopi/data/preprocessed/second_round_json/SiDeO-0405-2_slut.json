@@ -1,0 +1,36 @@
+{
+  "authorName": "Sinem Demir",
+  "authorId": "SinemDemirEnhedslisten",
+  "text": "\"Det lover vi med hånd og mund,\ni mørket før en morgenstund,\nat drømmen om frihed,\nblir aldrig forbi\"\nDer er tændt stearinlys i Københavns Borgerrepræsentation",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=706239614838784&set=a.240981591364591&__cft__[0]=AZVmQN5X7Ti4-y7cHgcpcmECgLmS2Fb9m-mNMypF4ariFEOOEsRoJ6aujS1S2z0o93PHgMU-EWCkoj4f_HkYBnLcF9pRf_Y6aJuJQyF3hvOTNiY9fkOg1xm2xT_xy7SD1_9eCM7AFZqzzKF8BbnaBGgX&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "55"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Palle Sonne",
+      "authorId": "palle.sonne.1",
+      "timeLabel": "Kommentar fra Palle Sonne for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "steenbergerSF",
+  "text": "På studietur til Amsterdam (og Haag).\nVi ser på elektroniske hjælpemidler til at forbedre sundhed og livskvalitet for ældre.\nOgså lo-tech elektroniske katte",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=982198606438428&set=a.496492961675664&__cft__[0]=AZUZvVbZTzrCCXngp8wg75lbOcvuuwDYXGbHY8y8OnhhzH4tjNVD_sSuemYbtBY1vqdMu1bSuhlek7MudiaNEInexsi78sZRQKB3uVgGXzHjZhmjKEbofB7pjaj47KaIGcZ8OBstGds1kQrA_R4u9fZ8&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person og Ragdoll-kat",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "82"
+    },
+    {
+      "type": "heart",
+      "count": "10"
+    },
+    {
+      "type": "care",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Kommentar fra SF København for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Københavns kommentar for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Brian Holmstrøm Nielsen",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Kommentar fra Brian Holmstrøm Nielsen for 12 uger siden",
+      "text": "De der elektroniske kæledyr havde de også i Japan i 2005, da jeg var med plejehjemmet på eksursion (Kbh´s kommune) - Der var rigtigt mange ting, der ville gøre livet lettere for de ældre- og arbejdsbesparende for personalet: Robotstøvsugere, fuldautomatiske toiletter med indbyggede bidet´er- Karbad, hvor man kunne køre direkte ind i med kørestolen osv. Ikke meget af det er implementeret endnu her. Jo: Støvsugerne fik vi indført som et eksperiment i 2010- Vi fik 20 af de skildpadder, som blev sluppet løs på fællesarealerne, Det var ikke nogen succes, dels faldt beboerne over dem (Det hjalp først, da jeg bandt en stor gul ballon på dem) - og så forsvandt de lige så stille en, efter en. Vi troede, de blev stjålet, men det viste sig at de kom til at køre ud gennem den elektriske hoveddør og pudsigt nok endte de inde i Brugsen lige overfor,,, Det gik først op for os, da uddeleren ringede og spurgte om vi dog ikke savnede noget? To år senere, duede de ikke længere og blev smidt ud.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoBrian",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Brian Holmstrøm Nielsens kommentar for 12 uger siden",
+      "text": "Sikke en historie, Brian Der er heldigvis sket en del siden, fx digitalt dosisdispenseret medicin",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "PS:",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Brian Holmstrøm NielsenRasmus Steenberger",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Svar fra Brian Holmstrøm Nielsen på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger Det startede man med, da jeg var der",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoBrian",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Brian Holmstrøm Nielsens svarfor 12 uger siden",
+      "text": "Hvordan gik det så med det, Brian?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Brian Holmstrøm NielsenRasmus Steenberger",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Svar fra Brian Holmstrøm Nielsen på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger Hvis jeg har forstået udtrykket korrekt, så mener du færdigpakket medicin i poser fra apoteket? - Det ved jeg , de bruger stadig og det fjerner risikoen for fejl hos personalet. Desuden er det lettere at opdage evt. tyveri eller misbrug.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerBrian",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Brian Holmstrøm Nielsens svarfor 12 uger siden",
+      "text": "Yes, det var også de pointer vi fik med, Brian",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Leo Matre",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Leo Matre for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Leo Matre",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Leo Matre på Leo Matres kommentar for 12 uger siden",
+      "text": "Hvis man mangler digitale redskaber, så kan man altid benytte gammeldags metoder.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Leo Matres svarfor 12 uger siden",
+      "text": "Yay",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Storm Steffensen",
+      "authorId": "StormSteffensen90",
+      "timeLabel": "Kommentar fra Storm Steffensen for 12 uger siden",
+      "text": "https://youtu.be/NiyT9iXcBCo",
+      "hasMedia": true,
+      "mediaAltText": "Hasbro's Lifelike Joy for All Companion Cat By: Hasbro on QVC",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMichael",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Storm Steffensens kommentar for 12 uger siden",
+      "text": "Yes, det lyder som den, Michael",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Henrik Thøgersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Henrik Thøgersen for 12 uger siden",
+      "text": "Foretrækker rigtige katte. Flere katte har i Gentofte kommune fået lov til at tage med\nen ældre borger, ejeren, der nu er på plejehjem. Til stor glæde for borgeren - og andre beboere på centret.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoHenrik",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Henrik Thøgersens kommentar for 12 uger siden",
+      "text": "Enig, Henrik - den er nu også mest med som blikfang til opslaget. Jeg har selv to levende katte derhjemme.\nMen for nogle ældre er det ikke længere muligt at tage ordentligt vare på et levende dyr. Så kan e-katten være det næstbedste alternativ.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Henrik ThøgersenRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Henrik Thøgersen på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger . Tja... . Måske ligesom som med Richs kaffe erstatning - i forhold til rigtig kaffe - i gamle dage....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoHenrik",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Henrik Thøgersens svarfor 12 uger siden",
+      "text": "Ja, nok cirk samme følelse Henrik",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Amager KBHs kommentar for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Per Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Møller for 12 uger siden",
+      "text": "Når et kært billede",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerPer",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Per Møllers kommentar for 12 uger siden",
+      "text": "Tak, Per",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Per MøllerRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Per Møller på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Peter BuchRasmus Steenberger",
+      "authorId": "PETERJBUCH",
+      "timeLabel": "Kommentar fra Peter Buch for 12 uger siden",
+      "text": "Håber SF Amager får lavet en supermerchandise Rasmus Steenberger actionman til næste folketingsvalg..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerPeter",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Peter Buchs kommentar for 12 uger siden",
+      "text": "Genialt, Peter Starter du en crowdfunding?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Marie-Louise Månestråle",
+      "authorId": "webmagi",
+      "timeLabel": "Kommentar fra Marie-Louise Månestråle for 12 uger siden",
+      "text": "Kattetrackere eller aedyr til ældre?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerMarie-Louise",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Marie-Louise Månestråles kommentar for 12 uger siden",
+      "text": "Helt klart et aedyr, Marie-Louise",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Marie-Louise Månestråles kommentar for 12 uger siden",
+      "text": "..og den virkede overraskende godt på velværet, den kat",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Marie-Louise MånestråleRasmus Steenberger",
+      "authorId": "webmagi",
+      "timeLabel": "Svar fra Marie-Louise Månestråle på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger Det er dejligt når noget enkelt men instinktivt kan bringe glæde og gode følelser frem. Vi er jo trods alt sociale væsner",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Marie-Louise Månestråles svarfor 12 uger siden",
+      "text": "lice præcis - og det havde vi også et helt oplæg om",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Michael Toppenberg",
+      "authorId": "michael.toppenberg",
+      "timeLabel": "Kommentar fra Michael Toppenberg for 12 uger siden",
+      "text": "Helt ærlig talt... Hvad er den kvalitative refleksion i forhold til udbytte/omkostning ved sådan en tur... ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMichael",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Michael Toppenbergs kommentar for 12 uger siden",
+      "text": "Hej Michael - helt ærligt: STOR. Nu har jeg ikke gengivet programmet i opslaget, men det omfatter blandt andet oplæg om digitaliseret dosisdispenseret medicin, overvågningsteknologier, deleøkonomiske platforme for ældre med få penge, borger-centredes test-labs for nye tech-dimser der gør livet lettere, selvstyrende Teams og social interaktion som demensbehandling frem for kun medicinsk behandling.\nFor blot at nævne nogle få.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Michael ToppenbergRasmus Steenberger",
+      "authorId": "michael.toppenberg",
+      "timeLabel": "Svar fra Michael Toppenberg på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger Godkendt... Lad det ikke ske igen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Helene BrochmannRasmus Steenberger",
+      "authorId": "helene.brochmann",
+      "timeLabel": "Svar fra Helene Brochmann på Rasmus Steenbergers svarfor 12 uger siden",
+      "text": "Rasmus Steenberger Det lyder som et program, der kunne være relevant for mange kommuner at kigge nærmere på. Hvem har arrangeret det?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoHelene",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Helene Brochmanns svarfor 12 uger siden",
+      "text": "Hej Helene - Det har vores udvalgssekretær",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bent Persson Sejr",
+      "authorId": "bent.perssonsejr",
+      "timeLabel": "Kommentar fra Bent Persson Sejr for 12 uger siden",
+      "text": "Den ser lidt forpjusket ud, din kat?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

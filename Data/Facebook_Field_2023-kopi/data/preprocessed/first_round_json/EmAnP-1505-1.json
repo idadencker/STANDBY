@@ -1,0 +1,33 @@
+{
+  "authorName": "Emil Sloth AndersenEmil Sloth AndersenEmil Sloth Andersen",
+  "authorId": "emil.slothandersen",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=3312214482205585&amp;set=a.100791546681244&amp;__cft__[0]=AZXe1Vkh5qsXc_KhPkgOi9i_6YdtLDIOrNFN-E2SFnTrc9wjgQ42rfrQhALfOOQYM8uzYrSrTIv3-ZrLr3HNWwJciSBOsbRIvlZv-V_5hRJjnfkRb-mhgHzaCCyTnaYyakKLHdRH5dWu-S9i41t_OPkZ&amp;__tn__=~H-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "168"
+    }
+  ],
+  "comments": [
+    {
+      "id": "828037598411522",
+      "parentId": null,
+      "authorName": "Magnus Mølgaard",
+      "authorId": "magnus.molgaard",
+      "timeLabel": "Kommentar fra Magnus Mølgaard for 26 uger siden",
+      "text": "Det der, det er Whitehouse potential! 👏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "authorName": "Bente Møller",
+  "authorId": "profile.php",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "18"
+    }
+  ],
+  "comments": [
+    {
+      "id": "170333985670780",
+      "parentId": null,
+      "authorName": "Lasse Pno",
+      "authorId": "lasse.pno",
+      "timeLabel": "Kommentar fra Lasse Pno for 3 dage siden",
+      "text": "Jeg har anmeldt den falske profil til facebook",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1407907736666314",
+      "parentId": null,
+      "authorName": "Hanne Ougaard",
+      "authorId": "hanne.ougaard",
+      "timeLabel": "Kommentar fra Hanne Ougaard for 3 dage siden",
+      "text": "Der er godtnok mange falske kopi-profiler i omløb i øjeblikket",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "155580740804600",
+      "parentId": null,
+      "authorName": "Bettina Jansen",
+      "authorId": "bettina.jansen",
+      "timeLabel": "Kommentar fra Bettina Jansen for 3 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

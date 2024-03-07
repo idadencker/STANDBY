@@ -1,0 +1,30 @@
+{
+  "authorName": "Yilmaz Yildiz",
+  "authorId": "roniwelat",
+  "text": "Nivîsa min a li ser hilbijartina li Tirkîyê û Bakurê Kurdistanê bi zimanê danîmarkî.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "13"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Asiya Ugur",
+      "authorId": "asiya.ugur",
+      "timeLabel": "Kommentar fra Asiya Ugur for 13 uger siden",
+      "text": "Rigtig fin artikel\nAKP bejlede til HDP inden de skiftede retning til MHP. Var det nu også strategisk fornuftigt at takke nej til dette tilbud, nu da muligheden bød sig?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

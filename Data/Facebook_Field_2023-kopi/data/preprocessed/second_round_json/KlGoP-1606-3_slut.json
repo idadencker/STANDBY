@@ -1,0 +1,116 @@
+{
+  "authorName": "Klaus Goldschmidt HenriksenKlaus Goldschmidt HenriksenKlaus Goldschmidt HenriksenMarie JonMarie JonMarie Jon4 andre4 andre",
+  "authorId": "klaus.g.henriksen",
+  "text": "1-0 til Danmark. Men det holdt sgu hårdt",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231268939685800&set=a.4380583711778&__cft__[0]=AZXp9J18Q5Cb17f98jMF36ZdL3LxE9Z3NRD_bf8HiFmXGiEOPZIwtMXDbozlWGYl-av95qy9puQHyUl1QSLb2XtrS8nCQpVysfwKZOoSNXQQzQHyQ4Xnv55U1taOShMC37U&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "145"
+    },
+    {
+      "type": "heart",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "id": "237497199042837",
+      "parentId": null,
+      "authorName": "Bjarne Felby",
+      "authorId": "b.felby",
+      "timeLabel": "Kommentar fra Bjarne Felby for 6 uger siden",
+      "text": "Må med beklagelse meddele at jeg faldt i dyb søvn foran fjernsynet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1472909433480887",
+      "parentId": null,
+      "authorName": "Karsten Pedersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Karsten Pedersen for 6 uger siden",
+      "text": "Pyha, der var vi altså på gyngende grund. Men garanteret god stemning i Parken",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "765990321873468",
+      "parentId": null,
+      "authorName": "Helle Wandel",
+      "authorId": "helle.wandel",
+      "timeLabel": "Kommentar fra Helle Wandel for 6 uger siden",
+      "text": "Og det VAR danmark... Hi hi hi",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "251044617569933",
+      "parentId": null,
+      "authorName": "Jan Greve Olsen",
+      "authorId": "jangreve.olsen",
+      "timeLabel": "Kommentar fra Jan Greve Olsen for 6 uger siden",
+      "text": "Kære Klaus, der mangler en hel del før det er god fodbold vi bliver præsenteret for af det danske landshold",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "964274251577922",
+      "parentId": null,
+      "authorName": "Bo Nielsen",
+      "authorId": "bo.nielsen.167",
+      "timeLabel": "Kommentar fra Bo Nielsen for 6 uger siden",
+      "text": "Og jeg slukkede da det blev 1-1 !! Aaaaargh !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "248083011168995",
+      "parentId": null,
+      "authorName": "Alex Kofoed Diedrichsen",
+      "authorId": "alex.kofoeddiedrichsen",
+      "timeLabel": "Kommentar fra Alex Kofoed Diedrichsen for 6 uger siden",
+      "text": "Der skal ske noget mere",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

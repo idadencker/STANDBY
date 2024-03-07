@@ -1,0 +1,71 @@
+{
+  "authorName": "Gyda HedingGyda HedingGyda HedingThomas LundThomas LundThomas Lund",
+  "authorId": "gyda.heding",
+  "text": "Klimahandling NU. Fedt at Extinction Rebellion bliver ved med at handle på klimaet. Alle kan være med. ❤️",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160328647280169&amp;set=a.10150376341850169&amp;__cft__[0]=AZWGmhuiFkcdbRTUO9yAyHPOz-UtXE3gyYNQFQI63zE8nYURUloqIq6TcKAoQ3_qn51gQ0cn4FMDQhBzPCxXcJt0K-F423dd1kHrq5OplYvhiEPhuo2soiigLvgDND0dWhg&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 4 personer og monument",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "47"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "id": "932371847986398",
+      "parentId": null,
+      "authorName": "Mikkel Toksværd",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Mikkel Toksværd for 4 dage siden",
+      "text": "word up❣",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "971440160692841",
+      "parentId": null,
+      "authorName": "Heidi RudPer Møller Jacobsen, Enhedslisten",
+      "authorId": "heidi.rud.16",
+      "timeLabel": "Kommentar fra Heidi Rud for 4 dage siden",
+      "text": "Hils Per Møller Jacobsen, Enhedslisten",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1450450889118729",
+      "parentId": null,
+      "authorName": "Per Møller Jacobsen, Enhedslisten",
+      "authorId": "permjenhedslisten",
+      "timeLabel": "Kommentar fra Per Møller Jacobsen, Enhedslisten for 4 dage siden",
+      "text": "Vi gik i demonstration over Amager, og sidder nu på H.C. Andersens Boulevard, politiet er massivt til stede og har stoppet udlevering af mad.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "authorName": "Hari Neupane",
+  "authorId": "hariprasad.neupane",
+  "text": "Nogle billeder sammen med Københavns Overborgermester Sophie Hæstorp Andersen i anledning af Vanløse Årlig Byfest",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10222675989960592&amp;set=pcb.10222675991440629&amp;__cft__[0]=AZWC1jG_OYPHIM4i-D0C5IEhkMXLNmCeql0my4fNPG3TV5QCcn9qtqy-C5awcb1PdOIbbA-2kl80zjrtaqQt7HNbjSmCKdTfhtQBjYgF0cTI7d6pdCpRXZF26s4i2Ec-qD3cF5hrhQv5kVIcYLxRlhVX0e0WrlQqH8dthiMh7SlhhQ&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "62"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Ananda DhunganaHari Neupane",
+      "authorId": "ananda.dhungana",
+      "timeLabel": "Kommentar fra Ananda Dhungana for 10 uger siden",
+      "text": "Good to see you 🇪🇺 🙏 Hari Neupane jeww",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bal Krishna Pandey",
+      "authorId": "balkrishna.pandey.125",
+      "timeLabel": "Kommentar fra Bal Krishna Pandey for 10 uger siden",
+      "text": "Is there special day today Hari ji?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Hari NeupaneBal Krishna Pandey",
+      "authorId": "hariprasad.neupane",
+      "timeLabel": "Svar fra Hari Neupane på Bal Krishna Pandeys kommentar for 10 uger siden",
+      "text": "Bal Krishna Pandey guru\n“Vanløse på den 2 ende”",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jan Salling Kristensen",
+      "authorId": "jan.s.kristensen.16",
+      "timeLabel": "Kommentar fra Jan Salling Kristensen for 10 uger siden",
+      "text": "Ser hyggeligt ud. God weekend",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

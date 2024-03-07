@@ -1,0 +1,72 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "Norveç Kral ve kraliçesini, Danimarka nın prens ve prensesi onuruna verdiğiz Aarhus Belediye sarayındaki yemekteyiz.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160515212120890&set=pcb.10160515214405890&__cft__[0]=AZV5ePh5xkg_3PkSaALD6LdyAZdirU6xtQWp5myqq64zqKt7lchKEyx2LwORbl67rcHZcGrY320_IQXSECn39jWuHXD0UwxdAt8TZUAqGFxk_Ff5fyNROiyYVJJkYWp7gzg&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "130"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Mardiros Temirci",
+      "authorId": "mardiros.temirci",
+      "timeLabel": "Kommentar fra Mardiros Temirci for 9 uger siden",
+      "text": "Iskandinav ulkelerinin en refah ulkesi olan , Norvec ve krali Harald. Dilerim cok memnun kalmistir.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "OsMan GezGin",
+      "authorId": "Osmgez",
+      "timeLabel": "Kommentar fra OsMan GezGin for 9 uger siden",
+      "text": "Hüseyin abi yemekte aç kalmamışsındır umarım",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Hans Skou",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Hans Skou for 9 uger siden",
+      "text": "Flotte billeder og god weekend",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Baki Çelikcan",
+      "authorId": "baki.celikcan.52",
+      "timeLabel": "Kommentar fra Baki Çelikcan for 9 uger siden",
+      "text": "Merhaba hüseyin agbey\nHerkese Selam İyi\nİşler olsun Herkese",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

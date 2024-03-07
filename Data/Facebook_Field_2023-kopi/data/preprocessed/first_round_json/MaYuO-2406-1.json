@@ -1,0 +1,88 @@
+{
+  "authorName": "Mahad Yussuf",
+  "authorId": "mbypol",
+  "text": "Jeg havde idag fornøjelsen af at holde tale og hylde en flok skønne studenter.\nStort tillykke med huen 👏🏿🎉🇩🇰",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=653813120096380&amp;set=pcb.653813166763042&amp;__cft__[0]=AZUNSck-N0-I_JdcTm7h6utjH3i2JZFtbAv_UT7zRDxn2yFisxCr6vDFcjPhMsetuYWvaJDLu6H_pWCisnc31vWCfHCQIrLT0mICGz-p8VTrFTzyz5Fk6fTxuzhxw9EJXEGwRRMYvyby7RUep7G26AcO&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "49"
+    },
+    {
+      "type": "heart",
+      "count": "5"
+    }
+  ],
+  "comments": [
+    {
+      "id": "597338565843587",
+      "parentId": null,
+      "authorName": "Arulanantharajah Thillainadarasa",
+      "authorId": "arulanantharajah.thillainadarasa",
+      "timeLabel": "Kommentar fra Arulanantharajah Thillainadarasa for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1720026425117568",
+      "parentId": null,
+      "authorName": "Rabih Azad-Ahmad",
+      "authorId": "rabih.azadahmad",
+      "timeLabel": "Kommentar fra Rabih Azad-Ahmad for 6 dage siden",
+      "text": "Skønt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1333124360940147",
+      "parentId": null,
+      "authorName": "Dine Soumah",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Dine Soumah for en uge siden",
+      "text": "Congratulations 🎈🎉🎊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "286981363711633",
+      "parentId": null,
+      "authorName": "Abdikadir Mohamed AqliMahad Yussuf",
+      "authorId": "abdikadirmaqli",
+      "timeLabel": "Kommentar fra Abdikadir Mohamed Aqli for en uge siden",
+      "text": "Mahad Yussuf",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

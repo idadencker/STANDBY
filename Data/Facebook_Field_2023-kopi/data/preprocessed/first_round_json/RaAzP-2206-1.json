@@ -1,0 +1,99 @@
+{
+  "authorName": "Rabih Azad-AhmadRabih Azad-AhmadRabih Azad-AhmadBo SkaarupBo SkaarupBo SkaarupHans SkouHans SkouHans SkouHans SkouHans SkouHans Skou",
+  "authorId": "rabih.azadahmad",
+  "text": "Jeg havde fornøjelsen af at åbne udstillingen, “total tilfældigt - måske lidt heldigt”, i Naturhistorisk Meseum. En fremragende udstilling, der handler om perfekthedskulturen og naturens tilfældigheder og henvender sig derfor til unge og deres forældre.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231095320872304&amp;set=pcb.10231095335592672&amp;__cft__[0]=AZXigu-MRHPCsQCY_REIi8HDgIkCOloRJNpx-ya28n64WTis3jpbf4FWloSr25As0M0R1KHSpKK8Mos-EqneIE6HYriwKXWogp2Lvv2Ax-Sf4VbWlW9-iZRFTQayCy33j40&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "66"
+    }
+  ],
+  "comments": [
+    {
+      "id": "262832969729661",
+      "parentId": null,
+      "authorName": "Erling Sørensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Erling Sørensen for 4 dage siden",
+      "text": "Fin udstilling med gode åbningstaler",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "218710151065334",
+      "parentId": "262832969729661",
+      "authorName": "Hans SkouErling Sørensen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Hans Skou på Erling Sørensens kommentar for 4 dage siden",
+      "text": "Erling Sørensen Tak fordi du altid støtter op",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "806143537497855",
+      "parentId": null,
+      "authorName": "Bo Skaarup",
+      "authorId": "bo.skaarup.3",
+      "timeLabel": "Kommentar fra Bo Skaarup for 4 dage siden",
+      "text": "Tak Rabih for dine fine ord ☀️\nSommeren igennem fylder vi Naturhistorisk Museum med meningsfulde oplevelser og aktiviteter for hele familien ☀️🦋",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1018348969069184",
+      "parentId": "806143537497855",
+      "authorName": "Rabih Azad-AhmadBo Skaarup",
+      "authorId": "rabih.azadahmad",
+      "timeLabel": "Svar fra Rabih Azad-Ahmad på Bo Skaarups kommentar for 4 dage siden",
+      "text": "Bo Skaarup tak Bo og tillykke igen med en fremragende udstilling\ntillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "625468545982207",
+      "parentId": "806143537497855",
+      "authorName": "Bo SkaarupRabih Azad-Ahmad",
+      "authorId": "bo.skaarup.3",
+      "timeLabel": "Svar fra Bo Skaarup på Rabih Azad-Ahmads kommentar for 4 dage siden",
+      "text": "Rabih Azad-Ahmad tak Rabih 🦋☀️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

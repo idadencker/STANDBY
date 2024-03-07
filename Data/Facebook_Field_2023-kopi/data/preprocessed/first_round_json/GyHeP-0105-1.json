@@ -1,0 +1,122 @@
+{
+  "authorName": "Gyda HedingGyda HedingGyda HedingFælledparkenFælledparkenFælledparken",
+  "authorId": "gyda.heding",
+  "text": "Arne fandt vej til Enhedslisten. Go 1 maj",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160305402640169&amp;set=a.10150376341850169&amp;__cft__[0]=AZUKjjn2ablcIChgY-uw9z2FfcV0rcGuTvH9YipugGm4h94im849f1oo6jqUOYL7_llwQAmnEmHm1kGFCQU97njneddE-sdWwm1duyde01KeSLyAgN9aMIubLEN_fvjNicjqg50mEVKs7ei_KH8_4vlQwV83nQJ5lCxnwuhPWi2zTA&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer og smilende personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "195"
+    },
+    {
+      "type": "heart",
+      "count": "19"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1710717152718599",
+      "parentId": null,
+      "authorName": "Ole Dreyer Wogensen",
+      "authorId": "oleoledreyer",
+      "timeLabel": "Kommentar fra Ole Dreyer Wogensen for en uge siden",
+      "text": "Hos jer er hans pension nok også i bedre hænder!!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "771282051148195",
+      "parentId": null,
+      "authorName": "Rasmus Vestergaard Madsen",
+      "authorId": "rasmus.v.madsen",
+      "timeLabel": "Kommentar fra Rasmus Vestergaard Madsen for en uge siden",
+      "text": "Fint selskab 🥰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "187838060849139",
+      "parentId": null,
+      "authorName": "Anders Eigen Glaser-Møller",
+      "authorId": "anders.e.glasermoller",
+      "timeLabel": "Kommentar fra Anders Eigen Glaser-Møller for en uge siden",
+      "text": "Det jo arne 🦾",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "589138236508881",
+      "parentId": "187838060849139",
+      "authorName": "Birgitte FeiringAnders Eigen Glaser-Møller",
+      "authorId": "birgitte.feiring",
+      "timeLabel": "Svar fra Birgitte Feiring på Anders Eigen Glaser-Møllers kommentar for en uge siden",
+      "text": "Anders Eigen Glaser-Møller Det da Arne+",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1045669139739020",
+      "parentId": "187838060849139",
+      "authorName": "Anders Eigen Glaser-MøllerBirgitte Feiring",
+      "authorId": "anders.e.glasermoller",
+      "timeLabel": "Svar fra Anders Eigen Glaser-Møller på Birgitte Feirings kommentar for en uge siden",
+      "text": "Birgitte Feiring nå ja 🤪",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1617406615430008",
+      "parentId": null,
+      "authorName": "Jan Spangenberg",
+      "authorId": "jan.spangenberg.9",
+      "timeLabel": "Kommentar fra Jan Spangenberg for en uge siden",
+      "text": "Jeg forstår at han ikke selv har søgt Arne-pensionen - men i stedet har søgt den højere seniorpension, som giver 4.000 kr. mere om måneden ♥",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

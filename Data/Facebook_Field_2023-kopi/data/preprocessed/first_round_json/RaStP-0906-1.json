@@ -1,0 +1,235 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Jeg har tilmeldt vores have - kan anbefale alle at gøre det samme. Gælder for alle typer haver, også gårdhaver og kolonihaver 🙂🌱\nhttps://sliphavenfri.dk/",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161699378714271&amp;set=a.10150290430239271&amp;__cft__[0]=AZW3nQKtUGwrOvUWJRlvoVTbTuGnuqWhu8W5Tui7KI935nfjxN9Dr4TXLmValVEb0RKankUWHrLdDLyjrhB4dr4f_8Xtr_f3cLMSRG4QfUTvuXQSOd7fkpX6gmOynVzJm50&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger &quot;Slip X haven fri!&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "43"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": "780210633780335",
+      "parentId": null,
+      "authorName": "Rikke Lauritsen",
+      "authorId": "lauritsenrikke",
+      "timeLabel": "Kommentar fra Rikke Lauritsen for 5 dage siden",
+      "text": "God idé.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "295760496209424",
+      "parentId": "780210633780335",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rikke Lauritsens kommentar for 4 dage siden",
+      "text": "Det er jo samtidig også nemmere 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "273459491896336",
+      "parentId": "780210633780335",
+      "authorName": "Rikke Lauritsen",
+      "authorId": "lauritsenrikke",
+      "timeLabel": "Svar fra Rikke Lauritsen på Rasmus Steenbergers kommentar for 4 dage siden",
+      "text": "Ja præcis. Vi har klippet et rektangel som er vores badmintonbane. Resten er højt og vildt. Spændende at se, hvad der dukker op.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "940907070359656",
+      "parentId": null,
+      "authorName": "Majken Astrup",
+      "authorId": "majken.astrup",
+      "timeLabel": "Kommentar fra Majken Astrup for 4 dage siden",
+      "text": "Øh hvad betyder det for min have?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "6487403341323101",
+      "parentId": "940907070359656",
+      "authorName": "Mette Sophie SkærlundMajken Astrup",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Mette Sophie Skærlund på Majken Astrups kommentar for 4 dage siden",
+      "text": "Majken Astrup Jeg tror, at vores haver allerede overholder kriterierne.....så nu har det bare et fancy navn 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "220823564093947",
+      "parentId": "940907070359656",
+      "authorName": "Rasmus SteenbergerMette",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Mette Sophie Skærlunds kommentar for 4 dage siden",
+      "text": "Spot on, Mette 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "279233947835022",
+      "parentId": "940907070359656",
+      "authorName": "Rasmus SteenbergerMajken",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Majken Astrups kommentar for 4 dage siden",
+      "text": "Hej Majken, det betyder at du får et klistermærke til postkassen 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "493179906302595",
+      "parentId": "940907070359656",
+      "authorName": "Majken AstrupMette Sophie Skærlund",
+      "authorId": "majken.astrup",
+      "timeLabel": "Svar fra Majken Astrup på Mette Sophie Skærlunds kommentar for 4 dage siden",
+      "text": "Mette Sophie Skærlund aah okay. Jeg blev helt nervøs for at jeg ikke måtte klippe græsset mere Eller at haven blev et afspærret område😆",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1657562858079869",
+      "parentId": "940907070359656",
+      "authorName": "Rasmus SteenbergerMajken",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Majken Astrups kommentar for 4 dage siden",
+      "text": "Jeg har sat vores “vildhed” til 40% af arealet, Majken - tænker at det stemmer meget godt med de dele vi ikke rører ved",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "226460546645626",
+      "parentId": null,
+      "authorName": "Sofie Steenberger",
+      "authorId": "sofie.steenberger",
+      "timeLabel": "Kommentar fra Sofie Steenberger for 4 dage siden",
+      "text": "Pt. er min også meget vild med vilje 😃",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "6562506310480125",
+      "parentId": "226460546645626",
+      "authorName": "Rasmus SteenbergerSofie",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Sofie Steenbergers kommentar for 4 dage siden",
+      "text": "Jeg elsker, at det mest bare kræver dovenskab, Sofie 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3542769062660054",
+      "parentId": null,
+      "authorName": "Hanne Kusiak",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Hanne Kusiak for 4 dage siden",
+      "text": "Bedre sent end aldrig😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "264974822876404",
+      "parentId": null,
+      "authorName": "Kirsten Røe",
+      "authorId": "kmroee",
+      "timeLabel": "Kommentar fra Kirsten Røe for 2 dage siden",
+      "text": "Så doven er jeg altså ikke 🤪",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "authorName": "Solveig MunkSolveig MunkSolveig MunkUdrejsecenter KærshovedgårdUdrejsecenter KærshovedgårdUdrejsecenter Kærshovedgård",
+  "authorId": "solveig.munk.3",
+  "text": "Stop den inhumane flygtningepolitik",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6262391203839455&amp;set=pcb.6262391250506117&amp;__cft__[0]=AZUCqajKraY02XMJQNhomKKIt2N_RWvIwMNgL-91WDgdWT51W9-NXCfH32wVU3GE2dd8ZgENokB05ngyVOiCl64D1U-pvn8_setmSd6W0SzvvpiZ7bqF3gAMaHR2xwJz963xDvvLN3pk6AWUe9dKrC5Y&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "46"
+    },
+    {
+      "type": "heart",
+      "count": "13"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Martin Vad",
+      "authorId": "OdgaardOfficial",
+      "timeLabel": "Kommentar fra Martin Vad for 7 uger siden",
+      "text": "Manglede din tale",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Solveig MunkMartin Vad",
+      "authorId": "solveig.munk.3",
+      "timeLabel": "Svar fra Solveig Munk på Martin Vads kommentar for 6 dage siden",
+      "text": "Martin Vad Jeg var ikke på talerlisten.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jørgen Sørensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jørgen Sørensen for 6 dage siden",
+      "text": "Hej hvordan går det? Jeg kiggede min side igennem og stødte på din fine profil som en foreslået ven 🇩🇰. Jeg prøvede at sende dig en venneanmodning, men det virkede ikke. Jeg ved ikke hvorfor, hvis du ikke har noget imod det, så tilføje mig som ven. Jeg vil gerne modtage din invitation 🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

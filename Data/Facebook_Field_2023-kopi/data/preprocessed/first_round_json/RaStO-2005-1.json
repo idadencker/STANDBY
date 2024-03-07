@@ -1,0 +1,184 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "steenbergerSF",
+  "text": "Bornholm lever op til sit navn\nGod kristi himmelfartsferie til alle",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=978618753463080&set=a.496492961675664&__cft__[0]=AZUgGfswZfLixjJ-GHDpmKN9l-rQG9pBrkv0EtJcC-Ze5pUOnVqxx0CzWt9vwRMOhyHK_5pEG3kljSI5g9HGkxrblX4qiJ6ajOTBUmHoJmkDpbRDCBgQwG0FJU_tpKr2lGP-xt6ENTSVnmHEQX386C6o&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "59"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "id": "827067179041873",
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 2 dage siden",
+      "text": "Dagens destination:\nhttps://bornholm.info/snogebaek/",
+      "hasMedia": true,
+      "mediaAltText": "Besøg Snogebæk - det hyggelige fiskerleje på Sydøstkysten",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "795333832176651",
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 2 dage siden",
+      "text": "Dagens destination: https://bornholm.info/snogebaek/",
+      "hasMedia": true,
+      "mediaAltText": "Besøg Snogebæk - det hyggelige fiskerleje på Sydøstkysten",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1631643813982523",
+      "parentId": null,
+      "authorName": "Frode Benedikt Nielsen",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Kommentar fra Frode Benedikt Nielsen for 3 dage siden",
+      "text": "Og der er stadigvæk klippekort i bussen, fordi det er en klippeø",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "1286894475537240",
+      "parentId": "1631643813982523",
+      "authorName": "Rasmus SteenbergerFrode",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Frode Benedikt Nielsens kommentar for 3 dage siden",
+      "text": "Genialt, Frode",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "579098171032181",
+      "parentId": "1631643813982523",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Frode Benedikt Nielsens kommentar for 2 dage siden",
+      "text": "Natur",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1013847953323237",
+      "parentId": null,
+      "authorName": "Peter Buch",
+      "authorId": "PETERJBUCH",
+      "timeLabel": "Kommentar fra Peter Buch for 3 dage siden",
+      "text": "I er så velkommne på Solskinsøen, selvom I er fra Amager",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "512195634335941",
+      "parentId": "1013847953323237",
+      "authorName": "Rasmus SteenbergerPeterSvaneke Brød 2300",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Peter Buchs kommentar for 3 dage siden",
+      "text": "Tak, Peter - vi føler os forbundne. Om ikke andet, så via Svaneke Brød 2300",
+      "hasMedia": true,
+      "mediaAltText": "media1.giphy.com",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "509576227931171",
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 3 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1675417356211931",
+      "parentId": "509576227931171",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Amager KBHs kommentar for 3 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1425455108267203",
+      "parentId": "509576227931171",
+      "authorName": "Grønnere Amager",
+      "authorId": "gronnereamager",
+      "timeLabel": "Svar fra Grønnere Amager på SF Amager KBHs kommentar for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

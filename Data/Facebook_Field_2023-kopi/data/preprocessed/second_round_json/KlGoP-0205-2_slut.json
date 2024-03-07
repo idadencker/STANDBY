@@ -1,0 +1,50 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "I morgen. Alle er velkomne.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230955196042405&set=a.4380583711778&__cft__[0]=AZWtmltK-jcXtVcr4EW69Szn0hcsN4DYjUVEfgZxcHnsnvER_6i1R3v1bA9p31LvyVcm-5rMmwwOQVWT_MnKXI9LpbGXJTufPp_yTOUuD_PNGpNHIU8JDFCHENVY2jzlfsM&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "34"
+    }
+  ],
+  "comments": [
+    {
+      "id": "260427446489145",
+      "parentId": null,
+      "authorName": "Jytte Kristensen",
+      "authorId": "jytte.kristensen.7359",
+      "timeLabel": "Kommentar fra Jytte Kristensen for 13 uger siden",
+      "text": "Dejligt slogan: Fra bilrum til byrum.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "5884264415016081",
+      "parentId": null,
+      "authorName": "Eva-Pernille Naserian Stæhr PoulsenThomas Otzen",
+      "authorId": "naserian8",
+      "timeLabel": "Kommentar fra Eva-Pernille Naserian Stæhr Poulsen for 13 uger siden",
+      "text": "Se Thomas Otzen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

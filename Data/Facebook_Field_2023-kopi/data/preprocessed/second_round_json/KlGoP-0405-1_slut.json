@@ -1,0 +1,52 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230969581882042&set=a.4380583711778&__cft__[0]=AZVcXsopyTolNajYt4SI54bovESbSFj3qBZQDpLYzDMccESEsFTkGKWrTKY3V_OdH3eQ7490lWBOUarEf_jNGv1n_lt73IUxfzapLjIQFGcR0SodPwBRnYbB9Gaf4C9sDGs&__tn__=EH-R",
+  "mediaText": "Kan være et billede af ild og tekst, der siger \"FOR FRIHED IMOD HAD ENHEDSLISTEN\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "148"
+    },
+    {
+      "type": "heart",
+      "count": "24"
+    }
+  ],
+  "comments": [
+    {
+      "id": "144636685124692",
+      "parentId": null,
+      "authorName": "Jens Hvolbæk",
+      "authorId": "jenshvolbaek",
+      "timeLabel": "Kommentar fra Jens Hvolbæk for 12 uger siden",
+      "text": "Så må I da vidst igang med at kæmpe for en ny verdensorden -",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "214330891306414",
+      "parentId": null,
+      "authorName": "Jetthe J T Damgård",
+      "authorId": "solvigjoergensen",
+      "timeLabel": "Kommentar fra Jetthe J T Damgård for 12 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

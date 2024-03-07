@@ -1,0 +1,59 @@
+{
+  "authorName": "Lone Hindø",
+  "authorId": "profile.php",
+  "text": "Velkommen til alle. Håber vi ses til måske landets første grundlovsmøde.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6597250236998527&amp;set=a.553786618011616&amp;__cft__[0]=AZULfLKY2a4_iDUd7l8BHFPmWiGy2CkcCmn6D_UhJKVLH_k6BmoB3GMW7iG9vjclnAVESAx5XULt-fgrq05SWqZs6Z2wcMZ3OK-e7RMIRtuNzs7cpmawPWrHFKIdWso1gLE&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger &quot;GRUNDLOVSDAG 5. JUNI KL. 8.00 TALER: CAMILLA FABRICIUS, MF LONE HINDO, BYRÄDET LEIF DEGN, S-FORMAND GLAMHOJVEJ 5. LYNGBY 8220 BRABRAND SOCIALDEMOKRATIET&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "17"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Leif Skotte Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Leif Skotte Nielsen for 9 uger siden",
+      "text": "Fars dag",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lone Hindø",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lone Hindø for 9 uger siden",
+      "text": "Nemlig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Thorbjørn HansenLone Hindø",
+      "authorId": "thorbjorn.27",
+      "timeLabel": "Svar fra Thorbjørn Hansen på Lone Hindøs kommentar for 4 uger siden",
+      "text": "Lone Hindø Hej, jeg må sige, at du også ser pæn og ganske rolig ud. Kan vi være venner?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

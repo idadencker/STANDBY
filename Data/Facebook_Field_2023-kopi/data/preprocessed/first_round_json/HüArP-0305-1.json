@@ -1,0 +1,123 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "https://youtu.be/EA01wYjSYx4",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "22"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1214703912745235",
+      "parentId": null,
+      "authorName": "Ekrem Buldak",
+      "authorId": "ekrem.buldak",
+      "timeLabel": "Kommentar fra Ekrem Buldak for 6 dage siden",
+      "text": "İnsan gibi geldi ve İnsan gibi gitti . Çalmadan ,çırpmadan Ruhun şad olsun Mekanın cennet olsun Büyük Devlet Adamı",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1977555729246478",
+      "parentId": null,
+      "authorName": "Yalçın Topcu",
+      "authorId": "yalcin68",
+      "timeLabel": "Kommentar fra Yalçın Topcu for 6 dage siden",
+      "text": "Milletin Karaoğlanı",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1612642319256273",
+      "parentId": null,
+      "authorName": "Bırnur Şimşek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Bırnur Şimşek for 6 dage siden",
+      "text": "Mekanı cennet olsun inşallah",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2017122011962872",
+      "parentId": null,
+      "authorName": "Halil Ipek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Halil Ipek for 5 dage siden",
+      "text": "Adam gibi geldi adam gibi gitti",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "906392467104763",
+      "parentId": null,
+      "authorName": "Ahmet Imaç",
+      "authorId": "ahmet.imac.1",
+      "timeLabel": "Kommentar fra Ahmet Imaç for 5 dage siden",
+      "text": "Ülkede en değerli devlet adamıydı karaoğlan Bülent Ecevin nur içinde yatsın\nMekanı cennet olsun inş,",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "755458956317257",
+      "parentId": null,
+      "authorName": "Semsettin Coskun",
+      "authorId": "semsettin.coskun.5",
+      "timeLabel": "Kommentar fra Semsettin Coskun for 5 dage siden",
+      "text": "Allah rahmet eylesin mekanı cennet olsun",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "176577222001499",
+      "parentId": null,
+      "authorName": "Süleyman Bilgin",
+      "authorId": "suleyman.bilgin.560",
+      "timeLabel": "Kommentar fra Süleyman Bilgin for 5 dage siden",
+      "text": "Allah rahmet eylesin mekani cennet olsun",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

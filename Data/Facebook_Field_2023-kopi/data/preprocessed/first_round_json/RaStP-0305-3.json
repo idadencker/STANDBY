@@ -1,0 +1,393 @@
+{
+  "authorName": "Rasmus SteenbergerRasmus SteenbergerRasmus SteenbergerEmil Sloth AndersenEmil Sloth AndersenEmil Sloth Andersen7 andre7 andre",
+  "authorId": "rasmus.steenberger",
+  "text": "Et grønt Kjøwenhawn uden forurening og klimasvineri? Vi tror det kan lykkes i 2030!\nSe link til indslaget i Lorry - undskyld, TV 2 Kosmopol, i kommentarfeltet",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161617879044271&set=a.10150290430239271&__cft__[0]=AZVTot8UbIcogjVXksBn5ere4VXsECqtHFxnkxA5NuwRSeRvvEob7oHiq4C87UiZ_e5JvFil0apbh4CpDrxJJWG5KPRX1xDoEggyJDRD1_aL5VCFA4Ey78r4_UDvNx-1tq6RTSGnmWhiAbwcHbIucSTeg5UF_KRfoi7Su-5uX5EZOQ&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person, skæg og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "30"
+    },
+    {
+      "type": "heart",
+      "count": "5"
+    },
+    {
+      "type": "care",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "184734404123569",
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for en uge siden",
+      "text": "Se mere i TV 2 Kosmopol: https://www.tv2kosmopol.dk/nyhedsudsendelser...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "782593579837401",
+      "parentId": null,
+      "authorName": "Majken Astrup",
+      "authorId": "majken.astrup",
+      "timeLabel": "Kommentar fra Majken Astrup for en uge siden",
+      "text": "Det var ikke meget taletid du fik",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "610134731041646",
+      "parentId": "782593579837401",
+      "authorName": "Rasmus SteenbergerMajken",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Majken Astrups kommentar for 6 dage siden",
+      "text": "Nej, desværre Majken",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "921503745622140",
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for en uge siden",
+      "text": "Har I lige glemt alle de handicappede der har fået bevilliget nye fossildrevne biler af Københavns kommune, hvad havde I forestillet jer at de skal gøre?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "822578429205042",
+      "parentId": "921503745622140",
+      "authorName": "Rasmus SteenbergerHelga",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Helga Marks kommentar for en uge siden",
+      "text": "Hej Helga - det nævner vi faktisk som et af vores forbehold i artiklen her: https://klimamonitor.dk/.../SF-Alternativet-%C3%B8nsker...",
+      "hasMedia": true,
+      "mediaAltText": "SF, Alternativet ønsker forbud mod fossilbiler i København i 2030",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "193859503523794",
+      "parentId": "921503745622140",
+      "authorName": "Helga MarkRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Rasmus Steenbergers kommentar for en uge siden",
+      "text": "Rasmus Steenberger Det ville jo så være en opgave for jer at de biler som bevilliger af Københavns kommune, til handicappede er ikke fossile biler. Dette er desværre en større opgave da man i Kommunen har vedtaget at man kun vil bevillige den billigste bil, og det er desværre stadig de fossil drevne biler, så Københavns kommune har brug for at kigge lidt indad.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1284571295813589",
+      "parentId": "921503745622140",
+      "authorName": "Jakob RamlauHelga Mark",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Svar fra Jakob Ramlau på Helga Marks kommentar for 6 dage siden",
+      "text": "Helga Mark De kan problemfrit ryge på grønt brændstof. Og stadig være billigt..... Elbiler kan betale sig i dag. For folk der kører cirka 20.000 kilometer om året,........ men rigtig mange københavnere, herunder handicappede, kører 5-10 kilometer om året. Og så er elbilen stadig ikke rigtig relevant,....... men det kommer. Om 2-3 år. Med eller uden politikerne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "614131660610977",
+      "parentId": "921503745622140",
+      "authorName": "Rasmus SteenbergerHelga",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Helga Marks kommentar for 6 dage siden",
+      "text": "Det bliver en del af forvaltningens opgave at kigge på det, Helga",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "667958391727066",
+      "parentId": "921503745622140",
+      "authorName": "Helga MarkRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Rasmus Steenbergers kommentar for 6 dage siden",
+      "text": "Rasmus Steenberger\nMen, de skyder det jo videre til jer politikere da der fattes midler til at bevillige el-drevne handicapbiler.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "270889481947412",
+      "parentId": "921503745622140",
+      "authorName": "Rasmus SteenbergerHelga",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Helga Marks kommentar for 6 dage siden",
+      "text": "Der sker en rivende udvikling på elbilområdet Helga - og 7 år er lang tid. Når først slut-datoen er sat, så må hele kommunens apparat tilpasse sig derefter",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1560743757669398",
+      "parentId": "921503745622140",
+      "authorName": "Helga MarkRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Rasmus Steenbergers kommentar for 6 dage siden",
+      "text": "Rasmus Steenberger\nNæste store problem, er at hverken Københavns kommune eller By&Havn har opsat 1 eneste el-oplader med tilgængelighed til handicapbiler. Københavns kommune er ved at udrulle El-ladestandere i byens rum, men ikke 1 eneste er tiltænkt til at handicappede skal kunne lade deres el-biler op.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "262203972915742",
+      "parentId": "921503745622140",
+      "authorName": "Rasmus SteenbergerHelga",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Helga Marks kommentar for 4 dage siden",
+      "text": "Hej Helga - tænker du “handicap-scooters” a la den du kører rundt på? Det skal vi helt klart tænke med ind",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "6318887474800079",
+      "parentId": "921503745622140",
+      "authorName": "Helga MarkRasmus SteenbergerKøbenhavns Kommune",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Rasmus Steenbergers kommentar for 4 dage siden",
+      "text": "Rasmus Steenberger\nNej, ikke til 3-hjulede el-crossere, men til bevilligede handicapbiler på el. Så vidt jeg har kunnet finde mig frem til, så mangler jeg at se en tilgængelig el-ladestanderplads til en handicapbil i København. Det kunne jo blive jeres næste opgave i SF, find ud af hvor der er en tilgængelig el-ladeplads til en handicapbil i Københavns Kommune Finder I en, må I godt fortælle mig hvor den er.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "251814360731239",
+      "parentId": null,
+      "authorName": "Jakob Ramlau",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Kommentar fra Jakob Ramlau for 6 dage siden",
+      "text": "Hej Rasmus. Alle NUVÆRENDE fossilbiler kan køre på helt eller delvist 'syntetisk eller grønt brændstof;........det vil være marginalt dyrere med dagens priser, men ikke noget der behøver slå bunden af hverken nationaløkonomien eller folks privatøkonomi efter 2030,....... så handikapbilen, der skrives ovenfor og folks fritidsbiler, dem kan folk godt beholde,....... der er sågar evidens for at den andemad der ødelægger vandmiljøerne, den kan blive til billigt biobrændstof,..... Så fremtiden er nogle 'veteranbiler' på alternative brændstoffer. Og elbiler for resten,....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "630174965260464",
+      "parentId": "251814360731239",
+      "authorName": "Carsten Kastoft HallasJakob RamlauRasmus Steenberger",
+      "authorId": "ckhallas",
+      "timeLabel": "Svar fra Carsten Kastoft Hallas på Jakob Ramlaus kommentar for 5 dage siden",
+      "text": "Jakob Ramlau husk Jakob.. Politiker som Rasmus Steenberger lever i en parallel lyserød verden.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "569280888670312",
+      "parentId": "251814360731239",
+      "authorName": "Jakob RamlauCarsten Kastoft Hallas",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Svar fra Jakob Ramlau på Carsten Kastoft Hallass kommentar for 5 dage siden",
+      "text": "Carsten Kastoft Hallas Rasmus er handlekraftig. I modsætning til mange tastekrigere, ingen nævnt, der hellere vil sende automatsynspunkter afsted end selv at gøre noget.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3452110038351324",
+      "parentId": "251814360731239",
+      "authorName": "Carsten Kastoft HallasJakob Ramlau",
+      "authorId": "ckhallas",
+      "timeLabel": "Svar fra Carsten Kastoft Hallas på Jakob Ramlaus kommentar for 5 dage siden",
+      "text": "Jakob Ramlau jeg tænker også i så fald. At de skal sætte et krav på at alle køretøjer der skal fremme den her \"ombygning\" af byen. Skal køre på el. Inklusiv krave maskiner osv.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1397101081090560",
+      "parentId": "251814360731239",
+      "authorName": "Jakob RamlauCarsten Kastoft Hallas",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Svar fra Jakob Ramlau på Carsten Kastoft Hallass kommentar for 5 dage siden",
+      "text": "Carsten Kastoft Hallas Du er så galt afmarcheret at jeg har svært ved at tage dig seriøst,....... Så, hvor kan vi blive enige? Vil tro vi kan blive enige om at der er en risiko for at 'hele byen' unødvendigt bliver 'gravet op'. I stedet for at man følger den tekniske udvikling og finder den smarteste løsning: 'Midttempoladere' der ikke vil overbelaste elnettet. Fordi elnettet er dimensioneret efter det såkaldte 'kogeø-tildspunkt',....... Behøver ikke gå stærkt med opladningen til alle de biler der holder parkeret natten over, vel?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "797586605293756",
+      "parentId": null,
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Kommentar fra SF København for 6 dage siden",
+      "text": "VEDTAGET (med en mindre tilknyttet syltekrukke frem til december 2023)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "205650665593331",
+      "parentId": null,
+      "authorName": "Jakob Ramlau",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Kommentar fra Jakob Ramlau for 6 dage siden",
+      "text": ",.... Det kan det i den grad. I øvrigt. Den elektriske kassecykel har erstattet ret mange biler allerede. Landet over,..... Fremtiden er sådan noget 30-40 kilometer i timen transport. Inde i byen..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "228140223241019",
+      "parentId": "205650665593331",
+      "authorName": "Rasmus SteenbergerJakob",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jakob Ramlaus kommentar for 5 dage siden",
+      "text": "Enig i at varecykler har en fed niche, Jakob",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "968519094181757",
+      "parentId": null,
+      "authorName": "Carsten Kastoft Hallas",
+      "authorId": "ckhallas",
+      "timeLabel": "Kommentar fra Carsten Kastoft Hallas for 5 dage siden",
+      "text": "Hvad er det for en syg tankegang du driver? prøv lige og se hvilke konsekvenser det vil få for forretninger. Folk der skal til og fra arbejde osv. Du syg i potten",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "162284800132189",
+      "parentId": "968519094181757",
+      "authorName": "Annika SmithCarsten Kastoft Hallas",
+      "authorId": "smithannika",
+      "timeLabel": "Svar fra Annika Smith på Carsten Kastoft Hallass kommentar for 5 dage siden",
+      "text": "Carsten Kastoft Hallas at kalde folk syge i potten, fordi de har et andet synspunkt end dig, er ikke ok. Hvad er din løsning på forureningen i Kbh og de mange borgere, der bliver syge og dør for tidligt som følge af den?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

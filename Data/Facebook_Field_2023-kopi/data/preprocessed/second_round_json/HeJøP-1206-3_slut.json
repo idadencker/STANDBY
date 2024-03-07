@@ -1,0 +1,106 @@
+{
+  "authorName": "Helle Jønch",
+  "authorId": "helle.joench",
+  "text": "Skal du med til Folkemødet? Kører torsdag morgen - retur søndag eftermiddag.\n350 kr en vej - 700 retur.\nHar 3 pladser i bil. Kører fra DR byen kl 7.30 ca. Færge kl 9.30 Ystad-Rønne. Retur søndag kl 14.30",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161225759421804&amp;set=a.10151888016491804&amp;__cft__[0]=AZUzzyXIx1zaF1WxXOVt8UoO61Nz0qVs2bEc0dJxkD8hVOikpB-ranHrdsBQGOMf2ySzE2R1N5IgsgAFR8oYWTwr5XtyOLhW5gH9N3Sfnjbe2U6swQ-5JKsQDZS0wC4wf-Y&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "12"
+    },
+    {
+      "type": "wow",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Vibeke Hellmann",
+      "authorId": "vibeke.hellmann",
+      "timeLabel": "Kommentar fra Vibeke Hellmann for 9 uger siden",
+      "text": "Vi ses... 💚💚💚💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Helle JønchVibeke Hellmann",
+      "authorId": "helle.joench",
+      "timeLabel": "Svar fra Helle Jønch på Vibeke Hellmanns kommentar for 9 uger siden",
+      "text": "Vibeke Hellmann ja vi gør 🎺😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 9 uger siden",
+      "text": "Desværre er din bil ikke stor nok til mig og min ferrari.😄👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Helle JønchHelga Mark",
+      "authorId": "helle.joench",
+      "timeLabel": "Svar fra Helle Jønch på Helga Marks kommentar for 9 uger siden",
+      "text": "Helga Mark jeg har anhængertræk på 💋",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Helga MarkHelle Jønch",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Helga Mark på Helle Jønchs kommentar for 9 uger siden",
+      "text": "Helle Jønch\nSå bliver man da lidt vindblæst, men man får da vind i sejlene. 🙃😄",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Helle JønchHelga Mark",
+      "authorId": "helle.joench",
+      "timeLabel": "Svar fra Helle Jønch på Helga Marks kommentar for 9 uger siden",
+      "text": "Helga Mark Det er nok lidt for langt med din ferrari 🙂 Jeg har set dit oplæg mht. tilgængelighed mv. Lad os tage den imorgen til mødet. Ses !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Gør som Christel - støt en god sag\nGlædelig indsamlingsdag! Støt børns skolegang verden over til mobilepay 74448. Rigtig god søndag.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10158891374267583&set=pcb.10158891375792583&__cft__[0]=AZXs55f9EPlBXnvSARGFoVDDKYFvbkfbcVqMwoWZA_r69Jvfq2uS_046-5PWf8OoxozT3HwmVyY4T4A1DfGfpC3MKnvhjX5Kc73M2wDRyLW7aW5-U7R6ph3LOSF1fuaRW6kxrzzXUCNp1j9DaRfmKdIuMr4t3XDnYIytYRVi2YMIpA&__tn__=*bH-y-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "4"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "781128400242759",
+      "parentId": null,
+      "authorName": "Christel Klan Stjernebjerg",
+      "authorId": "christel.stjernebjerg",
+      "timeLabel": "Kommentar fra Christel Klan Stjernebjerg for 5 dage siden",
+      "text": "Tak Rasmus. Så fedt at følge dig og alt dit gode arbejde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1282679319008000",
+      "parentId": "781128400242759",
+      "authorName": "Rasmus SteenbergerChristel",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Christel Klan Stjernebjergs kommentar for 4 dage siden",
+      "text": "Tak, Christel",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

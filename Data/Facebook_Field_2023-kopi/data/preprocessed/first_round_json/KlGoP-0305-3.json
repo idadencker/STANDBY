@@ -1,0 +1,135 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "Så er vi igang med at planlægge kampagnen: Fra bilrum til byrum.\nEnhedslisten København rykker for vildt 😊",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230964071104276&amp;set=a.4380583711778&amp;__cft__[0]=AZVGIbIv2aRFoBohyaKU894G5Mwb52gXNec0qv9hYdRQI1Jgw6B90Bk1joWve69JqNxYcj69cHh3UpyvKhnqD6aQby1ZrLKaTmIW0WEDpsGacnaWGvAwXthNQRJWGG1Bauim5jBGTp-Wn9dryhseXxb3THtHxcYpATG6VN0DCOM6Tg&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 11 personer og personer, der studerer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "91"
+    },
+    {
+      "type": "heart",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "id": "742565230984926",
+      "parentId": null,
+      "authorName": "Jean Thierry",
+      "authorId": "jean.thierry.18",
+      "timeLabel": "Kommentar fra Jean Thierry for 6 dage siden",
+      "text": "Enhedslisten København arbejder for flere handicap-parkeringspladser",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "111804718573236",
+      "parentId": null,
+      "authorName": "Lone Degn",
+      "authorId": "lone.degn.70",
+      "timeLabel": "Kommentar fra Lone Degn for 6 dage siden",
+      "text": "Glæder mig til at se hvad der kommer ud af det og ærger mig over ikke at være med. Fedt at se at den inddragende tilgang er i fokus.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "750336733452004",
+      "parentId": null,
+      "authorName": "Sørensen Bak Simon",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Sørensen Bak Simon for 6 dage siden",
+      "text": "🚙🚗🚗🚗🚗🚗🚗🚗🚗",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1280422015903864",
+      "parentId": null,
+      "authorName": "Pia Thorsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Pia Thorsen for 6 dage siden",
+      "text": "Husk plads til handicapbiler ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "260557859664584",
+      "parentId": "1280422015903864",
+      "authorName": "Pia ThorsenMartin Svendsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Pia Thorsen på Pia Thorsens kommentar for 6 dage siden",
+      "text": "Martin Svendsen den tager vi lige, når vi ses. Du må oplyses",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1299247390801429",
+      "parentId": "1280422015903864",
+      "authorName": "Susanne ChristiansenMartin Svendsen",
+      "authorId": "susanne.christiansen.921",
+      "timeLabel": "Svar fra Susanne Christiansen på Pia Thorsens kommentar for 6 dage siden",
+      "text": "Martin Svendsen arrogance når nye højder",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "960879568592362",
+      "parentId": null,
+      "authorName": "Lole Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lole Møller for 6 dage siden",
+      "text": "Skam dig Martin Svendsen Mage til arrogant holdning. Du ved åbenbart meget lidt om at færdes i det offentlige rum som kørestolsbruger. 😪",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

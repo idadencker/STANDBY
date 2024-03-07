@@ -1,0 +1,145 @@
+{
+  "authorName": "Claus Buch",
+  "authorId": "claus.buch.1972",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230187510369908&amp;set=a.10214401506129668&amp;__cft__[0]=AZVcNzVntMJZl_h6p0fCLxtY5Kl3PZ8b9cTRB30ha8f5A3rIC9hJ1vwX2eIQAXtCZ0Qhvo8QqRsQ_LGKw2A8GltdEtf7HM38Y-MMTqkjONbFD94N3kKFFnv-ig-iCXxQ0xc&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "22"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Kirsten Møller Buch",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Kirsten Møller Buch for 10 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Andreas Rasmussen",
+      "authorId": "gentlemenslounge",
+      "timeLabel": "Kommentar fra Andreas Rasmussen for 10 uger siden",
+      "text": "0.1% ~ 250 kr. 🤣🤣🤣",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Claus BuchAndreas Rasmussen",
+      "authorId": "claus.buch.1972",
+      "timeLabel": "Svar fra Claus Buch på Andreas Rasmussens kommentar for 10 uger siden",
+      "text": "Andreas Rasmussen Alt tæller husk på det og nu 0,1 % hvert år til og med 2025 indtil videre som bosiddende i Københavns Kommune 👆🤝👀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Andreas RasmussenClaus",
+      "authorId": "gentlemenslounge",
+      "timeLabel": "Svar fra Andreas Rasmussen på Claus Buchs kommentar for 10 uger siden",
+      "text": "Claus,",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Claus Buch",
+      "authorId": "claus.buch.1972",
+      "timeLabel": "Svar fra Claus Buch på Andreas Rasmussens kommentar for 10 uger siden",
+      "text": "Andreas Rasmussen Læs aftalen som indeholder væsentlige rammer for nødvendig byudvikling og kommenterer ikke på andre parti medlemmer 🙃🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Schou HansenAndreas Rasmussen",
+      "authorId": "jesper.schou.hansen",
+      "timeLabel": "Svar fra Jesper Schou Hansen på Andreas Rasmussens kommentar for 10 uger siden",
+      "text": "Andreas Rasmussen I alt tre gange = 750 kr. For et ægtepar 1500 kr. Det kan de fleste godt bruge til noget.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Andreas Rasmussen",
+      "authorId": "gentlemenslounge",
+      "timeLabel": "Svar fra Andreas Rasmussen på Jesper Schou Hansens kommentar for 10 uger siden",
+      "text": "Jesper I 2025 har andre skatter ædt den mikroskopiske gevinst.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gunnar Hattesen",
+      "authorId": "gunnar.hattesen",
+      "timeLabel": "Kommentar fra Gunnar Hattesen for 10 uger siden",
+      "text": "Godt kæmpet. I er et forbillede for landets øvrige kommuner.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten M Buch",
+      "authorId": "kirsten.mbuch.3",
+      "timeLabel": "Kommentar fra Kirsten M Buch for 2 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

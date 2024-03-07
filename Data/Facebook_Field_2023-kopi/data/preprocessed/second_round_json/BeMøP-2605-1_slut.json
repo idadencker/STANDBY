@@ -1,0 +1,931 @@
+{
+  "authorName": "Bente Møller",
+  "authorId": "profile.php",
+  "text": "Øv. En meget kraftig forstuvning af venstre knæ betyder, at jeg misser listens årsmøde. Ærgerligt, men godt årsmøde❤️💚",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231473688451232&amp;set=a.10214870867031073&amp;__cft__[0]=AZU9ldKJj0ufDFqPH65x5PSWse7UOYGxY8iQCUazgI3K3rcl-KIbRxEDRj9xVkm9ZNT7z1rbG0oXPADSlUdxvByoMFCm0eHLX2kdCqlazWuODOLU7J-fi7Fj6aQRDTzxS9k&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "care",
+      "count": "56"
+    },
+    {
+      "type": "like",
+      "count": "19"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Maj-Britt Milsted",
+      "authorId": "majbritt.milsted",
+      "timeLabel": "Kommentar fra Maj-Britt Milsted for 11 uger siden",
+      "text": "Øv. God bedring 😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kim Jezus",
+      "authorId": "kimjezus",
+      "timeLabel": "Kommentar fra Kim Jezus for 11 uger siden",
+      "text": "av - og god bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lisbet Gade Nielsen",
+      "authorId": "lisbet.g.nielsen",
+      "timeLabel": "Kommentar fra Lisbet Gade Nielsen for 11 uger siden",
+      "text": "Øv , hvad har du lavet ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Bente MøllerLisbet Gade Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Lisbet Gade Nielsens kommentar for 11 uger siden",
+      "text": "Lisbet Gade Nielsen en gravid kvinde, der gik lige bag mig i Amsterdam i morges, snublede og faldt pladask forover som et slag på siden af mit knæ. Hun er heldigvis OK. Mit knæ gik af led og er kraftigt forstuvet. Og flyforsinkelse, landing i Malmø, et times ventetid i flyet, derefter afstigning og en meget lang tsxatur hjem, gjorde hævelsen enorm, Så det er op med benet, is på og ro.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "authorName": "Anders Mads JansenBente Møller",
+      "authorId": "anders.m.jansen",
+      "timeLabel": "Svar fra Anders Mads Jansen på Bente Møllers kommentar for 11 uger siden",
+      "text": "Bente Møller Det er godt nok uheldigt mor",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Lisbet Gade NielsenBente Møller",
+      "authorId": "lisbet.g.nielsen",
+      "timeLabel": "Svar fra Lisbet Gade Nielsen på Bente Møllers kommentar for 11 uger siden",
+      "text": "Bente Møller god bedring til dig 😊👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Erdogan Mert",
+      "authorId": "erdogan.mert.52",
+      "timeLabel": "Kommentar fra Erdogan Mert for 11 uger siden",
+      "text": "God bedring 💐",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Pia Boisen",
+      "authorId": "pia.boisen",
+      "timeLabel": "Kommentar fra Pia Boisen for 11 uger siden",
+      "text": "Øv! Rigtig god bedring, Bente!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jan V Jakobsen",
+      "authorId": "jan.v.jakobsen",
+      "timeLabel": "Kommentar fra Jan V Jakobsen for 11 uger siden",
+      "text": "God bedring, Bente!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten Frøstrup Ovesen",
+      "authorId": "kirsten.ovesen.16",
+      "timeLabel": "Kommentar fra Kirsten Frøstrup Ovesen for 11 uger siden",
+      "text": "God bedring. ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Hanne Thomsen",
+      "authorId": "hanne.thomsen.395",
+      "timeLabel": "Kommentar fra Hanne Thomsen for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Eva Hallgren",
+      "authorId": "eva.hallgren.3",
+      "timeLabel": "Kommentar fra Eva Hallgren for 11 uger siden",
+      "text": "Øv! Havde set frem til at møde dig. God bedring 🦵🌸",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Barbara Lange Schütt",
+      "authorId": "barbara.lange",
+      "timeLabel": "Kommentar fra Barbara Lange Schütt for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bodil Steffensen",
+      "authorId": "bodil.steffensen.3",
+      "timeLabel": "Kommentar fra Bodil Steffensen for 11 uger siden",
+      "text": "Øv da, god bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lole Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lole Møller for 11 uger siden",
+      "text": "ØV, god bedring!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Inga Olsen",
+      "authorId": "inga.olsen1",
+      "timeLabel": "Kommentar fra Inga Olsen for 11 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lene Sonne",
+      "authorId": "Ciasonne",
+      "timeLabel": "Kommentar fra Lene Sonne for 11 uger siden",
+      "text": "Av Bente, det var synd for dig. Jeg håber det hurtigt bliver bedre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Marion Munkebo Andersson",
+      "authorId": "marion.m.andersson",
+      "timeLabel": "Kommentar fra Marion Munkebo Andersson for 11 uger siden",
+      "text": "God bedring ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lasse Pno",
+      "authorId": "lasse.pno",
+      "timeLabel": "Kommentar fra Lasse Pno for 11 uger siden",
+      "text": "Øv! God bedring!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Charlotte Lund",
+      "authorId": "charlottelund82kjyj",
+      "timeLabel": "Kommentar fra Charlotte Lund for 11 uger siden",
+      "text": "Åh nej",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jakob Gislund",
+      "authorId": "jakob.gislund",
+      "timeLabel": "Kommentar fra Jakob Gislund for 11 uger siden",
+      "text": "Pas nu på med at tage Per Larsen-grimassen på. Du er vel stadig rød????",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Bente MøllerJakob Gislund",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Jakob Gislunds kommentar for 11 uger siden",
+      "text": "Jakob Gislund absolut",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Birthe Staun Thoftstrup Møller",
+      "authorId": "birthethoftstrup",
+      "timeLabel": "Kommentar fra Birthe Staun Thoftstrup Møller for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ann-Birgitte Svendsen",
+      "authorId": "annbirgitte.svendsen",
+      "timeLabel": "Kommentar fra Ann-Birgitte Svendsen for 11 uger siden",
+      "text": "Øv, øv, øv. God bedring.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 11 uger siden",
+      "text": "God bedring.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ken Poulsen",
+      "authorId": "ken.poulsen.79",
+      "timeLabel": "Kommentar fra Ken Poulsen for 11 uger siden",
+      "text": "God bedring, Bente",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Tom Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Tom Møller for 11 uger siden",
+      "text": "God bedring ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Tom Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Tom Møller for 11 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Susanne Langer",
+      "authorId": "susanne.langer.92",
+      "timeLabel": "Kommentar fra Susanne Langer for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Runa Friis Hansen",
+      "authorId": "runa.f.hansen",
+      "timeLabel": "Kommentar fra Runa Friis Hansen for 11 uger siden",
+      "text": "Æv!!!! Håber du hurtigt er frisk igen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ingelise Bech Hansen",
+      "authorId": "ingelisebech.hansen",
+      "timeLabel": "Kommentar fra Ingelise Bech Hansen for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Pia Thorsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Pia Thorsen for 11 uger siden",
+      "text": "Åh nej. God bedring ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Leif Mikkelsen",
+      "authorId": "leif.mikkelsen.507",
+      "timeLabel": "Kommentar fra Leif Mikkelsen for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten Toudal Hjarsø",
+      "authorId": "Kittetoudal",
+      "timeLabel": "Kommentar fra Kirsten Toudal Hjarsø for 11 uger siden",
+      "text": "God bedring 💪",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lars Madsen",
+      "authorId": "lars.madsen.94",
+      "timeLabel": "Kommentar fra Lars Madsen for 11 uger siden",
+      "text": "Kære Bente. Ja, idræt er noget opreklameret lort ❤️❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Sandra LarsenBente",
+      "authorId": "sandra.larsen.18",
+      "timeLabel": "Kommentar fra Sandra Larsen for 11 uger siden",
+      "text": "Jeg vil gerne ønske dig Rigtig God bedring Bente ❤️ håber at du er okay 🙏🏻❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kathrine HammerichBente Møller",
+      "authorId": "kathrinehammerich",
+      "timeLabel": "Kommentar fra Kathrine Hammerich for 11 uger siden",
+      "text": "God bedring, Bente Møller . Hvad er dog sket?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Bente MøllerKathrine Hammerich",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Kathrine Hammerichs kommentar for 11 uger siden",
+      "text": "Kathrine Hammerich se mit svar til Lisbeth",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Charlotte Nørgaard",
+      "authorId": "cnc2624",
+      "timeLabel": "Kommentar fra Charlotte Nørgaard for 11 uger siden",
+      "text": "Rigtig god bedring 🌺",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Thilde Guldberg",
+      "authorId": "thilde.guldberg",
+      "timeLabel": "Kommentar fra Thilde Guldberg for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Per Bregengaard",
+      "authorId": "per.bregengaard.3",
+      "timeLabel": "Kommentar fra Per Bregengaard for 11 uger siden",
+      "text": "God bedring, Bente. Kh Per",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jørgen Lund",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jørgen Lund for 11 uger siden",
+      "text": "SYND FOR ÅRSMØDET OG FOR DIG. gOD BEDRING !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gitte Jorgensen",
+      "authorId": "gitte.jorgensen.14",
+      "timeLabel": "Kommentar fra Gitte Jorgensen for 11 uger siden",
+      "text": "God bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Line Barfod",
+      "authorId": "line.barfod",
+      "timeLabel": "Kommentar fra Line Barfod for 11 uger siden",
+      "text": "Kære Bente Det lyder ikke rart. Rigtig god bedring.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bent Skovgaard Olsen",
+      "authorId": "bentskovgaard.olsen",
+      "timeLabel": "Kommentar fra Bent Skovgaard Olsen for 11 uger siden",
+      "text": "God bedring, pas godt på dig selv 💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Maria Messerschmidt",
+      "authorId": "maria.messerschmidt.9",
+      "timeLabel": "Kommentar fra Maria Messerschmidt for 11 uger siden",
+      "text": "Av av god bedring",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Winnie Jensen",
+      "authorId": "winnie.jensen.16",
+      "timeLabel": "Kommentar fra Winnie Jensen for 11 uger siden",
+      "text": "God bedring 🧶🥘🍷",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Malene Ingwersen",
+      "authorId": "maleneingwersen",
+      "timeLabel": "Kommentar fra Malene Ingwersen for 11 uger siden",
+      "text": "God bedring ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bettina Jansen",
+      "authorId": "bettina.jansen",
+      "timeLabel": "Kommentar fra Bettina Jansen for 11 uger siden",
+      "text": "God bedring💐",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Carsten Urban Jedig Steenberg",
+      "authorId": "carsten.u.steenberg",
+      "timeLabel": "Kommentar fra Carsten Urban Jedig Steenberg for 11 uger siden",
+      "text": "God bedring ✊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Luis Monteiro",
+      "authorId": "lumont1952",
+      "timeLabel": "Kommentar fra Luis Monteiro for 11 uger siden",
+      "text": "God bedring 💐",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Susan Ibus",
+      "authorId": "susan.ibus",
+      "timeLabel": "Kommentar fra Susan Ibus for 11 uger siden",
+      "text": "God bedring Bente🌺",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jens Johansen",
+      "authorId": "jens.johansen.100",
+      "timeLabel": "Kommentar fra Jens Johansen for 11 uger siden",
+      "text": "God bedring, gamle ven. 💚❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Søren Fink",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Søren Fink for 11 uger siden",
+      "text": "Håber knæet hurtigt bliver bedre 🌹",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Bente MøllerSøren Fink",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Søren Finks kommentar for 11 uger siden",
+      "text": "Søren Fink Tak, skulle gerne klare SKF i Barbaras team i år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Reidunn Evjen",
+      "authorId": "reievj",
+      "timeLabel": "Kommentar fra Reidunn Evjen for 11 uger siden",
+      "text": "Stakkars Bente, da tvinges du til å roe ned😉hilsen hun du kjenner som p. t er på krykker pga menisken. Det er både fordeler og ulemper med alt. God bedring i finværet🌞",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Bente MøllerReidunn Evjen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Reidunn Evjens kommentar for 11 uger siden",
+      "text": "Reidunn Evjen tak. I lige måde. Held og Lykke med menisken. Det er svært at geare ned😁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Irandokht Felardi",
+      "authorId": "irandokht.felardi.9",
+      "timeLabel": "Kommentar fra Irandokht Felardi for 10 uger siden",
+      "text": "God bedring kære Bente.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

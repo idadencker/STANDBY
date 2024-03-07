@@ -1,0 +1,48 @@
+{
+  "authorName": "Rabih Azad-Ahmad",
+  "authorId": "rabih.azadahmad",
+  "text": "Den kommende Musihuspark\nDet er en glædens dag, og jeg kan slet ikke vente med at komme i gang. Jeg er meget imponeret over, hvordan vinderteamet har formået at tænke parken ind i det eksisterende område og alt det nye, der kommer til med The Next Level, som den skal danse pardans med i årene, der kommer. Jeg glæder mig over, at Aarhus får et unikt, grønt åndehul i hjertet af byen, der kommer til at summe af liv og fællesskaber.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231134536772677&set=pcb.10231134619494745&__cft__[0]=AZV3ZKgRE8iYuhbj0qsepdbz1ztIe9eqO3FqiCNuK9ssTDJAHBDUenabOpVm9I3pFr2m51i_RZDI4N0H2NBvNIWMJN8RAscjY6nC_tjvjF83I4km_mZ4KdUp36qTz1wSDnM&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "42"
+    }
+  ],
+  "comments": [
+    {
+      "id": "631198545633020",
+      "parentId": null,
+      "authorName": "Henrik Woer",
+      "authorId": "denhellige",
+      "timeLabel": "Kommentar fra Henrik Woer for 2 dage siden",
+      "text": "Rigt er det samfund der nedlægger et smukt anlæg fior at anlægge et nyt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "305060298540547",
+      "parentId": null,
+      "authorName": "Morten Bundsgaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Morten Bundsgaard for 2 dage siden",
+      "text": "Glæder mig til at se den og åbningen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

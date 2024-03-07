@@ -1,0 +1,31 @@
+{
+  "authorName": "Anette Poulsen",
+  "authorId": "anette.m.poulsen.5",
+  "text": "Der gøres klar på Rådhuset til royalt besøg i morgen, hvor der er officielt besøg af det norske kongepar og vores eget kronprinsepar\nMere om det i morgen",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10232140993772674&set=pcb.10232140999692822&__cft__[0]=AZVU1Tv15PyWyaoi1dcFVnGaPz0LTsTvtCDT6e-X0q9MbJPYRAaNkGIi_zCzs332Z09MnAtBJehh_vmqADRZzayJrE_Jr83heRxVgOTJhZE4rpQlJTXogDw9XDT4Y7fXQGc&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "58"
+    }
+  ],
+  "comments": [
+    {
+      "id": "286084973888290",
+      "parentId": null,
+      "authorName": "Kirsten Buur Stranddorf",
+      "authorId": "kirsten.stranddorf",
+      "timeLabel": "Kommentar fra Kirsten Buur Stranddorf for 2 uger siden",
+      "text": "Rigtig god fornøjelse.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

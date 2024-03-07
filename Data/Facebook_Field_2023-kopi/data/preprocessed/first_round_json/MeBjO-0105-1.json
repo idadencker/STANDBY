@@ -1,0 +1,137 @@
+{
+  "authorName": "Mette BjerreMette BjerreMette BjerreKirsten Normann AndersenKirsten Normann AndersenKirsten Normann Andersen",
+  "authorId": "stemMetteBjerre",
+  "text": "God kampdag ❤️✊\nDer var skøn stemning på havnepladsen i aarhus, med taler, musik og masser af mennesker.\nJeg mødtes med mine gode veninde Laila Lauridsen og vi havde børnene med. Mens vi lyttede på talerne spurgte børnene hvorfor vi egentlig har en kampdag for arbejdere. Vi snakkede om, at der stadig er masser af kæmpe for, at selvom samfundet bliver rigere, er der flere som er fattige, og jobs som ikke giver en fair løn. At jobs som pædagog og sygeplejerske, er væsentligt dårligere lønnet end andre, bare fordi det traditionelt har været kvindejobs. Vi snakkede også om, at vi kæmper for mere frihed, mere fritid, for kortere arbejdstid, fordi det har vi råd til i et rigt samfund. Istedet for bliver store bededag afskaffet.\nJeg håber I andre også har haft en god kampdag.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=671454794991312&amp;set=pcb.671455188324606&amp;__cft__[0]=AZV_AKVxF_8Wqoe5Z93s9x5SXijzc5iXnz2XmzSRI5PwCkOrGwo100VMUrTm_VEZNaJ0B0WFF_UAFXjwYzeh_3cHOQG8ar2dSphAMfEwWPtyEjEUoZ5epKn5yIQVKupme8FKnE6b-0tNhJ4eelIBHOfp&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "19"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "238118002204661",
+      "parentId": null,
+      "authorName": "Laila Lauridsen",
+      "authorId": "lailafriislauridsen",
+      "timeLabel": "Kommentar fra Laila Lauridsen for en uge siden",
+      "text": "Aksel blev lidt nervøs for at folk skulle slås da vi snakkede om at vi skulle til kampdag og det ikke drejede sig om fodbold 😅",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "1349964435861613",
+      "parentId": "238118002204661",
+      "authorName": "Mette BjerreLaila Lauridsen",
+      "authorId": "stemMetteBjerre",
+      "timeLabel": "Svar fra Mette Bjerre på Laila Lauridsens kommentar for en uge siden",
+      "text": "Laila Lauridsen hehe søde Aksel. Der var heldigvis ingen slåskamp 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "694261102699975",
+      "parentId": "238118002204661",
+      "authorName": "Emil OlsenLaila Lauridsen",
+      "authorId": "olsen.e",
+      "timeLabel": "Svar fra Emil Olsen på Laila Lauridsens kommentar for en uge siden",
+      "text": "Laila Lauridsen haha godt der ikke var slåskamp 😄",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "921911309087624",
+      "parentId": null,
+      "authorName": "Emil Olsen",
+      "authorId": "olsen.e",
+      "timeLabel": "Kommentar fra Emil Olsen for en uge siden",
+      "text": "Rigtig god kampdag. Det var hyggeligt at se jer begge igen 😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1293477484580061",
+      "parentId": "921911309087624",
+      "authorName": "Laila LauridsenEmil Olsen",
+      "authorId": "lailafriislauridsen",
+      "timeLabel": "Svar fra Laila Lauridsen på Emil Olsens kommentar for en uge siden",
+      "text": "Emil Olsen i lige måde 😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1396166624536997",
+      "parentId": "921911309087624",
+      "authorName": "Mette BjerreEmil Olsen",
+      "authorId": "stemMetteBjerre",
+      "timeLabel": "Svar fra Mette Bjerre på Emil Olsens kommentar for en uge siden",
+      "text": "Emil Olsen i lige måde 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "5638719252900069",
+      "parentId": "921911309087624",
+      "authorName": "Emil Olsen",
+      "authorId": "olsen.e",
+      "timeLabel": "Svar fra Emil Olsen på Emil Olsens kommentar for en uge siden",
+      "text": "Hvor har i nogen fornuftige børn, sådan at sætte spørgsmål ved ting. Også nogen fornuftige betragtninger og svar i gav 😃",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}
