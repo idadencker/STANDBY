@@ -1,0 +1,143 @@
+{
+  "authorName": "Helle Bonnesen",
+  "authorId": "hellebonnesen.fk",
+  "text": "Aftensmad …. Si’r det bare …..",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=688894166578545&amp;set=a.228231079311525&amp;__cft__[0]=AZV1n3EcZdyUtVnFiXBcn_OgrVxlHnHOhY8sdjDgu6Zg8Y0BNjXDJtw8EnLx2cZnXTFHiDi6YtYQNYgXFVP7WrPuIFnOKhlmazc9NZuGf6qPHVkr1RMoof0HRKFNxCzDldvKafU8JYC0Wm77udEdGcVg&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "56"
+    },
+    {
+      "type": "wow",
+      "count": "13"
+    },
+    {
+      "type": "heart",
+      "count": "9"
+    }
+  ],
+  "comments": [
+    {
+      "id": "197862153064979",
+      "parentId": null,
+      "authorName": "Dan Pedersen",
+      "authorId": "dan.pedersen.3591",
+      "timeLabel": "Kommentar fra Dan Pedersen for en dag siden",
+      "text": "Mums",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3045525765592202",
+      "parentId": null,
+      "authorName": "Mads Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Mads Møller for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1302011310695014",
+      "parentId": null,
+      "authorName": "Zitta Ziegler",
+      "authorId": "zitta.ziegler",
+      "timeLabel": "Kommentar fra Zitta Ziegler for 2 dage siden",
+      "text": "Mums 😋",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "174786925525433",
+      "parentId": null,
+      "authorName": "Lars Hajslund",
+      "authorId": "larshajslund",
+      "timeLabel": "Kommentar fra Lars Hajslund for 2 dage siden",
+      "text": "No uncle, just shrimps",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "1287976112124556",
+      "parentId": null,
+      "authorName": "Else Karin Nissen",
+      "authorId": "elsekarin.nissen",
+      "timeLabel": "Kommentar fra Else Karin Nissen for 2 dage siden",
+      "text": "Woow",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "934576887830560",
+      "parentId": null,
+      "authorName": "Marie Louise Hoff",
+      "authorId": "mlhoff",
+      "timeLabel": "Kommentar fra Marie Louise Hoff for 2 dage siden",
+      "text": "Uhhmmm..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1755297954929589",
+      "parentId": null,
+      "authorName": "Kim Alkestrup",
+      "authorId": "kim.alkestrup.3",
+      "timeLabel": "Kommentar fra Kim Alkestrup for 2 dage siden",
+      "text": "Sikken fest",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "authorName": "Metin Lindved Aydin",
+  "authorId": "metin.lindved.aydin",
+  "text": "Så blev det breaket: Vi skal bygge 28.000 m2 råhus i CLT og limtræ på Marmormolen i København.\nBygningen, AP01, er tegnet af Henning Larsen Architects for AP Pension og Woodconstruction A/S er underentreprenør for LM Byg A/S.\nGod sommer ☀️\nhttps://www.woodconstruction.dk/ap01/",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230988968406420&amp;set=pcb.10230988957726153&amp;__cft__[0]=AZXqZW81F-y-pdCFBqE3ZtA0mK8cYuH8JLCMdvZuxjpS03hzEM2stGcLwIhF7AVHXWTtGvdBFLwj0FhxCn3r2eS65Io2uTsNrU_OY_0lDes0xDHUeW8jFVP8qw0qIesQM98&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "131"
+    },
+    {
+      "type": "wow",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1234191467465954",
+      "parentId": null,
+      "authorName": "Jimmy Holm",
+      "authorId": "jimmy.holm.9",
+      "timeLabel": "Kommentar fra Jimmy Holm for 8 uger siden",
+      "text": "Konge🫶",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "177700015247570",
+      "parentId": null,
+      "authorName": "Midtjysk Klimateknik",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Midtjysk Klimateknik for 8 uger siden",
+      "text": "Godt gået er du på Sjælland",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "623195239473591",
+      "parentId": "177700015247570",
+      "authorName": "Metin Lindved AydinMidtjysk Klimateknik",
+      "authorId": "metin.lindved.aydin",
+      "timeLabel": "Svar fra Metin Lindved Aydin på Midtjysk Klimatekniks kommentar for 8 uger siden",
+      "text": "Det er vores montører Midtjysk Klimateknik",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "648813237288827",
+      "parentId": null,
+      "authorName": "Thomas Møller Ørum",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Thomas Møller Ørum for 8 uger siden",
+      "text": "Det er da klasse! 👏👏👏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1295998517667096",
+      "parentId": null,
+      "authorName": "Marianne Berg",
+      "authorId": "marianne.berg.330",
+      "timeLabel": "Kommentar fra Marianne Berg for 8 uger siden",
+      "text": "Det vil jeg glæde mig til at se !!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1255491768402139",
+      "parentId": null,
+      "authorName": "Benny Bjørnsholm",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Benny Bjørnsholm for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "621287829884935",
+      "parentId": null,
+      "authorName": "Brian Rex Hansen",
+      "authorId": "brianrex.hansen",
+      "timeLabel": "Kommentar fra Brian Rex Hansen for 8 uger siden",
+      "text": "Tillykke med projektet 😃\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "268441898968204",
+      "parentId": null,
+      "authorName": "Henrik Olsen",
+      "authorId": "henrik.olsen.71271",
+      "timeLabel": "Kommentar fra Henrik Olsen for 8 uger siden",
+      "text": "Flot! - jeg skal høre noget mere om dit pindebrænde 👍\nHavde de ikke en større sikkerhedshjelm? 😜",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "1184799735518372",
+      "parentId": "268441898968204",
+      "authorName": "Metin Lindved AydinHenrik Olsen",
+      "authorId": "metin.lindved.aydin",
+      "timeLabel": "Svar fra Metin Lindved Aydin på Henrik Olsens kommentar for 8 uger siden",
+      "text": "Og jeg vil gerne fortælle Henrik Olsen - de store hoveder sidder på kontoret…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "9176316249105031",
+      "parentId": null,
+      "authorName": "Lars Damslund Ethelberg",
+      "authorId": "lars.damslundethelberg",
+      "timeLabel": "Kommentar fra Lars Damslund Ethelberg for 8 uger siden",
+      "text": "Tillykke 👍\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "567606795493782",
+      "parentId": null,
+      "authorName": "Maria Og Muharrem Aydin",
+      "authorId": "mariaog.muharrem.3",
+      "timeLabel": "Kommentar fra Maria Og Muharrem Aydin for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1286055305650339",
+      "parentId": null,
+      "authorName": "Bjarne Hjelm",
+      "authorId": "bjarne.hjelm.18",
+      "timeLabel": "Kommentar fra Bjarne Hjelm for 8 uger siden",
+      "text": "Limtræ - det er noget man \"breaker\" ... Ikke noget man bygger af 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1437746107012914",
+      "parentId": null,
+      "authorName": "Mette Telefoni",
+      "authorId": "mette.telefoni",
+      "timeLabel": "Kommentar fra Mette Telefoni for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "642337197345414",
+      "parentId": null,
+      "authorName": "Sine Kilde",
+      "authorId": "sine.kilde",
+      "timeLabel": "Kommentar fra Sine Kilde for 8 uger siden",
+      "text": "Oh lord! Hvor er det stort! Gamechanger!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "267591019063697",
+      "parentId": null,
+      "authorName": "Hanne Søholt Foged",
+      "authorId": "hannesoeholtfoged",
+      "timeLabel": "Kommentar fra Hanne Søholt Foged for 8 uger siden",
+      "text": "Tillykke💪\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "917284629497532",
+      "parentId": null,
+      "authorName": "Jann Mosgaard",
+      "authorId": "jann.mosgaard",
+      "timeLabel": "Kommentar fra Jann Mosgaard for 8 uger siden",
+      "text": "Fedt Metin 👍👍👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "918738642565871",
+      "parentId": null,
+      "authorName": "Anne Jensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Anne Jensen for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "770501781275584",
+      "parentId": null,
+      "authorName": "Pi Betsch",
+      "authorId": "pia.betsch",
+      "timeLabel": "Kommentar fra Pi Betsch for 8 uger siden",
+      "text": "Sådan Metin 💪🏼💪🏼 glæder mig at der er så meget grønt på toppen 🌿🌳🍀😍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "190819450578016",
+      "parentId": null,
+      "authorName": "Jeppe Nørager",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jeppe Nørager for 8 uger siden",
+      "text": "Tillykke med opgaven! Godt gået🙂👍🏻\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "778276910594762",
+      "parentId": null,
+      "authorName": "Gert Bjerregaard",
+      "authorId": "gert.bjerregaard.9",
+      "timeLabel": "Kommentar fra Gert Bjerregaard for 8 uger siden",
+      "text": "Tillykke\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "262043113025109",
+      "parentId": null,
+      "authorName": "Susanne Lund",
+      "authorId": "susanne.lund.31586",
+      "timeLabel": "Kommentar fra Susanne Lund for 8 uger siden",
+      "text": "Stort tillykke",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "938266200726012",
+      "parentId": null,
+      "authorName": "Tanja Thorbjørnsrød",
+      "authorId": "tanja.thorbjornsrod",
+      "timeLabel": "Kommentar fra Tanja Thorbjørnsrød for 8 uger siden",
+      "text": "Tillykke",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "754133862883264",
+      "parentId": null,
+      "authorName": "Daniel Møller KongsgaardMetin",
+      "authorId": "daniel.kongsgaard",
+      "timeLabel": "Kommentar fra Daniel Møller Kongsgaard for 8 uger siden",
+      "text": "Wow Metin, det lyder fantastisk 💪",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "478661501116420",
+      "parentId": null,
+      "authorName": "Jørn Juul Sørensen",
+      "authorId": "jorn.j.sorensen",
+      "timeLabel": "Kommentar fra Jørn Juul Sørensen for 8 uger siden",
+      "text": "Hvad er LCA aftryk samlet set på bygningen?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

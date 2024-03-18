@@ -1,0 +1,120 @@
+{
+  "authorName": "Mahad Yussuf",
+  "authorId": "mahad.yussuf.5",
+  "text": "Jeg havde idag fornøjelsen af at holde tale og hylde en flok skønne studenter.\nStort tillykke med huen 👏🏿🎉🇩🇰",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=2966150990196558&amp;set=pcb.2966154270196230&amp;__cft__[0]=AZVwovmCNnK-2dUuokeAIWvK8p0dNu_s4iWjxIkeNKuToCspVfmUCCF6-cm_E2zFxl6-CXhl5mMPBTv_aD-OP_Buf5hUGpxhzeYgNGWMSt0Vf1hcckY6_f34Rea81Xw1i6E&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "48"
+    },
+    {
+      "type": "heart",
+      "count": "14"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1610899539386493",
+      "parentId": null,
+      "authorName": "Mohamed Mohamud",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Mohamed Mohamud for en uge siden",
+      "text": "Kæmpe tillykke❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "276884684847386",
+      "parentId": null,
+      "authorName": "Dine Soumah",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Dine Soumah for en uge siden",
+      "text": "That's awesome! Congratulations!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1227482954630291",
+      "parentId": null,
+      "authorName": "Fadumo Hasan Gobweyn",
+      "authorId": "haniali.xasan",
+      "timeLabel": "Kommentar fra Fadumo Hasan Gobweyn for en uge siden",
+      "text": "Bravo 👏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "204937372076411",
+      "parentId": null,
+      "authorName": "Berlin Farah",
+      "authorId": "berlinatl",
+      "timeLabel": "Kommentar fra Berlin Farah for en uge siden",
+      "text": "Well done aboowe",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1467442824083724",
+      "parentId": null,
+      "authorName": "Arulanantharajah Thillainadarasa",
+      "authorId": "arulanantharajah.thillainadarasa",
+      "timeLabel": "Kommentar fra Arulanantharajah Thillainadarasa for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "808237277490657",
+      "parentId": null,
+      "authorName": "Ali Abdulqadir Barajab",
+      "authorId": "sabir.mohammed.5",
+      "timeLabel": "Kommentar fra Ali Abdulqadir Barajab for en uge siden",
+      "text": "Tillykke",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

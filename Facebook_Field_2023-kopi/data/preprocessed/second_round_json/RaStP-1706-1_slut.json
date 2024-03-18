@@ -1,0 +1,108 @@
+{
+  "authorName": "Rasmus SteenbergerRasmus SteenbergerRasmus SteenbergerLaplandsgadeLaplandsgadeLaplandsgade",
+  "authorId": "rasmus.steenberger",
+  "text": "På vandretur med Kim og Obed, som skriver en bog om de mange værksteder og kreative fællesskaber i Laplandsgade-kvarteret\nVi skal bevare byens sjæl - også det upolerede!",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161715409964271&set=pcb.10161715412264271&__cft__[0]=AZUL3aAm-jlgAAV-TKGxs9MohemHoGJCknJo5nXtXxhJ28GoGkmY6Ka8g6Mz3miZAhhCRc84oEh7s96vKBJdN40eIUCWCXv0schoSb8RsxgtSJFbbADAnCJlCesHVkfDHXiCUhntjoGeFyQhX4ksqeB_C7kFW4AX4jaHMBJu9gRQtA&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "35"
+    },
+    {
+      "type": "heart",
+      "count": "5"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "John Dyhr",
+      "authorId": "john.dyhr",
+      "timeLabel": "Kommentar fra John Dyhr for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJohn",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på John Dyhrs kommentar for 9 uger siden",
+      "text": "Tak, John",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 9 uger siden",
+      "text": "Se flere billeder fra området her: https://www.cpharchive.com/dk/hjem/amager-st",
+      "hasMedia": true,
+      "mediaAltText": "Amager Øst — Copenhagen Archive",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Amager KBHs kommentar for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Sarah Bauer Aoun",
+      "authorId": "sarah.b.aoun",
+      "timeLabel": "Kommentar fra Sarah Bauer Aoun for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "authorName": "Bente Møller",
+  "authorId": "profile.php",
+  "text": "Også glædelig EID fra mig. Jeg låner Klaus’ billede, han har et talent, jeg ikke har.\nEid Mubarak til alle 😊",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231354132335563&amp;set=a.4380583711778&amp;__cft__[0]=AZWHK44ZU74wdXaN0yOExgJz4B7Tn5WlGDVqdz1R4JLTr4qaG2jq-BqxkLzMIG1MA--HxjllAEXoZV6b-Uvz4tvXzbwYtrzdt-GAir16siRa-nojtm8i_HGLJ-n0mkkPfqudhppEwI1TFSrXWfe2wuPLFJmFu9kuwiCfQ3mBcCHtOQ&amp;__tn__=EH-y-R",
+  "mediaText": "Kan være et billede af tekst, der siger &quot;Eid Mubarak!&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Jytte Rasmussen",
+      "authorId": "jyttebrasmussen",
+      "timeLabel": "Kommentar fra Jytte Rasmussen for 6 uger siden",
+      "text": "Jeg låner det osse 😍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

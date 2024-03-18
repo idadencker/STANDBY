@@ -1,0 +1,190 @@
+{
+  "authorName": "Gyda Heding",
+  "authorId": "gyda.heding",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "159"
+    },
+    {
+      "type": "heart",
+      "count": "50"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Yousef Cheihk-Yousef",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Yousef Cheihk-Yousef for 15 uger siden",
+      "text": "👏🏻🍿🍫 !!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jørgen Colding-Jørgensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jørgen Colding-Jørgensen for 15 uger siden",
+      "text": "En vis lighed?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dine Arnannguaq Fenger Lynge",
+      "authorId": "dine.lynge",
+      "timeLabel": "Kommentar fra Dine Arnannguaq Fenger Lynge for 15 uger siden",
+      "text": "Stor dag❤️ Tillykke Søde Uma💜",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Tünde Maria Gilányi Ács",
+      "authorId": "tmgilanyi.acs",
+      "timeLabel": "Kommentar fra Tünde Maria Gilányi Ács for 15 uger siden",
+      "text": "Hvor er hun sød 😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Birthe Ibsen",
+      "authorId": "birthe.ibsen",
+      "timeLabel": "Kommentar fra Birthe Ibsen for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gorm Anker Gunnarsen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Kommentar fra Gorm Anker Gunnarsen for 15 uger siden",
+      "text": "Må den blev et rart og trygt sted at udforske verden fra!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dilipan Suresh",
+      "authorId": "dilipan.suresh",
+      "timeLabel": "Kommentar fra Dilipan Suresh for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Henning Kjær",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Henning Kjær for 15 uger siden",
+      "text": "Sejt 🥰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ingrid Thobo-Carlsen",
+      "authorId": "ingrid.thobocarlsen.31",
+      "timeLabel": "Kommentar fra Ingrid Thobo-Carlsen for 15 uger siden",
+      "text": "hvor er hun kær.😃",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lisbeth Olsen",
+      "authorId": "lisbeth.olsen.5",
+      "timeLabel": "Kommentar fra Lisbeth Olsen for 15 uger siden",
+      "text": "En stor dag 🙏🌺💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Stefan Larsen",
+      "authorId": "stefan.larsen.9",
+      "timeLabel": "Kommentar fra Stefan Larsen for 15 uger siden",
+      "text": "Go Uma!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

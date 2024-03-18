@@ -1,0 +1,46 @@
+{
+  "authorName": "Charlotte Lund",
+  "authorId": "charlottelund82kjyj",
+  "text": "Kom så, Borgmestre! Vis hvad I er gjort af!\nLad være med at give socialområdet kniven endnu en gang. Det vil være en katastrofe.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160350671306187&set=a.10151852926926187&__cft__[0]=AZVBRSxN_lTVVWEyM1tFK11BTtmRaxop5Ri4WZR47RHFnxI7Rinvkqp7ePt7jvH0zkZ6Hrr2PjUFOXDk87Yyg9JqwfOH6OwRfcwBMhOZc-EEjcAajZge1UGjyv5NswjEDi4&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger \"Ingen hjaelp til socialområdet: Borgmestre klar til at forlade okonomiforhandlinger Repraesentantskab kraevede i aftes, at KL's formandskab forlader okonomiforhandlinger. Regeringen er hverken klar til at give penge til det specialiserede socialområde eller tilslutte sig Tranaes-forslagene.\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "29"
+    }
+  ],
+  "comments": [
+    {
+      "id": "749405510260806",
+      "parentId": null,
+      "authorName": "Jonas Paludan",
+      "authorId": "jonas.paludan",
+      "timeLabel": "Kommentar fra Jonas Paludan for 5 dage siden",
+      "text": "Stærkt!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "579948767574402",
+      "parentId": null,
+      "authorName": "Esben Søvang Maaløe",
+      "authorId": "acebone",
+      "timeLabel": "Kommentar fra Esben Søvang Maaløe for 5 dage siden",
+      "text": "Tranæs forslagene er da horrible?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

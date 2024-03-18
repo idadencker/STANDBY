@@ -1,0 +1,71 @@
+{
+  "authorName": "Bünyamin Simsek",
+  "authorId": "MTMRaadmandSimsek",
+  "text": "Tak til Ergün fra PLAZA Aarhus for lækre Adana kebap spyd, klar til at grille i haven hjemme hos Kirsten, Søren og Ida😋🧿",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=561090342874987&amp;set=a.144865577830801&amp;__cft__[0]=AZUxi1sGjqKSAoMIGTV2SXJHM3gJC5Cw0UcVob8CYKOp5HCkAhGZe-Q1f0H3I590hIE0ncNWcc5TuD3lgL3o5xQPq2X2TCzx6l2gKQH5W3MnDx-OZIrCOz8neEp2HN7HSS7O3Z0wIQ0Agux53oAH5FwG&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af souvlaki (lammespid)",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "75"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": "553290513668748",
+      "parentId": null,
+      "authorName": "Jytte Grosen Andersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jytte Grosen Andersen for 4 dage siden",
+      "text": "Lækre sager",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1290439978231820",
+      "parentId": null,
+      "authorName": "Rikke Hvistendahl",
+      "authorId": "rikke.hvistendahl",
+      "timeLabel": "Kommentar fra Rikke Hvistendahl for 4 dage siden",
+      "text": "Aij bliver da liiige sulten",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3157723194373493",
+      "parentId": null,
+      "authorName": "Aysel Uslu",
+      "authorId": "aysel.uslu.733",
+      "timeLabel": "Kommentar fra Aysel Uslu for 4 dage siden",
+      "text": "Velbekomme hils❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "authorName": "Line Barfod",
+  "authorId": "line.barfod",
+  "text": "GOD 1. MAJ\nJeg håber I har haft en lige så god kampdag som jeg har.\nJeg startede i Dansk El-Forbund, hvor der var god stemning og gode sange.\nDerefter var jeg med Enhedslisten resten af dagen. Først på Blågårds Plads og så gik vi til Fælledparken.\nI Fælledparken var der strålende sol og højt humør. Det var godt at opleve kampgejsten og solidariteten.\nDer er brug for styrke og sammenhold, når vi skal gøre op med den voksende ulighed og grådighed.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6547770761908558&amp;set=a.127382063947492&amp;__cft__[0]=AZUh9hW5Zet8_nsd1o3xQskyiQEgODfzQcqfGD2OqxggiMxYcMihozb_GAixT3WJJkYAVyA9LlK_I--DdOc1Nc1Xq8nWusXkMCUv5oplOCg4hvvewNoXU00Oetbx-DzxK5U&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "172"
+    },
+    {
+      "type": "heart",
+      "count": "15"
+    }
+  ],
+  "comments": [
+    {
+      "id": "931983614808636",
+      "parentId": null,
+      "authorName": "Don Benjamin Vohnsen",
+      "authorId": "donbenjamin.vohnsen",
+      "timeLabel": "Kommentar fra Don Benjamin Vohnsen for en uge siden",
+      "text": "Vi sad bare derhjemme og læste eventyret om de 100 millioner som blev væk på bycykler. En nyfortolkning af kejserens nye klæder. 100 millioner puf væk grådigt ædt op.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "625790426085399",
+      "parentId": null,
+      "authorName": "Henrik Busch",
+      "authorId": "henrik.busch",
+      "timeLabel": "Kommentar fra Henrik Busch for en uge siden",
+      "text": "Dejligt det var godt….håber din arm og albue er Ok?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1003725381037105",
+      "parentId": "625790426085399",
+      "authorName": "Line BarfodHenrik Busch",
+      "authorId": "line.barfod",
+      "timeLabel": "Svar fra Line Barfod på Henrik Buschs kommentar for en uge siden",
+      "text": "Henrik Busch Tak for omsorgen. Ja jeg har fået gipsen og slyngen af. Om 1-2 uger er højre arm forhåbentlig fuldt funktionsdygtig og kan bære mere vægt end et glas eller en tallerken. Venstre tommelfinger tager nok en del tid med genoptræning før jeg forhåbentlig kan bøje den som normalt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "922371422345712",
+      "parentId": "625790426085399",
+      "authorName": "Henrik Busch",
+      "authorId": "henrik.busch",
+      "timeLabel": "Svar fra Henrik Busch på Henrik Buschs kommentar for en uge siden",
+      "text": "Yes…genoptræning er vigtig😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "154413447598878",
+      "parentId": null,
+      "authorName": "Mette Bugge",
+      "authorId": "mette.bugge.9",
+      "timeLabel": "Kommentar fra Mette Bugge for 6 dage siden",
+      "text": "Hej Line. Vil du offentliggøre din tale her? Jeg sidder hjemme med en brækket hælknogle og kom ikke til noget som helst 1. maj arrangement 🙁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "187897304152408",
+      "parentId": "154413447598878",
+      "authorName": "Line BarfodMette Bugge",
+      "authorId": "line.barfod",
+      "timeLabel": "Svar fra Line Barfod på Mette Bugges kommentar for 5 dage siden",
+      "text": "Mette Bugge Det lyder ikke rart. Jeg ønsker dig rigtig god bedring. Talen ligger her: https://dansketaler.dk/tale/line-barfods-1-maj-tale-2023/",
+      "hasMedia": true,
+      "mediaAltText": "Line Barfods 1. maj-tale 2023 - Danske Taler",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "206396512162271",
+      "parentId": "154413447598878",
+      "authorName": "Mette BuggeLine Barfod",
+      "authorId": "mette.bugge.9",
+      "timeLabel": "Svar fra Mette Bugge på Line Barfods kommentar for 5 dage siden",
+      "text": "Line Barfod mange tak!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

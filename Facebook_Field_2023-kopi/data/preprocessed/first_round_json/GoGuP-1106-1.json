@@ -1,0 +1,35 @@
+{
+  "authorName": "Gorm Anker GunnarsenGorm Anker GunnarsenGorm Anker GunnarsenVielser",
+  "authorId": "gorm.gunnarsen",
+  "text": "Susanne og Mads, 11/6 2023.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171135241807037&amp;set=a.10152448496067037&amp;__cft__[0]=AZUgcIiW2S-duqLE3gEaHm5NEE6RgiWWCDCUrYzZgRdJZ_3ioBSVPXKNW7hd2iLdx4-SRLovvrqGzGC3sM516NGn7Zk0AOQXkJQZ0wADsMkXAzTCqgnlcL0lFaF2fp7beWQ&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "20"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1478388262924632",
+      "parentId": null,
+      "authorName": "Per Ejnar Viberg",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Ejnar Viberg for 5 dage siden",
+      "text": "Tillykke og Hurra 💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

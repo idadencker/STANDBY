@@ -1,0 +1,71 @@
+{
+  "authorName": "Mathilde Kastbjerg",
+  "authorId": "MathildeKastbjergC",
+  "text": "Stort tillykke til alle der er færdige med deres ungdomsuddannelser!",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=645073887645241&set=a.209197291232905&__cft__[0]=AZUgr5pi0BU2wm-xGlDqQD90Kt5RlrW28FpXZ5F-7lPhBzjsYUzG8oHjZ4exJ5qSdpnpW8hJ4adNC3FR-iF-VNq89T1VElxyA6MheYvm4Ei-aY0CSq9XIGuxWhMDWKkUpdeVXmx9iUb6rpZyrUmaaa7h&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "43"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": "982936449500562",
+      "parentId": null,
+      "authorName": "Oliver Bagge Jensen",
+      "authorId": "oliver.baggejensen",
+      "timeLabel": "Kommentar fra Oliver Bagge Jensen for 3 dage siden",
+      "text": "Stort tillykke smukke\ntillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "980496436485222",
+      "parentId": "982936449500562",
+      "authorName": "Oliver Bagge Jensen",
+      "authorId": "oliver.baggejensen",
+      "timeLabel": "Svar fra Oliver Bagge Jensen på Oliver Bagge Jensens kommentar for 3 dage siden",
+      "text": "Jeg er guld",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "578702724344225",
+      "parentId": "980496436485222",
+      "authorName": "Christian Holst VigiliusOliver Bagge Jensen",
+      "authorId": "christian.vigilius",
+      "timeLabel": "Svar fra Christian Holst Vigilius på Oliver Bagge Jensens svarfor 3 dage siden",
+      "text": "Oliver Bagge Jensen Enig, du er i sandhed en guldklump uden lige",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

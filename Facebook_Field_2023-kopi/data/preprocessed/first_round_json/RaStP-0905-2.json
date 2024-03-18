@@ -1,0 +1,131 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "HOW DARE YOU?\nHer til aften spurgte Frida mig, hvem der hænger på vores køleskab..\nDet blev en fin lille snak om klima-forandringer, utålmodighed, og værdien af modstand",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161631911344271&set=a.10150290430239271&__cft__[0]=AZXQUlBs9FNYBUXhSY5LW2tQ0zxj0lfbGhVV88s2j0tJ4Fw10XvHCVRUwxUR_-4AylwCyUYNDFQkqWCbK3G4AnPEVy5KbIcBR6LaGbx35WaFh_u4NmZxBGKj7a-hyH9Np2Y&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "48"
+    },
+    {
+      "type": "heart",
+      "count": "10"
+    }
+  ],
+  "comments": [
+    {
+      "id": "567653235353283",
+      "parentId": null,
+      "authorName": "Rikke Lauritsen",
+      "authorId": "lauritsenrikke",
+      "timeLabel": "Kommentar fra Rikke Lauritsen for 2 dage siden",
+      "text": "Vores børn fortjener ærlige svar - men ja også tro på og håb for fremtiden. Det betyder noget at tage kampen op",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1260349061252485",
+      "parentId": "567653235353283",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rikke Lauritsens kommentar for 2 dage siden",
+      "text": "Vi snakkede lidt om at det jo i grunden er ret svært at leve op ril Gretas forventninger. Men at man da i fald kan prøve - og nogle gange lykkes",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "268975558812237",
+      "parentId": null,
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Kommentar fra SF København for 2 dage siden",
+      "text": "Greta",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1008676137182537",
+      "parentId": null,
+      "authorName": "Ole Vilhelm Wagner",
+      "authorId": "olevilhelm.wagner.3",
+      "timeLabel": "Kommentar fra Ole Vilhelm Wagner for 2 dage siden",
+      "text": "Hvad sagde din datter om selve billedet på køleskabet?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "786516546146189",
+      "parentId": "1008676137182537",
+      "authorName": "Rasmus SteenbergerOle",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ole Vilhelm Wagners kommentar for en dag siden",
+      "text": "Hun spurgte, hvad en sprællemand er, Ole",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1887973428224675",
+      "parentId": "1008676137182537",
+      "authorName": "Ole Vilhelm WagnerRasmus Steenberger",
+      "authorId": "olevilhelm.wagner.3",
+      "timeLabel": "Svar fra Ole Vilhelm Wagner på Rasmus Steenbergers kommentar for en dag siden",
+      "text": "Rasmus Steenberger Sådan. Det anede mig. Det må være skønt at have alle de fotomuligheder, du har med din datter. Du er rimelig god til at bruge forskellige situationer til at reklamere lidt for en af dine centrale fritidsinteresser på det, der hus der ligger lige ved siden af min pølsevogn og overfor Tivoli.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3483573321927351",
+      "parentId": "1008676137182537",
+      "authorName": "Rasmus SteenbergerOle",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ole Vilhelm Wagners kommentar for en dag siden",
+      "text": "Det er en glimrende fritidsinteresse, Ole - den holder mig aktiv",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

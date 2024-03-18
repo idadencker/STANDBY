@@ -1,0 +1,84 @@
+{
+  "authorName": "Thomas Medom",
+  "authorId": "stemmedom",
+  "text": "Et billede taget sammen med to dygtige byråds- og partikollegaer: Katrine Vinther Nielsen - SF og Anne Hammer\nBilledet er taget efter møde i Børne- og Ungeudvalget.\nVi talte om hvor mange der mon egentlig har et et billede af, at vi på tværs af partier godt kan samarbejde, finde løsninger og tale ordentligt til hinanden. På udvalgsmødet fik vi landet flere store sager og bøjet os mod hinanden.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=730722679056134&set=a.201557508639323&__cft__[0]=AZVEn_6pADIrJBVKzBxozYBz1yF0aqnf2kIQgr6CaeNKORKegeEB8r3-6wuY8BirbdP_CtRKrBeW_7kJ6R4xppYGCUeuDI3EJNDlbrOOYS5ySO9JP9TCWc71CfKIKYfIeHUvLEOqs8e7EyW6vHyxmBbf&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 3 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "64"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": "243647691601477",
+      "parentId": null,
+      "authorName": "Astrid Randi Thinnesen",
+      "authorId": "randi.thinnesen",
+      "timeLabel": "Kommentar fra Astrid Randi Thinnesen for 8 uger siden",
+      "text": "På tværs af partier?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2371491143014351",
+      "parentId": "243647691601477",
+      "authorName": "Thomas MedomVerificeret kontoAstrid",
+      "authorId": "stemmedom",
+      "timeLabel": "Svar fra Thomas Medom på Astrid Randi Thinnesens kommentar for 8 uger siden",
+      "text": "Astrid. Ja Alle partierne i udvalget bøjede sig mod hinanden, så det var det vi talte om.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3394587704099268",
+      "parentId": "2371491143014351",
+      "authorName": "Astrid Randi ThinnesenThomas Medom",
+      "authorId": "randi.thinnesen",
+      "timeLabel": "Svar fra Astrid Randi Thinnesen på Thomas Medoms svarfor 8 uger siden",
+      "text": "Thomas Medom Illustreret med et foto af tre partifæller.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "204245765844778",
+      "parentId": "2371491143014351",
+      "authorName": "Thomas MedomVerificeret kontoAstrid",
+      "authorId": "stemmedom",
+      "timeLabel": "Svar fra Thomas Medom på Astrid Randi Thinnesens svarfor 8 uger siden",
+      "text": "Astrid Ja Pointen havde været bedre understøttet med et tværpolitisk billede\nDet andet formål med opslaget var at vise to byrådsmedlemmer der havde deres første udvalgsmøde som SF’ere.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

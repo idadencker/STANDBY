@@ -1,0 +1,30 @@
+{
+  "authorName": "Eva Borchorst MejnertzEva Borchorst MejnertzEva Borchorst MejnertzNikolaj Gandrup BorchorstNikolaj Gandrup BorchorstNikolaj Gandrup Borchorst2 andre2 andre",
+  "authorId": "evamejnertz",
+  "text": "Dejligste dag længe",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10167635211650258&set=a.10150165276320258&__cft__[0]=AZWJGz6_tQpJWwqB-mtGKCu2ngBTqjSymxA76w4gPSzbFiM3W8Cf09ZWY9uVHyVCYGSNZsc1O1XywWXIJzemnwNh3Z6KHejALbKLzXq9Xj8Nf0kgLaK-95Tna-ZqkGOKKZI&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "38"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Louise Fiskaali Gammelmark",
+      "authorId": "louise.fiskaali",
+      "timeLabel": "Kommentar fra Louise Fiskaali Gammelmark for 13 uger siden",
+      "text": "Ser virkelig dejligt ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

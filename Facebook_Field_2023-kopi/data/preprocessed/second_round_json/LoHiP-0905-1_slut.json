@@ -1,0 +1,48 @@
+{
+  "authorName": "Lone Hindø",
+  "authorId": "profile.php",
+  "text": "HAVENS DRONNING - LIGE NU\nEr det ikke smukt? Mit kvædetræ. Lige nu er det på højdepunktet af blomstring. Det er et træ, som er kendt fra oldtiden, så det er en gammel frugt. Iran, Kaukasus, Mesopotanien er kendte steder.\nDer findes to slags, nemme at kende på frugtens form: æblekvæde og pærekvæde. De er først grønne og bliver så smukt citrongule.\nMan bruger dem bl.a. til marmelade, og særlig kendt er kvædebrød. Det minder lidt om det, man kalder “frugtflæsk”.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6506948672695351&amp;set=pcb.6506952152695003&amp;__cft__[0]=AZViIBr2gyZ41oIBbBqNIswnYGeLlTPlxWrrQEFpcZfWZ8yBN1Pex9J5DW8Y0TW-h6YLvvo6X15RvaH7bIYKt7CIWz0F26QuVNAkaTHrZwzAIRcu5pTZYg5Skt6D4-D9K2s&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "20"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Annette Buur",
+      "authorId": "buurannette",
+      "timeLabel": "Kommentar fra Annette Buur for 13 uger siden",
+      "text": "Æblekvæde, pærekvæder og japankvæder.\nDet er sådan en du har, hvis det er den på billedet med de røde blomster.\nDet er reelt en helt anden art end æble/pærekvæder, som hedder Cydonia. Japankvæden hedder Chaenomeles",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jens Næss-schmidt",
+      "authorId": "naessschmidt",
+      "timeLabel": "Kommentar fra Jens Næss-schmidt for 12 uger siden",
+      "text": "Tak, fordi du minder mig om min farmors kvædebrød!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

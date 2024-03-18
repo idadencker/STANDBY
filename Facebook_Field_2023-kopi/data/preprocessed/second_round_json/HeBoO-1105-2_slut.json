@@ -1,0 +1,100 @@
+{
+  "authorName": "Helle BonnesenHelle BonnesenHelle Bonnesen BakkenBakkenBakken",
+  "authorId": "hellebonnesen.fk",
+  "text": "Tid til revy 👍\nGlæder mig - sammen med Dagmar og min gode ven Michael.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=691707176297244&amp;set=a.228231079311525&amp;__cft__[0]=AZVDLSFw9ogXmSMA1pi_-2AZfqdEkTi1GrjRY63u1Ym9vVe9ewSJ6Vl3v-zP6ePxvHzF-V0gf1utGyV9woUzrv7gMdBo5wXVGUJeSz6UIuGCgCNGdoh80u5xHNjbvs3MjnEtgYCnTdWdNOYAKFX5c55A&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "69"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Else Karin Nissen",
+      "authorId": "elsekarin.nissen",
+      "timeLabel": "Kommentar fra Else Karin Nissen for 14 uger siden",
+      "text": "Rigtig god fornøjelse🤗",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dan Pedersen",
+      "authorId": "dan.pedersen.3591",
+      "timeLabel": "Kommentar fra Dan Pedersen for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lis Westring",
+      "authorId": "elis.westring",
+      "timeLabel": "Kommentar fra Lis Westring for 14 uger siden",
+      "text": "God fornøjelse\nDen er virkelig god.Glæd jer\n🌹🍀😘",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Zitta Ziegler",
+      "authorId": "zitta.ziegler",
+      "timeLabel": "Kommentar fra Zitta Ziegler for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Charlotta Westerman Eliasson",
+      "authorId": "charlotta.westerman.eliasson",
+      "timeLabel": "Kommentar fra Charlotta Westerman Eliasson for 14 uger siden",
+      "text": "Åh Det var lang tid sedan. 😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

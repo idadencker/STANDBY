@@ -1,0 +1,100 @@
+{
+  "authorName": "Bente Møller",
+  "authorId": "profile.php",
+  "text": "Ingen Midsommerfest i Utterslev mose uden hjemmebag. De første 4 fra mit hjemmebageri er klar.Får et par dage i fryseren.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231650583793505&amp;set=a.10206231736218202&amp;__cft__[0]=AZVqBAtKUEB4hWqRRcPmL7mboWCmu_gUmcXIH4r3CxDtlV78WRDFBQuR6rW_k6im65dX-4NovJaChiV0RWoKMxqMBijwUyzs6_EJR26QQNAlnJWCnN3VcbL1O9FovyjQIwc&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af mad og kimplanter",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "41"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Bettina Jansen",
+      "authorId": "bettina.jansen",
+      "timeLabel": "Kommentar fra Bettina Jansen for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bodil Steffensen",
+      "authorId": "bodil.steffensen.3",
+      "timeLabel": "Kommentar fra Bodil Steffensen for 8 uger siden",
+      "text": "Du holder traditionen....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten Toudal Hjarsø",
+      "authorId": "Kittetoudal",
+      "timeLabel": "Kommentar fra Kirsten Toudal Hjarsø for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lole Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lole Møller for 8 uger siden",
+      "text": "En god grund til at kigge forbi😍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "René Benjamin Hansen",
+      "authorId": "rene.b.hansen.96",
+      "timeLabel": "Kommentar fra René Benjamin Hansen for 8 uger siden",
+      "text": "Det ser lækkert ud, mums😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

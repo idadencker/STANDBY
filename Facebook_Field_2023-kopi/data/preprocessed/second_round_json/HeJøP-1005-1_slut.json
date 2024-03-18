@@ -1,0 +1,107 @@
+{
+  "authorName": "Helle Jønch",
+  "authorId": "helle.joench",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "16"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Bryan Hasemann Zoega Lindhardt",
+      "authorId": "bryan.lindhardt",
+      "timeLabel": "Kommentar fra Bryan Hasemann Zoega Lindhardt for 14 uger siden",
+      "text": "Hold kæft hvor han bander",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Helle JønchBryan Hasemann Zoega Lindhardt",
+      "authorId": "helle.joench",
+      "timeLabel": "Svar fra Helle Jønch på Bryan Hasemann Zoega Lindhardts kommentar for 14 uger siden",
+      "text": "Bryan Hasemann Zoega Lindhardt Jepper loge ud af posen Thorborg",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Max Bendtsen",
+      "authorId": "Maxlmus",
+      "timeLabel": "Kommentar fra Max Bendtsen for 14 uger siden",
+      "text": "True so true 💪💪💪💪😁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Tina-Maria Kjær",
+      "authorId": "tmkjaer",
+      "timeLabel": "Kommentar fra Tina-Maria Kjær for 14 uger siden",
+      "text": "Helt enig...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jane Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jane Møller for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Frode Steinicke",
+      "authorId": "frode.steinicke",
+      "timeLabel": "Kommentar fra Frode Steinicke for 14 uger siden",
+      "text": "Luk dog rø....... mand.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

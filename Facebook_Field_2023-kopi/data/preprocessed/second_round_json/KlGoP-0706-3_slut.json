@@ -1,0 +1,19 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "Ses vi?",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "9"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": []
+}

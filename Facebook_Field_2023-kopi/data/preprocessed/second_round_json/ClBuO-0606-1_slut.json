@@ -1,0 +1,15 @@
+{
+  "authorName": "Claus Buch",
+  "authorId": "claus.buch.1972",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "1"
+    }
+  ],
+  "comments": []
+}

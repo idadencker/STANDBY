@@ -1,0 +1,35 @@
+{
+  "authorName": "Troels Christian Jakobsen",
+  "authorId": "tcjakobsen",
+  "text": "MÅ MEGET GERNE DELES",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6925753577451464&set=pcb.6925754360784719&__cft__[0]=AZXswv4TgKHqdYvxKtERK1_yYyuISNEZpVKYH8RfBlI69eHosvRdep14jVD8fcEe-oep4Iscr6dsCG7kwpaZ6Ehp7nyAZWLpgKzPEEel996kjMldGnhVXaUL_hS8MAmkCtaEK2fFCFROr-ymcP-2y_l9S23IqR6fQOMY0gRAQ8wBTg&__tn__=*bH-y-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "3"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "108209778952161",
+      "parentId": null,
+      "authorName": "Trine Wehner",
+      "authorId": "trine.wehner",
+      "timeLabel": "Kommentar fra Trine Wehner for 3 dage siden",
+      "text": "Må jeg gøre opmærksom på cph village nørrebro?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

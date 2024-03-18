@@ -1,0 +1,139 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Frøerne kalder (og knalder) - lydbillede - Amager Fælled by night.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/gorm.gunnarsen/videos/1912817442417931/?__cft__[0]=AZXNvxIBv2KbKAxdETVFHUKMm6_UatVAcdPjYZkK-tC8GJhP7_Ael41emiXtFCzKB3QPexlY5t9IpD0XRVFp9XcT6khvWfgFI7asVEuCDEnOqkD44K1vFy7HjJ0VagIoTFSGAS9FyItkhSVIwdw3nBpa&amp;__tn__=%2B%3FFH-R",
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "58"
+    },
+    {
+      "type": "heart",
+      "count": "19"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Johan Reis",
+      "authorId": "johan.reis",
+      "timeLabel": "Kommentar fra Johan Reis for 13 uger siden",
+      "text": "Og flyene letter og bilerne kører 🤨",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Gorm Anker GunnarsenJohan Reis",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Johan Reiss kommentar for 13 uger siden",
+      "text": "Johan Reis men for os der bekymrer os for paddernes fremtid, så er der særligt en lyd der slår igennem - også på min spontane optagelse af denne nats begivenhed.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Gorm Anker Gunnarsen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Kommentar fra Gorm Anker Gunnarsen for 13 uger siden",
+      "text": "Og en nattergal slår et par triller.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lene Pia Hansen",
+      "authorId": "lene.p.hansen.9",
+      "timeLabel": "Kommentar fra Lene Pia Hansen for 13 uger siden",
+      "text": "Helt vildt!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Grete Rolsted",
+      "authorId": "grete.rolsted.1",
+      "timeLabel": "Kommentar fra Grete Rolsted for 13 uger siden",
+      "text": "Fantastisk !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 13 uger siden",
+      "text": "Ude ved Ottohøj, er der så meget gang i dem 24/7, at de toralt overdøver fugle, flyvemaskiner og alt andet😄",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dorte Østergren-Olsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Dorte Østergren-Olsen for 13 uger siden",
+      "text": "💚🦉💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kamilla Prins",
+      "authorId": "kamilla.prins",
+      "timeLabel": "Kommentar fra Kamilla Prins for 12 uger siden",
+      "text": "Pragtfuldt! 🐸🐸🐸",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

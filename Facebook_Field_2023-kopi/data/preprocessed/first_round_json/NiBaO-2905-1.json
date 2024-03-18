@@ -1,0 +1,573 @@
+{
+  "authorName": "Nicolaj Bang",
+  "authorId": "Bang.Nicolaj",
+  "text": "Sådan kan nybyggeri også se ud!\nI Rosenkrantzgade har arkitekterne valgt at lave en bygning, som falder naturligt ind i den byggestil, som allerede findes i gaden.\nNogen synes det er gammeldags. Jeg synes det udviser respekt for gaden og områdets karakter.\nHvad synes du?",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=717145177078278&amp;set=a.246295727496561&amp;__cft__[0]=AZXd3A6qH2j1S96QbDs9CYE2xJ6XfzyRXXe4GnU7_uYrRiuHwKdGoDHUhzUxg_DDKHIER2Hx-fouANstW5LAr1xCDUZOQQ13rC9jWIlDCPkfJN2b3mU2aK4qtR0PtuaGb5FqCrCXYBm_A85BqnMtKT0e&amp;__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "231"
+    },
+    {
+      "type": "heart",
+      "count": "35"
+    }
+  ],
+  "comments": [
+    {
+      "id": "104051542711523",
+      "parentId": null,
+      "authorName": "Nicolaj Bang",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Kommentar fra Nicolaj Bang for 3 dage siden",
+      "text": "Læs artiklen her:",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2246612075540597",
+      "parentId": null,
+      "authorName": "Charlotte Nebel Pedersen",
+      "authorId": "nebel.pedersen",
+      "timeLabel": "Kommentar fra Charlotte Nebel Pedersen for 3 dage siden",
+      "text": "Sådan, flot bygning",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "799504688046119",
+      "parentId": null,
+      "authorName": "Martin Kallesø Arkitekter",
+      "authorId": "martinkallesoearkitekter",
+      "timeLabel": "Kommentar fra Martin Kallesø Arkitekter for 3 dage siden",
+      "text": "Der er jo mange måder at tilpasse arkitekturen til konteksten. Dette er ét (ikke særlig) overbevisende eksempel. Ikke særligt overbevisende fordi det misser chancen for at føre en dialog med omgivelserne og spille bold med historien og traditionen. Vores byer degenerer hvis dette skal være vejen fremover. Traditionen og historien skal holdes i live og det bliver de kun, hvis det man bidrager med viser at det står ovenpå disse og ikke blot som her lægger sig fladt ned på ryggen. Det er for uambitiøst og bedaget!\nOg det skriver jeg som konservativ kernevælger. Man må udvikle for at bevare. Med afsæt i tradition og historie.\nJep Loft er sikkert begejstret, men det i sig selv er skræmmende…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "683480443603100",
+      "parentId": "799504688046119",
+      "authorName": "Nicolaj BangMartin",
+      "authorId": "Bang.Nicolaj",
+      "timeLabel": "Svar fra Nicolaj Bang på Martin Kallesø Arkitekters kommentar for 2 dage siden",
+      "text": "Hej Martin, jeg kan ikke lade være med at smile lidt af, at ud af 250 likes og 30 kommentarer, så er det kun arkitekten, som synes det er dårligt 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "816138709853588",
+      "parentId": "683480443603100",
+      "authorName": "Martin Kallesø ArkitekterNicolaj Bang",
+      "authorId": "martinkallesoearkitekter",
+      "timeLabel": "Svar fra Martin Kallesø Arkitekter på Nicolaj Bangs svarfor 2 dage siden",
+      "text": "Nicolaj Bang ja, i dén grad!\nJeg stiller gerne op til en debat / samtale. Jep Loft og Arkitekturoprøret løber med meget af taletiden…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "796679521731948",
+      "parentId": null,
+      "authorName": "Jens Kloppenborg",
+      "authorId": "Kloppenborgifolketinget",
+      "timeLabel": "Kommentar fra Jens Kloppenborg for 2 dage siden",
+      "text": "Virkelig flot resultat",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "721231673089263",
+      "parentId": null,
+      "authorName": "Ulla Hansen",
+      "authorId": "ulla.hansen.1253",
+      "timeLabel": "Kommentar fra Ulla Hansen for 3 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "930878851361712",
+      "parentId": null,
+      "authorName": "Preben Snedsted Nielsen",
+      "authorId": "preben.s.nielsen",
+      "timeLabel": "Kommentar fra Preben Snedsted Nielsen for 3 dage siden",
+      "text": "Super flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "962795144911818",
+      "parentId": null,
+      "authorName": "Claus Vildrik",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Claus Vildrik for 3 dage siden",
+      "text": "Kommunen burde sætte det som krav, at byggeri i en gade skal matche det eksisterende arkitektoniske, som i det her tilfælde.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 9,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "4294026797490160",
+      "parentId": null,
+      "authorName": "Brian Pabst",
+      "authorId": "brian.pabst",
+      "timeLabel": "Kommentar fra Brian Pabst for 3 dage siden",
+      "text": "👏👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "233647829415059",
+      "parentId": null,
+      "authorName": "Jakob Søgaard Clausen",
+      "authorId": "soegaardclausen",
+      "timeLabel": "Kommentar fra Jakob Søgaard Clausen for 3 dage siden",
+      "text": "Kæmpe ja tak 👏😍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "734642798437336",
+      "parentId": null,
+      "authorName": "Michael Ertmann",
+      "authorId": "michael.ertmann.5",
+      "timeLabel": "Kommentar fra Michael Ertmann for 3 dage siden",
+      "text": "Det er vildt, at fordi en arkitekt gør sit arbejde, og forholder sig til det sted, der skal bygges, så laves der en artikel om det. Det burde være normen, ikke undtagelsen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 10,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "646980557295052",
+      "parentId": null,
+      "authorName": "Aino Slej",
+      "authorId": "aino.slej",
+      "timeLabel": "Kommentar fra Aino Slej for 3 dage siden",
+      "text": "Fremragende!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "221544220634284",
+      "parentId": null,
+      "authorName": "Jakob Taul",
+      "authorId": "jakob.taul",
+      "timeLabel": "Kommentar fra Jakob Taul for 3 dage siden",
+      "text": "Det er så flot, har stået og beundret det flere gange under processen, når alt ikke kan ligne Glyptoteket så må dette gå an👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "153854780892170",
+      "parentId": null,
+      "authorName": "Christian Djurhuus",
+      "authorId": "christian.djurhuus",
+      "timeLabel": "Kommentar fra Christian Djurhuus for 2 dage siden",
+      "text": "Fantastisk! Mere af det!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "810533623475625",
+      "parentId": null,
+      "authorName": "Jette-Kirsten Havn Larsen",
+      "authorId": "jettekirsten",
+      "timeLabel": "Kommentar fra Jette-Kirsten Havn Larsen for 3 dage siden",
+      "text": "Synes det har stil og sjæl, det behøver jo ikke være noget 100 år gammelt og næsten faldefærdigt hus for at have sjæl.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1921798138190352",
+      "parentId": null,
+      "authorName": "Kenneth Jakobsen",
+      "authorId": "kjakobsen",
+      "timeLabel": "Kommentar fra Kenneth Jakobsen for 3 dage siden",
+      "text": "Hvad er der nu i vejen med at være gammeldags?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "819123779583720",
+      "parentId": null,
+      "authorName": "Áslaug S. ÁrnadóttirE+N Arkitektur",
+      "authorId": "aslaugergud",
+      "timeLabel": "Kommentar fra Áslaug S. Árnadóttir for 3 dage siden",
+      "text": "E+N Arkitektur - man kunne med fordel nævne de dygtige arkitekter bag projektet, for det er ikke uden betydning. Super flot projekt! 🙌🏽",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6660178730661300",
+      "parentId": null,
+      "authorName": "Kasper Pagh Rasmussen",
+      "authorId": "kasper.p.rasmussen",
+      "timeLabel": "Kommentar fra Kasper Pagh Rasmussen for 3 dage siden",
+      "text": "God stil... 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "823959025959147",
+      "parentId": null,
+      "authorName": "Lene Schødt",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lene Schødt for 3 dage siden",
+      "text": "Mere af dette, tak 👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "898111527951770",
+      "parentId": null,
+      "authorName": "Kirsten Lomborg",
+      "authorId": "ki.lomborg",
+      "timeLabel": "Kommentar fra Kirsten Lomborg for 3 dage siden",
+      "text": "Jeg syntes det ser rigtig flot ud, godt arbejde. Det er så synd de river gamle huse ned, og bygger de rene beton klodser. Så håber vi kan beholde de bygninger i deres oprindelige udseende.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1986921274987079",
+      "parentId": null,
+      "authorName": "Christen Boutrup",
+      "authorId": "christen.boutrup",
+      "timeLabel": "Kommentar fra Christen Boutrup for 3 dage siden",
+      "text": "Fornemt😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "146116285123713",
+      "parentId": null,
+      "authorName": "Tommy Højegaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Tommy Højegaard for 3 dage siden",
+      "text": "Gad vide hver meget dyrere det er.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "786657652918626",
+      "parentId": null,
+      "authorName": "Helle Finsen Østergaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helle Finsen Østergaard for 2 timer siden",
+      "text": "Ja tak … flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "746884933896657",
+      "parentId": null,
+      "authorName": "Per Falk Bredgaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Falk Bredgaard for 3 dage siden",
+      "text": "Når det er blevet så dyrt at genopbygge gamle huse, synes jeg det er en rigtig fin løsning, hvor man om nogle år ikke kan se hvad der er nyt og gammelt, bare man sørger for at vedligeholde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "6269307189782337",
+      "parentId": null,
+      "authorName": "Anja Rehfeld",
+      "authorId": "anja.rehfeld",
+      "timeLabel": "Kommentar fra Anja Rehfeld for 3 dage siden",
+      "text": "👏🏻",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "156831767237496",
+      "parentId": null,
+      "authorName": "Boas Kallehave Therkildsen",
+      "authorId": "boaskallehave.therkildsen",
+      "timeLabel": "Kommentar fra Boas Kallehave Therkildsen for 3 dage siden",
+      "text": "Det pænt og nydeligt, i modsætning til det grimme lÅrt der bliver bygget normalt lige for tiden i Aarhus. Tak for spørgsmålet, næste spørgsmål.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "799345421402442",
+      "parentId": null,
+      "authorName": "Henrik Dohn",
+      "authorId": "henrik.dohn",
+      "timeLabel": "Kommentar fra Henrik Dohn for 3 dage siden",
+      "text": "Det er da helt fantastisk 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1253488535559422",
+      "parentId": null,
+      "authorName": "Kenneth Bøjler",
+      "authorId": "kennethboejler",
+      "timeLabel": "Kommentar fra Kenneth Bøjler for 3 dage siden",
+      "text": "Ja, tak. Mere at det.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2194039967472877",
+      "parentId": null,
+      "authorName": "Jette Ernstsen",
+      "authorId": "jette.ernstsen.1",
+      "timeLabel": "Kommentar fra Jette Ernstsen for 3 dage siden",
+      "text": "👏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1475285123003829",
+      "parentId": null,
+      "authorName": "Ronny Engstrøm",
+      "authorId": "ronny.engstrom",
+      "timeLabel": "Kommentar fra Ronny Engstrøm for 3 dage siden",
+      "text": "Sådan burde det være MANGE steder. Respekt for tiden. Nyere eller ældre 👍😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1091940775543456",
+      "parentId": null,
+      "authorName": "Kristoffer Gadeberg",
+      "authorId": "kristoffer.gadeberg",
+      "timeLabel": "Kommentar fra Kristoffer Gadeberg for 3 dage siden",
+      "text": "Mere af det her!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "821423832661209",
+      "parentId": null,
+      "authorName": "Kristian Thiede",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Kristian Thiede for 3 dage siden",
+      "text": "En hel del kønnere end alle de billige betonkasser, kommunen de sidste 10 år har tilladt opført. Inklusive byggeri på Aarhus Ø, som oven i købet er alt for højt op tæt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1457886855000648",
+      "parentId": null,
+      "authorName": "Heri Signar Nolsøe",
+      "authorId": "herisn",
+      "timeLabel": "Kommentar fra Heri Signar Nolsøe for 3 dage siden",
+      "text": "Like fra mig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1944514695917836",
+      "parentId": null,
+      "authorName": "Benjamin Tvede",
+      "authorId": "benjamin.tvede",
+      "timeLabel": "Kommentar fra Benjamin Tvede for 3 dage siden",
+      "text": "Det er pænt 👏🏻",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

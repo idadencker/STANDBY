@@ -1,0 +1,82 @@
+{
+  "authorName": "Louise Theilade Thomsen",
+  "authorId": "LouiseTheiladeThomsen",
+  "text": "VENSTRE I KØBENHAVN HAR VALGT SPIDSKANDIDAT TIL DET KOMMENDE KOMMUNALVALG 👏🏼\nI går blev Jens-Kristian Lütken valgt som Venstre i København’s spidskandidat til det kommende kommunalvalg i 2025.\nEn samlet Venstregruppe i Borgerrepræsentationen bakker op om Jens-Kristians kandidatur, og jeg ser meget frem til som gruppeformand at fortsætte vores tætte samarbejde om et mere liberalt København 🕊️",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=694803942653726&amp;set=a.229685309165594&amp;__cft__[0]=AZXzhLTqql3IHF7EMEnXpiO_mi1MXwzkApLUkVQiZRkDyjFNemMBz9ZXcQunMVm7sSUCLEXgWncbGJUSTQQiSfdcGKDlGPogSU8FH4KAXuCJcaXiyXx_2KlU29Ax46y1fcyImUUXGBe0bSXl8A7HNizC&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "31"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "570628885207878",
+      "parentId": null,
+      "authorName": "Ann LindhardtJens-Kristian Lütken",
+      "authorId": "annlindhardt.venstre",
+      "timeLabel": "Kommentar fra Ann Lindhardt for 21 timer siden",
+      "text": "Fantastisk! Kæmpe tillykke til Jens-Kristian Lütken, til venstre 💙 og til Københavnerne 💪🏻",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "6414862105199039",
+      "parentId": null,
+      "authorName": "Michael Frank",
+      "authorId": "michael.frank.10420321",
+      "timeLabel": "Kommentar fra Michael Frank for en uge siden",
+      "text": "Dejligt og tillykke",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "248923981041575",
+      "parentId": "6414862105199039",
+      "authorName": "Louise Theilade ThomsenMichael Frank",
+      "authorId": "LouiseTheiladeThomsen",
+      "timeLabel": "Svar fra Louise Theilade Thomsen på Michael Franks kommentar for en uge siden",
+      "text": "Michael Frank hvilken forskel tænker du på?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "775225890979277",
+      "parentId": "248923981041575",
+      "authorName": "Michael FrankLouise Theilade Thomsen",
+      "authorId": "michael.frank.10420321",
+      "timeLabel": "Svar fra Michael Frank på Louise Theilade Thomsens svarfor en uge siden",
+      "text": "Louise Theilade Thomsen Jeg tænker frem mod næste valg.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "authorName": "Klaus Mygind",
+  "authorId": "klaus.mygind.1",
+  "text": "Deltag i Arkitekturåret i København. I juni og juli kommer der rigtigt mange spændende arrangementer. Her er et i By&amp;Havn, Nordre Toldbod om byrum i de nye byområder.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "15"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "690963566170222",
+      "parentId": null,
+      "authorName": "Klaus De León Heinecke",
+      "authorId": "klausheinecke",
+      "timeLabel": "Kommentar fra Klaus De León Heinecke for 3 dage siden",
+      "text": "Er Amager Fælled mon med i planerne om gode grønne byrum med høj biodiversitet? Pt lægger SF de afgørende mandater for at bygge naturen væk på Amager Fælled.\nI svor ellers i ikke ville være tungen på vægtskålen. I kan nå det endnu. SF kan stadig nå at blive et grønt parti - ikke kun på de sociale medier.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "794079822258880",
+      "parentId": null,
+      "authorName": "Jette Blok Worm",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jette Blok Worm for en dag siden",
+      "text": "Udfyld “ tomrum” med natur men ikke natur med byggeri.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "644548734380808",
+      "parentId": null,
+      "authorName": "Serafín Ziquer Xavier",
+      "authorId": "glenn.ziquerxavier.3",
+      "timeLabel": "Kommentar fra Serafín Ziquer Xavier for 14 timer siden",
+      "text": "Potte planter redder ikke verden. 🤷",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

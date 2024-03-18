@@ -1,0 +1,70 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Kirsten siger det! Velfærd kræver investeringer.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "76"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Thomas Claus Meier Nielsen",
+      "authorId": "Thomas.C.M.Nielsen",
+      "timeLabel": "Kommentar fra Thomas Claus Meier Nielsen for 11 uger siden",
+      "text": "Men de syge i cirkus jobcenter, som dagligt, dokumenteret bliver mishandlet, tortureret og slået ihjel, vender vi stadig ryggen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Frode Benedikt Nielsen",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Kommentar fra Frode Benedikt Nielsen for 10 uger siden",
+      "text": "Københavns Kommune har masser af penge som kunne anvendes til kernevelfærd",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Frode Benedikt Nielsens kommentar for 10 uger siden",
+      "text": "Men hvad så med hyggen, Frode?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Frode Benedikt NielsenRasmus Steenberger",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Svar fra Frode Benedikt Nielsen på Rasmus Steenbergers kommentar for 10 uger siden",
+      "text": "Rasmus Steenberger, corona lærte os en ting.\nVeje, jernbaner, genbrugsstationer mm. fungerer fint uden klip af snore og lunken fadøl.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

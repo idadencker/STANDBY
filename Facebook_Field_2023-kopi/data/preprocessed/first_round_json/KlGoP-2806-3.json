@@ -1,0 +1,65 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "Eid Mubarak til alle",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231354132335563&set=a.4380583711778&__cft__[0]=AZVWpIaEmic8pP3LZECNbXDsx9fwT1bMA1OXvd6Q7f4j83bW4hgyiqOzfFdl3LSwB5F7ddG0jnQg1iHapuLG4ZP2fohXblWBHM1QDLjDP1HS6w-Bs8ta2YqjjWCW2ybNJcw&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger \"Eid Mubarak!\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "66"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "id": "277026144850262",
+      "parentId": null,
+      "authorName": "Yaqob Helal",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Yaqob Helal for 6 dage siden",
+      "text": "Eid mubarak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "940672140375308",
+      "parentId": null,
+      "authorName": "Syrien Rose",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Syrien Rose for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2504016303088292",
+      "parentId": null,
+      "authorName": "Syrien Rose",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Syrien Rose for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

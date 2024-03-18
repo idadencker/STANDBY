@@ -1,0 +1,103 @@
+{
+  "authorName": "Bente Møller",
+  "authorId": "profile.php",
+  "text": "Til festmiddag på Arbejdermuseet for at fejre, at de har fået Europarådets museumspris for formidling. Her er taler af bestyrelsesformand, direktør, kulturborgmester og ikke mindst Gry Jexen, forfatter til Kvinde kend din historie. Grys bog er på min ønskeseddel. Kvinder er overset i historien i mere end 1000 år.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231397630269825&amp;set=pcb.10231397653550407&amp;__cft__[0]=AZUzPmRFRMADxOUT9QQR7ml3HLtGU1cYlKg6V0vdJhGjqoVClJRxnfZqyUPlVNmfoi6NDnn9Gi32gZv0RmsdksID7HJvhFjtG6Ge8UqsYyVw85h-YZc0Z3gtj1JHzFgQiC8&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "29"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "959073415283888",
+      "parentId": null,
+      "authorName": "Katrine Thoftstrup Møller",
+      "authorId": "katrine.moeller",
+      "timeLabel": "Kommentar fra Katrine Thoftstrup Møller for 2 dage siden",
+      "text": "Fantastisk bog, har lige hørt den som lydbog! 😃",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "570952011846177",
+      "parentId": null,
+      "authorName": "Birthe Staun Thoftstrup Møller",
+      "authorId": "birthethoftstrup",
+      "timeLabel": "Kommentar fra Birthe Staun Thoftstrup Møller for 2 dage siden",
+      "text": "Ja god bog. Fik den i julegave.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "657128969760716",
+      "parentId": null,
+      "authorName": "Mathilde Faber BendtsenBente Møller",
+      "authorId": "mathilde.faberbendtsen",
+      "timeLabel": "Kommentar fra Mathilde Faber Bendtsen for 2 dage siden",
+      "text": "hej Bente Møller\ndet ser Rigtig godt og hyggeligt ud☺️😊🙏🏻.\nGry Jexen er min tidligere pædagog fra min klub Fritids &amp; ungdomssklubben LAVUK i Borgervænget På Østerbro er det Ikke lidt sjovt?? ☺️😊.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1472915506850440",
+      "parentId": "657128969760716",
+      "authorName": "Bente MøllerMathilde Faber Bendtsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Mathilde Faber Bendtsens kommentar for 2 dage siden",
+      "text": "Mathilde Faber Bendtsen er sikker på, at hun også var god til det. 😀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "953427122301191",
+      "parentId": null,
+      "authorName": "Kathrine HammerichLars Jepsen",
+      "authorId": "kathrinehammerich",
+      "timeLabel": "Kommentar fra Kathrine Hammerich for 2 dage siden",
+      "text": "Lars Jepsen se her ⭐",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

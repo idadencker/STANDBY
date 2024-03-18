@@ -1,0 +1,93 @@
+{
+  "authorName": "Bünyamin Simsek",
+  "authorId": "BnyaminSimsek",
+  "text": "Velkommen til den Norske Kongefamilie på Skolebakken som nabo🇩🇰🇳🇴🧿",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160347836618005&amp;set=pcb.10160347838208005&amp;__cft__[0]=AZWjEeIrV06SiSBSZKmXDvl8G6AfV-WkBHuENH1LTANSrAJdupJuShsYRkK2o7d2diZqfL2VpHcbQiYKwbEF0u_ZQoHSAAaLLKkrYNP7BbFfaRfgU7cNcl5yGXZTjts0OPc&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "105"
+    },
+    {
+      "type": "heart",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Cengiz Simsek",
+      "authorId": "cengiz.simsek.948",
+      "timeLabel": "Kommentar fra Cengiz Simsek for 7 uger siden",
+      "text": "Er de inviteret til grill og kebab 🕺🏻💃🥂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Ayla UsluCengiz Simsek",
+      "authorId": "ayla.uslu.9",
+      "timeLabel": "Svar fra Ayla Uslu på Cengiz Simseks kommentar for 7 uger siden",
+      "text": "Cengiz Simsek pastirma🥓",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Brian Frederiksen",
+      "authorId": "brian.frederiksen.75",
+      "timeLabel": "Kommentar fra Brian Frederiksen for 7 uger siden",
+      "text": "Hein norge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Brian Frederiksen",
+      "authorId": "brian.frederiksen.75",
+      "timeLabel": "Kommentar fra Brian Frederiksen for 7 uger siden",
+      "text": "Heia Norge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lauren Simon",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lauren Simon for 6 uger siden",
+      "text": "👍👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

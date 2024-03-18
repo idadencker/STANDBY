@@ -1,0 +1,93 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "51"
+    }
+  ],
+  "comments": [
+    {
+      "id": "102499029510543",
+      "parentId": null,
+      "authorName": "Nesim Sakal",
+      "authorId": "nesim.sakal1",
+      "timeLabel": "Kommentar fra Nesim Sakal for en uge siden",
+      "text": "Hayirli ugurlu olsun emegi gecen herkese tesekkurler",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "699750058507909",
+      "parentId": null,
+      "authorName": "Özlem Hicran Kurar",
+      "authorId": "ozlem.h.kurar",
+      "timeLabel": "Kommentar fra Özlem Hicran Kurar for en uge siden",
+      "text": "Adres yazsana abim nerede oldugunu grup sayfasinda paylasayim",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "767218838150186",
+      "parentId": "699750058507909",
+      "authorName": "Hüseyin AracÖzlem Hicran Kurar",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Özlem Hicran Kurars kommentar for en uge siden",
+      "text": "Özlem Hicran Kurar scandinavia centerin içinde Radisson Blue otelde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3574167012814221",
+      "parentId": null,
+      "authorName": "Ahmet Tamer",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Ahmet Tamer for en uge siden",
+      "text": "Maşşallah Arhus Halkı Her zaman Duyarlı olmuştur ve Her zaman Birlik beraberliğini Korumuştur\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "596488725780593",
+      "parentId": null,
+      "authorName": "Halil Ipek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Halil Ipek for 6 dage siden",
+      "text": "Vatana millete hayırlı olsun",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "authorName": "Knud Holt Nielsen",
+  "authorId": "knud.hnielsen.3",
+  "text": "R.I.P til Ulven Peter",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "5"
+    },
+    {
+      "type": "sad",
+      "count": "3"
+    },
+    {
+      "type": "care",
+      "count": "1"
+    }
+  ],
+  "comments": []
+}

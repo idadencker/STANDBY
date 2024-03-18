@@ -1,0 +1,34 @@
+{
+  "authorName": "Troels Christian Jakobsen",
+  "authorId": "tcjakobsen",
+  "text": "Glæder mig til det her - den nye bro i mit hood:",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "9"
+    },
+    {
+      "type": "heart",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Palle Jensen",
+      "authorId": "palle.jensen.1441",
+      "timeLabel": "Kommentar fra Palle Jensen for 14 uger siden",
+      "text": "Ligger broen i forlængelse af Bystævnet? Hvis det er dér, så er det dér min far og jeg smed stenguns, tromlerevolvere og parabellummer i voldgraven. Resterne fra hans tid som modstandsmand.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+{
+  "authorName": "Lars Weiss",
+  "authorId": "lars.weiss.73",
+  "text": "Det er en gammelkendt sandhed, at i politik tager ting tid. Det er omkring 10 år siden, jeg var med til at rejse sagen om at bringe Bindesbølls og Skovgaards Dragespringvand tilbage til dets oprindelige udtryk og form. 10 år er lang tid - men det har været værd at vente på.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160863129514269&set=a.10154715256154269&__cft__[0]=AZW9j8zADUTcODV_FUdfEtT-bO_mXg7ShIaVX0ovoS2HFCAgfrdzQAtZOrQ3xJiKozK5EcPEJyZZ3EaMZ0_fAL1u0n7hl1F8WNM9j1alNZLul8vJRqSn_Sor-JbE6eNZMSM&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 7 personer og Brandenburger Tor",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "362"
+    },
+    {
+      "type": "heart",
+      "count": "48"
+    }
+  ],
+  "comments": [
+    {
+      "id": "810564320664008",
+      "parentId": null,
+      "authorName": "Lone Skov Al Awssi",
+      "authorId": "lone.awssi",
+      "timeLabel": "Kommentar fra Lone Skov Al Awssi for en uge siden",
+      "text": "Meget glædeligt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "602217898583313",
+      "parentId": null,
+      "authorName": "Anne Brøndum",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Anne Brøndum for en uge siden",
+      "text": "Det er blevet flot!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "652716136287400",
+      "parentId": null,
+      "authorName": "Lisbeth B Ritter",
+      "authorId": "lisbeth.b.ritter",
+      "timeLabel": "Kommentar fra Lisbeth B Ritter for en uge siden",
+      "text": "Flot og tager en tur på fredag og beundre det",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1091074138518360",
+      "parentId": null,
+      "authorName": "Peter Hjorth",
+      "authorId": "Mr.Peter.Hjorth",
+      "timeLabel": "Kommentar fra Peter Hjorth for en uge siden",
+      "text": "Flot!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "799602075107881",
+      "parentId": null,
+      "authorName": "Tonny Løjtved Lassen",
+      "authorId": "loejtvedlassen",
+      "timeLabel": "Kommentar fra Tonny Løjtved Lassen for en uge siden",
+      "text": "Flot, værd og vente på",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1352653085684795",
+      "parentId": null,
+      "authorName": "Simon Kærup",
+      "authorId": "simon.kaerup",
+      "timeLabel": "Kommentar fra Simon Kærup for en uge siden",
+      "text": "Hvor er det flot. Godt for Rådhuspladsen og København",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "736870848193792",
+      "parentId": null,
+      "authorName": "Helle Bonnesen",
+      "authorId": "helle.bonnesen.3",
+      "timeLabel": "Kommentar fra Helle Bonnesen for en uge siden",
+      "text": "Vi er mange som har ventet længe det er en dejlig begivenhed !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "280875711084816",
+      "parentId": null,
+      "authorName": "Lars Sten Sørensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lars Sten Sørensen for en uge siden",
+      "text": "Det ser godt ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "985421202611502",
+      "parentId": null,
+      "authorName": "Kasper Lund Kirkegaard",
+      "authorId": "klkirkegaard",
+      "timeLabel": "Kommentar fra Kasper Lund Kirkegaard for en uge siden",
+      "text": "Sikke dog en proces…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "169681145899627",
+      "parentId": null,
+      "authorName": "Niels GaemelkeLars Weiss",
+      "authorId": "niels.gaemelke",
+      "timeLabel": "Kommentar fra Niels Gaemelke for en uge siden",
+      "text": "Godt arbejde -tak Lars Weiss",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "243542048310957",
+      "parentId": null,
+      "authorName": "Jonas Bjørn JensenLars",
+      "authorId": "jonasbjorn",
+      "timeLabel": "Kommentar fra Jonas Bjørn Jensen for en uge siden",
+      "text": "Det er godt arbejde Lars Kan også huske vi blev hånet, fordi nogen synes der var dyrt. Jeg tænker de fleste kan se, at det er alle pengene værd.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "279300124501384",
+      "parentId": null,
+      "authorName": "Bo Schwartz",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Bo Schwartz for en uge siden",
+      "text": "Endelig. Det pynter gevaldigt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "666607248619215",
+      "parentId": null,
+      "authorName": "Klaus Bondam",
+      "authorId": "bondam",
+      "timeLabel": "Kommentar fra Klaus Bondam for en uge siden",
+      "text": "Så smut. Tak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "181780938192333",
+      "parentId": null,
+      "authorName": "Lasse Ryberg",
+      "authorId": "lasse.ryberg.3",
+      "timeLabel": "Kommentar fra Lasse Ryberg for en uge siden",
+      "text": "Fremragende!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "287131027024366",
+      "parentId": null,
+      "authorName": "Jakob Hougaard",
+      "authorId": "jakob.hougaard",
+      "timeLabel": "Kommentar fra Jakob Hougaard for en uge siden",
+      "text": "Det er flot gået! Jeg fik selv flyttet 'Den granskende pige' tilbage til Husum, men det tåler vist ikke helt sammenligning med Dragespringvandet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "598681412358222",
+      "parentId": null,
+      "authorName": "Susanne Juhl",
+      "authorId": "susanne.juhl.7",
+      "timeLabel": "Kommentar fra Susanne Juhl for en uge siden",
+      "text": "Det glæder jeg mig til at se. Tak for indsatsen!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "269103065781216",
+      "parentId": null,
+      "authorName": "Palle Olsen",
+      "authorId": "polsen29",
+      "timeLabel": "Kommentar fra Palle Olsen for en uge siden",
+      "text": "Flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1216486882371870",
+      "parentId": null,
+      "authorName": "Ole Lund Petersen",
+      "authorId": "lundpetersenole",
+      "timeLabel": "Kommentar fra Ole Lund Petersen for en uge siden",
+      "text": "Endelig nu genkender jeg Rådhuspladsen som jeg oplevede som barn. Vi mangler måske duerne og fotografen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "791898065935153",
+      "parentId": null,
+      "authorName": "Carsten Fun Jensen",
+      "authorId": "carstenfun.jensen",
+      "timeLabel": "Kommentar fra Carsten Fun Jensen for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1011310263580781",
+      "parentId": null,
+      "authorName": "Kaare Breinholt",
+      "authorId": "kaare.breinholt",
+      "timeLabel": "Kommentar fra Kaare Breinholt for en uge siden",
+      "text": "Hej Lars.\nHer er vi så ikke helt enige. Men sån er det.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "643982474320362",
+      "parentId": null,
+      "authorName": "Lars Gaardhøj",
+      "authorId": "lars.gaardhoj",
+      "timeLabel": "Kommentar fra Lars Gaardhøj for en uge siden",
+      "text": "Fremragende indsats Lars!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "661722089110238",
+      "parentId": null,
+      "authorName": "Henrik Busch",
+      "authorId": "henrik.busch",
+      "timeLabel": "Kommentar fra Henrik Busch for en uge siden",
+      "text": "SMUKT!!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "611761764382953",
+      "parentId": null,
+      "authorName": "Ugle Hojbo",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Ugle Hojbo for en uge siden",
+      "text": "En skandale, at man er så langsomme på Københavns Rådhus (Sneglehuset).\nMen springvandet har været ventetid og penge værd. Fremstår meget flot.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1413632326117817",
+      "parentId": null,
+      "authorName": "Klaus Mygind",
+      "authorId": "klaus.mygind.1",
+      "timeLabel": "Kommentar fra Klaus Mygind for en uge siden",
+      "text": "Tillykke Lars - du har virkelig kæmpet for Dragespringvandet\nFlot resultat",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "210662328558251",
+      "parentId": null,
+      "authorName": "Lars Vedel Jørgensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lars Vedel Jørgensen for en uge siden",
+      "text": "Tak for det og super flot klaret",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "627425612671644",
+      "parentId": null,
+      "authorName": "Niels Damgaard",
+      "authorId": "niels.damgaard.750",
+      "timeLabel": "Kommentar fra Niels Damgaard for en uge siden",
+      "text": "Flot og alle pengene værd selvom det har kostet kommunen mange skattekroner",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "277242534787790",
+      "parentId": null,
+      "authorName": "Lennart Holmberg",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Lennart Holmberg for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "792135262313214",
+      "parentId": null,
+      "authorName": "Clemens Dyrholm Møller",
+      "authorId": "clemens.moller",
+      "timeLabel": "Kommentar fra Clemens Dyrholm Møller for en uge siden",
+      "text": "Det ser godt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "634421938605165",
+      "parentId": null,
+      "authorName": "Clemens Dyrholm Møller",
+      "authorId": "clemens.moller",
+      "timeLabel": "Kommentar fra Clemens Dyrholm Møller for en uge siden",
+      "text": "Ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "627193779340187",
+      "parentId": null,
+      "authorName": "Maj-Britt Milsted",
+      "authorId": "majbritt.milsted",
+      "timeLabel": "Kommentar fra Maj-Britt Milsted for en uge siden",
+      "text": "Vildt at det kan tage 10 år. Og endnu mere vildt at man kan beslutte er vildt projekt som Lynetteholmen på få måneder og midt i en coronatid.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1248663832686876",
+      "parentId": null,
+      "authorName": "John Michael Jensen",
+      "authorId": "johnmichael.jensen.31",
+      "timeLabel": "Kommentar fra John Michael Jensen for en uge siden",
+      "text": "Flot, byggesager tager tid på Rådhuset\nSå er der blot et uafklaret projekt tilbage. At få etableret fodgænger forbindelsen mellem Rådhuspladsen og Strøget, så den kedelige del af Strøget og Rådhuspladsen bliver et sammenhængende område. Bilisterne har forlængst vænnet sig, at vejen er lukket for altid.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1614863929019682",
+      "parentId": null,
+      "authorName": "Jens Jacob Bierring",
+      "authorId": "Jebier",
+      "timeLabel": "Kommentar fra Jens Jacob Bierring for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "200848896251626",
+      "parentId": null,
+      "authorName": "Steen Johansen",
+      "authorId": "steen.johansen.9406",
+      "timeLabel": "Kommentar fra Steen Johansen for en uge siden",
+      "text": "Tillykke!\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2238291559891748",
+      "parentId": null,
+      "authorName": "Line Akiba Perlmutter",
+      "authorId": "line.perlmutter",
+      "timeLabel": "Kommentar fra Line Akiba Perlmutter for en uge siden",
+      "text": "Jeg glæder mig til at se det",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1794176414318093",
+      "parentId": null,
+      "authorName": "Jette Susanne Andersen Thornsvad",
+      "authorId": "jette.thornsvad",
+      "timeLabel": "Kommentar fra Jette Susanne Andersen Thornsvad for en uge siden",
+      "text": "Se rigtig flot ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "275524554881296",
+      "parentId": null,
+      "authorName": "Randi Johanne Sørensen",
+      "authorId": "randiprivat",
+      "timeLabel": "Kommentar fra Randi Johanne Sørensen for en uge siden",
+      "text": "Flot og dejligt at det er tilbage.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "276162611532564",
+      "parentId": null,
+      "authorName": "Jonna Lund Hansen",
+      "authorId": "jonna.lundhansen",
+      "timeLabel": "Kommentar fra Jonna Lund Hansen for en uge siden",
+      "text": "Flot arbejde. Jeg har en særlig oplevelse med dette springvand. Som barn i starten af 60érne var jeg engang på by orienteringsløb med DUI . Et af spørgsmålene var,hvem havde lavet Dragespringvandet? Det vidste vi selvfølgelig ikke. Vi gik så ind på Rådhuset, hvor vi mødte Borgmester Julius Hansen, der var helt enestående. Han inviterede os på sodavand og en snak om Bindesbøll og Skovgaard. En rigtig god barndomsoplevelse og kulturel opdragelse.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "1319547898998157",
+      "parentId": null,
+      "authorName": "Andreas Keil",
+      "authorId": "andreas.keil.904",
+      "timeLabel": "Kommentar fra Andreas Keil for en uge siden",
+      "text": "Godt gået..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "965558471224728",
+      "parentId": null,
+      "authorName": "Jakob Ramlau",
+      "authorId": "jakob.ramlau",
+      "timeLabel": "Kommentar fra Jakob Ramlau for en uge siden",
+      "text": "På tide at Rådhuspladsen bliver lidt mindre 'tom'. Forment arbejde. Der markerer pladsen som byens centrum........ 5-600 meter fra den restaurerede frihedsstøtte....",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "962258528414492",
+      "parentId": null,
+      "authorName": "Tom Christensen",
+      "authorId": "tom.christensen.319",
+      "timeLabel": "Kommentar fra Tom Christensen for en uge siden",
+      "text": "Fedt, så kan vi igen bade på Rådhuspladsen næste gang, hvor Danmark vinder EM i fodbold.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1016680822836859",
+      "parentId": null,
+      "authorName": "Lis Lendal",
+      "authorId": "lis.lendal",
+      "timeLabel": "Kommentar fra Lis Lendal for en uge siden",
+      "text": "Vi mangler et nyt springvand på Amagerbrogade. der er plads på Sundbyvester Plads!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "798685311863296",
+      "parentId": null,
+      "authorName": "Helle Eckeroth",
+      "authorId": "helle.eckeroth",
+      "timeLabel": "Kommentar fra Helle Eckeroth for en uge siden",
+      "text": "Vildt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3405835693000476",
+      "parentId": null,
+      "authorName": "Mitzi Gustavsen",
+      "authorId": "mitzi.gustavsen",
+      "timeLabel": "Kommentar fra Mitzi Gustavsen for en uge siden",
+      "text": "Så flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "761167972371825",
+      "parentId": null,
+      "authorName": "Joan Jensen",
+      "authorId": "joan.jensen.334",
+      "timeLabel": "Kommentar fra Joan Jensen for 6 dage siden",
+      "text": "Det er bare så Flot Lars. Enig med dig i, at mange ting kan tage tid, men det her har været det værd",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1646802672487474",
+      "parentId": null,
+      "authorName": "Vibeke L. Ejlertsen",
+      "authorId": "vibeke.ejlertsen.1",
+      "timeLabel": "Kommentar fra Vibeke L. Ejlertsen for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "5646310662137704",
+      "parentId": null,
+      "authorName": "Frank Jensen",
+      "authorId": "frank.jensen.982",
+      "timeLabel": "Kommentar fra Frank Jensen for 6 dage siden",
+      "text": "Helt enig Lars. Jeg vil nu også benytte dagen til at takke Aage og Johanne Louis-Hansens Fond og ikke mindst Advokat Per Magid for at støtte med 2/3 af udgiften til flytning og renovering. Dejligt når fondene og kommunen kan gå sammen om at forskønne vores offentlige pladser. Hvor er resultatet blevet flot. Tillykke til os alle sammen!\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 11,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "196044163022220",
+      "parentId": "5646310662137704",
+      "authorName": "Jan Rix RasmussenFrank",
+      "authorId": "janrix.rasmussen.7",
+      "timeLabel": "Svar fra Jan Rix Rasmussen på Frank Jensens kommentar for 6 dage siden",
+      "text": "Frank, Per Magid still going streng. Fortsat aktiv som advokat. Nogle og firs år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "925889925139778",
+      "parentId": null,
+      "authorName": "Kirsten Nissen",
+      "authorId": "kirsten.nissen.501",
+      "timeLabel": "Kommentar fra Kirsten Nissen for 6 dage siden",
+      "text": "Det er så fint - løfter Rådhuspladsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "275874298174905",
+      "parentId": null,
+      "authorName": "Karenmargrethe Varming",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Karenmargrethe Varming for 6 dage siden",
+      "text": "Det er blevet rigtig flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "629848652387883",
+      "parentId": null,
+      "authorName": "Jesper Christensen",
+      "authorId": "Jespercph",
+      "timeLabel": "Kommentar fra Jesper Christensen for 6 dage siden",
+      "text": "Tillykke\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "791728135839284",
+      "parentId": null,
+      "authorName": "Sophie Stibolt",
+      "authorId": "sophie.stibolt",
+      "timeLabel": "Kommentar fra Sophie Stibolt for 6 dage siden",
+      "text": "Fedt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "796089198626693",
+      "parentId": null,
+      "authorName": "Frits Skov Iversen",
+      "authorId": "fritsskov.iversen",
+      "timeLabel": "Kommentar fra Frits Skov Iversen for 6 dage siden",
+      "text": "Det klæder virkelig Rådhuspladsen med det genrejste springvand midt på pladsen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1290587578558958",
+      "parentId": null,
+      "authorName": "Bine Elmkjær",
+      "authorId": "bineelm",
+      "timeLabel": "Kommentar fra Bine Elmkjær for 6 dage siden",
+      "text": "Den er kommet til sin ret",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "229631176518475",
+      "parentId": null,
+      "authorName": "Bine Elmkjær",
+      "authorId": "bineelm",
+      "timeLabel": "Kommentar fra Bine Elmkjær for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "253193607352112",
+      "parentId": null,
+      "authorName": "Lars Kramer Mikkelsen",
+      "authorId": "lars.kramermikkelsen.3",
+      "timeLabel": "Kommentar fra Lars Kramer Mikkelsen for 6 dage siden",
+      "text": "Flot, godt gået !",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "964875584967139",
+      "parentId": null,
+      "authorName": "Helle Stolberg Klausen",
+      "authorId": "helle.s.klausen",
+      "timeLabel": "Kommentar fra Helle Stolberg Klausen for 6 dage siden",
+      "text": "Hvor er det blevet flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "801313831592793",
+      "parentId": null,
+      "authorName": "Brian Pabst",
+      "authorId": "brian.pabst",
+      "timeLabel": "Kommentar fra Brian Pabst for 6 dage siden",
+      "text": "Flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "941989790250287",
+      "parentId": null,
+      "authorName": "Lillian Knudsen",
+      "authorId": "lillian.knudsen",
+      "timeLabel": "Kommentar fra Lillian Knudsen for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1876130079427161",
+      "parentId": null,
+      "authorName": "Vibeke WesthLars Weiss",
+      "authorId": "vibeke.westh.3",
+      "timeLabel": "Kommentar fra Vibeke Westh for 5 dage siden",
+      "text": "Tusind tak Lars Weiss det er så flot",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "829777711963611",
+      "parentId": null,
+      "authorName": "Poul Anthonsen",
+      "authorId": "poul.anthonsen",
+      "timeLabel": "Kommentar fra Poul Anthonsen for 4 dage siden",
+      "text": "Super flot og en god beslutning.\nTak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "801352791283009",
+      "parentId": null,
+      "authorName": "Tania Karpatschof",
+      "authorId": "tania.karpatschof",
+      "timeLabel": "Kommentar fra Tania Karpatschof for 3 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

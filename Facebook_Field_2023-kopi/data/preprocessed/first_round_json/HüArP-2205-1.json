@@ -1,0 +1,50 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "18"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "260857483099482",
+      "parentId": null,
+      "authorName": "Halil Ipek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Halil Ipek for 2 uger siden",
+      "text": "Iyi yayınlar huseyin bey",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1347967149484667",
+      "parentId": null,
+      "authorName": "Ahmet Göze",
+      "authorId": "ahmet.goze.52",
+      "timeLabel": "Kommentar fra Ahmet Göze for 2 uger siden",
+      "text": "Kıbrıs'taki Hüseyin kardeşime Selamlar",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

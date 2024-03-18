@@ -1,0 +1,41 @@
+{
+  "authorName": "Katrine Vinther Nielsen - SF",
+  "authorId": "profile.php",
+  "text": "Jeg har truffet svær, men nødvendig beslutning.\nhttps://m.facebook.com/story.php?story_fbid=631854325633759&id=100064275925914",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "13"
+    },
+    {
+      "type": "heart",
+      "count": "5"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "798000771672727",
+      "parentId": null,
+      "authorName": "Henrik Steffens",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Henrik Steffens for 2 uger siden",
+      "text": "Kære Kathrine",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

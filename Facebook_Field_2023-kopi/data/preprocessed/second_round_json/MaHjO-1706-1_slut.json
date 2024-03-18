@@ -1,0 +1,67 @@
+{
+  "authorName": "Mathilde Hjort Bressum",
+  "authorId": "StemMathilde",
+  "text": "Jeg takker af for dette års folkemøde💙🤩 En stor fornøjelse👏🏼✨",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=676084811202451&amp;set=a.218115550332715&amp;__cft__[0]=AZUrB6CP1IGoQvOmBfGiylQr3VFMxIMdXfPYRwQ0m9FjsukjiPZG3I18eIfJ_EaphttRosp2oHGgjwOx0B_OP4wtpMNwNG3PZ778pFl3mPIqbuaSRNyygBOYAg82j1m6ur36JHVRyXdNPkFNP5GuIdbK&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 6 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "37"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1060902001541234",
+      "parentId": null,
+      "authorName": "Laurits Nyholm Andersen",
+      "authorId": "LaurNA113",
+      "timeLabel": "Kommentar fra Laurits Nyholm Andersen for 5 uger siden",
+      "text": "Vi ses hjemme i Aarhus🍻",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "535756195276227",
+      "parentId": null,
+      "authorName": "Christian Budde",
+      "authorId": "ChristianBuddeVenstre",
+      "timeLabel": "Kommentar fra Christian Budde for 5 uger siden",
+      "text": "Stærk indsats Mathilde, du har gjort Folkemødet lidt klogere🙏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "952319322884005",
+      "parentId": null,
+      "authorName": "Inga Bressum",
+      "authorId": "inga.bressum",
+      "timeLabel": "Kommentar fra Inga Bressum for 5 uger siden",
+      "text": "Godt gået knus mormor",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

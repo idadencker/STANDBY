@@ -1,0 +1,298 @@
+{
+  "authorName": "Rasmus SteenbergerRasmus SteenbergerRasmus SteenbergerAmager StrandparkAmager StrandparkAmager Strandpark",
+  "authorId": "steenbergerSF",
+  "text": "Kigger på bål med familien.\nGod Skt Hans allesammen",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=1002414441083511&set=a.496492961675664&__cft__[0]=AZXXVa3dIWLmRzR5_plKp_UiGuu9WF1PWncEW04g_7PK0P-FUzvrvw3Ie4CDkWQvPfuLOhta4pb_yov-Lt4p-GGWWmeEElCO4peZ-A8bs8Re4O1W8jIfHYhyW-IWiMqoaOlP98wCOX1pHwrjN7Cod1hJ&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 6 personer og tekst, der siger \"Glaedelig Skt Hans\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "85"
+    },
+    {
+      "type": "heart",
+      "count": "9"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Johnny Charlie Rosenørn-Dohn",
+      "authorId": "JohnnyCharlieRosenornDohn",
+      "timeLabel": "Kommentar fra Johnny Charlie Rosenørn-Dohn for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Johnny Charlie Rosenørn-Dohns kommentar for 8 uger siden",
+      "text": "I det hele taget en smuk aften",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Vi elsker Kastrupvej & Backersvej",
+      "authorId": "kastrupvejbackersvej",
+      "timeLabel": "Svar fra Vi elsker Kastrupvej & Backersvej på Rasmus Steenbergers svarfor 8 uger siden",
+      "text": "God Skt Hans",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Vi elsker Kastrupvej & Backersvejs svarfor 8 uger siden",
+      "text": "Tak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Stem På Liste J",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Stem På Liste J for 7 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Stem På Liste J",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Stem På Liste J for 7 uger siden",
+      "text": "Late God Sankthans",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Stem På Liste Js kommentar for 7 uger siden",
+      "text": "Takker",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bevar Amagerbanen",
+      "authorId": "bevarAmagerbanen",
+      "timeLabel": "Kommentar fra Bevar Amagerbanen for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Kommentar fra SF København for 8 uger siden",
+      "text": "God sommer",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Københavns kommentar for 8 uger siden",
+      "text": "Tak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Holmbladsgade-kvarteret",
+      "authorId": "bedretrafikiholmbladsgade",
+      "timeLabel": "Svar fra Holmbladsgade-kvarteret på Rasmus Steenbergers svarfor 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Holmbladsgade-kvarterets svarfor 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Abdelkrim Ayadi",
+      "authorId": "abdelkrim.ayadi.393",
+      "timeLabel": "Kommentar fra Abdelkrim Ayadi for 8 uger siden",
+      "text": "Wow nice family",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoAbdelkrim",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Abdelkrim Ayadis kommentar for 8 uger siden",
+      "text": "Thank you, Abdelkrim",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Abdelkrim AyadiRasmus Steenberger",
+      "authorId": "abdelkrim.ayadi.393",
+      "timeLabel": "Svar fra Abdelkrim Ayadi på Rasmus Steenbergers svarfor 8 uger siden",
+      "text": "Rasmus Steenberger",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Abdelkrim Ayadis svarfor 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "SF Amager KBHAbdelkrim",
+      "authorId": "SFamager",
+      "timeLabel": "Svar fra SF Amager KBH på Abdelkrim Ayadis svarfor 8 uger siden",
+      "text": "Happy summer, Abdelkrim",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Sara Gram-Hanssen",
+      "authorId": "sara.gramhanssen",
+      "timeLabel": "Kommentar fra Sara Gram-Hanssen for 7 uger siden",
+      "text": "Super fedt billede!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerSara",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Sara Gram-Hanssens kommentar for 7 uger siden",
+      "text": "Tak, Sara",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

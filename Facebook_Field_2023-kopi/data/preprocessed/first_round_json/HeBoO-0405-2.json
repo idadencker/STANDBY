@@ -1,0 +1,84 @@
+{
+  "authorName": "Helle Bonnesen",
+  "authorId": "hellebonnesen.fk",
+  "text": "Sætter du lys i vinduet? Det vil jeg gøre når jeg er hjemme efter aftenens møde i Borgerrepræsentationen.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=686658843468744&amp;set=a.228231079311525&amp;__cft__[0]=AZVZiHwx33M7Mm-QBoCuaCmP8xpq39vQniEWmdeanNdwmYzTjLQM3ky0mDjts2nmppidjkuYNAvapVF2ncHaIproLtYZyDenpASQoCkVrgajaO6OND89VQR5UxJu08uN3c1Fg9XtMwHjZ9FbZmn4FFCB&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger &quot;SATTER DU LYS I VINDUET? c&quot;",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "28"
+    }
+  ],
+  "comments": [
+    {
+      "id": "6431945553516812",
+      "parentId": null,
+      "authorName": "Winnie Walløe",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Winnie Walløe for 5 dage siden",
+      "text": "Selvfølgelig!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "773781650927724",
+      "parentId": null,
+      "authorName": "Anette Høirup Larsen",
+      "authorId": "kfanla",
+      "timeLabel": "Kommentar fra Anette Høirup Larsen for 5 dage siden",
+      "text": "Det gør vi - hvert eneste år ♥️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "758372995994497",
+      "parentId": null,
+      "authorName": "Lone Wilken",
+      "authorId": "lwilken1",
+      "timeLabel": "Kommentar fra Lone Wilken for 5 dage siden",
+      "text": "I mangel på vindueskarm er det på altanen 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "261416602961569",
+      "parentId": null,
+      "authorName": "Mogens Wassermann",
+      "authorId": "mogens.wassermann.7",
+      "timeLabel": "Kommentar fra Mogens Wassermann for 5 dage siden",
+      "text": "ja",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

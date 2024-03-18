@@ -1,0 +1,88 @@
+{
+  "authorName": "Katrine Hassenkam Zoref",
+  "authorId": "katrine.zoref",
+  "text": "Jeg startede dagen med at deltage i Ungdomsringen gode og vigtige debat om fritids- og ungdomsklubber. Klubberne skaber rummelige fællesskaber. De er et præstationsfrit rum, hvor unge kan dyrke deres interesser og prøve sig selv af. Fritidspædagogikken bidrager til at styrke de unges tillid til egne evner og den enkeltes tro på at spille en vigtig rolle i fællesskabet. Politisk skal vi skærpe vores opmærksomhed på det hele ungdomsliv. Skolen skal ikke løse det hele. Her spiller klubber og ungdomsskoler en vigtig rolle, også for de unges trivsel.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10159879882405933&set=pcb.10159879882555933&__cft__[0]=AZVqP_xlUPr5wU7ujizCu7836FOxqyorpAFGHs8CkTmDe1kpjz0AuskuD9wemAsidBKVd16lBm7zio8ZfIixwsErEFKboNCX5HWELucXidYDIzb1GbtcuHVVbRpTijWzWk6WSvjd48DiV14A9Irkzl0EmBrSl7Hp-kzLrl80bLt12w&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "19"
+    },
+    {
+      "type": "heart",
+      "count": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": "220304184226955",
+      "parentId": null,
+      "authorName": "Ungdomsringen",
+      "authorId": "ungdomsringen",
+      "timeLabel": "Kommentar fra Ungdomsringen for 6 uger siden",
+      "text": "Tusind tak for at deltage Katrine! Vi håber, du vil inviteres igen en anden gang",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1676619042853519",
+      "parentId": "220304184226955",
+      "authorName": "Katrine Hassenkam ZorefUngdomsringen",
+      "authorId": "katrine.zoref",
+      "timeLabel": "Svar fra Katrine Hassenkam Zoref på Ungdomsringens kommentar for 5 uger siden",
+      "text": "Ungdomsringen I siger bare til",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "2155965938077604",
+      "parentId": null,
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 5 uger siden",
+      "text": "Lige nu er jeg kun lidt misundelig - selvom klassefest med 6.b også er OK",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "806004597586857",
+      "parentId": null,
+      "authorName": "Charlotte Price Hoffmann",
+      "authorId": "CharlottePricePersson",
+      "timeLabel": "Kommentar fra Charlotte Price Hoffmann for 5 uger siden",
+      "text": "Så vigtige budskaber!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

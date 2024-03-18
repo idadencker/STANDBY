@@ -1,0 +1,494 @@
+{
+  "authorName": "Hari Neupane",
+  "authorId": "hariprasad.neupane",
+  "text": "संगीतको नशामा जुन आनन्द छ - त्यो अन्त कहाँ मिल्छ र !",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10222584626796570&set=a.4525777514697&__cft__[0]=AZVbxaJgEWVMqbGaAwpLKUAR0x3t1lUb0obR71Vjv53RKAo8LLKDbrcObI4jg8Wx7sfYbfJQJ22X3gV8Ug8LH5FGdxw07tpYx7sfqq7ph2v9-6YN-eZkr3zf516GFV-ZDvU&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person, højttaler og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "182"
+    },
+    {
+      "type": "heart",
+      "count": "40"
+    }
+  ],
+  "comments": [
+    {
+      "id": "803668424456828",
+      "parentId": null,
+      "authorName": "Manoj Khadka",
+      "authorId": "khadkamanoj77777",
+      "timeLabel": "Kommentar fra Manoj Khadka for 5 dage siden",
+      "text": "एकदमै सत्य कुरा हरि जि चियर्स",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "617620607088159",
+      "parentId": "803668424456828",
+      "authorName": "Hari NeupaneManoj Khadka",
+      "authorId": "hariprasad.neupane",
+      "timeLabel": "Svar fra Hari Neupane på Manoj Khadkas kommentar for 5 dage siden",
+      "text": "Manoj Khadka ji\nCheers",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1273490410231679",
+      "parentId": null,
+      "authorName": "Kammal Raj Sharma",
+      "authorId": "kammal.sharma",
+      "timeLabel": "Kommentar fra Kammal Raj Sharma for 5 dage siden",
+      "text": "Kya baat",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "630076352042487",
+      "parentId": null,
+      "authorName": "JP Neupane",
+      "authorId": "jp.neupane.94",
+      "timeLabel": "Kommentar fra JP Neupane for 5 dage siden",
+      "text": "सुन्दर",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "636251791687059",
+      "parentId": null,
+      "authorName": "Purna Bandhan",
+      "authorId": "Purna.Bandhan",
+      "timeLabel": "Kommentar fra Purna Bandhan for 5 dage siden",
+      "text": "कताको सीन हौ? थाह भए त म पनि पुग्थें कि!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "284565460591455",
+      "parentId": null,
+      "authorName": "Shashi Shrestha",
+      "authorId": "shrestha.shashi",
+      "timeLabel": "Kommentar fra Shashi Shrestha for 5 dage siden",
+      "text": "आनन्द अनन्त।",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1422121538601288",
+      "parentId": null,
+      "authorName": "Rajendra Poudel",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Rajendra Poudel for 5 dage siden",
+      "text": "Kada guru … nasakini.. multitalent",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "155944833983298",
+      "parentId": null,
+      "authorName": "Prakash Dhakal",
+      "authorId": "dhakal1",
+      "timeLabel": "Kommentar fra Prakash Dhakal for 5 dage siden",
+      "text": "हो नि",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "797033984944564",
+      "parentId": null,
+      "authorName": "Sita Dhakal",
+      "authorId": "sita.dhakal.568847",
+      "timeLabel": "Kommentar fra Sita Dhakal for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "647709090119762",
+      "parentId": null,
+      "authorName": "Pabitra Poudel",
+      "authorId": "pabitra.poudel.585559",
+      "timeLabel": "Kommentar fra Pabitra Poudel for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "566208682344139",
+      "parentId": null,
+      "authorName": "Khagendra Neupane",
+      "authorId": "khagendra.neupane.927",
+      "timeLabel": "Kommentar fra Khagendra Neupane for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1680455429085436",
+      "parentId": null,
+      "authorName": "Ramsharan Pudasaini",
+      "authorId": "ramsharan.pudasaini.33",
+      "timeLabel": "Kommentar fra Ramsharan Pudasaini for 5 dage siden",
+      "text": "अवस्य हजुर!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "632514768412266",
+      "parentId": null,
+      "authorName": "Tulashi Neupane Timalsina",
+      "authorId": "tulashi.neupane.73",
+      "timeLabel": "Kommentar fra Tulashi Neupane Timalsina for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "261158099730517",
+      "parentId": null,
+      "authorName": "Dinesh Neupane",
+      "authorId": "channelinternational",
+      "timeLabel": "Kommentar fra Dinesh Neupane for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1279085586360291",
+      "parentId": null,
+      "authorName": "Dinesh Neupane",
+      "authorId": "channelinternational",
+      "timeLabel": "Kommentar fra Dinesh Neupane for 5 dage siden",
+      "text": "Right",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "3171513723148326",
+      "parentId": null,
+      "authorName": "Shanti Poudel",
+      "authorId": "shanti.poudel.925",
+      "timeLabel": "Kommentar fra Shanti Poudel for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "647295146831263",
+      "parentId": null,
+      "authorName": "Neupane Krishna",
+      "authorId": "krishna.neupane.1610",
+      "timeLabel": "Kommentar fra Neupane Krishna for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "608011187967899",
+      "parentId": null,
+      "authorName": "Indra Prasad Neupane",
+      "authorId": "indra.sharma.7927",
+      "timeLabel": "Kommentar fra Indra Prasad Neupane for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "918270179397889",
+      "parentId": null,
+      "authorName": "Sunita Shrestha",
+      "authorId": "sunitastha123",
+      "timeLabel": "Kommentar fra Sunita Shrestha for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1304479583814821",
+      "parentId": null,
+      "authorName": "Bimesh Acharya",
+      "authorId": "bimesh01",
+      "timeLabel": "Kommentar fra Bimesh Acharya for 5 dage siden",
+      "text": "Exactly Dai Music heals",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "921294938981075",
+      "parentId": null,
+      "authorName": "Kiran Gauli",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Kiran Gauli for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "790920299006926",
+      "parentId": null,
+      "authorName": "Tejendra Paudel",
+      "authorId": "tejendra.paudel.52",
+      "timeLabel": "Kommentar fra Tejendra Paudel for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "530239842469015",
+      "parentId": null,
+      "authorName": "Hemanta Dhakal",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Hemanta Dhakal for 5 dage siden",
+      "text": "Absolute kaka hajur",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1439869733429869",
+      "parentId": null,
+      "authorName": "Kabita Neupane",
+      "authorId": "kabita.neupane.9400",
+      "timeLabel": "Kommentar fra Kabita Neupane for 4 dage siden",
+      "text": "अझ नेपालमा रहेर गर्न पाऊदाको अान्नद छुटै हुन्छ बाबु",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "268289642320744",
+      "parentId": null,
+      "authorName": "Royal Ram Dhakal",
+      "authorId": "ram.dhakal.94849410",
+      "timeLabel": "Kommentar fra Royal Ram Dhakal for 4 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "6444613888936696",
+      "parentId": null,
+      "authorName": "Sitram Bharat",
+      "authorId": "sitram.bharat",
+      "timeLabel": "Kommentar fra Sitram Bharat for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "557338143005703",
+      "parentId": null,
+      "authorName": "Ali Alwann",
+      "authorId": "ali.alwann.3",
+      "timeLabel": "Kommentar fra Ali Alwann for en dag siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "603227331902601",
+      "parentId": null,
+      "authorName": "Meena Bhattarai",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Meena Bhattarai for en dag siden",
+      "text": "Mama",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}
