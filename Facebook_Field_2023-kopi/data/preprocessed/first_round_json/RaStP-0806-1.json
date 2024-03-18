@@ -1,0 +1,125 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Til generalforsamling i Vestforbrænding i Glostrup - fokus på øget genbrug og genanvendelse, CO2-fangst, flere fjernvarme-kunder, grønne energikilder, og den helt store: liberaliseringen af husholdningsaffald 😱",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161697827679271&amp;set=a.10150290430239271&amp;__cft__[0]=AZV1PAyPHI8LJlPOE0TpSj1YusFqIG4HX8BniOA7a4jUIm9jbyv9sPsbunlQqnOger2JI7d6xhydw9UIXR-E6ASiiXqEPs8NctuUY24iQz4lLEgUf7_2FInfAKTVolIhUpd2_r3XGHRS4yLJKCPyBVpennVAHhMFIZVIZx7wMUhhlA&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "33"
+    }
+  ],
+  "comments": [
+    {
+      "id": "213031608288222",
+      "parentId": null,
+      "authorName": "Jan Trojaborg",
+      "authorId": "jan.trojaborg",
+      "timeLabel": "Kommentar fra Jan Trojaborg for 5 dage siden",
+      "text": "Er du mere røget end speget?..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "808278427525563",
+      "parentId": "213031608288222",
+      "authorName": "Rasmus SteenbergerJan",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jan Trojaborgs kommentar for 5 dage siden",
+      "text": "Helt stegt, Jan 😅 Det var en varm dag",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "768768281405163",
+      "parentId": "213031608288222",
+      "authorName": "Jan TrojaborgRasmus Steenberger",
+      "authorId": "jan.trojaborg",
+      "timeLabel": "Svar fra Jan Trojaborg på Rasmus Steenbergers kommentar for 4 dage siden",
+      "text": "Rasmus Steenberger så måske steg det dig til hovedet…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "810783106868378",
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 5 dage siden",
+      "text": "💚⚡️👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "225412400254655",
+      "parentId": "810783106868378",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Amager KBHs kommentar for 3 dage siden",
+      "text": "🔥🔥🔥",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1408649973231044",
+      "parentId": null,
+      "authorName": "Klaus Lynghøft Nielsen",
+      "authorId": "klaus.l.nielsen",
+      "timeLabel": "Kommentar fra Klaus Lynghøft Nielsen for 5 dage siden",
+      "text": "❤️SF’er på farten🚴🏻‍♂️💨💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1985774828481762",
+      "parentId": "1408649973231044",
+      "authorName": "Rasmus SteenbergerKlaus",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Klaus Lynghøft Nielsens kommentar for 4 dage siden",
+      "text": "Altid, Klaus 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

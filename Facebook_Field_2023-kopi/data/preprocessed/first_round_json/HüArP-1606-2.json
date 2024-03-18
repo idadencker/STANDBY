@@ -1,0 +1,102 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "Yemekte menüye soran arkadaşlara. Gönderiyorum",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160515221425890&set=a.10150124840715890&__cft__[0]=AZXjj68j-UGnw15vL-JfcxaTFi501AXDICV0TtRwYG0D3BkDhvSIu9boUr6ITjPJ9p38vOb0uYF18Ny60WJxkbB3QqC9b5AqfuUAu_8GWTegMC1zljaPGfq39DD80q6U3Ck&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger \"Forret Boghvedevafler Toppet med danske asparges og creme fraiche Maelkebottesirup og braendenceldeolie 2022 Grüner Veltiner, Ingrid Groiss, Weinvirtel, Ostrig Hovedret Pocheret Rodtunge Safran emulsion, syltet salturt og tangchips Nye danske kartofler med vilde urter 2020 Retour Aux Racines Bourgogne Chardonnay, René Lequin-Co Santenay, Frankrig Dessert Hjemmelavet chokolade Aarhuskagen\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "33"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Leif Max Hansen",
+      "authorId": "leif.max",
+      "timeLabel": "Kommentar fra Leif Max Hansen for 9 uger siden",
+      "text": "Mums",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mardiros Temirci",
+      "authorId": "mardiros.temirci",
+      "timeLabel": "Kommentar fra Mardiros Temirci for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Haci Murat Ceylan",
+      "authorId": "hacimurat.ceylan.39",
+      "timeLabel": "Kommentar fra Haci Murat Ceylan for 9 uger siden",
+      "text": "Guru fasulye yok\nBen almayayim",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bektas Nayman",
+      "authorId": "bektas.nayman",
+      "timeLabel": "Kommentar fra Bektas Nayman for 9 uger siden",
+      "text": "Madimak, menevcer, yayla çorbası, efelik sarması, manti, erişte, omac, kömec...\nTam Çorum işi",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Hüseyin Arac",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Kommentar fra Hüseyin Arac for 9 uger siden",
+      "text": "Murat kardeş kuru fasülye yeseler bir daha başka şey yemezler, helede senin kasaptan etle yapılsa , tadına doyulmaz",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mehmet Dündar Günaydin",
+      "authorId": "mehmet.d.gunaydin",
+      "timeLabel": "Kommentar fra Mehmet Dündar Günaydin for 9 uger siden",
+      "text": "Birahane ki sefere køfte inşallah",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

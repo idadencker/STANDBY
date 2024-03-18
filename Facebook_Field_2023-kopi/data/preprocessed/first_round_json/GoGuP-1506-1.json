@@ -1,0 +1,648 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Jennie og jeg blev gift på Rådhuset i dag for 35 år siden.\nVi er stadig sammen - også nogle gange på rådhuset.\nDet er så dejligt at følges ad.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "112"
+    },
+    {
+      "type": "heart",
+      "count": "69"
+    }
+  ],
+  "comments": [
+    {
+      "id": "950838249460552",
+      "parentId": null,
+      "authorName": "Brian Sibola Hansen",
+      "authorId": "brian.s.hansen.16",
+      "timeLabel": "Kommentar fra Brian Sibola Hansen for 5 dage siden",
+      "text": "❤ ❤ fint",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1458283764913567",
+      "parentId": null,
+      "authorName": "Janne Riise Hansen",
+      "authorId": "janne.riise.hansen",
+      "timeLabel": "Kommentar fra Janne Riise Hansen for 5 dage siden",
+      "text": "Tillykke til jer ☺️💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1446217329515549",
+      "parentId": null,
+      "authorName": "Mumme Thing",
+      "authorId": "mumme.thing",
+      "timeLabel": "Kommentar fra Mumme Thing for 5 dage siden",
+      "text": "Tillykke med hinanden og kærligheden, I smukke unge mennesker!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "597139292520268",
+      "parentId": null,
+      "authorName": "Trine Warming",
+      "authorId": "trine.warming",
+      "timeLabel": "Kommentar fra Trine Warming for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1024983675575469",
+      "parentId": null,
+      "authorName": "Per Ejnar Viberg",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Ejnar Viberg for 5 dage siden",
+      "text": "Tillykke og Hurra, \"Lykke på Rejsen\" begge to 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "599347652287522",
+      "parentId": null,
+      "authorName": "Kim Jeppesen",
+      "authorId": "kim.jeppesen.9",
+      "timeLabel": "Kommentar fra Kim Jeppesen for 5 dage siden",
+      "text": "Tillykke med jer🍺🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "960223978508318",
+      "parentId": null,
+      "authorName": "John Christensen",
+      "authorId": "john.christensen.94651",
+      "timeLabel": "Kommentar fra John Christensen for 5 dage siden",
+      "text": "Tillykke med dagen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3178797625755571",
+      "parentId": null,
+      "authorName": "Tina Redana Olesen",
+      "authorId": "tina.r.olesen",
+      "timeLabel": "Kommentar fra Tina Redana Olesen for 5 dage siden",
+      "text": "Stort tillykke med dagen, hils mange gange 🌹🌷🥂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "783114603476989",
+      "parentId": null,
+      "authorName": "Sara Berglund K-b",
+      "authorId": "sara.kb.3",
+      "timeLabel": "Kommentar fra Sara Berglund K-b for 5 dage siden",
+      "text": "Stort tillykke 💞",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "599242742189150",
+      "parentId": null,
+      "authorName": "Susanne Abkjær Thorsen",
+      "authorId": "SusChef",
+      "timeLabel": "Kommentar fra Susanne Abkjær Thorsen for 5 dage siden",
+      "text": "Tillykke med kærligheden 🥰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "607440051482668",
+      "parentId": null,
+      "authorName": "Benedikte Sveigaard",
+      "authorId": "Benedikte.Sveigaard",
+      "timeLabel": "Kommentar fra Benedikte Sveigaard for 5 dage siden",
+      "text": "Tillykke ❤️❤️❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1896988980677956",
+      "parentId": null,
+      "authorName": "Lene Pia Hansen",
+      "authorId": "lene.p.hansen.9",
+      "timeLabel": "Kommentar fra Lene Pia Hansen for 5 dage siden",
+      "text": "Stort tillykke Gorm ❤️ størst af alt er kærligheden 🌷",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1346959649553037",
+      "parentId": null,
+      "authorName": "Trine Henriksen",
+      "authorId": "trine.henriksen.58",
+      "timeLabel": "Kommentar fra Trine Henriksen for 5 dage siden",
+      "text": "Stort tillykke til jer ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "290919309960089",
+      "parentId": null,
+      "authorName": "Mette Grith Baungaard Holmelin",
+      "authorId": "mette.holmelin",
+      "timeLabel": "Kommentar fra Mette Grith Baungaard Holmelin for 5 dage siden",
+      "text": "Til lykke med kærligheden - I er et smukt par ♥",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "2902787033198265",
+      "parentId": null,
+      "authorName": "Kathrine Hammerich",
+      "authorId": "kathrinehammerich",
+      "timeLabel": "Kommentar fra Kathrine Hammerich for 5 dage siden",
+      "text": "Tillykke med bryllupsdagen. ❤️🍓❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "253467303975364",
+      "parentId": null,
+      "authorName": "Dorte Smed",
+      "authorId": "dorte.smed",
+      "timeLabel": "Kommentar fra Dorte Smed for 5 dage siden",
+      "text": "Stort tillykke med bryllupsdagen❤️❤️❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "255896240378689",
+      "parentId": null,
+      "authorName": "Madeleine Fullard",
+      "authorId": "madeleine.fullard",
+      "timeLabel": "Kommentar fra Madeleine Fullard for 5 dage siden",
+      "text": "Congratulations!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "220404834167980",
+      "parentId": null,
+      "authorName": "Astrid Kjeldsen",
+      "authorId": "astrid.kjeldsen1",
+      "timeLabel": "Kommentar fra Astrid Kjeldsen for 5 dage siden",
+      "text": "Kæmpe tilykke ❤️❤️❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "805384601158865",
+      "parentId": null,
+      "authorName": "Stephanie Victoria Starpov",
+      "authorId": "stephanie.starpov",
+      "timeLabel": "Kommentar fra Stephanie Victoria Starpov for 5 dage siden",
+      "text": "I er så søde ❤️❤️❤️❤️ hurra for jeres kærlighed",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1311004923163386",
+      "parentId": null,
+      "authorName": "Heidi Jensen",
+      "authorId": "heidi.jensen.9235",
+      "timeLabel": "Kommentar fra Heidi Jensen for 5 dage siden",
+      "text": "💙❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3048147285480665",
+      "parentId": null,
+      "authorName": "Inaluk Freuchen Jeppesen",
+      "authorId": "inaluk.jeppesen",
+      "timeLabel": "Kommentar fra Inaluk Freuchen Jeppesen for 5 dage siden",
+      "text": "TILLYKKE 🥳❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "128588906888220",
+      "parentId": null,
+      "authorName": "June Rebekka Bresson",
+      "authorId": "june.bresson",
+      "timeLabel": "Kommentar fra June Rebekka Bresson for 5 dage siden",
+      "text": "Stort tillykke kære Gorm og Jennie 🌈🤗🌹",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "897361305185301",
+      "parentId": null,
+      "authorName": "Per Vad",
+      "authorId": "pervad",
+      "timeLabel": "Kommentar fra Per Vad for 5 dage siden",
+      "text": "Tillykke med årsdagen og med jeres valg af partner 🌹",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "294532956468386",
+      "parentId": null,
+      "authorName": "Susanne Tang",
+      "authorId": "susanne.tang.712",
+      "timeLabel": "Kommentar fra Susanne Tang for 5 dage siden",
+      "text": "Tillykke på dagen. Tiden flyver i godt selskab❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "146658581755883",
+      "parentId": null,
+      "authorName": "Eric Erichsen",
+      "authorId": "eric.erichsen.1",
+      "timeLabel": "Kommentar fra Eric Erichsen for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1249209479289672",
+      "parentId": null,
+      "authorName": "Marion Jensen",
+      "authorId": "marion.jensen1",
+      "timeLabel": "Kommentar fra Marion Jensen for 5 dage siden",
+      "text": "❤️❤️tillykke med jer og kærligheden . Nu er det snart 5 år siden at du viede Kim og Jeg på stranden ❤️❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "893400085544174",
+      "parentId": null,
+      "authorName": "Bo Stefan",
+      "authorId": "bo.stefan.315",
+      "timeLabel": "Kommentar fra Bo Stefan for 5 dage siden",
+      "text": "Tillykke! ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1039192710400365",
+      "parentId": null,
+      "authorName": "Irene Holmstrøm",
+      "authorId": "Irene.holmstroem",
+      "timeLabel": "Kommentar fra Irene Holmstrøm for 5 dage siden",
+      "text": "Tillykke til jer 🥰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "822390496131133",
+      "parentId": null,
+      "authorName": "Cecilie Caroc",
+      "authorId": "cecilie.caroc",
+      "timeLabel": "Kommentar fra Cecilie Caroc for 5 dage siden",
+      "text": "Tillykke 🥰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "3464614900475128",
+      "parentId": null,
+      "authorName": "Ulla Larney",
+      "authorId": "ulla.larney",
+      "timeLabel": "Kommentar fra Ulla Larney for 5 dage siden",
+      "text": "Tillykke til jer 💕 Hvor er det vildt - 35 år! 🎊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "563146689350488",
+      "parentId": null,
+      "authorName": "Helle Ammitzbøll NielsenGorm Anker Gunnarsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helle Ammitzbøll Nielsen for 5 dage siden",
+      "text": "Gorm Anker Gunnarsen. Tillykke med kærligheden ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "152840651133931",
+      "parentId": null,
+      "authorName": "Carsten Gundlund Truelsen",
+      "authorId": "carstengundlund.truelsen.1",
+      "timeLabel": "Kommentar fra Carsten Gundlund Truelsen for 5 dage siden",
+      "text": "Så godt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "5610882322347824",
+      "parentId": null,
+      "authorName": "Ida Arvedsen",
+      "authorId": "ida.arvedsen",
+      "timeLabel": "Kommentar fra Ida Arvedsen for 4 dage siden",
+      "text": "Tillykke til jer💐🥂🍾",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "947542066469339",
+      "parentId": null,
+      "authorName": "Kitt Boel",
+      "authorId": "kitt.boel",
+      "timeLabel": "Kommentar fra Kitt Boel for 4 dage siden",
+      "text": "Stort tillykke til jer",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1894951827535264",
+      "parentId": null,
+      "authorName": "Grethe Kjær",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Grethe Kjær for 4 dage siden",
+      "text": "Tillykke Jennie og Gorm",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "767135844889967",
+      "parentId": null,
+      "authorName": "Joan Troest",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Joan Troest for 4 dage siden",
+      "text": "Tillykke med dagen .❤️❤️❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "986561069189624",
+      "parentId": null,
+      "authorName": "Marianne Kirkelund",
+      "authorId": "marianne.kirkelund",
+      "timeLabel": "Kommentar fra Marianne Kirkelund for 4 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1646468022540051",
+      "parentId": null,
+      "authorName": "Kim Rasmussen",
+      "authorId": "kim.rasmussen17",
+      "timeLabel": "Kommentar fra Kim Rasmussen for 3 dage siden",
+      "text": "Tillykke Gorm og Frue.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "“Far, hvornår flytter vi på landet?”\n..Frida er ret glad for natur.\nBornholm lever op til sit navn\nGod kristi himmelfartsferie til alle",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=978618753463080&set=a.496492961675664&__cft__[0]=AZVA7G6YH1g9McyF3TINYFQuvQbQnnYPmgJMA72-4JQ6R6RYW-JnetZEo1Tl_GjV0kS34NcT_AbpBhe6dc7bb0Opa3cX4bNq1WkREtVnkb2t9pAzrgL4Ad-Aq5Xg0xCncBVI2DGU49H3MYzzcvQNOZhyChSsqfqwcM_R4fRvqnbueoehIZZjj9q27X8Nnx55XuI&__tn__=EH-y-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "22"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for 13 uger siden",
+      "text": "Dagens destination: https://bornholm.info/snogebaek/",
+      "hasMedia": true,
+      "mediaAltText": "Besøg Snogebæk - det hyggelige fiskerleje på Sydøstkysten",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Sofie Steenberger",
+      "authorId": "sofie.steenberger",
+      "timeLabel": "Kommentar fra Sofie Steenberger for 13 uger siden",
+      "text": "Så kan hun også få heste, hunde, høns, geder, katte, ænder osv. osv.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerSofie",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Sofie Steenbergers kommentar for 13 uger siden",
+      "text": "Yeah, det er sagen, Sofie! Kan hun ikke bare flytte ind hos jer?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

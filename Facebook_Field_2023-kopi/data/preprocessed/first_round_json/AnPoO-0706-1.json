@@ -1,0 +1,80 @@
+{
+  "authorName": "Anette Poulsen",
+  "authorId": "anette.m.poulsen.5",
+  "text": "Dagen i dag har budt på Byrådsmøde\nMine nærmeste sidekammerater er disse tre gode byrådskolleger\nI formiddags nåede jeg for en gangs skyld en 8 km tur i Tranbjerg med Dansk Vandrelaug",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10232084925691007&set=pcb.10232084928891087&__cft__[0]=AZWXTYM9PH94maxZ3B4JxYJIeDpKaN4ejWGhw_6DKn1c7JFIwJKxtdLoGKJAvD1euGr0sdsMp95GgphxTj1patdk4B8hpk4en9NWf1zLyIQslGN4qIwImBP6tuH2F-oKKXA&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "70"
+    }
+  ],
+  "comments": [
+    {
+      "id": "9410764048994473",
+      "parentId": null,
+      "authorName": "Birgitte LehmannAnette Poulsen",
+      "authorId": "birgitte.lehmann.7",
+      "timeLabel": "Kommentar fra Birgitte Lehmann for 4 uger siden",
+      "text": "Dejligt at gense dig i dag Anette Poulsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1416095805891727",
+      "parentId": null,
+      "authorName": "Karte Grønkjær Dyrholm",
+      "authorId": "kartedyrholm",
+      "timeLabel": "Kommentar fra Karte Grønkjær Dyrholm for 4 uger siden",
+      "text": "3 perler på række",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "631600372345091",
+      "parentId": null,
+      "authorName": "Kirsten Lind",
+      "authorId": "kirsten.lind1",
+      "timeLabel": "Kommentar fra Kirsten Lind for 4 uger siden",
+      "text": "Godt gået",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "152314417841062",
+      "parentId": null,
+      "authorName": "Tove Cassøe Petersen",
+      "authorId": "Nugsmor",
+      "timeLabel": "Kommentar fra Tove Cassøe Petersen for 4 uger siden",
+      "text": "Hej Anette. Hvordan er det i Aarhus, når man kan se på TV, at svage borgere ikke har ret til at komme ud af deres seng før end kl 11 i Herning. Hvilke regler er der i vores kommune? Mvh Tove",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

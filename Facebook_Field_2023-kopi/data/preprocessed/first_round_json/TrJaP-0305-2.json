@@ -1,0 +1,105 @@
+{
+  "authorName": "Troels Christian Jakobsen",
+  "authorId": "tcjakobsen",
+  "text": "På vej hjem efter lang dag i folkestyrets tjeneste. Ret trætslidt i mit lille hoved.\nNæsten hjemme og ser et af de lokale træer for alvor er sprunget ud. Dejligt og sælsomt overvældende 🙂\nSer jeg syner i min træthed, eller er træet en slags mutant?",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160586416641506&amp;set=a.10151658848496506&amp;__cft__[0]=AZWU9g-prLpqiOcxXJJa8sMg1cMxFtJzsX-eW7GbXQGVdbUTXzr-pHEAXz-6ZDySAuwqGt9oDjkxJ0sYLGgFpyKucZ_SlJbNoMj5GmdMIf3fHzFyh3G6T5kj00Wb_MQ_a5Y&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af bærmispel (plante) og stenfrugttræ",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "28"
+    },
+    {
+      "type": "heart",
+      "count": "14"
+    }
+  ],
+  "comments": [
+    {
+      "id": "790165522690700",
+      "parentId": null,
+      "authorName": "Anna Agnete Hesse Ottendahl",
+      "authorId": "anna.ottendahl",
+      "timeLabel": "Kommentar fra Anna Agnete Hesse Ottendahl for en uge siden",
+      "text": "Jeg kan se flere stammer, så det er nok forskellige.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "223033917021438",
+      "parentId": "790165522690700",
+      "authorName": "Troels Christian JakobsenAnna Agnete Hesse Ottendahl",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Anna Agnete Hesse Ottendahls kommentar for en uge siden",
+      "text": "Anna Agnete Hesse Ottendahl Måske. Jeg nærstuderer den i morgen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1699547763822368",
+      "parentId": "790165522690700",
+      "authorName": "Troels Christian JakobsenAnna Agnete Hesse Ottendahl",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Anna Agnete Hesse Ottendahls kommentar for 6 dage siden",
+      "text": "Anna Agnete Hesse Ottendahl",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "600142325481105",
+      "parentId": "790165522690700",
+      "authorName": "Eva KanstrupTroels Christian Jakobsen",
+      "authorId": "eva.kanstrup.7",
+      "timeLabel": "Svar fra Eva Kanstrup på Troels Christian Jakobsens kommentar for 6 dage siden",
+      "text": "Troels Christian Jakobsen Jeg tror at frugtræer oftest er podet, hvis ikke de er selvsåede - og at man i nogle tilfælde poder to forskellige sorter på grundstammen. Mit gæt, uden at være ekspert, er at det er baggrunden for mutanten 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "722958089579049",
+      "parentId": null,
+      "authorName": "Susanne Kaarøe BrandtTroels Christian Jakobsen",
+      "authorId": "susannekaaroeebrandt",
+      "timeLabel": "Kommentar fra Susanne Kaarøe Brandt for 5 dage siden",
+      "text": "Troels Christian Jakobsen når man forælder fx frugttræer er det for at opnå en smag, en blomst eller et særligt udseende. Det sker ofte på bekostning af træets robusthed og sundhed. Så derfor poder man de forædlede sorter på en stamme af noget man ved har stor gro- og modstandskraft. Nogen gange er den podede gren for langsom/sølle og det oprindelige træ tager over. Det kunne det jo godt ligne på dit billede.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

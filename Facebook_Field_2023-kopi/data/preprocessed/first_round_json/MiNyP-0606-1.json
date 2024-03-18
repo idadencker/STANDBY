@@ -1,0 +1,101 @@
+{
+  "authorName": "Mia Nyegaard",
+  "authorId": "mia.nyegaard",
+  "text": "Vi har landet en principaftale om budget for 24/25, der sikrer, at vi giver et mere bæredygtigt København videre til næste generation. Vi finder bl.a. 6,3 milliarder til mere metro, og vi får en ny cykelbro, vi skal se på næste del af den grønne boulevard og fritlæggelse af åerne. Aftalen tager ansvar for fremtidens KBH",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10159543556658224&set=pcb.10159543556713224&__cft__[0]=AZXAfb5mwqKPqW39CzcIJNfl-jWSM5_dtEdU2IUfsxHy5AiK1gAhAmywH_NE8rF9uB2c2PEUl0-GmG4DF0QbRt5h1wZDvfMQjdmLtRt31yMhoupgnTkpVBLI4O_5K6w_hQ4&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "47"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "id": "645066374332413",
+      "parentId": null,
+      "authorName": "Anette Laigaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Anette Laigaard for 3 dage siden",
+      "text": "Spændende, tillykke",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2597324393759430",
+      "parentId": null,
+      "authorName": "Peter Hjorth",
+      "authorId": "Mr.Peter.Hjorth",
+      "timeLabel": "Kommentar fra Peter Hjorth for 3 dage siden",
+      "text": "Udmærket!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "551085963904847",
+      "parentId": null,
+      "authorName": "Kirstine Chege",
+      "authorId": "kirstinechege",
+      "timeLabel": "Kommentar fra Kirstine Chege for 3 dage siden",
+      "text": "Glæder mig til metro til Brønshøj",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "604839705095429",
+      "parentId": null,
+      "authorName": "Jesper Luthman",
+      "authorId": "jesperluthman",
+      "timeLabel": "Kommentar fra Jesper Luthman for 3 dage siden",
+      "text": "Sådan - fantastisk arbejde!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "215429354700062",
+      "parentId": null,
+      "authorName": "Janne Sander",
+      "authorId": "janne.sander",
+      "timeLabel": "Kommentar fra Janne Sander for 3 dage siden",
+      "text": "Håber nogle af midlerne også går til forbedringer af tilgængelighed i byens rum - veje, fortorve, infrastruktur.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

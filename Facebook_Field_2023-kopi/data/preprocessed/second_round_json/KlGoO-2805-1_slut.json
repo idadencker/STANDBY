@@ -1,0 +1,35 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen, Enhedslisten",
+  "authorId": "profile.php",
+  "text": "Her midt under Enhedslistens årsmøde 2023, udkommer vores første single på alle de forskellige musiktjenester - gå ind på den du plejer at lytte til og hør sangen: Amager Fælled Lever\nEn hyldest til mangfoldigheden, naturen, København og især Amager Fælled og Lærkesletten.\nfoto Ricardo Ramirez - grafik: Martin Svendsen",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "heart",
+      "count": "2"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "200090706307826",
+      "parentId": null,
+      "authorName": "Susse Jønsson",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Susse Jønsson for 9 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

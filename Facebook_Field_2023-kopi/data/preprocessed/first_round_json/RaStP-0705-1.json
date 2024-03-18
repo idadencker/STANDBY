@@ -1,0 +1,532 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Mon ikke kbh og frb kan finde fælles fodslag 😉\nJeg giver gerne en kop kaffe i “Østberlin”.\nHar borgmesteren på Frederiksberg en pointe?",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "21"
+    },
+    {
+      "type": "haha",
+      "count": "7"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "949758636448968",
+      "parentId": null,
+      "authorName": "Stella Høedt",
+      "authorId": "stella.hoedt",
+      "timeLabel": "Kommentar fra Stella Høedt for 4 dage siden",
+      "text": "Hvor står Tårnby og Dragør i debatten?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "5823794201083436",
+      "parentId": "949758636448968",
+      "authorName": "Rasmus SteenbergerStella",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Stella Høedts kommentar for 3 dage siden",
+      "text": "De har ikke meldt noget ud, Stella",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "960084381812456",
+      "parentId": "949758636448968",
+      "authorName": "Jakob Soland EngbækStella Høedt",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Stella Høedts kommentar for 3 dage siden",
+      "text": "Stella Høedt\nKøbenhavns kommune bestemmer uanset ikke over motorvejen, og det er utænkeligt at gennemkørsel med dieselbiler mellem Sverige og Tyskland kan blokeres af en kommune.\nMiljøzonerne har en undtagelse for kørsel til havnene i Aarhus og København ad kommunaleveje.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1632675477137889",
+      "parentId": "949758636448968",
+      "authorName": "Stella HøedtJakob Soland EngbækRasmus",
+      "authorId": "stella.hoedt",
+      "timeLabel": "Svar fra Stella Høedt på Jakob Soland Engbæks kommentar for 3 dage siden",
+      "text": "Jakob Soland Engbæk\nTak for svar.\nSå er det kun Frederiksberg, der bliver lukket inde. Men det kan I vel ikke bare gøre uden en forhandling med kommunen, Rasmus …..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "622317112815498",
+      "parentId": "949758636448968",
+      "authorName": "Jakob Soland EngbækStella Høedt",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Stella Høedts kommentar for 3 dage siden",
+      "text": "Stella Høedt\nJa, det kan man helt klart ikke.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "110355938709535",
+      "parentId": "949758636448968",
+      "authorName": "Stella HøedtPhillip Bergenhammer Østergaard",
+      "authorId": "stella.hoedt",
+      "timeLabel": "Svar fra Stella Høedt på Stella Høedts kommentar for 3 dage siden",
+      "text": "Phillip Bergenhammer Østergaard\nLidt underligt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "199696416208913",
+      "parentId": "949758636448968",
+      "authorName": "Rasmus SteenbergerStella",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Stella Høedts kommentar for 3 dage siden",
+      "text": "Der skal naturligvis findes en løsning Stella",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "752515449886653",
+      "parentId": null,
+      "authorName": "Stig Laursen",
+      "authorId": "stig.laursen",
+      "timeLabel": "Kommentar fra Stig Laursen for 3 dage siden",
+      "text": "Vi laver en flyvekoridor i samarbejde med CPH 💪😁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "186661730953178",
+      "parentId": "752515449886653",
+      "authorName": "Stella HøedtStig LaursenMichael VindfeldtRasmus Steenberger",
+      "authorId": "stella.hoedt",
+      "timeLabel": "Svar fra Stella Høedt på Stig Laursens kommentar for 3 dage siden",
+      "text": "Stig Laursen\nSå som Michael Vindfeldt antyder “tiden med DDR og Vestberlin genoplives med en luftbro til forsyninger og mad til Frederiksberg”",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1241494953420800",
+      "parentId": "752515449886653",
+      "authorName": "Stig LaursenStella Høedt",
+      "authorId": "stig.laursen",
+      "timeLabel": "Svar fra Stig Laursen på Stella Høedts kommentar for 3 dage siden",
+      "text": "Stella Høedt Vi kan også bruge Droner 🗽",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "756162052647238",
+      "parentId": "752515449886653",
+      "authorName": "Rasmus SteenbergerStella",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Stella Høedts kommentar for 3 dage siden",
+      "text": "Jeg bruger alligevel ikke lufthavnen, Stella",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "1129274031798697",
+      "parentId": "752515449886653",
+      "authorName": "Stella HøedtRasmus Steenberger",
+      "authorId": "stella.hoedt",
+      "timeLabel": "Svar fra Stella Høedt på Rasmus Steenbergers kommentar for 3 dage siden",
+      "text": "Rasmus Steenberger\nDet er der så mange af dine medborgere og dine vælgere, der gør",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "570103618560376",
+      "parentId": "752515449886653",
+      "authorName": "Rasmus SteenbergerStella",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Stella Høedts kommentar for 3 dage siden",
+      "text": "Så er det da godt den ikke lige er til at flytte rundt på, Stella",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1224511081517115",
+      "parentId": null,
+      "authorName": "Jens Rasmussen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jens Rasmussen for 3 dage siden",
+      "text": "Er det hele Københavns kommune der bliver omfattet af forbuddet, eller er kun i den indre by?\nHvis det er hele kommunen vil tusind af københavnere ikke kunne få besøg af familie der er bosat i resten af landet😟\nLigeledes vil der være mange Københavnere der ikke har råd til at skifte fra deres fossile bil til en elbil!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "280667414384586",
+      "parentId": "1224511081517115",
+      "authorName": "SF KøbenhavnJens",
+      "authorId": "sfkbh",
+      "timeLabel": "Svar fra SF København på Jens Rasmussens kommentar for 3 dage siden",
+      "text": "Hej Jens, det er i al fald minus statsvejene. Dvs motor- og omfartsveje.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "3298041867192692",
+      "parentId": null,
+      "authorName": "Robert Nielsen",
+      "authorId": "robert.nielsen.948",
+      "timeLabel": "Kommentar fra Robert Nielsen for 3 dage siden",
+      "text": "Det er i hvert fald værd at overveje at flytte til Frederiksberg.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1330475707540901",
+      "parentId": "3298041867192692",
+      "authorName": "Rasmus SteenbergerRobert",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Robert Nielsens kommentar for 3 dage siden",
+      "text": "Det er også et dejligt sted, Robert",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1221342148744920",
+      "parentId": null,
+      "authorName": "Brian Holmstrøm Nielsen",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Kommentar fra Brian Holmstrøm Nielsen for 3 dage siden",
+      "text": "Det ligner et umuligt projekt, sad and sorry to say",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "258618593357167",
+      "parentId": "1221342148744920",
+      "authorName": "Rasmus SteenbergerBrian",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Brian Holmstrøm Nielsens kommentar for 3 dage siden",
+      "text": "Bliver da super spændende Brian",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "930405788193032",
+      "parentId": null,
+      "authorName": "Kasper Munk RasmussenRasmus Steenberger",
+      "authorId": "kasper.m.rasmussen.7",
+      "timeLabel": "Kommentar fra Kasper Munk Rasmussen for 3 dage siden",
+      "text": "Rasmus Steenberger - hvornår er man i mål med at udskifte alle busser og kommunale køretøjer til el/brint?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "182202331016180",
+      "parentId": "930405788193032",
+      "authorName": "Rasmus SteenbergerKasper",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Kasper Munk Rasmussens kommentar for 3 dage siden",
+      "text": "Vi er over 50% Kasper.\nhttps://www.kk.dk/.../trafik-og.../ren-kollektiv-trafik",
+      "hasMedia": true,
+      "mediaAltText": "Ren kollektiv trafik",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "234698379258001",
+      "parentId": "930405788193032",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rasmus Steenbergers kommentar for 3 dage siden",
+      "text": "“I 2022 kørte 43 % af busdriften på el og det stiger til 57 % i 2023. I december 2019 blev dieselbusserne på linje 2A og linje 18 som de første udskiftet til fordel for 48 nye elbusser. I sommeren 2020 blev alle havnebusserne udskiftet til nye elektriske og støjsvage havnebusser.”",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "973289260347963",
+      "parentId": "930405788193032",
+      "authorName": "Kasper Munk RasmussenRasmus Steenberger",
+      "authorId": "kasper.m.rasmussen.7",
+      "timeLabel": "Svar fra Kasper Munk Rasmussen på Kasper Munk Rasmussens kommentar for 2 dage siden",
+      "text": "Tak Rasmus Steenberger - er der sat en dato for, hvornår man skal være 100% elektrisk i kommunen? Vil anbefale at kommunen går foran på den her 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "631013795548114",
+      "parentId": "930405788193032",
+      "authorName": "Rasmus SteenbergerKasper",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Kasper Munk Rasmussens kommentar for 2 dage siden",
+      "text": "Målet er 2025, Kasper 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6470763222975689",
+      "parentId": "930405788193032",
+      "authorName": "Kasper Munk RasmussenRasmus Steenberger",
+      "authorId": "kasper.m.rasmussen.7",
+      "timeLabel": "Svar fra Kasper Munk Rasmussen på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger wow sejt! Det er jo lige om lidt 👏🏆❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1646692812462715",
+      "parentId": null,
+      "authorName": "Søren Thunedborg",
+      "authorId": "soren.thunedborg",
+      "timeLabel": "Kommentar fra Søren Thunedborg for 2 dage siden",
+      "text": "Det er helt klart den rigtige vej at gå. Og Michael Vindfeldt, der påstod at stå i spidsen for en grøn koalition før valget, skal se at vågne op.\nMed det sagt kan det godt ærgre, at København var så længe om at komme i gang med dette. Så mange europæiske storbyer har i flere år gået langsomt frem og gradvist fjernet de mest forurenende biler. Fx Bruxelles ad Eurocap-standarder. Og nu skal det gå fra 0-100, hvilket ikke kan indgå at skabe en masse problemer og modstand, desværre",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1173798583301693",
+      "parentId": "1646692812462715",
+      "authorName": "Rasmus SteenbergerSøren",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Søren Thunedborgs kommentar for 2 dage siden",
+      "text": "Enig, Søren - vi skulle have meldt det ud langt tidligere. Det er klimakrisens store problem: den kommer tættere og tættere på, men det tager ufatteligt lang tid for os mennesker at mærke den",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "938385460746109",
+      "parentId": "1646692812462715",
+      "authorName": "Søren ThunedborgRasmus Steenberger",
+      "authorId": "soren.thunedborg",
+      "timeLabel": "Svar fra Søren Thunedborg på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger men mange andre byer, som trods alt også ledes af mennesker, kunne godt. Derfor er dette mere specifikt for København snarere end generelt for klimakrisen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "921319219194229",
+      "parentId": "1646692812462715",
+      "authorName": "Rasmus SteenbergerSøren",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Søren Thunedborgs kommentar for 2 dage siden",
+      "text": "Tror vi har været ramt af flere ting, Søren:\n- Handlingslammelse efter trængselsring-gate\n- Sovepude i form af klimaplan’25 (som jo forudsatte store indgreb i vejtrafikken som aldrig kom)\n- Det episke parkerings-battle mellem sosserne, Enhedslisten og konservative\n- venstrefløjens unuancerede anti-bil-tendenser (her går vi jo nærmest ud og ansporer til køb af bil, uhadadada)\n- manglende lovhjemmel (kbh kunne godt være lidt mere bystat på nogle punkter)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1890626634631387",
+      "parentId": "1646692812462715",
+      "authorName": "Søren ThunedborgRasmus Steenberger",
+      "authorId": "soren.thunedborg",
+      "timeLabel": "Svar fra Søren Thunedborg på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger ja, der er desværre flere ærgerlige sammenfald. Håber i hvert fald det kan bidrage til mindre udledning og ikke mindst renere luft.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "978133406697715",
+      "parentId": null,
+      "authorName": "Ib Skaale Christoffersen",
+      "authorId": "ibskaale.christoffersen",
+      "timeLabel": "Kommentar fra Ib Skaale Christoffersen for 2 dage siden",
+      "text": "Frederiksberg Kommune laver bare Åboulevarden og Roskildevej om til elbilfri og Brintbilfri veje. Så har Frederiksberg Kommune noget at forhandle med.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3696949580591220",
+      "parentId": null,
+      "authorName": "Peter Kristensen",
+      "authorId": "peter.kristensen.754",
+      "timeLabel": "Kommentar fra Peter Kristensen for 2 dage siden",
+      "text": "Og jeg giver et lift med min Wartburg fra DDR 😆\nForresten vil I ikke undtage veteranbiler?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

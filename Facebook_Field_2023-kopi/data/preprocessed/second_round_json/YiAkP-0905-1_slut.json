@@ -1,0 +1,52 @@
+{
+  "authorName": "Yildiz AkdoganYildiz AkdoganYildiz AkdoganFolketingetFolketingetFolketinget",
+  "authorId": "YildizAkdogan",
+  "text": "Et nyt netværk er født i hovedstad med fokus på ligestilling #SKvinder",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160836809431550&set=pcb.10160836813776550&__cft__[0]=AZW_nenPHgRmeQZF_xHyY6jCihXFvZ4tuRLMcSqnZmNcLhrBHYVAYWRN3UuKJoMXFz0QMSDdTPTVK-yhcdbRFJNiE0Z7pRonjVgqxrh_vU3XG2Sj93loTMitrVKs6yLqnuVEBPfHZa2aBrncP7XGwEdFa1GdqonR9zwe0T2SBrZuBw&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "127"
+    },
+    {
+      "type": "heart",
+      "count": "18"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Maren Ottar Hessner",
+      "authorId": "maren.hessner",
+      "timeLabel": "Kommentar fra Maren Ottar Hessner for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Roxana SimionYildiz",
+      "authorId": "roxana.simion.9822",
+      "timeLabel": "Kommentar fra Roxana Simion for 14 uger siden",
+      "text": "Dejlige billeder Yildiz. Tak for sidst. Det er en PB til dig, som aftalt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

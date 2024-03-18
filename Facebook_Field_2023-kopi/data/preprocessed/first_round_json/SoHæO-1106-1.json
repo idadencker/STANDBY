@@ -1,0 +1,69 @@
+{
+  "authorName": "Sophie Hæstorp Andersen",
+  "authorId": "sophiehaestorp",
+  "text": "Det er svært at være uvenner, når man lige har sunget sammen. Som vi plejer at gøre i Borgerrepræsentationen, så sang vi fællessang til Københavnerpicnic på Absalon. Vi fik hyldet afdøde Peter Belli med Istedgade.\nI anledning af at København er udnævnt som verdens arkitekturhovedstad, så fejres alt det som sker mellem vores bygninger med mad, fællesskab og sang. Idag med 14 langbordsmiddage på forskellige lokationer i byen. I min egen baghave på Vesterbro nød vi solen på Sønder Boulevard, hvor Folkehuset Absalon lagde køkken og langborde til mad og fællessang.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=803595814656607&set=a.337619364587590&__cft__[0]=AZWNvm1i_p0LZKqgbYVIWaTXRBgbcKgqLSVIC0TWeOZFhxKUCUoIdmhKWDWY5SLS-qPVkZsiDGrbn3KGmtDnHG-GRdpS1vDNbDjq4cMy1L-5gRUorHBOp4lVYFJrfs63BOUBIGhSNt7Rwq1Wei5ANDjl&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "176"
+    },
+    {
+      "type": "heart",
+      "count": "17"
+    }
+  ],
+  "comments": [
+    {
+      "id": "280151227761321",
+      "parentId": null,
+      "authorName": "Kaj Skare SocialdemokratietSophie Hæstorp Andersen",
+      "authorId": "kajskarejensen",
+      "timeLabel": "Kommentar fra Kaj Skare Socialdemokratiet for en uge siden",
+      "text": "God aften Sophie Hæstorp Andersen , det ser godt nok hyggeligt ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "2003478329993636",
+      "parentId": null,
+      "authorName": "Kaj Hansen",
+      "authorId": "Rojlehansen",
+      "timeLabel": "Kommentar fra Kaj Hansen for en uge siden",
+      "text": "Ja vi skulle synge noget mere",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1302760190336242",
+      "parentId": null,
+      "authorName": "Nicolas Bohse",
+      "authorId": "nicolas.bohse",
+      "timeLabel": "Kommentar fra Nicolas Bohse for en uge siden",
+      "text": "Vores gode naboer er nu ved at overhale os københavnere i klimatilpasning. Godt gået Frederiksberg. https://www.dr.dk/.../toerke-og-hedeboelger-stiller-nye...",
+      "hasMedia": true,
+      "mediaAltText": "Tørke og hedebølger stiller nye krav: Danmarks varmeste kommune er i gang med at forberede sig",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

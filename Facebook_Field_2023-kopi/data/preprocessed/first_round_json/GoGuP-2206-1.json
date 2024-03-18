@@ -1,0 +1,199 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Så er bassinprøve klaret - og kolonibørnene kan komme i vandet.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171159570972037&amp;set=a.10150534890722037&amp;__cft__[0]=AZU0D2HPUmzvBbN4oCKcOcXSa6IfkMB3ajn6fpN8KuGKLTSKqiXCB7Lmy07kXROUeut3GEW0MM5LjcHl2EhOJ-eyEp9vhfqMi8zT3GyEdh9UjstymXAjzZc7lrQR9SHboxU&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "136"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1700402010420516",
+      "parentId": null,
+      "authorName": "Cecilie Caroc",
+      "authorId": "cecilie.caroc",
+      "timeLabel": "Kommentar fra Cecilie Caroc for 4 dage siden",
+      "text": "💪🏼",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "831556685059446",
+      "parentId": null,
+      "authorName": "Lene Pia Hansen",
+      "authorId": "lene.p.hansen.9",
+      "timeLabel": "Kommentar fra Lene Pia Hansen for 4 dage siden",
+      "text": "Tillykke !! Skulle du ned og hente en dukke på 3 meters dybde😳 det er den værste 😱\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "569377655276357",
+      "parentId": "831556685059446",
+      "authorName": "Gorm Anker GunnarsenLene Pia Hansen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Lene Pia Hansens kommentar for 4 dage siden",
+      "text": "Lene Pia Hansen Jep. 3,8 m. Det kunne jeg - og det var dejligt at vide. Så jeg er meget stolt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 7,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "637288685087349",
+      "parentId": "831556685059446",
+      "authorName": "Lene Pia HansenGorm Anker Gunnarsen",
+      "authorId": "lene.p.hansen.9",
+      "timeLabel": "Svar fra Lene Pia Hansen på Gorm Anker Gunnarsens kommentar for 4 dage siden",
+      "text": "Gorm Anker Gunnarsen 💪",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1004181343916747",
+      "parentId": null,
+      "authorName": "Annette Dres",
+      "authorId": "annette.dres",
+      "timeLabel": "Kommentar fra Annette Dres for 4 dage siden",
+      "text": "Hvor er du bare fantastisk 🤗",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "165022339784343",
+      "parentId": null,
+      "authorName": "Anna Katarina Rosenblad",
+      "authorId": "anna.rosenblad",
+      "timeLabel": "Kommentar fra Anna Katarina Rosenblad for 4 dage siden",
+      "text": "Tillykke til dig og alle børn!\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "235908052547043",
+      "parentId": null,
+      "authorName": "Kim Rasmussen",
+      "authorId": "kim.rasmussen17",
+      "timeLabel": "Kommentar fra Kim Rasmussen for 4 dage siden",
+      "text": "Jeg vidste du kan flyde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1230448260956150",
+      "parentId": "235908052547043",
+      "authorName": "Gorm Anker GunnarsenKim Rasmussen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Kim Rasmussens kommentar for 4 dage siden",
+      "text": "Kim Rasmussen jeg kan skam også gå til bunds!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1754739111609386",
+      "parentId": "235908052547043",
+      "authorName": "Kim RasmussenGorm Anker Gunnarsen",
+      "authorId": "kim.rasmussen17",
+      "timeLabel": "Svar fra Kim Rasmussen på Gorm Anker Gunnarsens kommentar for 4 dage siden",
+      "text": "Gorm Anker Gunnarsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1225997111393439",
+      "parentId": null,
+      "authorName": "Jesper Nordahl",
+      "authorId": "jesper.nordahl.7",
+      "timeLabel": "Kommentar fra Jesper Nordahl for 3 dage siden",
+      "text": "Vidunderlige Assens?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1684970508592034",
+      "parentId": "1225997111393439",
+      "authorName": "Gorm Anker GunnarsenJesper Nordahl",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Jesper Nordahls kommentar for 3 dage siden",
+      "text": "Jesper Nordahl Bemærkelsesværdige Bogø..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "authorName": "Rasmus SteenbergerRasmus SteenbergerRasmus SteenbergerMajken AstrupMajken AstrupMajken AstrupKalundborg HavneparkKalundborg HavneparkKalundborg Havnepark",
+  "authorId": "rasmus.steenberger",
+  "text": "81 års fødselsdag på den gamle fiskekutter\nDet er fødselaren, der sidder i solsiden",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161712345894271&set=a.10150290430239271&__cft__[0]=AZVtHA0p_SyN7ekfIJlie8ORY5AVw9u6yPtUKNtJ_aSe42MAZpXg2PhN74ftw7Fa8QAdA2H9Nik2qPTUtIY7W-YFX1wB7DkrImQa0MI9o6YaEMjHcYQ0VHtAo8-nuINFaHa1P-HHEQj0DdWoMdvq_NhdT5gqWZr0zKYdzl5TYrjXHQ&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 6 personer og båd",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "90"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "id": "223924620462368",
+      "parentId": null,
+      "authorName": "John Dyhr",
+      "authorId": "john.dyhr",
+      "timeLabel": "Kommentar fra John Dyhr for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3479175685662801",
+      "parentId": null,
+      "authorName": "Sofie Steenberger",
+      "authorId": "sofie.steenberger",
+      "timeLabel": "Kommentar fra Sofie Steenberger for 5 dage siden",
+      "text": "Tillykke!!\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "770133931322109",
+      "parentId": "3479175685662801",
+      "authorName": "Rasmus SteenbergerSofie",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Sofie Steenbergers kommentar for 5 dage siden",
+      "text": "Jeg skal hilse, Sofie",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1686139985178948",
+      "parentId": "3479175685662801",
+      "authorName": "Sofie Steenberger",
+      "authorId": "sofie.steenberger",
+      "timeLabel": "Svar fra Sofie Steenberger på Sofie Steenbergers kommentar for 5 dage siden",
+      "text": "Det ser ud til i har det dejligt. Hils banden.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2181184722072994",
+      "parentId": null,
+      "authorName": "Linnéa Gidlöf Drevin",
+      "authorId": "linnea.gidlof",
+      "timeLabel": "Kommentar fra Linnéa Gidlöf Drevin for 5 dage siden",
+      "text": "Åh så fin bild på er! Grattis Gunnar och glad sommar till er alla!!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6408140122632668",
+      "parentId": "2181184722072994",
+      "authorName": "Rasmus SteenbergerLinnéa",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Linnéa Gidlöf Drevins kommentar for 3 dage siden",
+      "text": "Tack, Linnéa",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "290411623384200",
+      "parentId": null,
+      "authorName": "Merete Marshall",
+      "authorId": "fimpemor",
+      "timeLabel": "Kommentar fra Merete Marshall for 5 dage siden",
+      "text": "STORT tillykke til og din svigerfar\ntillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "279299694657423",
+      "parentId": "290411623384200",
+      "authorName": "Rasmus SteenbergerMerete",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Merete Marshalls kommentar for 4 dage siden",
+      "text": "Tusind tak, Merete",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "275172281701242",
+      "parentId": null,
+      "authorName": "Monika Malmquist",
+      "authorId": "monika.malmquist",
+      "timeLabel": "Kommentar fra Monika Malmquist for 5 dage siden",
+      "text": "Ser skønt ud. Tillykke til Gunnar\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "289717590153275",
+      "parentId": "275172281701242",
+      "authorName": "Rasmus SteenbergerMonika",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Monika Malmquists kommentar for 5 dage siden",
+      "text": "Tusind tak, Monika",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "643393087697890",
+      "parentId": null,
+      "authorName": "Sailaja Rajendram",
+      "authorId": "sailaja.rajendram",
+      "timeLabel": "Kommentar fra Sailaja Rajendram for 5 dage siden",
+      "text": "Stort tillykke til dejlige Gunnar",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "652004059682051",
+      "parentId": "643393087697890",
+      "authorName": "Rasmus SteenbergerSailaja",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Sailaja Rajendrams kommentar for 4 dage siden",
+      "text": "Taaaak, Sailaja Håber du har det godt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "634691165211028",
+      "parentId": null,
+      "authorName": "Eva Einshøj",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Eva Einshøj for 5 dage siden",
+      "text": "Tillykke til din svigerfar\nTillykke\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "3586971454918920",
+      "parentId": "634691165211028",
+      "authorName": "Rasmus SteenbergerEva",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Eva Einshøjs kommentar for 4 dage siden",
+      "text": "Tusind tak, Eva",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "931954414530960",
+      "parentId": null,
+      "authorName": "Henrik Anton Sarauw",
+      "authorId": "Henrik.anton.sarauw",
+      "timeLabel": "Kommentar fra Henrik Anton Sarauw for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2020973328248347",
+      "parentId": null,
+      "authorName": "Lars Thunberg",
+      "authorId": "thunberglars",
+      "timeLabel": "Kommentar fra Lars Thunberg for 5 dage siden",
+      "text": "Stort grattis till Gunnar från oss också! Ha en underbar sommar!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "823698192599431",
+      "parentId": "2020973328248347",
+      "authorName": "Rasmus SteenbergerLars",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Lars Thunbergs kommentar for 4 dage siden",
+      "text": "I lige måde, Lars",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "575730711418915",
+      "parentId": null,
+      "authorName": "Ewa Gidlöw Bergman",
+      "authorId": "ewa.gidlow",
+      "timeLabel": "Kommentar fra Ewa Gidlöw Bergman for 5 dage siden",
+      "text": "Hurra, hurra för Gunnar. Kram från Per och Ewa",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6383162565106102",
+      "parentId": "575730711418915",
+      "authorName": "Rasmus SteenbergerEwa",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ewa Gidlöw Bergmans kommentar for 4 dage siden",
+      "text": "Tack, Ewa",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "801486834819089",
+      "parentId": null,
+      "authorName": "Benedicte Mengel",
+      "authorId": "benedicte.mengel",
+      "timeLabel": "Kommentar fra Benedicte Mengel for 5 dage siden",
+      "text": "Tillykke til din dandy, hils alle. Knus",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1442824709885049",
+      "parentId": null,
+      "authorName": "Benedicte Mengel",
+      "authorId": "benedicte.mengel",
+      "timeLabel": "Kommentar fra Benedicte Mengel for 5 dage siden",
+      "text": "Daddy",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

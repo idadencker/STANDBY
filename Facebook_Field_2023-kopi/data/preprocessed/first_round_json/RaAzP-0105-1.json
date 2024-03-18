@@ -1,0 +1,50 @@
+{
+  "authorName": "Rabih Azad-Ahmad",
+  "authorId": "rabih.azadahmad",
+  "text": "Hvor var det spændende at være på Maker Faire i DOKK1. En masse fantastiske mennesker, der kombinerer kreativitet, teknologi, skaberkultur i skøn forening. Der var mange børnefamilier og masser af fællesskab og god oplevelser.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230715322412580&amp;set=pcb.10230715323972619&amp;__cft__[0]=AZW4gfSijK_t8VnfbLcRJuBZMt4ckm9Cj-m00KVz1nghsSMax4d__uHBl5ImO21Jq86L8pM6emf9wKmU0isgTTtkNBuDALrzRj6Kp_Hv42_L-Ls7GyP1KKhaTUSsB1SNPDE&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "29"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1524533514701800",
+      "parentId": null,
+      "authorName": "Jan Mustafa",
+      "authorId": "kurdistanasyria",
+      "timeLabel": "Kommentar fra Jan Mustafa for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "253893390389746",
+      "parentId": null,
+      "authorName": "Sammar Khiari",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Sammar Khiari for en uge siden",
+      "text": "دايما منور الله يوفقك",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

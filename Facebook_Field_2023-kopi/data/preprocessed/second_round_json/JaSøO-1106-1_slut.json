@@ -1,0 +1,86 @@
+{
+  "authorName": "Jakob Søgaard Clausen",
+  "authorId": "soegaardclausen",
+  "text": "I dag er en god dag. Danmarksdemokraternes Ungdom er nemlig blevet lanceret\nDanmarksdemokraterne vokser stødt, og nu har vi så også en ungdomsorganisation.\nDet er så godt - for det er vigtigt, at flere unge engagerer sig i politik. Det får man som ung nu også god mulighed for, hvis man vil støtte op om os i Danmarksdemokraterne og Inger Støjbergs kamp for Danmark!\nDu kan læse mere om vores ungdomsparti på hjemmesiden: https://ddungdom.dk/",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=746523120813031&set=a.236819101783438&__cft__[0]=AZVaTcWXWPWlmycogwJSltilIF2eAJO6e18arqXjjgQbAeswT6mDvChWphYTTx6P1q5MT_fD0QZgKYNhPrP_anI-zIXmnHt4OWDDtT7XNswmI12-obyF3Z4_UJ3yEr72DzBbad1wsgV7sUViWIK8O2J_&__tn__=EH-R",
+  "mediaText": "Kan være en grafik af tekst, der siger \"DD UNGDOM DANMARKSDEMOKRATERNES UNGDOM\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "17"
+    },
+    {
+      "type": "heart",
+      "count": "3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "643199284026875",
+      "parentId": null,
+      "authorName": "Danmarksdemokraternes Ungdom",
+      "authorId": "DDUngdom",
+      "timeLabel": "Kommentar fra Danmarksdemokraternes Ungdom for 6 uger siden",
+      "text": "Vi i DD-Ungdom glæder os til et fantastisk samarbejde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "637291594998058",
+      "parentId": null,
+      "authorName": "Benny Jensen",
+      "authorId": "benny.jensen.9638",
+      "timeLabel": "Kommentar fra Benny Jensen for 6 uger siden",
+      "text": "hvordan kæmper man for Danmark når man deler statsborgerskaber ud i masevis?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "778730787174686",
+      "parentId": null,
+      "authorName": "Christian Andersen Brejner",
+      "authorId": "christian.brejner.7",
+      "timeLabel": "Kommentar fra Christian Andersen Brejner for 6 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "934890664475263",
+      "parentId": null,
+      "authorName": "John Bo Hansen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra John Bo Hansen for 6 uger siden",
+      "text": "Nå",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

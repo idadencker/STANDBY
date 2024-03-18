@@ -1,0 +1,90 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "Bu çiftte çocukları olduğu için evlilik kararını erkene almışlar",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160517420970890&set=a.10150124840715890&__cft__[0]=AZUdBYYfbekFXTmR79CkNwkRTN-4jMD17uxUXLMR353uRDu6AKKv_EG8KkMCdVlU6SBCAByBjflefGZHsT8Gl8xcXCkQJLLqybxjTdB-ozkcgCQCJAEEwDjB8GZMIgYfS4g&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer og bryllup",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "129"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Hamza Sakal",
+      "authorId": "hamza.sakal.35",
+      "timeLabel": "Kommentar fra Hamza Sakal for 9 uger siden",
+      "text": "Baya bi erkene almışlar abi.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Anette Poulsen",
+      "authorId": "anette.m.poulsen.5",
+      "timeLabel": "Kommentar fra Anette Poulsen for 9 uger siden",
+      "text": "Og en erfaren giftefoged",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Hüseyin AracAnette Poulsen",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Anette Poulsens kommentar for 9 uger siden",
+      "text": "Anette Poulsen tak",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Huseyin Cetin",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Huseyin Cetin for 8 uger siden",
+      "text": "Allah mesut etsinler Sizinde elinize sağlık hayırlı işler yapı yorsunuz sağ olun varolun selamlar sevgiler",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Hüseyin AracHuseyin Cetin",
+      "authorId": "huseyin.arac.35",
+      "timeLabel": "Svar fra Hüseyin Arac på Huseyin Cetins kommentar for 8 uger siden",
+      "text": "Huseyin Cetin çok teşekkür ederim,sağolasın",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

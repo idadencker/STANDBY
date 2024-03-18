@@ -1,0 +1,352 @@
+{
+  "authorName": "Sinem DemirSinem DemirSinem DemirCOPENHELLCOPENHELLCOPENHELL",
+  "authorId": "SinemDemirEnhedslisten",
+  "text": "Husk at drikke vand - ellers dør I!",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=735628285233250&set=a.240981591364591&__cft__[0]=AZVt5mHOIMFFof3WfzfBkum5HH4MCbfz2PXsU8iEPmJ7-Zf7nZdOFJgHYxzigw1RelGNu4gNHlvWUv_7DDUU8qoMLsFkwBqBdpJgazdG721-1FzN8IYDNPY5U1LVKXEj9W3a8CeZW_t5dWOSFPLs7B65&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "310"
+    },
+    {
+      "type": "heart",
+      "count": "75"
+    }
+  ],
+  "comments": [
+    {
+      "id": "3236345139989340",
+      "parentId": null,
+      "authorName": "Turan Soğuk",
+      "authorId": "turan.soguk",
+      "timeLabel": "Kommentar fra Turan Soğuk for 6 dage siden",
+      "text": "İyi akşamlar",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "648306857158245",
+      "parentId": null,
+      "authorName": "Jens Haislund Hein",
+      "authorId": "jens.h.hein",
+      "timeLabel": "Kommentar fra Jens Haislund Hein for 6 dage siden",
+      "text": "Og husk at rydde op efter jer og tage affald med til containeren, det gik ikke så godt sidste år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "780677003696431",
+      "parentId": "648306857158245",
+      "authorName": "Sinem DemirJens Haislund Hein",
+      "authorId": "SinemDemirEnhedslisten",
+      "timeLabel": "Svar fra Sinem Demir på Jens Haislund Heins kommentar for 6 dage siden",
+      "text": "Jens Haislund Hein\nDe fleste rydder nu pænt op efter sig selv",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1025552138411136",
+      "parentId": null,
+      "authorName": "Amir Shashkalani",
+      "authorId": "amir.shashkalani",
+      "timeLabel": "Kommentar fra Amir Shashkalani for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1012724183049836",
+      "parentId": null,
+      "authorName": "Tune Olmütz Nielsen",
+      "authorId": "tune.nielsen",
+      "timeLabel": "Kommentar fra Tune Olmütz Nielsen for 6 dage siden",
+      "text": "Vi dør - men godt du prøver at holde liv I os endnu",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "268630862350577",
+      "parentId": null,
+      "authorName": "Erik Storrud",
+      "authorId": "erik.storrud",
+      "timeLabel": "Kommentar fra Erik Storrud for 6 dage siden",
+      "text": "Jeg vil have din onkel reje patch! Eller endnu bedre! En t-shirt!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "796784531929648",
+      "parentId": "268630862350577",
+      "authorName": "Sinem DemirErik Storrud",
+      "authorId": "SinemDemirEnhedslisten",
+      "timeLabel": "Svar fra Sinem Demir på Erik Storruds kommentar for 6 dage siden",
+      "text": "Erik Storrud\nHar set der er flamingo t-shirts!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1673735903087694",
+      "parentId": null,
+      "authorName": "Bülend Özcan",
+      "authorId": "ozcani.ozcan",
+      "timeLabel": "Kommentar fra Bülend Özcan for 6 dage siden",
+      "text": "Hvis ikke gør Metallica",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "609776707791411",
+      "parentId": null,
+      "authorName": "Dan Jeppesen",
+      "authorId": "dan.o.jeppesen",
+      "timeLabel": "Kommentar fra Dan Jeppesen for 6 dage siden",
+      "text": "Vi ses lørdag",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1381303042560317",
+      "parentId": null,
+      "authorName": "Kadriye Demir",
+      "authorId": "kadriye.demir.1420",
+      "timeLabel": "Kommentar fra Kadriye Demir for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "250197190967847",
+      "parentId": null,
+      "authorName": "Klaus Münster",
+      "authorId": "klaus.munster.7",
+      "timeLabel": "Kommentar fra Klaus Münster for 6 dage siden",
+      "text": "https://youtu.be/MznJ2ASGaWc",
+      "hasMedia": true,
+      "mediaAltText": "Red Warszawa - Technoparty",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "284320377393564",
+      "parentId": null,
+      "authorName": "Nicolai Østergaard",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Nicolai Østergaard for 6 dage siden",
+      "text": "Så lad gå da",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2512074588949574",
+      "parentId": null,
+      "authorName": "Kaj Iversen",
+      "authorId": "kaj.iversen",
+      "timeLabel": "Kommentar fra Kaj Iversen for 6 dage siden",
+      "text": "Vi skal spare på vandet, så jeg er gået over til rose",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "567563508787598",
+      "parentId": null,
+      "authorName": "Nick Davidsen",
+      "authorId": "nick.davidsen.7",
+      "timeLabel": "Kommentar fra Nick Davidsen for 6 dage siden",
+      "text": "Hva mener du?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "578850557705482",
+      "parentId": null,
+      "authorName": "Dennis Norup Toft",
+      "authorId": "toft302",
+      "timeLabel": "Kommentar fra Dennis Norup Toft for 6 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "806126771076068",
+      "parentId": null,
+      "authorName": "Knud Bundgaard Clemmensen",
+      "authorId": "kclemmensen",
+      "timeLabel": "Kommentar fra Knud Bundgaard Clemmensen for 6 dage siden",
+      "text": "Jeg drak 2,3 l væske og mest vand på Syd For Solen i lørdags og overlevede.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6206736742776252",
+      "parentId": null,
+      "authorName": "Anne Grethe Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Anne Grethe Nielsen for 6 dage siden",
+      "text": "Ryd op .",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "122388067544028",
+      "parentId": "6206736742776252",
+      "authorName": "Sinem DemirAnne Grethe Nielsen",
+      "authorId": "SinemDemirEnhedslisten",
+      "timeLabel": "Svar fra Sinem Demir på Anne Grethe Nielsens kommentar for 6 dage siden",
+      "text": "Anne Grethe Nielsen\nEfter ALLE?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "812072377200368",
+      "parentId": "122388067544028",
+      "authorName": "Anne Grethe Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Anne Grethe Nielsen på Sinem Demirs svarfor 6 dage siden",
+      "text": "nej du skal ikke rydde op .Folk skal selv tage deresting med sig når de går .",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "1211133362928428",
+      "parentId": null,
+      "authorName": "Jørgen Frank Persson Persson",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jørgen Frank Persson Persson for 6 dage siden",
+      "text": "Takke min ven",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

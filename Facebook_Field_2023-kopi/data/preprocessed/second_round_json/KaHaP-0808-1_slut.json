@@ -1,0 +1,35 @@
+{
+  "authorName": "Katrine Hassenkam Zoref",
+  "authorId": "katrine.zoref",
+  "text": "Bynær natur og glade børn. Det glæder mit bilkritiske hjerte. I vores lille storby er vi så heldige at have den, naturen, lige inden for rækkevidde, uden at skulle starte bilen",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "16"
+    },
+    {
+      "type": "heart",
+      "count": "7"
+    }
+  ],
+  "comments": [
+    {
+      "id": "236238325662163",
+      "parentId": null,
+      "authorName": "Christian Lindhardt Jensen",
+      "authorId": "christian.lindhardtjensen",
+      "timeLabel": "Kommentar fra Christian Lindhardt Jensen for 11 uger siden",
+      "text": "Dejlige stemningsbilleder",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

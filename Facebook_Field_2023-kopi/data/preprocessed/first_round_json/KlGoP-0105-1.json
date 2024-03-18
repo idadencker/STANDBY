@@ -1,0 +1,116 @@
+{
+  "authorName": "Klaus Goldschmidt Henriksen",
+  "authorId": "klaus.g.henriksen",
+  "text": "Så er vi på vej til Fælledparken. 🚩🚩🚩🥁🎺",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10230944593817356&amp;set=a.4380583711778&amp;__cft__[0]=AZWGo1lS6TLxNdbm6YX8AK1QWJLQS-X2Dq4opjOHZtHcKXmQ5LOGmIoV1CnBxXxUGBmTpNzhNpiKsB-W6Zf_YE6C5dmGGFusP0_pK30YMzXxvMMm_gIq-LHpmCUNxRbHX-I&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 2 personer, trompet, harmonika, klarinet og saxofon",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "335"
+    },
+    {
+      "type": "heart",
+      "count": "39"
+    }
+  ],
+  "comments": [
+    {
+      "id": "112683961817086",
+      "parentId": null,
+      "authorName": "Ole Vilhelm Wagner",
+      "authorId": "olevilhelm.wagner.3",
+      "timeLabel": "Kommentar fra Ole Vilhelm Wagner for en uge siden",
+      "text": "Du blev transporteret dit heldige asen. Fotografen måtte træde hårdt i sine pedaler...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "634016738073480",
+      "parentId": null,
+      "authorName": "Josie Nicolie Ingemann",
+      "authorId": "josie.koelert",
+      "timeLabel": "Kommentar fra Josie Nicolie Ingemann for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "219541867370890",
+      "parentId": null,
+      "authorName": "Jetthe J T Damgård",
+      "authorId": "solvigjoergensen",
+      "timeLabel": "Kommentar fra Jetthe J T Damgård for en uge siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "192952433574334",
+      "parentId": null,
+      "authorName": "Dorthe Hecht",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Dorthe Hecht for en uge siden",
+      "text": "Sådan venner!♥️🚩",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "930307771635575",
+      "parentId": null,
+      "authorName": "Maia Graner Alsing",
+      "authorId": "maia.alsing",
+      "timeLabel": "Kommentar fra Maia Graner Alsing for en uge siden",
+      "text": "Jeg er på arbejde. kan huske jeg engang havde fri....🙄🤔",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "798511035273215",
+      "parentId": null,
+      "authorName": "Josef Mulvad",
+      "authorId": "josef.mulvad",
+      "timeLabel": "Kommentar fra Josef Mulvad for en uge siden",
+      "text": "The trumpets of Jericho",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "authorName": "Yilmaz Yildiz",
+  "authorId": "roniwelat",
+  "text": "Cangoriyên Komkujîya Kobanî bi rêzdarî bibîr tînim û bi baran nefretê li rêxistina terorîst a DAÎŞ'ê dibarînim.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6716057021748992&set=a.1151948094826607&__cft__[0]=AZXA3H3EQpusGgVW7aIn1KP2Y72w1B13_VwLTFOv9ZolAV1pk61_eJMuHs0XnXEcIYfrtm4zHovRh9kXvDB5SU5dP_RPsRDZkyRl_Ro9KRUpRj3wekVsQAtTq5QhHQ68Ymc&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "23"
+    },
+    {
+      "type": "sad",
+      "count": "9"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Haval Qawal",
+      "authorId": "haval.qawal",
+      "timeLabel": "Kommentar fra Haval Qawal for 8 uger siden",
+      "text": "Xwede wan rahmint",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

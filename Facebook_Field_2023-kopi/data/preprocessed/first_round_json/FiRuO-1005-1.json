@@ -1,0 +1,50 @@
+{
+  "authorName": "Finn Rudaizky DF",
+  "authorId": "profile.php",
+  "text": "Raketter lige nu fra Gaza mod Israel",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "sad",
+      "count": "5"
+    },
+    {
+      "type": "angry",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "791305812187995",
+      "parentId": null,
+      "authorName": "Flemming Jeppesen",
+      "authorId": "flemming.jeppesen.12",
+      "timeLabel": "Kommentar fra Flemming Jeppesen for 5 dage siden",
+      "text": "😥",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "617993866645726",
+      "parentId": null,
+      "authorName": "Halina Murlender",
+      "authorId": "halina.murlender.77",
+      "timeLabel": "Kommentar fra Halina Murlender for 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

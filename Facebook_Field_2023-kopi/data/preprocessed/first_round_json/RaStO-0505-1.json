@@ -1,0 +1,705 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "steenbergerSF",
+  "text": "SPISER HVEDER FOR FRIHED!\nRegeringen er stadig dum, jeg vil ha’ min fridag tilbage #bevarStorebededag",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=968862321105390&set=a.496492961675664&__cft__[0]=AZWDkcrgwElDQ6G1PrGFbXIgx1u5g061GBDjiLWyf33yxxuiYGmKstDbLGywmTN-CShAArMeHKjucTfEyMO6OFoB6qSIt_0PfhkmTFx7p-ec2FypO_Hjcql5TEpJQClJJxbr_ukRML6qxdyyCSPyDqJO&__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person, babka, rugbrød og baguette",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "159"
+    },
+    {
+      "type": "heart",
+      "count": "17"
+    }
+  ],
+  "comments": [
+    {
+      "id": "6405571856121808",
+      "parentId": null,
+      "authorName": "Eva Larsen",
+      "authorId": "eva.larsen.1232",
+      "timeLabel": "Kommentar fra Eva Larsen for 5 dage siden",
+      "text": "Hold dag op, du har flere magneter på dit køleskab, end jeg har . Sidste år var jeg på arbejde på Store Bededag, i år har jeg heldigvis fri. Det gælder om at nyde det. Om lidt går jeg ud og smider hveder i ovnen, som vi får til frokost. Vi fik hveder til aftensmad i går. Vi så også filmen Hvidstens Gruppen 2. Den var god, men godt nok ikke ligefrem opmuntrende. Ud over at kæmpe for bedre rettigheder for lønmodtagere OG ledige, skal vi også kæmpe for at bevare fred i verden. Min morfar var frihedskæmper i Jylland under 2. verdenskrig, og da jeg var barn boede min mormor og morfar i Hellerup, tæt ved Mindelunden. Der er rigeligt at tage fat på. Glædelig Store Bededag",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "571923971708718",
+      "parentId": "6405571856121808",
+      "authorName": "Rasmus SteenbergerEva",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Eva Larsens kommentar for 5 dage siden",
+      "text": "I lige måde, Eva",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1255698262051742",
+      "parentId": null,
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Kommentar fra SF København for 5 dage siden",
+      "text": "Flere fridage til folket",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "265829659161401",
+      "parentId": "1255698262051742",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på SF Københavns kommentar for 4 dage siden",
+      "text": "Yes, please",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "2175473562659062",
+      "parentId": null,
+      "authorName": "Birgit Meyer Andersen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Birgit Meyer Andersen for 5 dage siden",
+      "text": "Jeg synes, at vi mister en del af vores historie. Store Bededag var en hyggelig fortælling og så knyttet til hvederne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1210716472933693",
+      "parentId": "2175473562659062",
+      "authorName": "Rasmus SteenbergerBirgit",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Birgit Meyer Andersens kommentar for 5 dage siden",
+      "text": "Og så er det friheden, Birgit Friheden!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "282335930883620",
+      "parentId": "1210716472933693",
+      "authorName": "Birgit Meyer AndersenRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Birgit Meyer Andersen på Rasmus Steenbergers svarfor 4 dage siden",
+      "text": "Rasmus Steenberger og fællesskabet.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "537165325296295",
+      "parentId": null,
+      "authorName": "Karina Bergmann",
+      "authorId": "karina.bergmann.165",
+      "timeLabel": "Kommentar fra Karina Bergmann for 5 dage siden",
+      "text": "Er det en af dem fra rådhuset i går?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "1667201043723945",
+      "parentId": "537165325296295",
+      "authorName": "Rasmus SteenbergerKarina",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Karina Bergmanns kommentar for 5 dage siden",
+      "text": "Ja, da Karina - og tak for dem. Jeg står i pludselig taknemmelighedsgæld til Konservative",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "206545465493988",
+      "parentId": null,
+      "authorName": "Søren Andersen",
+      "authorId": "sor.andersen",
+      "timeLabel": "Kommentar fra Søren Andersen for 5 dage siden",
+      "text": "1+ til dén, sammen med knap 6mio. andre gode danske folk",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "197273663118699",
+      "parentId": "206545465493988",
+      "authorName": "Rasmus SteenbergerSøren",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Søren Andersens kommentar for 5 dage siden",
+      "text": "Og det ekstra gode ved hveder, Søren: De er plantebaserede",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "200673092580415",
+      "parentId": null,
+      "authorName": "Ole Vilhelm Wagner",
+      "authorId": "olevilhelm.wagner.3",
+      "timeLabel": "Kommentar fra Ole Vilhelm Wagner for 5 dage siden",
+      "text": "Hvor mange hveder skal der til for at opnå frihed?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1311366509419160",
+      "parentId": "200673092580415",
+      "authorName": "Rasmus SteenbergerOle",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ole Vilhelm Wagners kommentar for 5 dage siden",
+      "text": "42, Ole",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "624008089593769",
+      "parentId": "1311366509419160",
+      "authorName": "Ole Vilhelm WagnerRasmus Steenberger",
+      "authorId": "olevilhelm.wagner.3",
+      "timeLabel": "Svar fra Ole Vilhelm Wagner på Rasmus Steenbergers svarfor 5 dage siden",
+      "text": "Rasmus Steenberger Deler du så et billede af dig efter de 42 hveder?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "926615928574150",
+      "parentId": "1311366509419160",
+      "authorName": "Rasmus SteenbergerOle",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ole Vilhelm Wagners svarfor 5 dage siden",
+      "text": "Værs’go, Ole",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "999368754776253",
+      "parentId": "1311366509419160",
+      "authorName": "Hannah KastoftRasmus Steenberger",
+      "authorId": "hannah.kastoft",
+      "timeLabel": "Svar fra Hannah Kastoft på Rasmus Steenbergers svarfor 4 dage siden",
+      "text": "Rasmus Steenberger",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "195851679954759",
+      "parentId": "1311366509419160",
+      "authorName": "Rasmus SteenbergerHannah",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Hannah Kastofts svarfor 4 dage siden",
+      "text": "Glad for at du fangede den, Hannah",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "916770166071269",
+      "parentId": "1311366509419160",
+      "authorName": "Orla KnudsenRasmus Steenberger",
+      "authorId": "orla.knudsen.12",
+      "timeLabel": "Svar fra Orla Knudsen på Rasmus Steenbergers svarfor 2 dage siden",
+      "text": "Rasmus Steenberger Få afsat Mette Frederiksen så hurtigt som muligtAltså oprør NU",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "651965383434589",
+      "parentId": null,
+      "authorName": "Leo Matre",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Leo Matre for 5 dage siden",
+      "text": "Jeg håber du ikke snyder dig selv for smør og mamelade.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "939389507373243",
+      "parentId": "651965383434589",
+      "authorName": "Rasmus SteenbergerLeo",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Leo Matres kommentar for 5 dage siden",
+      "text": "Bare rolig, Leo - vi gør et stort indhug! Selvom det ikke er “rigtigt” smør",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1200522943993934",
+      "parentId": null,
+      "authorName": "Bent Persson Sejr",
+      "authorId": "bent.perssonsejr",
+      "timeLabel": "Kommentar fra Bent Persson Sejr for 4 dage siden",
+      "text": "Vi vil squ have flere frie dage-…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "1241969579771641",
+      "parentId": "1200522943993934",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Bent Persson Sejrs kommentar for 4 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "660708496069931",
+      "parentId": null,
+      "authorName": "Henrik Hemmingsen",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Kommentar fra Henrik Hemmingsen for 5 dage siden",
+      "text": "Vi skal jo tjene nogle penge, så vi kan få råd til alle de omkostninger i pålægger os. Regeringen er den bedste i min levetid.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "154135714082076",
+      "parentId": "660708496069931",
+      "authorName": "Rasmus SteenbergerHenrik",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Henrik Hemmingsens kommentar for 5 dage siden",
+      "text": "Hej Henrik - du får en kæmpe skattelettelse af regeringen, men har du ikke penge nok i forvejen? Vi har brug for penge til offentlig velfærd, Danmark er ved at knække helt over",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "705923371423176",
+      "parentId": "154135714082076",
+      "authorName": "Henrik HemmingsenRasmus Steenberger",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Svar fra Henrik Hemmingsen på Rasmus Steenbergers svarfor 5 dage siden",
+      "text": "Rasmus Steenberger jeg får da ikke kæmpe skattelettelse. Jeg er ikke født med en guldske i munden, men har via hårdt arbejde, kloge investeringer og via at købe egen bolig tidligt arbejder mig op, ved både at have lønmodtager job og egen virksomhed. Jeg arbejder hver lørdag, søndag og på masser helligdage, da jeg ikke er religiøs, derfor synes jeg der er lidt mere fair, at jeg får lov at beholde lidt flere af mine egne penge. Og med 4 børn er der nok at bruge penge på. Jeg har ingen pension og levede for under 10000 kr. i mange år, da økonomien ikke var stor da jeg byggede op.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2464236997086420",
+      "parentId": "154135714082076",
+      "authorName": "Henrik HemmingsenRasmus Steenberger",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Svar fra Henrik Hemmingsen på Rasmus Steenbergers svarfor 5 dage siden",
+      "text": "Rasmus Steenberger og der brugt over 5 mill kr. på kunst i den nye skole på Holmbladsgade og det bliver der brugt på hver en ny skole, så der er masse af steder der kan spares.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "943362763445449",
+      "parentId": "154135714082076",
+      "authorName": "Anette M. HansenHenrik Hemmingsen",
+      "authorId": "anette.m.hansen.5",
+      "timeLabel": "Svar fra Anette M. Hansen på Henrik Hemmingsens svarfor 4 dage siden",
+      "text": "Henrik Hemmingsen det kan du takke budgetloven for, som fx din regering støtter. Kbh har flere penge, end de må bruge ifølge serviceloftet og anlægsloftet. Så bliver pengene jo i stedet brugt på alt mulig andet i stedet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "785580372979407",
+      "parentId": "154135714082076",
+      "authorName": "Rasmus SteenbergerAnette",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Anette M. Hansens svarfor 2 dage siden",
+      "text": "Ja budgetloven er helt skør, Anette",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1474574946662689",
+      "parentId": null,
+      "authorName": "Frode Benedikt Nielsen",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Kommentar fra Frode Benedikt Nielsen for 5 dage siden",
+      "text": "Jeg spiser også fastelavnsboller selvom jeg ikke har fri fastelavns mandag.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "207034192111397",
+      "parentId": "1474574946662689",
+      "authorName": "Rasmus SteenbergerFrode",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Frode Benedikt Nielsens kommentar for 5 dage siden",
+      "text": "Det er også en klar fejl, Frode Flere helligdage, nu!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1002070797377405",
+      "parentId": "1474574946662689",
+      "authorName": "Frode Benedikt Nielsen",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Svar fra Frode Benedikt Nielsen på Frode Benedikt Nielsens kommentar for 5 dage siden",
+      "text": "Håbet spirer i sulten mands mave",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "1651193488685138",
+      "parentId": "1002070797377405",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Frode Benedikt Nielsens svarfor 5 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "939290234052446",
+      "parentId": null,
+      "authorName": "Merete Marshall",
+      "authorId": "fimpemor",
+      "timeLabel": "Kommentar fra Merete Marshall for 5 dage siden",
+      "text": "Mega dumme",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "763504855445490",
+      "parentId": "939290234052446",
+      "authorName": "Rasmus SteenbergerMerete",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Merete Marshalls kommentar for 5 dage siden",
+      "text": "Ville klart være bedre hvis SF havde regeringsmagten, Merete",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "796383778759712",
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 5 dage siden",
+      "text": "Energi til at kæmpe videre",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1257814871528888",
+      "parentId": null,
+      "authorName": "Susanne Paluszewski-Hau",
+      "authorId": "susanne.hau",
+      "timeLabel": "Kommentar fra Susanne Paluszewski-Hau for 5 dage siden",
+      "text": "Os mig!!!! Har du kastet hveder på Christiansborg?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "760701038854320",
+      "parentId": "1257814871528888",
+      "authorName": "Rasmus SteenbergerSusanne",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Susanne Paluszewski-Haus kommentar for 5 dage siden",
+      "text": "Jamen, det ville da være madspild, Susanne! Jeg har skam fodret min familie med med",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "746095660576519",
+      "parentId": null,
+      "authorName": "Orla Knudsen",
+      "authorId": "orla.knudsen.12",
+      "timeLabel": "Kommentar fra Orla Knudsen for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "268850425565934",
+      "parentId": "746095660576519",
+      "authorName": "Rasmus SteenbergerOrla",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Orla Knudsens kommentar for 2 dage siden",
+      "text": "Tak, Orla",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "235518552494125",
+      "parentId": null,
+      "authorName": "Orla Knudsen",
+      "authorId": "orla.knudsen.12",
+      "timeLabel": "Kommentar fra Orla Knudsen for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "823224499217444",
+      "parentId": "235518552494125",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Orla Knudsens kommentar for en dag siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

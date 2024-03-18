@@ -1,0 +1,50 @@
+{
+  "authorName": "Klaus Mygind",
+  "authorId": "klaus.mygind.1",
+  "text": "Festdag på Københavns Rådhus. Integrationsborgmesteren lykønsker københavnere med deres danske statsborgerskab.\nStort tillykke.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10162760233913626&amp;set=pcb.10162760233993626&amp;__cft__[0]=AZWhjlt5pX1JAKflIrCyD6I-MTczZd88CGnaA60tmwJKXf4h5pjO2Lzxbp3tby_ktAh6CJ3IsPzxxQJTp6ZCxJz-E3x5EnCk7s0lIZ9PnTWTo2qAPe_bSmlEeOrEgQUgijA&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "25"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Stig Laursen",
+      "authorId": "stig.laursen",
+      "timeLabel": "Kommentar fra Stig Laursen for 10 uger siden",
+      "text": "Tilykke til alle ❤️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten Kiefer",
+      "authorId": "kirsten.kiefer.9",
+      "timeLabel": "Kommentar fra Kirsten Kiefer for 10 uger siden",
+      "text": "🇩🇰👌🇩🇰👌Tillykke 🙏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

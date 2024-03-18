@@ -1,0 +1,52 @@
+{
+  "authorName": "Knud Holt Nielsen",
+  "authorId": "knud.hnielsen.3",
+  "text": "Onkel Reje (og ham der er inde i Onkel Reje) har noget, han gerne vil sige\n#onkelreje #cirkussummarum #drtv #drramasjang",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/drminisjangramasjang/videos/967725354523410/?__cft__[0]=AZXZKSFdB2s_tA5iU5pK-sUpnLu7C627OqcbutDE8IPNB9DB4VpmfozFvaLAXKr1EOTZ4hv4niMuG6dv-uijN3XqQ5t_dC1fSqtVQWdLH3n5AyJkg8-pURCVyWO1E498TlHMnNCExfZCiIOpSgyp7fOWJkKjrc8-9SgPkmOm69m4g6JGKuaESl3DwO18otGz8ng&__tn__=%2B%3FFH-y-R",
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "10"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    },
+    {
+      "type": "care",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lene Holt Gucci Nielsen",
+      "authorId": "perleven",
+      "timeLabel": "Kommentar fra Lene Holt Gucci Nielsen for 11 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jørn Iversen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jørn Iversen for 11 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

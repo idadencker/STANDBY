@@ -1,0 +1,155 @@
+{
+  "authorName": "Troels Christian Jakobsen",
+  "authorId": "tcjakobsen",
+  "text": "HJÆLP\nMin australske teater-ven, Chris Mead, fra way back er på besøg i kbh man-tirsdag.\nHan søde kone har desværre fået en skade på ledbåndet og kan kun humpe på krykker.\nKender jeg nogen, der kan låne dem en ladcykel, de to dage?",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "7"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Andreas Engholm",
+      "authorId": "andreas.engholm.1",
+      "timeLabel": "Kommentar fra Andreas Engholm for 10 uger siden",
+      "text": "Ja, det kan jeg. Den er tung. Den har ingen sider. Den har 7 gear. Den har ingen sæder og ingen motor.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Troels Christian JakobsenAndreas Engholm",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Andreas Engholms kommentar for 9 uger siden",
+      "text": "Andreas Engholm Tak for hjælpsomheden, vi har fundet en.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Amalie Lyngbo Henningsen",
+      "authorId": "amalie.l.henningsen",
+      "timeLabel": "Kommentar fra Amalie Lyngbo Henningsen for 10 uger siden",
+      "text": "Skal de køre rundt i indre Kbh? Har de mulighed for at stille den i aflåst rum om natten?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Troels Christian JakobsenAmalie Lyngbo Henningsen",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Amalie Lyngbo Henningsens kommentar for 9 uger siden",
+      "text": "Amalie Lyngbo Henningsen Tak for hjælpsomheden, vi har fundet en.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Paul Hartvigson",
+      "authorId": "hartvigson",
+      "timeLabel": "Kommentar fra Paul Hartvigson for 10 uger siden",
+      "text": "Jeg har en Sorte Jernhest. Den kan placeres i låst gård (hos mig) om aftenen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Troels Christian JakobsenPaul Hartvigson",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Paul Hartvigsons kommentar for 9 uger siden",
+      "text": "Paul Hartvigson Tak for hjælpsomheden, vi har fundet en. Hvis noget går galt med den løsning, kan det være jeg ringer, fordi du bor relativt tæt på deres hotel.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Rasmus Vind Ludvigsen",
+      "authorId": "rasmus.vind.ludvigsen",
+      "timeLabel": "Kommentar fra Rasmus Vind Ludvigsen for 10 uger siden",
+      "text": "Fra tirsdag kan de låne min. Den skal lige på værksted mandag for en kort bemærkning",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Troels Christian JakobsenRasmus Vind Ludvigsen",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Rasmus Vind Ludvigsens kommentar for 9 uger siden",
+      "text": "Rasmus Vind Ludvigsen Tak for hjælpsomheden, vi har fundet en.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus Vind LudvigsenTroels Christian Jakobsen",
+      "authorId": "rasmus.vind.ludvigsen",
+      "timeLabel": "Svar fra Rasmus Vind Ludvigsen på Troels Christian Jakobsens kommentar for 9 uger siden",
+      "text": "Troels Christian Jakobsen godt. I mellemtiden er den sgu også blevet stjålet. Kan godt forstå at man hængte hestetyve i det vilde vest….",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

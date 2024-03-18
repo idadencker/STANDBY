@@ -1,0 +1,186 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Endelig weekend - glæder mig til at læse denneher gyser, som jeg har lånt af Klaus",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161728582349271&set=a.10150290430239271&__cft__[0]=AZWVfXuEHl8cgDthn1jy6sMkqcrxzWWMM5NeQFdcOD6NUrkma3ty2_IFRE7NuDFNazkkcCZ-vQ4rOeITgYckiPxXRkp-fgZbnuPIjPMwtnGfliN0xzjFkpP1pwOjqaPk11c&__tn__=EH-R",
+  "mediaText": "Kan være et billede af tekst, der siger \"Thomas Aastrup Romer ISKOLE REFORMENS KOLVAND FORSTERKNING KRITIK, JUSTERING OG FJORDAGER\"",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "29"
+    },
+    {
+      "type": "wow",
+      "count": "4"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "208360068360667",
+      "parentId": null,
+      "authorName": "Klaus Lynghøft NielsenRasmus",
+      "authorId": "klaus.l.nielsen",
+      "timeLabel": "Kommentar fra Klaus Lynghøft Nielsen for 4 dage siden",
+      "text": "Tør du virkelig godt læse den der Rasmus?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "765481608914967",
+      "parentId": "208360068360667",
+      "authorName": "Rasmus SteenbergerKlaus",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Klaus Lynghøft Nielsens kommentar for 4 dage siden",
+      "text": "Jeg har nerver af stål, Klaus",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "648917173939351",
+      "parentId": "208360068360667",
+      "authorName": "Klaus Lynghøft NielsenRasmus",
+      "authorId": "klaus.l.nielsen",
+      "timeLabel": "Svar fra Klaus Lynghøft Nielsen på Rasmus Steenbergers kommentar for 4 dage siden",
+      "text": "Godt Rasmus-jeg må lige høre din anmeldelse af den ved lejlighed-God læselyst",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "616933877072495",
+      "parentId": "208360068360667",
+      "authorName": "Jan DamskierRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Jan Damskier på Rasmus Steenbergers kommentar for 4 dage siden",
+      "text": "Rasmus Steenberger Bliv ved med det, Rasmus. Det mente jeg også sidst, da jeg stemte på dig. Men du lytter jo, selv til tumper.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "281838891053696",
+      "parentId": "208360068360667",
+      "authorName": "Rasmus SteenbergerJan",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jan Damskiers kommentar for 3 dage siden",
+      "text": "Jeg har en underlig idé om, at man bliver klogere af at lytte til hinanden, Jan",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "572096008459274",
+      "parentId": "208360068360667",
+      "authorName": "Jan DamskierRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Jan Damskier på Rasmus Steenbergers kommentar for 3 dage siden",
+      "text": "Rasmus Steenberger Det gør man mange gange; jeg skal undlade at komme ind på hvornår man ikke gør.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1368729073688689",
+      "parentId": null,
+      "authorName": "Dennis Nino SanfilippoRasmus Steenberger",
+      "authorId": "dennis.sanfilippo",
+      "timeLabel": "Kommentar fra Dennis Nino Sanfilippo for 4 dage siden",
+      "text": "Rasmus Steenberger Jeg kan virkelig anbefale ‘Uren Pædagogik’, han har skrevet med Svend Brinkmann og Lene Tanggaard. Sidstnævnte er jeg i øvrigt kæmpe fan af.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1230542204271386",
+      "parentId": "1368729073688689",
+      "authorName": "Rasmus SteenbergerDennis",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Dennis Nino Sanfilippos kommentar for 4 dage siden",
+      "text": "Tak for tippet, Dennis! Jeg vil gerne låne, hvis muligt",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "961262408444327",
+      "parentId": "1368729073688689",
+      "authorName": "Dennis Nino Sanfilippo",
+      "authorId": "dennis.sanfilippo",
+      "timeLabel": "Svar fra Dennis Nino Sanfilippo på Rasmus Steenbergers kommentar for 3 dage siden",
+      "text": "Har den første bog, men ikke de to andre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "664584655538313",
+      "parentId": null,
+      "authorName": "Sjoefn Larusdottir",
+      "authorId": "sjoefn.larusdottir",
+      "timeLabel": "Kommentar fra Sjoefn Larusdottir for 3 dage siden",
+      "text": "Min psyke kan slet ikke tåle sådanne gysere.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "care"
+        ]
+      }
+    }
+  ]
+}

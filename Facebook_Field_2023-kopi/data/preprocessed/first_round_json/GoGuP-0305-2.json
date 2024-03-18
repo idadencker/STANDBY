@@ -1,0 +1,48 @@
+{
+  "authorName": "Gorm Anker Gunnarsen",
+  "authorId": "gorm.gunnarsen",
+  "text": "Jeg vil være der.",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1934419383576305",
+      "parentId": null,
+      "authorName": "Annette Mørk",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Annette Mørk for 6 dage siden",
+      "text": "Vi kommer selvfølgelig - med tre stk. faner. Horserød-Stutthof foreningen og De Spanienfrivilliges Venner 🏳️‍⚧️",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "897269228240860",
+      "parentId": null,
+      "authorName": "Stéphanie Lacour",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Stéphanie Lacour for 5 dage siden",
+      "text": "Hello how are you...sorry if I bother you Just that if I Contact you It's because I saw Your Profile in my friend suggestions and then I don't know you I was curious to visit your Profile and by browsing Your Profile I was amazed by your publications, I like.. a lot and I love your photos reason why I contacted you so that I become one of your friends so if you do not mind Click on My profile send me a friend request or answer Me on Messenger.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

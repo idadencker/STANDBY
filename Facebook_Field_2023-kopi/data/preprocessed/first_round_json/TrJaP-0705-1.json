@@ -1,0 +1,137 @@
+{
+  "authorName": "Troels Christian Jakobsen",
+  "authorId": "tcjakobsen",
+  "text": "BRUNCH HOS Å I LIFLANDSGADE 2\nKig forbi til lidt hygge og let politisk snak - sammen med kaffe og lidt brød.\nVi er her til kl.13.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160594449441506&amp;set=a.10151658848496506&amp;__cft__[0]=AZVoNGX_RLpv7czQv5IkhqpU3abkaSILdEyGOApZ6oZehm3mbEP76MoSgpXrPSKwqZeZa_i7vno9Uu1Mjgaif8Qc1WBaTked9GTANM4lQ8zjlHjz2dLcr95MFJKlRZ4zjxE&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "59"
+    },
+    {
+      "type": "heart",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "id": "634224498521123",
+      "parentId": null,
+      "authorName": "Rasmus Vind Ludvigsen",
+      "authorId": "rasmus.vind.ludvigsen",
+      "timeLabel": "Kommentar fra Rasmus Vind Ludvigsen for 3 dage siden",
+      "text": "Den sku jeg lige ha set lidt tidligere",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "5923096394478944",
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 3 dage siden",
+      "text": "Men en udfordring for el-kørestole.🤔",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1165153824164806",
+      "parentId": "5923096394478944",
+      "authorName": "Lisbeth AndersenHelga Mark",
+      "authorId": "lisbeth.andersen.378",
+      "timeLabel": "Svar fra Lisbeth Andersen på Helga Marks kommentar for 3 dage siden",
+      "text": "Helga Mark umuligt rent faktisk",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "918925019163208",
+      "parentId": "5923096394478944",
+      "authorName": "Lisbeth Andersen",
+      "authorId": "lisbeth.andersen.378",
+      "timeLabel": "Svar fra Lisbeth Andersen på Lisbeth Andersens kommentar for 3 dage siden",
+      "text": "At få besøg af mennesker i store elkørestole skal man gøre sig fortjent til 😏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "166089889739530",
+      "parentId": "5923096394478944",
+      "authorName": "Troels Christian JakobsenHelga Mark",
+      "authorId": "tcjakobsen",
+      "timeLabel": "Svar fra Troels Christian Jakobsen på Helga Marks kommentar for 3 dage siden",
+      "text": "Helga Mark Ja, desværre er vores økonomi ikke til at være kræsne ved valg af lokale. Vi har knap råd til dette.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "960177925027568",
+      "parentId": "5923096394478944",
+      "authorName": "Lisbeth AndersenTroels Christian Jakobsen",
+      "authorId": "lisbeth.andersen.378",
+      "timeLabel": "Svar fra Lisbeth Andersen på Troels Christian Jakobsens kommentar for 2 dage siden",
+      "text": "Troels Christian Jakobsen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "918423106285609",
+      "parentId": null,
+      "authorName": "Kim Hjerrild",
+      "authorId": "kimhjerrild",
+      "timeLabel": "Kommentar fra Kim Hjerrild for 3 dage siden",
+      "text": "Hvor er den blevet fin, vores facade 💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

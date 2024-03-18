@@ -1,0 +1,50 @@
+{
+  "authorName": "Lone Hindø",
+  "authorId": "profile.php",
+  "text": "HAVENS DRONNING - LIGE NU\nEr det ikke smukt? Mit kvædetræ. Lige nu er det på højdepunktet af blomstring. Det er et træ, som er kendt fra oldtiden, så det er en gammel frugt. Iran, Kaukasus, Mesopotanien er kendte steder.\nDer findes to slags, nemme at kende på frugtens form: æblekvæde og pærekvæde. De er først grønne og bliver så smukt citrongule.\nMan bruger dem bl.a. til marmelade, og særlig kendt er kvædebrød. Det minder lidt om det, man kalder “frugtflæsk”.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6506948672695351&amp;set=pcb.6506952152695003&amp;__cft__[0]=AZUpG2S6CUQAmeLLh5lj8Oy1elM9OhtB5hTfp1xxxZeP31UGFJzYllULEdr6oogu9MVh-vLSiJPwlHsho6U4P-iTFlStkLqIcTjOoGz0cob_9vdPzjZ7rzcTWBZaOkB5jX8&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "20"
+    },
+    {
+      "type": "heart",
+      "count": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "761281215536406",
+      "parentId": null,
+      "authorName": "Annette Buur",
+      "authorId": "buurannette",
+      "timeLabel": "Kommentar fra Annette Buur for 3 dage siden",
+      "text": "Æblekvæde, pærekvæder og japankvæder.\nDet er sådan en du har, hvis det er den på billedet med de røde blomster.\nDet er reelt en helt anden art end æble/pærekvæder, som hedder Cydonia. Japankvæden hedder Chaenomeles",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "207784475437864",
+      "parentId": null,
+      "authorName": "Douglas Moris",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Douglas Moris for 11 timer siden",
+      "text": "Hej skat din kommentar er meget meningsfuld, men jeg tror ikke, vi er venner her på Facebook, faktisk har jeg sendt dig en anmodning, men den gik ikke igennem til sidst, hvis du ikke har noget imod at sende mig en anmodning, så vi kan være venner tak. Jeg venter på din vens anmodning. Tak.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "authorName": "Jonas Bjørn Jensen",
+  "authorId": "jonasbjorn",
+  "text": "Meget få ting slår det københavnske forår♥️☀️\nÅbner weekenden med en cola på byens mest parisiske plads og hende her👨‍👧\nGod weekend",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10161196359976098&amp;set=a.413364176097&amp;__cft__[0]=AZUyZRIAKHh3Yx_neoRhEAOMT9c8iRvhyVrMOTLcoFjAOAquwkeYdyaE1nPB93roSUVZ-ZOtX_5xTIkrpvEyXlzIJfj96DtFLC_P59LP00_AgQvQr1JHEqtwBWrcYnhQpFw&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "190"
+    },
+    {
+      "type": "heart",
+      "count": "29"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2219854964865388",
+      "parentId": null,
+      "authorName": "Signe Nielsen",
+      "authorId": "signe.nielsen.96",
+      "timeLabel": "Kommentar fra Signe Nielsen for 5 uger siden",
+      "text": "God weekend. Jeg tager en øl med kollegaer i Kødbyen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "566909192223893",
+      "parentId": null,
+      "authorName": "Johnny Pofler",
+      "authorId": "johnny.pofler",
+      "timeLabel": "Kommentar fra Johnny Pofler for 5 uger siden",
+      "text": "Du ligner en fu..... sej rockstjerne 😜",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "2233840343670138",
+      "parentId": null,
+      "authorName": "Mitzi Gustavsen",
+      "authorId": "mitzi.gustavsen",
+      "timeLabel": "Kommentar fra Mitzi Gustavsen for 5 uger siden",
+      "text": "Helt enig🌞😊god weekend",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "636965484586580",
+      "parentId": null,
+      "authorName": "Kim Lind Larsen",
+      "authorId": "kim.l.larsen.14",
+      "timeLabel": "Kommentar fra Kim Lind Larsen for 5 uger siden",
+      "text": "Tak i lige måde ☀️👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "authorName": "Yildiz Akdogan",
+  "authorId": "YildizAkdoganS",
+  "text": "Det var en anderledes 1. Maj.\nJeg kom f.eks ikke til Karens Minde kulturhus i Sydhavnen som jeg plejer…\nMen for mig er solidaritet både på nationalt og internationalt plan stadig det centrale ved 1.maj og faktisk også resten af året",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=775846190614581&set=pcb.775846900614510&__cft__[0]=AZWpmcjozIAvvYIXsskigK9t9nMXIPXK0CayCiWXrnKseqNs0V-tqnqvhulrbyMlpvJY2lWal8Un5TMlGCE9k6nOHvDLzwZkzp7ATErQeBVfWBJdFySQRwrPL4mwycSFK_90tMHGUP6RKCPw1TmnPBEN&__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "85"
+    },
+    {
+      "type": "heart",
+      "count": "16"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lars OttosenYildiz Akdogan",
+      "authorId": "lars.ottosen",
+      "timeLabel": "Kommentar fra Lars Ottosen for 15 uger siden",
+      "text": "God dag Yildiz Akdogan",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bazz Sarna",
+      "authorId": "bazz.sarna.5",
+      "timeLabel": "Kommentar fra Bazz Sarna for 15 uger siden",
+      "text": "Smukke billede er Gud velsigne jer alle altid",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Hanim Akdogan",
+      "authorId": "hanim.akdogan.399",
+      "timeLabel": "Kommentar fra Hanim Akdogan for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

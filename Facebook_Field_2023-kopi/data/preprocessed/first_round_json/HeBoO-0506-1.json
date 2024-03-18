@@ -1,0 +1,67 @@
+{
+  "authorName": "Helle Bonnesen",
+  "authorId": "hellebonnesen.fk",
+  "text": "5. juni ❤️",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=709379964529965&amp;set=a.228231079311525&amp;__cft__[0]=AZX5-iD3a_C5QrLD0nCzZvQFjRLFgs1CnBhGaTr_PLi7pXnhYPNKCiSq6yMsLFGVfyy2MY3OjLeANuV4TZEM4-snxeXinDCvqQUkJKlQ0CIiSjuIeIBuI8frkHpznMSol53_CW2IpbvnqShLC5yb4RPA&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "152"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2369893809859171",
+      "parentId": null,
+      "authorName": "Mia Petersen",
+      "authorId": "mia.petersen.52",
+      "timeLabel": "Kommentar fra Mia Petersen for 5 dage siden",
+      "text": "Fantastisk tale, den bør holdes for alle danskere🤩 fortsat god vind på borgen og i KBH🍀©️💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "826215932181725",
+      "parentId": null,
+      "authorName": "Kim Dupont",
+      "authorId": "kim.dupont1",
+      "timeLabel": "Kommentar fra Kim Dupont for 5 dage siden",
+      "text": "Tak for dit besøg i Dragør og for den humoristiske tale 💙🇩🇰🍀",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1270305637191916",
+      "parentId": null,
+      "authorName": "Ole Lønborg",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Ole Lønborg for 5 dage siden",
+      "text": "Super god tale. Tak Helle 💚",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

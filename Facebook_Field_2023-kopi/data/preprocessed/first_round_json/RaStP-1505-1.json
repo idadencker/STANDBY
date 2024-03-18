@@ -1,0 +1,521 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "Ikonisk!\nEt helt tilfældigt sted i København\nViktor Axelsen har allerede hævet sin havredrik, så lad os skåle med ham! Vi skåler for en fremtid, hvor der gøres op med forhistoriske traditioner og for at plantebevægelsen vil opnå samme succes som Viktor på badmintonbanen!\nHvad skåler du for?",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=637783498394388&set=a.612834290889309&__cft__[0]=AZUAjNaEyxFvotq2MEKSncj-SGlRBZ5C320khPES-qnuQpdc_z1dBmnmZ_F1brpzNPDuQNnkyIw2B1bxbDHMY-uOaxfrHNvff1Y4FFXgWzVpIHTFGRm4zkUt5dy2rsDArAoDCFghh4BRYcJ-Yfl26PF_cjEaSBFRTAtg8u4uh3qMhS5-zhZao1CXlBsNuSZ8C-s&__tn__=EH-y-R",
+  "mediaText": "Kan være et billede af 2 personer og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "58"
+    },
+    {
+      "type": "haha",
+      "count": "9"
+    },
+    {
+      "type": "heart",
+      "count": "5"
+    }
+  ],
+  "comments": [
+    {
+      "id": "645294303629906",
+      "parentId": null,
+      "authorName": "Henrik Hemmingsen",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Kommentar fra Henrik Hemmingsen for 4 dage siden",
+      "text": "Nej tak. Og Viktor hæver vel ikke noget han ikke er betalt for.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3357861181103956",
+      "parentId": null,
+      "authorName": "Jeanne R BergmansenKim RabenMads C. Præstegaard",
+      "authorId": "JeanneBergmansen",
+      "timeLabel": "Kommentar fra Jeanne R Bergmansen for 4 dage siden",
+      "text": "Kim Raben Mads C. Præstegaard jeg Sir ikke det her kan noget. Sir bare - vi gør det bedre",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "772241067866884",
+      "parentId": null,
+      "authorName": "Thomas Røpke",
+      "authorId": "prinsthomas",
+      "timeLabel": "Kommentar fra Thomas Røpke for 4 dage siden",
+      "text": "Klasse",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "142967115427343",
+      "parentId": "772241067866884",
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Thomas Røpkes kommentar for 3 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "192363597044503",
+      "parentId": null,
+      "authorName": "Jens Devald",
+      "authorId": "jens.devald",
+      "timeLabel": "Kommentar fra Jens Devald for 4 dage siden",
+      "text": "Den pokal hæver jeg også til daglig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1938873839807413",
+      "parentId": null,
+      "authorName": "Lis Lendal",
+      "authorId": "lis.lendal",
+      "timeLabel": "Kommentar fra Lis Lendal for 4 dage siden",
+      "text": "Der er ikke megen kalk i \"havremælk\" = \"havremælk\" tilfører ikke kroppen vigtige ernæringsstoffer!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "203367345388177",
+      "parentId": "1938873839807413",
+      "authorName": "Brian Holmstrøm NielsenLis Lendal",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Svar fra Brian Holmstrøm Nielsen på Lis Lendals kommentar for 4 dage siden",
+      "text": "Lis Lendal og det har intet med mælk at gøre",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6221365504621133",
+      "parentId": "1938873839807413",
+      "authorName": "Teodor Sauvage RørbechLis Lendal",
+      "authorId": "teodor.s.r",
+      "timeLabel": "Svar fra Teodor Sauvage Rørbech på Lis Lendals kommentar for 4 dage siden",
+      "text": "Lis Lendal nu står han jo i kbh, hvor vandet har et højt kalkindhold, som er højt nok til at dække et menneskeligt behov mere end rigeligt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "206499792151985",
+      "parentId": "1938873839807413",
+      "authorName": "Lis LendalTeodor Sauvage Rørbech",
+      "authorId": "lis.lendal",
+      "timeLabel": "Svar fra Lis Lendal på Teodor Sauvage Rørbechs kommentar for 4 dage siden",
+      "text": "Teodor Sauvage Rørbech Jeg bor i København. Jeg drikker vand og spiser ost; men jeg har begyndende knogleskørhed.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "5936061713183945",
+      "parentId": "1938873839807413",
+      "authorName": "Rasmus SteenbergerLis Lendal",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Lis Lendals kommentar for 3 dage siden",
+      "text": "Men løses knogleskørhed med overdreven indtag af mælkeprodukter, Lis Lendal ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1306253199965781",
+      "parentId": "1938873839807413",
+      "authorName": "Robert NielsenRasmus Steenberger",
+      "authorId": "robert.nielsen.948",
+      "timeLabel": "Svar fra Robert Nielsen på Rasmus Steenbergers kommentar for 3 dage siden",
+      "text": "Rasmus Steenberger Mælkeprodukter hjælper i forhold til knogleskørhed - netop på grund af stort kalkindhold.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "551517133720486",
+      "parentId": "1938873839807413",
+      "authorName": "Men vi har jo altid spist kødRobert Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Men vi har jo altid spist kød på Robert Nielsens kommentar for 3 dage siden",
+      "text": "Robert Nielsen De skandinaviske lande er nogle af dem med hyppigst forekomst af knogleskørhed, men er også nogle af de lande med folk, der drikker mest mælk. Dermed kan man ikke udlede kausalitet, men omvendt ser det ikke ud til at mælkeprodukter beskytter imod knogleskørhed",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "160270427016112",
+      "parentId": "1938873839807413",
+      "authorName": "Men vi har jo altid spist kødLis Lendal",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Men vi har jo altid spist kød på Lis Lendals kommentar for 3 dage siden",
+      "text": "Lis Lendal Havremælk er et alternativ til mælk ikke en erstatning",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "186332227246748",
+      "parentId": "1938873839807413",
+      "authorName": "Men vi har jo altid spist kødBrian Holmstrøm Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Men vi har jo altid spist kød på Brian Holmstrøm Nielsens kommentar for 3 dage siden",
+      "text": "Brian Holmstrøm Nielsen Ligesom kokosmælk",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "547939287418059",
+      "parentId": "1938873839807413",
+      "authorName": "Bente RavnborgRobert Nielsen",
+      "authorId": "bente.ravnborg",
+      "timeLabel": "Svar fra Bente Ravnborg på Robert Nielsens kommentar for 3 dage siden",
+      "text": "Robert Nielsen sludder",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "936164764383002",
+      "parentId": "1938873839807413",
+      "authorName": "Lis LendalRasmus Steenberger",
+      "authorId": "lis.lendal",
+      "timeLabel": "Svar fra Lis Lendal på Rasmus Steenbergers kommentar for 3 dage siden",
+      "text": "Rasmus Steenberger Ikke overdreven. jeg drikker ikke mælk, men spiser 2 - 4 skiver ost om dagen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "257219483461407",
+      "parentId": "1938873839807413",
+      "authorName": "Robert NielsenMen vi har jo altid spist kød",
+      "authorId": "robert.nielsen.948",
+      "timeLabel": "Svar fra Robert Nielsen på Men vi har jo altid spist køds kommentar for 2 dage siden",
+      "text": "Men vi har jo altid spist kød Det skriver jeg heller ikke. Kalkindtag - også fra mælkeprodukter - hæmmer udvikling af knogleskørhed.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "202574169267118",
+      "parentId": "1938873839807413",
+      "authorName": "Men vi har jo altid spist kødRobert Nielsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Men vi har jo altid spist kød på Robert Nielsens kommentar for 2 dage siden",
+      "text": "Robert Nielsen Du skrev \"mælkeprodukter hjælper i forhold til knogleskørhed\". Der er ikke så meget at tage fejl af her",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "223386733759278",
+      "parentId": "1938873839807413",
+      "authorName": "Ole Kobberup LarsenMen vi har jo altid spist kød",
+      "authorId": "ole.k.larsen",
+      "timeLabel": "Svar fra Ole Kobberup Larsen på Men vi har jo altid spist køds kommentar for en dag siden",
+      "text": "Men vi har jo altid spist kød men det beviser vel heller ikke det modsatte? Hvad nu hvis mennesker med knogleskørhed stiger, fordi de ikke drikker mælk?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "780291367019774",
+      "parentId": null,
+      "authorName": "Rudy Daisy Bruun Oudal",
+      "authorId": "rudy.oudal",
+      "timeLabel": "Kommentar fra Rudy Daisy Bruun Oudal for 3 dage siden",
+      "text": "Jeg foretrækker dette byg/hvededrik fremfor havredrik",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "143460198631775",
+      "parentId": "780291367019774",
+      "authorName": "Rasmus SteenbergerRudy",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rudy Daisy Bruun Oudals kommentar for 2 dage siden",
+      "text": "Tilbøjeligt til at være enig med dig lige der, Rudy",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "767400154978525",
+      "parentId": null,
+      "authorName": "Janne Ungermann Jensen",
+      "authorId": "janne.u.jensen",
+      "timeLabel": "Kommentar fra Janne Ungermann Jensen for 3 dage siden",
+      "text": "Ikonisk .. jeps, både bygningen og den skønne mælkereklame, men om havremælk og \"et helt tilfældigt sted i byen\" også er, ser vi vist forskelligt på, men godt spottet til reklamen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "168336549525335",
+      "parentId": null,
+      "authorName": "Miriam Kræpping Mouritsen",
+      "authorId": "miriamkmouritsen",
+      "timeLabel": "Kommentar fra Miriam Kræpping Mouritsen for 3 dage siden",
+      "text": "Jeg har nu ikke lyst til at drikke 1/2 liter kulhydrater om dagen udover mine måltider.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "753142973214829",
+      "parentId": "168336549525335",
+      "authorName": "Peer Emil ChristensenMiriam Kræpping Mouritsen",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Peer Emil Christensen på Miriam Kræpping Mouritsens kommentar for 2 dage siden",
+      "text": "Miriam Kræpping Mouritsen reklame er lige præcis hvad det er - den performative æstetik … say what . Der står en mand som holder et produkt i hånden som nogle andre gerne vil sælge. Performativ æstetik gid jeg havde gået på samme skole altså",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "270135678731271",
+      "parentId": "168336549525335",
+      "authorName": "Miriam Kræpping MouritsenPeer Emil Christensen",
+      "authorId": "miriamkmouritsen",
+      "timeLabel": "Svar fra Miriam Kræpping Mouritsen på Peer Emil Christensens kommentar for 2 dage siden",
+      "text": "Peer Emil Christensen Det har du jo ikke. Jeg har altid lavet teater og læser det nu som en uddannelse. Så det er jo lidt højrøvet af mig at sætte sådanne begreber på men det er altså fagsproget som jeg har brug for for at italesætte teatraliteten og det her som et værk. Prøv at google “performativ æstetik”, så forstår du mig måske",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "576839737888882",
+      "parentId": "168336549525335",
+      "authorName": "Miriam Kræpping Mouritsen",
+      "authorId": "miriamkmouritsen",
+      "timeLabel": "Svar fra Miriam Kræpping Mouritsen på Miriam Kræpping Mouritsens kommentar for 2 dage siden",
+      "text": "Som en ekstra ting: Det drejer sig ikke bare om ham, der står der på en eller anden måde. Det drejer sig meget mere om, hvordan det næsten bliver en politisk parafrase, fordi vi allerede kender den reklame, som han interagerer med. Den måde at tale ind i en eksisterende kultur og opfattelse af det sted, hvor man kreerer reklamen. Men allermest interaktionen med “publikum” - dvs. måden vi andre reagerer på det her stunt, som både er et statement, en reklame og et slags lille værk. I sig selv er det et enkelt billede, men jo mere vi taler om det, og jo længere det kommer ud, jo større bliver værket, og det er især i kraft af en provokation mod noget dybt i vores kultur og hos mange af vores opvækst. Ja, undskyld hvis det bliver lidt spacy. Men jeg ser det spændende i værkforstand",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "823936432491934",
+      "parentId": null,
+      "authorName": "Peer Emil Christensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Peer Emil Christensen for 2 dage siden",
+      "text": "Mama mia den politiske korrekthed vil ingen ende tage. Selv når man misbruger en sportsstjerne og pakker det ind i politisk korrekthed og bejler til politisk opbakning på at være ikke konkret men tage lige det der ligger nemmest for.\nHurra for badminton",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1090123571962023",
+      "parentId": "823936432491934",
+      "authorName": "Rasmus SteenbergerPeer",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Peer Emil Christensens kommentar for 2 dage siden",
+      "text": "Hvad er problemet, Peer? Du må være mere specifik",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "638868987642682",
+      "parentId": "823936432491934",
+      "authorName": "Henrik HemmingsenRasmus Steenberger",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Svar fra Henrik Hemmingsen på Rasmus Steenbergers kommentar for 2 dage siden",
+      "text": "Rasmus Steenberger problemet er I missionerer. Jeg drikker ikke meget mælk, og jeg kommer aldrig til at drikke det der. Også reklamere du jo også for et specielt produkt som du synes er korrekt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "127535863630957",
+      "parentId": "823936432491934",
+      "authorName": "Jonas NeiveltPeer Emil Christensen",
+      "authorId": "jonas.neivelt",
+      "timeLabel": "Svar fra Jonas Neivelt på Peer Emil Christensens kommentar for 2 dage siden",
+      "text": "Peer Emil Christensen jeg tror virkelig ikke, at Viktor Axelsen føler sig misbrugt over at være med i en reklamekampagne, han har fået penge for at være med i",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "548973274073545",
+      "parentId": "823936432491934",
+      "authorName": "Rasmus SteenbergerHenrik",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Henrik Hemmingsens kommentar for en dag siden",
+      "text": "Hej Henrik, hvori består det missionerende? Jeg mindes ikke at have opfordret dig til at drikke havnedrik.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "authorName": "Thure Hastrup",
+  "authorId": "profile.php",
+  "text": "Tjek SVM regeringens forsøg på at forringe EUs naturgenopretnings plan. 2,3% af Danmarks areal er beskyttet natur i dag. En bundskraber på europæisk plan. Biodiversitetskrisen og naturen ser ud til at rage SVM regeringen en …høstblomst.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=652789630208652&set=a.464015249086092&__cft__[0]=AZUNhXkIOpljBFFFeGDw3g9uUQfroEmzM30bjhP3AtYpb6ZPOsSAfNj3n-M3lGNjKs7OQ7Jw0wkApnWyBUUffKhj2g5_VNbuK_70IQyvSNjUbaoeMvgNND-EUNQXp3kF2edQY_nCWm2jxigYhukzHZQ_h7m7XLgPufWZDArJ5MLDhPfsHnTFnE2x9GjtZ_W_688&__tn__=EH-y-R",
+  "mediaText": "Kan være en krusedulle af tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "12"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Jesper Bech Olsen",
+      "authorId": "Lystfiskerenogfotografen",
+      "timeLabel": "Kommentar fra Jesper Bech Olsen for 9 uger siden",
+      "text": "Det er meget trist",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jesper Bech Olsen",
+      "authorId": "Lystfiskerenogfotografen",
+      "timeLabel": "Svar fra Jesper Bech Olsen på Jesper Bech Olsens kommentar for 9 uger siden",
+      "text": "Godt frøen Claus kvækker",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

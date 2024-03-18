@@ -1,0 +1,201 @@
+{
+  "authorName": "Emil Sloth Andersen",
+  "authorId": "emil.slothandersen",
+  "text": "I dag har jeg siddet i Bamses stol i DR Byen. Det hører hvervet som børne- og ungdomspolitiker til 🙌",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6205929386167399&amp;set=a.104748236285575&amp;__cft__[0]=AZVAcFR5SPhpWFVmcg_t0vM_npWfzWjYU8W0bjbZ13LMwMgOVf9r0zLlG935p4l6UxzjiP9QCcwwdwnVRv6GPD7IqBVWo-kFVlNEKe-a63CktcZDC_64Tw0UFnsF_AymbT4&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "150"
+    },
+    {
+      "type": "heart",
+      "count": "21"
+    },
+    {
+      "type": "haha",
+      "count": "15"
+    }
+  ],
+  "comments": [
+    {
+      "id": "543100784702736",
+      "parentId": null,
+      "authorName": "Jette Blok Worm",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jette Blok Worm for 5 dage siden",
+      "text": "Der er også lidt ligheder 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "639702948058400",
+      "parentId": "543100784702736",
+      "authorName": "Emil Sloth AndersenJette Blok Worm",
+      "authorId": "emil.slothandersen",
+      "timeLabel": "Svar fra Emil Sloth Andersen på Jette Blok Worms kommentar for 5 dage siden",
+      "text": "Jette Blok Worm , jeg bliver faktisk nogle gange kaldt “bamse” 🤷‍♂️😁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 8,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "6158622290884865",
+      "parentId": null,
+      "authorName": "Sussie Johansen",
+      "authorId": "sussie.johansen.1",
+      "timeLabel": "Kommentar fra Sussie Johansen for 5 dage siden",
+      "text": "Den bedsteste stol👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1569284373484102",
+      "parentId": "6158622290884865",
+      "authorName": "Emil Sloth AndersenSussie Johansen",
+      "authorId": "emil.slothandersen",
+      "timeLabel": "Svar fra Emil Sloth Andersen på Sussie Johansens kommentar for 5 dage siden",
+      "text": "Sussie Johansen , nemlig 🙌",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "229920453066879",
+      "parentId": null,
+      "authorName": "Anna Katarina Rosenblad",
+      "authorId": "anna.rosenblad",
+      "timeLabel": "Kommentar fra Anna Katarina Rosenblad for 5 dage siden",
+      "text": "Blev du så et lige så stort ego?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1402853830554057",
+      "parentId": "229920453066879",
+      "authorName": "Emil Sloth AndersenAnna Katarina Rosenblad",
+      "authorId": "emil.slothandersen",
+      "timeLabel": "Svar fra Emil Sloth Andersen på Anna Katarina Rosenblads kommentar for 5 dage siden",
+      "text": "Anna Katarina Rosenblad , ja for et lille øjeblik 😁",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "637564607708770",
+      "parentId": null,
+      "authorName": "Ann Sofie Oxenvad",
+      "authorId": "annsofie.oxenvad",
+      "timeLabel": "Kommentar fra Ann Sofie Oxenvad for 5 dage siden",
+      "text": "Så bliver det ikke større! Tillykke! 👏🐤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "620233336813917",
+      "parentId": "637564607708770",
+      "authorName": "Emil Sloth AndersenAnn Sofie Oxenvad",
+      "authorId": "emil.slothandersen",
+      "timeLabel": "Svar fra Emil Sloth Andersen på Ann Sofie Oxenvads kommentar for 5 dage siden",
+      "text": "Ann Sofie Oxenvad , takker! Det er kæmpe 😎",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "619325220066526",
+      "parentId": null,
+      "authorName": "Signe Borup",
+      "authorId": "signe.borup.7",
+      "timeLabel": "Kommentar fra Signe Borup for 5 dage siden",
+      "text": "Det gør det tihvertifal…",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "id": "631090255157888",
+      "parentId": "619325220066526",
+      "authorName": "Emil Sloth Andersen",
+      "authorId": "emil.slothandersen",
+      "timeLabel": "Svar fra Emil Sloth Andersen på Signe Borups kommentar for 5 dage siden",
+      "text": "nemmerlig 😎",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2932041326931946",
+      "parentId": null,
+      "authorName": "Inger Doffen",
+      "authorId": "inger.doffen1",
+      "timeLabel": "Kommentar fra Inger Doffen for 5 dage siden",
+      "text": "Det ser dejlig ud",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

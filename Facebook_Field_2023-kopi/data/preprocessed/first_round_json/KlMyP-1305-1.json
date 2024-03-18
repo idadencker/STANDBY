@@ -1,0 +1,148 @@
+{
+  "authorName": "Klaus Mygind",
+  "authorId": "klaus.mygind.1",
+  "text": "Nu får vores forslag om stop for benzin- og dieselbiler i København støtte fra Danske Bilimportører. Politiken skriver:\n“ Hos De Danske Bilimportører, som er en brancheorganisation, der repræsenterer bilproducenterne i Danmark, mener administrerende direktør Mads Rørvig, at tidshorisonten giver borgerne mulighed for at handle. Derfor anser han det som rettidig omhu fra Københavns Kommune.”",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "14"
+    },
+    {
+      "type": "care",
+      "count": "2"
+    },
+    {
+      "type": "heart",
+      "count": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "622292596193708",
+      "parentId": null,
+      "authorName": "Klaus Mygind",
+      "authorId": "klaus.mygind.1",
+      "timeLabel": "Kommentar fra Klaus Mygind for 2 dage siden",
+      "text": "NÅR DU OPLEVER FJENDTLIGE KOMMENTARER: SIG FRA, ANMELD, STØT OP!\nVi ønsker alle platforme, hvor vi kan diskutere åbent. Men fjendtlige kommentarer på sociale medier forekommer ofte, rammer alle og kommer i mange former. At opleve fjendtlighed giver f… Se mere\nSe mere",
+      "hasMedia": true,
+      "mediaAltText": "Sig fra, Anmeld, Støt op",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "259556296644475",
+      "parentId": "622292596193708",
+      "authorName": "SF KøbenhavnKlaus",
+      "authorId": "sfkbh",
+      "timeLabel": "Svar fra SF København på Klaus Myginds kommentar for en dag siden",
+      "text": "Godt, Klaus 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "3488035691415580",
+      "parentId": null,
+      "authorName": "Helga MarkRasmus SteenbergerTroels Christian Jakobsen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 2 dage siden",
+      "text": "Jeg synes du skal prøve at læse hvad der er skrevet i en tråd hos Rasmus Steenberger og Troels Christian Jakobsen om emnet. Der er det ikke hadske kommentarer der dominere.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "5983883515014138",
+      "parentId": null,
+      "authorName": "Rasmus Steenberger",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Kommentar fra Rasmus Steenberger for en dag siden",
+      "text": "Altid godt med nye venner 😉",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "214563511379662",
+      "parentId": null,
+      "authorName": "Serafín Ziquer Xavier",
+      "authorId": "glenn.ziquerxavier.3",
+      "timeLabel": "Kommentar fra Serafín Ziquer Xavier for 21 timer siden",
+      "text": "Så skal I politiker også vare lidt opdateret i tingene.\nhttps://youtu.be/ipOeH7GW0M8",
+      "hasMedia": true,
+      "mediaAltText": "Toxic Cost of Going Green | Unreported World",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "801066831646526",
+      "parentId": null,
+      "authorName": "Serafín Ziquer Xavier",
+      "authorId": "glenn.ziquerxavier.3",
+      "timeLabel": "Kommentar fra Serafín Ziquer Xavier for 21 timer siden",
+      "text": "Så skal alle til at konsumere mere og fodre den store vækst gabet igen. Det er grønt.\nhttps://youtu.be/ZeuT2WrVtFY",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1286526888933019",
+      "parentId": null,
+      "authorName": "Anders Jørn Jensen",
+      "authorId": "pivfraekke",
+      "timeLabel": "Kommentar fra Anders Jørn Jensen for 13 timer siden",
+      "text": "Rigtigt godt!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "553475750299480",
+      "parentId": "1286526888933019",
+      "authorName": "Rasmus SteenbergerAnders",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Anders Jørn Jensens kommentar for 11 timer siden",
+      "text": "Tak, Anders 🙂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

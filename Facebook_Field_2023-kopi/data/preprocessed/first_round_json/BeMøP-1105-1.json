@@ -1,0 +1,65 @@
+{
+  "authorName": "Bente Møller",
+  "authorId": "profile.php",
+  "text": "Er til KL konference for social og sundhed. Lige nu med oplæg om selvstyrende teams. Og også lidt om hollandsk Buurzog model. De hollændere tog en genvej, de har skilt hele den praktiske bistand på hjemmeplejeområdet fra til egen afdeling med brugerbetaling. Så min begejstring for dem udover et fint værdisæt, er begrænset. Ved af listens ældreudvalg er meget begejstret for den hollandske model.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10231357698711561&amp;set=a.10214870867031073&amp;__cft__[0]=AZWlE1cZGW_bXMUxQRUdPzeyUbV5NujDS1SuUMmsxJuTFyU9rzO7F37pSd8IxGt1UkFeOYNedF6rXEU7x6rzX_u3wYQ7jYwWNLSJsTvO8PURIuv4PatZWcKLLvTWwUyb5k0&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person og tekst",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "10"
+    }
+  ],
+  "comments": [
+    {
+      "id": "547625807568847",
+      "parentId": null,
+      "authorName": "Katrine Vinther Nielsen",
+      "authorId": "katrine.v.nielsen.7",
+      "timeLabel": "Kommentar fra Katrine Vinther Nielsen for 4 dage siden",
+      "text": "Kan du uddybe - jeg nåede ikke at høre det hele",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "189117884049863",
+      "parentId": "547625807568847",
+      "authorName": "Bente Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Møller på Katrine Vinther Nielsens kommentar for 4 dage siden",
+      "text": "D. 23.5.23 skal jeg med vores sundheds- og Omsorgsudvalg på studietur til Amsterdam, deler gerne hvad jeg måtte lære. Til forsamlingshuset om små teams, vil vi eksempler fra 2 kommuner. Men allerførst fik vi oplæg fra VIVE, som sammenfattede erfaringer , hvor det var tydeligt at selvstyrende, tværfaglige teams med fast hjælpere til borgerne var godt. Det er overraskede mig i fortællingen om Buurzog, deres Max 12 professionel i et team, og deres værdigrundlag var, at hele den praktiske bistand ikke er med. Den er skilt ud for sig selv med brugerbetaling.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1158711038142216",
+      "parentId": "547625807568847",
+      "authorName": "Bente BorreskovBente Møller",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Bente Borreskov på Bente Møllers kommentar for 4 dage siden",
+      "text": "Bente Møller\nJa brugerbetaling og de pårørende og frivillige skal løse flere opgaver 😱",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "wow"
+        ]
+      }
+    }
+  ]
+}

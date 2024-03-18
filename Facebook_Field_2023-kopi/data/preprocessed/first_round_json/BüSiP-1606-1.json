@@ -1,0 +1,84 @@
+{
+  "authorName": "Bünyamin Simsek",
+  "authorId": "BnyaminSimsek",
+  "text": "Velkommen til den Norske Kongefamilie på Skolebakken som nabo🇩🇰🇳🇴🧿",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160347836618005&amp;set=pcb.10160347838208005&amp;__cft__[0]=AZULNLhM9xcDVJVM3VJ9Gmwy_762goAX-uRQgGMXqYsGaVmvl_Fr9TarV2IYWyL83uPUyEboctHwA03QCwkneoD9Y59gsGGJT-pr7cuDmP3Don4lurqQfktcN0d-LyB1leQ&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "102"
+    },
+    {
+      "type": "heart",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1341462130079712",
+      "parentId": null,
+      "authorName": "Cengiz Simsek",
+      "authorId": "cengiz.simsek.948",
+      "timeLabel": "Kommentar fra Cengiz Simsek for 4 dage siden",
+      "text": "Er de inviteret til grill og kebab 🕺🏻💃🥂",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "1695772654201089",
+      "parentId": "1341462130079712",
+      "authorName": "Ayla UsluCengiz Simsek",
+      "authorId": "ayla.uslu.9",
+      "timeLabel": "Svar fra Ayla Uslu på Cengiz Simseks kommentar for 4 dage siden",
+      "text": "Cengiz Simsek pastirma🥓",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "id": "583561917239422",
+      "parentId": null,
+      "authorName": "Brian Frederiksen",
+      "authorId": "brian.frederiksen.75",
+      "timeLabel": "Kommentar fra Brian Frederiksen for 3 dage siden",
+      "text": "Hein norge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1438719256952565",
+      "parentId": null,
+      "authorName": "Brian Frederiksen",
+      "authorId": "brian.frederiksen.75",
+      "timeLabel": "Kommentar fra Brian Frederiksen for 3 dage siden",
+      "text": "Heia Norge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

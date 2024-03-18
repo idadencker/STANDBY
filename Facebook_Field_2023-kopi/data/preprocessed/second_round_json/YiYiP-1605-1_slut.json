@@ -1,0 +1,36 @@
+{
+  "authorName": "Yilmaz Yildiz",
+  "authorId": "roniwelat",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=6572143872806975&set=a.1151948094826607&__cft__[0]=AZXjaz-J7-nM5wCLR40NVy-ye1827WXD3EOtV4RvCN8RuvY3ezKuXDbeCnqJsht8RfunYgwP7wly3DmOmfV01dVNKooku6SybOjxhSv_-0mszt9iqz399fJ6ZOHyYWZHgc4&__tn__=EH-R",
+  "mediaText": "Ingen tilgængelig billedbeskrivelse.",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "42"
+    },
+    {
+      "type": "heart",
+      "count": "6"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Hussein Choli",
+      "authorId": "hussein.choli",
+      "timeLabel": "Kommentar fra Hussein Choli for 13 uger siden",
+      "text": "Pîroz bê Roja Zimanê Kurdî",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}

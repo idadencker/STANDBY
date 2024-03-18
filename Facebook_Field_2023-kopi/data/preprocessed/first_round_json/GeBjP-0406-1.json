@@ -1,0 +1,108 @@
+{
+  "authorName": "Gert Bjerregaard",
+  "authorId": "gert.bjerregaard.9",
+  "text": "Kom så de hviiee - nu går vi efter bronze😊 sådan fantastisk - flot flot - tillykke🇩🇰🇩🇰🇩🇰",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10229487460634251&amp;set=pcb.10229487469074462&amp;__cft__[0]=AZV-O844tukypbQqD23ya_QL-yGX_Nt-fw0ohreIrgVlHFh-qEYjnk9Jfl0aqqUyAlWFk_DbP7mojKDpkqBzvYZatKBtxF9G-xbI-U7gSUpOyiBFaVLDpc4Kj78raQV_PlI&amp;__tn__=*bH-R",
+  "mediaText": "",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "91"
+    }
+  ],
+  "comments": [
+    {
+      "id": "813952523477468",
+      "parentId": null,
+      "authorName": "Jens Degn",
+      "authorId": "jens.degn.9",
+      "timeLabel": "Kommentar fra Jens Degn for 3 dage siden",
+      "text": "Så skal i tage jer sammen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "3031590500471251",
+      "parentId": null,
+      "authorName": "Morten Erri",
+      "authorId": "jens.erri",
+      "timeLabel": "Kommentar fra Morten Erri for 3 dage siden",
+      "text": "De har ikke evner og med 10 spillere :-(((",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "646974503527275",
+      "parentId": null,
+      "authorName": "Hans Kargaard Thomsen",
+      "authorId": "hanskargaard",
+      "timeLabel": "Kommentar fra Hans Kargaard Thomsen for 3 dage siden",
+      "text": "Det er vist FCN, der skal redde AGF medaljer",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "1317168382242664",
+      "parentId": null,
+      "authorName": "Jens Degn",
+      "authorId": "jens.degn.9",
+      "timeLabel": "Kommentar fra Jens Degn for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "275720861597448",
+      "parentId": null,
+      "authorName": "Brian Thrige",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Brian Thrige for 2 dage siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "776268530868910",
+      "parentId": null,
+      "authorName": "Morten Flodin",
+      "authorId": "morten.flodin",
+      "timeLabel": "Kommentar fra Morten Flodin for 2 dage siden",
+      "text": "3 pladsen er kun nogen man snakker om i dag😊\nTillykke🇩🇰👍",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

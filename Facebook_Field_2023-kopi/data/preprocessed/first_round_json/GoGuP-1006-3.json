@@ -1,0 +1,133 @@
+{
+  "authorName": "Gorm Anker GunnarsenGorm Anker GunnarsenGorm Anker GunnarsenVielser",
+  "authorId": "gorm.gunnarsen",
+  "text": "Sandra og Samuel, 10/6 2023.",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10171133247527037&amp;set=a.10152448496067037&amp;__cft__[0]=AZXML9wXDvBFNPE810KAtzPjD5y7FHo3WUK-xup1Apdt0ciXGff3Yr3sjRZi0pLnZbZmYSw6MSMV7aw2nChbPn8axRLn7bJyDxGj1Qv4CIWEjuByT1pVFR8bESopA_7bXRw&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 5 personer og bryllup",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "54"
+    },
+    {
+      "type": "heart",
+      "count": "11"
+    }
+  ],
+  "comments": [
+    {
+      "id": "964856557984166",
+      "parentId": null,
+      "authorName": "Helga Mark",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Helga Mark for 3 dage siden",
+      "text": "Tillykke🇩🇰🇩🇰🇩🇰🇩🇰🇩🇰",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "197291773272138",
+      "parentId": null,
+      "authorName": "Per Ejnar Viberg",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Per Ejnar Viberg for 3 dage siden",
+      "text": "Tillykke og Hurra for 💕",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "2538620092970707",
+      "parentId": null,
+      "authorName": "Paul Christofersen",
+      "authorId": "paulchristofersen",
+      "timeLabel": "Kommentar fra Paul Christofersen for 3 dage siden",
+      "text": "Woot woot! Proud Papa! Congratulations all around!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "181917808177759",
+      "parentId": "2538620092970707",
+      "authorName": "Gorm Anker GunnarsenPaul Christofersen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Paul Christofersens kommentar for 3 dage siden",
+      "text": "Paul Christofersen I’m proud yes.. - proudly officiating.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "wow"
+        ]
+      }
+    },
+    {
+      "id": "765850435265317",
+      "parentId": "2538620092970707",
+      "authorName": "Paul Christofersen",
+      "authorId": "paulchristofersen",
+      "timeLabel": "Svar fra Paul Christofersen på Gorm Anker Gunnarsens kommentar for 3 dage siden",
+      "text": "Gorm Anker Gunnarsen Gorm: Nothing wrong with having the right friends in the right places! (As long as it’s for doing all the right things!) Please say our hellos ~ we still have fond memories of the wedding in Cleveland when Samuel, his brother, and our Aubrey entertained everyone with their Mr. Roboto dance!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "care"
+        ]
+      }
+    },
+    {
+      "id": "102503872880741",
+      "parentId": "2538620092970707",
+      "authorName": "Gorm Anker GunnarsenPaul Christofersen",
+      "authorId": "gorm.gunnarsen",
+      "timeLabel": "Svar fra Gorm Anker Gunnarsen på Paul Christofersens kommentar for 3 dage siden",
+      "text": "Paul Christofersen I have turned weddings into a hobby. Definitely the greatest perk as city councillor. https://www.facebook.com/media/set/...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "id": "248235797827301",
+      "parentId": null,
+      "authorName": "Martin Tved",
+      "authorId": "martintved",
+      "timeLabel": "Kommentar fra Martin Tved for 3 dage siden",
+      "text": "Tak for din hilsen, Gorm 🥰 Vi havde/ har en rigtig god og følelsesladet fest ❤",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    }
+  ]
+}

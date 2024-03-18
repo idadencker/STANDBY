@@ -1,0 +1,2955 @@
+{
+  "authorName": "Rasmus Steenberger",
+  "authorId": "rasmus.steenberger",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "82"
+    },
+    {
+      "type": "heart",
+      "count": "12"
+    },
+    {
+      "type": "wow",
+      "count": "8"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Lennardt Kilde",
+      "authorId": "lennardt.kilde",
+      "timeLabel": "Kommentar fra Lennardt Kilde for 15 uger siden",
+      "text": "Vi kan være enige om meget men der er jeg ikke med på vognen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoLennardt",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Lennardt Kildes kommentar for 15 uger siden",
+      "text": "Det er fair nok, Lennardt - men hvorfor?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Cristine Storm LassenRasmus Steenberger",
+      "authorId": "Cristinestormlassen",
+      "timeLabel": "Svar fra Cristine Storm Lassen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger måske fordi det ikke holder med alle de batterier der skal ud at køre. Det er jo enormt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalCristine Storm Lassen",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Cristine Storm Lassens kommentar for 15 uger siden",
+      "text": "Cristine Storm Lassen jeg tror desværre ikke, at det er realistisk for alle, at droppe bilen….",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Kurt Flemming LøfquistRune Duban Grandal",
+      "authorId": "tryllekurt",
+      "timeLabel": "Svar fra Kurt Flemming Løfquist på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal ambitioner er gode, men man skal se på realiteterne og det gør man ikke",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalKurt Flemming Løfquist",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Kurt Flemming Løfquists kommentar for 15 uger siden",
+      "text": "Kurt Flemming Løfquist enig - nogle biler bliver vi nok nødt til at acceptere.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Kurt Flemming LøfquistRune Duban Grandal",
+      "authorId": "tryllekurt",
+      "timeLabel": "Svar fra Kurt Flemming Løfquist på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal Det bliver vi ikke uenige om, der er alt for mange biler, en mulig løsning kunne være bedre offentlig gratis trafik i byerne, men det skal jeg selvfølgelig ikke gøre mig klog på",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliCristine Storm Lassen",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Cristine Storm Lassens kommentar for 15 uger siden",
+      "text": "Cristine Storm Lassen Og produktionen af batterierne.\n\nJeg vil ikke tænke på det…\nMen det er der mange der ikke vil, og det er jo et af problemerne; at politik er følelser og ‘ud af øje, ud af sind’. Desværre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten Rask Recke",
+      "authorId": "kirsten.recke",
+      "timeLabel": "Kommentar fra Kirsten Rask Recke for 15 uger siden",
+      "text": "Hvad med handicapbiler?\nVi har en Ford transit på diesel.\nKan vi så ikke køre i København?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoKirsten",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Kirsten Rask Reckes kommentar for 15 uger siden",
+      "text": "Hej Kirsten, i det omfang kommunen kan anvise en passe de handicapbil på el, vil det være et krav. Hvis vi ikke kan, må vi gøre en undtagelse for de typer af biler. Det er forvaltningen nu i gang med at undersøge.\nJeg er optimistisk. Der sker meget på 7 år",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Ilse Toft JensenRasmus Steenberger",
+      "authorId": "ilse.t.jensen",
+      "timeLabel": "Svar fra Ilse Toft Jensen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger. Flextrafik er ikke altid igennem kommunerne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Frode Benedikt NielsenRasmus Steenberger",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Svar fra Frode Benedikt Nielsen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger, bortset fra at handicapbiler skal ejes i 8 år før man kan få en ny.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Frode Benedikt NielsenIlse Toft Jensen",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Svar fra Frode Benedikt Nielsen på Ilse Toft Jensens kommentar for 15 uger siden",
+      "text": "Ilse Toft Jensen, visitation er.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Ilse Toft JensenFrode Benedikt Nielsen",
+      "authorId": "ilse.t.jensen",
+      "timeLabel": "Svar fra Ilse Toft Jensen på Frode Benedikt Nielsens kommentar for 15 uger siden",
+      "text": "Frode Benedikt Nielsen. Faktisk også fra hospitalerne som sender kørsel til handicappede",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Kirsten Rask ReckeRasmus Steenberger",
+      "authorId": "kirsten.recke",
+      "timeLabel": "Svar fra Kirsten Rask Recke på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nDa vi søgte om bilen for to år siden, kunne vi kun få en diesel.\nSå vi skal mindst have den seks år endnu!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Frode Benedikt NielsenRasmus Steenberger",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Svar fra Frode Benedikt Nielsen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger, jeg er faktisk ikke sikker på om der overhovedet findes elbiler som invalidevogne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus Hammer-JakobsenKirsten Rask Recke",
+      "authorId": "Rasmushammerjakobsen",
+      "timeLabel": "Svar fra Rasmus Hammer-Jakobsen på Kirsten Rask Reckes kommentar for 15 uger siden",
+      "text": "Kirsten Rask Recke så når du det jo også i god tid inden 2030 så hvad er problemet?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Kirsten Rask ReckeRasmus Hammer-Jakobsen",
+      "authorId": "kirsten.recke",
+      "timeLabel": "Svar fra Kirsten Rask Recke på Rasmus Hammer-Jakobsens kommentar for 15 uger siden",
+      "text": "Rasmus Hammer-Jakobsen\nHvis kommunen ikke vil bevilge den rigtige bil.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus Hammer-Jakobsen",
+      "authorId": "Rasmushammerjakobsen",
+      "timeLabel": "Svar fra Rasmus Hammer-Jakobsen på Kirsten Rask Reckes kommentar for 15 uger siden",
+      "text": "Hvis du ikke må køre i en dieselbil, tvivler jeg på at Københavns Kommune bevilliger dig en dieselbil. Men det er selvfølgelig set før, at kommuner træffer mærkelige beslutninger.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Bettine Værum ChristiansenRasmus Steenberger",
+      "authorId": "bettine.christiansen.9",
+      "timeLabel": "Svar fra Bettine Værum Christiansen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nhusk at få disse ekstraudgifter med i den faktabaserede cost benefit analyse der er bestilt fra forvaltningen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Michael Toppenberg",
+      "authorId": "michael.toppenberg",
+      "timeLabel": "Kommentar fra Michael Toppenberg for 15 uger siden",
+      "text": "Perfekt... Jo før jo bedre",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Walter Arnkov",
+      "authorId": "walter.arnkov",
+      "timeLabel": "Kommentar fra Walter Arnkov for 15 uger siden",
+      "text": "Hvilken dyre eller planteart tilhører biler?",
+      "hasMedia": true,
+      "mediaAltText": "Fossil - Wikipedia, den frie encyklopædi",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Nick Vikander",
+      "authorId": "nick.vikander",
+      "timeLabel": "Kommentar fra Nick Vikander for 15 uger siden",
+      "text": "Sker der også noget med fossile scooters? Der er elcykler allerede gode - og ikke alt for dyre - alternativer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Brian Holmstrøm Nielsen",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Kommentar fra Brian Holmstrøm Nielsen for 15 uger siden",
+      "text": "Man kan jo øve sig med at forbyde fossil (!?)- scootere, knallerter,plæneklippere og motorløb i byen.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Kurt Flemming LøfquistBrian Holmstrøm Nielsen",
+      "authorId": "tryllekurt",
+      "timeLabel": "Svar fra Kurt Flemming Løfquist på Brian Holmstrøm Nielsens kommentar for 15 uger siden",
+      "text": "Brian Holmstrøm Nielsen det bliver det også, du kan. Købe en el plæneklipper",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Brian Holmstrøm NielsenKurt Flemming Løfquist",
+      "authorId": "brian.h.nielsen",
+      "timeLabel": "Svar fra Brian Holmstrøm Nielsen på Kurt Flemming Løfquists kommentar for 15 uger siden",
+      "text": "Kurt Flemming Løfquist Jeg har ingen græsplæne",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Kurt Flemming LøfquistBrian Holmstrøm Nielsen",
+      "authorId": "tryllekurt",
+      "timeLabel": "Svar fra Kurt Flemming Løfquist på Brian Holmstrøm Nielsens kommentar for 15 uger siden",
+      "text": "Brian Holmstrøm Nielsen hmm så har du sparet nogle penge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Michelle Lefevre",
+      "authorId": "michelle.lefevre.39",
+      "timeLabel": "Kommentar fra Michelle Lefevre for 15 uger siden",
+      "text": "Så må jeg jo håbe at det ikke gælder frb. Ellers kan min gamle mor, se i vejviseren efter besøg.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan YsnæsMichelle Lefevre",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Michelle Lefevres kommentar for 15 uger siden",
+      "text": "Michelle Lefevre Tjaee, hun er vel ikke værd at tage cykel, bus eller tog det sidste stykke vej...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Michelle LefevreDan Ysnæs",
+      "authorId": "michelle.lefevre.39",
+      "timeLabel": "Svar fra Michelle Lefevre på Dan Ysnæss kommentar for 15 uger siden",
+      "text": "Dan Ysnæs Så når hun gerne vil have beskåret noget, eller have flyttet/hentet noget, eller noget kørt væk. Eller hun selv skal køres et sted hen, så skal jeg købe en ladcykel til at transportere hende i?\nDet kunne selvfølgelig helt hypotetisk godt lade sig gøre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan YsnæsMichelle Lefevre",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Michelle Lefevres kommentar for 15 uger siden",
+      "text": "Michelle Lefevre Man kan leje ladcykler allerede nu, så tænker at der vokser en masse nye muligheder frem",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Michelle LefevreDan Ysnæs",
+      "authorId": "michelle.lefevre.39",
+      "timeLabel": "Svar fra Michelle Lefevre på Dan Ysnæss kommentar for 15 uger siden",
+      "text": "Dan Ysnæs hun vil også kun være 85 på det tidspunkt. Så hun vil helt sikkert være pjattet med det.\nMen jeg forestiller mig at Rasmus tager tjansen. Så kan jeg se til hans forældre her hvor jeg bor. Der må dieselbilen nemlig stadig gerne køre ud.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Dan YsnæsMichelle Lefevre",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Michelle Lefevres kommentar for 15 uger siden",
+      "text": "Michelle Lefevre Hvis hun er 85 på det tidspunkt tilbyder du selvfølgeligt at hjælpe hende, lige som du vil vil gøre med andre ting der er en kende besværligt for din 85 årige mor.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Michelle LefevreDan Ysnæs",
+      "authorId": "michelle.lefevre.39",
+      "timeLabel": "Svar fra Michelle Lefevre på Dan Ysnæss kommentar for 15 uger siden",
+      "text": "Dan Ysnæs med en ladcykel. Fordi jeg ikke kan tilbyde hende at blive hentet i bil.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan YsnæsMichelle Lefevre",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Michelle Lefevres kommentar for 15 uger siden",
+      "text": "Michelle Lefevre Yep, det behøver ikke være besværligt, billedet her viser en cykel der giver en mulighed for transport som rigtig mange nyder at blive kørt rundt i flere byer, og det er ofte frivillige der træder pedalerne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Michelle LefevreDan Ysnæs",
+      "authorId": "michelle.lefevre.39",
+      "timeLabel": "Svar fra Michelle Lefevre på Dan Ysnæss kommentar for 15 uger siden",
+      "text": "Dan Ysnæs hvor mange batterier skal man have med, for at komme til Slagelse?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Henrik Bundgaard",
+      "authorId": "henrik.bundgaard.31",
+      "timeLabel": "Kommentar fra Henrik Bundgaard for 15 uger siden",
+      "text": "Bare for at skrive om, en overgang. Er der vel heller ingen bilister, der savner hestepære eller KLAK KLAK hestehove på gaden længere. Nu bliver der måske i København, endnu mere stille. Så I kan høre solsortens sang og måske invitere det til endnu flere buske og træer. Dermed mere fugle liv ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Rasmus Remigius Berg",
+      "authorId": "BergAreKing",
+      "timeLabel": "Kommentar fra Rasmus Remigius Berg for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus Remigius Berg",
+      "authorId": "BergAreKing",
+      "timeLabel": "Svar fra Rasmus Remigius Berg på Rasmus Remigius Bergs kommentar for 15 uger siden",
+      "text": "Ja, det skal sgu nok løse det!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoRasmus",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rasmus Remigius Bergs kommentar for 15 uger siden",
+      "text": "Nu er det klimakrisen vi prøver at løse, Rasmus - ikke trængselsproblemerne. Få lige dine proportioner på plads.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus Remigius BergRasmus Steenberger",
+      "authorId": "BergAreKing",
+      "timeLabel": "Svar fra Rasmus Remigius Berg på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Klimakrisen? Mener du ikke bare luftforurening i København? For produktion af nye elbiler skal nok udlede mere Co2 end de nuværende gør i drift - og Co2 kender ikke grænser.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoRasmus",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Rasmus Remigius Bergs kommentar for 15 uger siden",
+      "text": "Hej Rasmus - på et eller andet tidspunkt bliver en fossilbil skiftet ud. Spørgsmålet er om det er med en elbil eller en ny fossilbil",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Henrik HemmingsenRasmus Steenberger",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Svar fra Henrik Hemmingsen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger det løser da ingen klimaproblemer. Når vi skal købe en ny bil i 2030 skal vi så skrotte vores “gamle” hybridbiler, købt i år. Eller sælge den til Jylland eller Polen? Der gavner muligvis luftforureningen. Kommunerne omkring vil ikke være med. Så jeg tror heller ikke at Christiansborg vil være med til at borgere/biler skal spærres inde på Frederiksberg.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dan Ysnæs",
+      "authorId": "dysnes",
+      "timeLabel": "Kommentar fra Dan Ysnæs for 15 uger siden",
+      "text": "Super ide! Men sørg nu for at have faciliteter klar til de nye vilkår! Ved de store indfaldsveje skal der være parkeringshuse og mulighed for at fortsætte transporten ind mod målet med offentlig transport kombineret med cykler.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Michael Birkkjær LauritsenDan Ysnæs",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Michael Birkkjær Lauritsen på Dan Ysnæss kommentar for 15 uger siden",
+      "text": "Dan Ysnæs ikke hvis målet er business as usual, bare med el",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan YsnæsMichael Birkkjær Lauritsen",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Michael Birkkjær Lauritsens kommentar for 15 uger siden",
+      "text": "Michael Birkkjær Lauritsen Så bliver der problemer, for der vil være mange der ikke er på El til den tid..",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMichael Birkkjær",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Michael Birkkjær Lauritsens kommentar for 15 uger siden",
+      "text": "Michael Birkkjær, vi kan ikke løse alle problemer på een gang - nu starter vi lige med klimakrisen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Henrik HemmingsenRasmus Steenberger",
+      "authorId": "henrik.hemmingsen",
+      "timeLabel": "Svar fra Henrik Hemmingsen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger fortæl lige hvordan klimakrisen bliver løst at København ikke må have fossildrevne biler? Vi der lige har købt hybridbiler skal vel ikke skrotte dem i 2030, de bliver vel solgt, og den slags burde løses nationalt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jesper Elmholt Gísli",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Kommentar fra Jesper Elmholt Gísli for 15 uger siden",
+      "text": "\nDet må føles godt i maven.\nTillykke!\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJesper",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Hvordan bliver det symbolpolitik, når det har en helt konkret og målbar effekt, og bidrager til at løse menneskehedens største krise, Jesper?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliRasmus Steenberger",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Fordi det kun i praksis bidrager til god mavefornemmelse. Ligesom når man i godhedens navn laver streetbasket-projekter og rap-indspilninger i integrationens navn når det kommer til unge med indvandrerbaggrund.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev KragJesper Elmholt Gísli",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper Elmholt Gísli men du regner jo her kun men en bundlinje. Miljøet bliver entydigt bedre af at der kører færre maskiner rundt og udleder i det. Så selv om man kan have sin kritik af at det nu bliver billigere at være bilejer (hvilket er en fair kritik), så kan man glædes over et bedre miljø. Og også håbe på et bedre klima på den konto. Et håb, der er bakket op af evidens",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Bettine Værum ChristiansenRasmus Steenberger",
+      "authorId": "bettine.christiansen.9",
+      "timeLabel": "Svar fra Bettine Værum Christiansen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nOverbefolkning på kloden er klimaproblem nr. 1 start med afgifter på 2. 3. barn osv.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoBettine",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Bettine Værum Christiansens kommentar for 15 uger siden",
+      "text": "Hej Bettine, jeg har ikke magt til at diktere noget som helst - det er en samlet borgerrepræsentation der har besluttet. Alle folkets repræsentanter.\nHvad angår parkering, er det jo nærmest gratis at parkere sin elbil i København.\nBefolkningspolitik - der må jeg henvise til Folketinget. Det beskæftiger kommunen sig ikke med.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliTroels-Henrik Balslev Krag",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "Troels-Henrik Balslev Krag Jeg tænker overhovedet ikke på økonomi eller økonomisk bundlinje. Hvis jeg tænker på bundlinje, så er det udelukkende ift grønt regnskab og klima-bundlinje. Jeg medgiver at luftforureningen givetvis bliver markant mindre rundt om Søerne, når der udelukkende køres på el og dermed ingen udstødning af skadelige partikler. Det er godt!\nMen det er også den eneste gevinst, og den er udelukkende lokal.\nEt langt større internationalt tryk og lovgivning er eneste reelle løsninger for et virkeligt resultat på klima-bundlinjen!\nOg her kunne og burde vi tage atomkraft med i puljen. Så skal du fandeme se resultater på CO2- og klimabundlinjen!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev KragJesper Elmholt Gísli",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper Elmholt Gísli næh, atomkraft burde vi ikke tage med, når det tager så lang tid at etablere og i øvrigt stadig har de problemer, det altid har haft.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliTroels-Henrik Balslev Krag",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "Troels-Henrik Balslev Krag\nJeg tænker at vindmøller og sol vil tage mindst lige så lang tid før målene er nået - og er du klar over hvor meget der skal til? = Danmark plastres til..!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Bettine Værum ChristiansenRasmus Steenberger",
+      "authorId": "bettine.christiansen.9",
+      "timeLabel": "Svar fra Bettine Værum Christiansen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nMen er det faktabaseret ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev KragJesper Elmholt Gísli",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper Elmholt Gísli vi taler tidligst om 30 år, hvis vi taler A-kraft (baseret på finnernes erfaringer). På de 30 år er vi altså i mål med det vedvarende. Og formodentlig P2X også.\nDrømmen om A-kraft er selvfølgelig smuk, men må forblive en drøm i en dansk kontekst...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliTroels-Henrik Balslev Krag",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "Troels-Henrik Balslev Krag Med mindre vi konverterer eksisterende værker til A-kraft, så tar det cirka syv år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev KragJesper Elmholt Gísli",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper Elmholt Gísli det er igen drømme og ikke nogle reelle planer, der er set eksekveret med 'de syv år'.\nDet er noget af det, der er ret frustrerende i debatten om A-kraft:\n- det ses ofte som en 'snydekode' og trylle-trylle-trylle så har danskere pludselig bøjet fysikkens (og de menneskelige) love.\nDet ER en smuk drøm. Men igen; må forblive sådan. Vi er for sent ude og vi kan nå så meget mere vedvarende på de 30 år...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliTroels-Henrik Balslev Krag",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "Troels-Henrik Balslev Krag og det fossilfri trafik i København ikke?!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev KragJesper Elmholt Gísli",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper Elmholt Gísli vi bliver nødt til at invitere bare lidt fakta ind i debatten. Fossilfri København har vi jo etableret som en god ide. Der er vi ikke uenige; miljøet vinder.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliTroels-Henrik Balslev Krag",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "Troels-Henrik Balslev Krag\nEnig.\nSom jeg har sagt i mange år som journalist og chefredaktør; “Der er intet som fakta, der kan ødelægge en god historie!”\n",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliTroels-Henrik Balslev Krag",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "Troels-Henrik Balslev Krag",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev KragJesper Elmholt Gísli",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper Elmholt Gísli det er fakta. Men jo super vigtigt. Alternativet er...?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Troels-Henrik Balslev Krag",
+      "authorId": "troelshenrik.krag",
+      "timeLabel": "Svar fra Troels-Henrik Balslev Krag på Troels-Henrik Balslev Krags kommentar for 15 uger siden",
+      "text": "I øvrigt er det kun et spørgsmål om tid før Kina kommer med: de har gjort det med to-takters i byen, der blev forbudt fra dag til dag.\nTingene går stærkt i lande, hvor man ikke benytter demokratiske processer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Rune Duban Grandal",
+      "authorId": "rune.grandal",
+      "timeLabel": "Kommentar fra Rune Duban Grandal for 15 uger siden",
+      "text": "SÅ fedt!!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Michael Benja Thomassen",
+      "authorId": "michael.lyd",
+      "timeLabel": "Kommentar fra Michael Benja Thomassen for 15 uger siden",
+      "text": "Hvis alle skal over på elbiler, så skal i måske til at undersøge hvor meget kobber der skal graves ned i jorden for at få det hele til at fungere.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 13,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Thomas AlsbirkMichael Benja Thomassen",
+      "authorId": "thomas.alsbirk",
+      "timeLabel": "Svar fra Thomas Alsbirk på Michael Benja Thomassens kommentar for 15 uger siden",
+      "text": "Michael Benja Thomassen e-fuel kan i teorien gøres markant mere klima-neutral, men partikel forureningen (som dræber op til 1000 københavnere om året) slipper man ikke for.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMichael",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Michael Benja Thomassens kommentar for 15 uger siden",
+      "text": "Hej Michael, fint at du er irriteret. Planen er kort fortalt:\n-massiv udbygning af ladestandere (og elnettet, som følge heraf. Radius Elnet siger at det kan de godt nå)\n- markedsdialog med varebilsproducenter og lastbilproducenter, brancheforeninger mv for at finde en realistisk, senere slutdato for den type køretøjer\n- generel åbenhed for justering af tilgangen i løbet af de kommende 7 år",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 14,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækMichael Benja Thomassen",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Michael Benja Thomassens kommentar for 15 uger siden",
+      "text": "Michael Benja Thomassen\nSpørgsmålet - eller et af dem - er hvad der skal til for at benzin er fossilfri. Er et certifikat nok lige som til natur/biogas?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerJakob",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jakob Soland Engbæks kommentar for 15 uger siden",
+      "text": "Med fossilfri mener vi reelt: køb en elbil eller brintbil, Jakob",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Thomas AlsbirkRasmus Steenberger",
+      "authorId": "thomas.alsbirk",
+      "timeLabel": "Svar fra Thomas Alsbirk på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Rasmus pas nu på\nMed at give fripas til ladestander firmaerne! Pt tager E.on eks 5-10 gange mere for strømmen end spotprisen incl. afgift og tarif! Ågerpriser og tvang for folk der ikke kan lade hjemme. I er nødt til at regulere det så man betaler spotpris + et rimeligt gebyr til dem der sætter standere op, så der stadig er et encitament for at lade når strømmen er grøn/billig. Lige nu inducerer offentlige standere med flad (høj) pris det modsatte",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækRasmus Steenberger",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nOk\nMovia skelner og vil have 50 % emmisionfri og 50 % fossilfri i 2030. - så nogen vil måske misforstå, hvis ikke I er endnu mere tydelige. -",
+      "hasMedia": true,
+      "mediaAltText": "Miljø, klima, Grøn omstilling",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Michael Benja ThomassenRasmus",
+      "authorId": "michael.lyd",
+      "timeLabel": "Svar fra Michael Benja Thomassen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Du behøver ikke at gøre det kort fortalt. Kort fortalt er overskifterne, jeg har brug for reel information. Eller er det klassificerede pdf’er og powerpoints for specielt indviede politikere?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoThomas",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Thomas Alsbirks kommentar for 15 uger siden",
+      "text": "Tak for gode pointer, Thomas",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMichael",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Michael Benja Thomassens kommentar for 15 uger siden",
+      "text": "Hej Michael, vi har sat forvaltningen i gang med at lave analyser og de vender retur inden årets udgang . Så der kommer alle de Power points og PDFer.\nVi har særligt bedt dem kigge på den sociale slagside, og hvad vi kan gøre ved den.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækRasmus Steenberger",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nDer er også en socialslagside ved at bo op ad en forurenende vej. De billige grunde til billige boliger har det netop med at ligge op ad en befærdet vej.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Linda MathiesenMichael Benja Thomassen",
+      "authorId": "linda.mathiesen.94",
+      "timeLabel": "Svar fra Linda Mathiesen på Michael Benja Thomassens kommentar for 14 uger siden",
+      "text": "Michael Benja Thomassen https://klimarealisme.dk/2022/08/11/kobber-en-mangelvare/",
+      "hasMedia": true,
+      "mediaAltText": "Kobber – en mangelvare?",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Louise Høyer",
+      "authorId": "louise.hoyer1",
+      "timeLabel": "Kommentar fra Louise Høyer for 15 uger siden",
+      "text": "Men ved vi, om det reelt er den mest bæredygtige løsning? Altså hvis man kigger på både produktion, drift, levetid og ikke mindst bortskaffelse/genanvendelse?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Thomas AlsbirkLouise Høyer",
+      "authorId": "thomas.alsbirk",
+      "timeLabel": "Svar fra Thomas Alsbirk på Louise Høyers kommentar for 15 uger siden",
+      "text": "Louise Høyer ja, en moderne elbil skal kun køre 25.000km før den er bedre for klimaet end en fossilbil hvis det hele regnes med.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Louise HøyerThomas Alsbirk",
+      "authorId": "louise.hoyer1",
+      "timeLabel": "Svar fra Louise Høyer på Thomas Alsbirks kommentar for 15 uger siden",
+      "text": "Thomas Alsbirk hvor finder man troværdig info om emnet? Jeg spørger, fordi den info jeg selv har søgt peger i vidt forskellige retninger, så jeg er oprigtigt forvirret",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Thomas AlsbirkLouise Høyer",
+      "authorId": "thomas.alsbirk",
+      "timeLabel": "Svar fra Thomas Alsbirk på Louise Høyers kommentar for 15 uger siden",
+      "text": "Louise Høyer her F.eks https://fdel.dk/.../er-elbiler-overhovedet-miljoerigtige/ eller på klimatrådets hjemmeside",
+      "hasMedia": true,
+      "mediaAltText": "Er elbiler overhovedet miljørigtige? | Elbilforeningen i Danmark",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kurt Flemming Løfquist",
+      "authorId": "tryllekurt",
+      "timeLabel": "Kommentar fra Kurt Flemming Løfquist for 15 uger siden",
+      "text": "Jeg er bestemt heller ikke med på vognen, det er komplet latterligt, i dag er der sådan set ikke nogle biler der forurener, men man presser os til at skulle købe elbil, noget af det dårligste valg man kan give, jeg vil aldrig købe en elbil, jeg køber gerne en bil der kører på brint, men ikke før prisen er i orden og man kan tanke mange flere steder, indtil da så må I simpelthen stoppe med hetzen mod benzinbiler, det er helt ude i hampen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerKurt",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Kurt Flemming Løfquists kommentar for 15 uger siden",
+      "text": "Hej Kurt, den største kilde til CO2-udledning i København er vejtrafikken",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Susanne MøllerKurt Flemming Løfquist",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Susanne Møller på Kurt Flemming Løfquists kommentar for 15 uger siden",
+      "text": "Kurt Flemming Løfquist",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Kurt Flemming LøfquistRasmus Steenberger",
+      "authorId": "tryllekurt",
+      "timeLabel": "Svar fra Kurt Flemming Løfquist på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger produktionen af en elbil i snit udleder knap ni tons CO2, mens det tilsvarende tal for benzinbiler kun er omtrent 5,5 tons CO2. Den udleder mindre ved kørsel ja, men har man kigget på hvad der sker under produktionen af batterierne?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Kurt Flemming LøfquistRasmus Steenberger",
+      "authorId": "tryllekurt",
+      "timeLabel": "Svar fra Kurt Flemming Løfquist på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger https://illvid.dk/.../elbil-starter-bagest-i-klimaraeset",
+      "hasMedia": true,
+      "mediaAltText": "Videnskabens dom: Hvor klimavenlig er elbilen?",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Alexander Lindholmer Nepper",
+      "authorId": "alexander.h.nepper",
+      "timeLabel": "Kommentar fra Alexander Lindholmer Nepper for 15 uger siden",
+      "text": "Her i Arenakvateret i Ørestaden hvor Kommunens P-firma By&Havn har monopol er der 1 ladestander på de to forskellige parkeringspladser, altså end ikke en på hver.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoAlexander",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Alexander Lindholmer Neppers kommentar for 15 uger siden",
+      "text": "Hej Alexander - det er skam også en central del af forslaget: at kommunen skal tilvejebringe et tilstrækkeligt antal ladestandere i alle bydele inden 2030",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Alexander Lindholmer NepperRasmus Steenberger",
+      "authorId": "alexander.h.nepper",
+      "timeLabel": "Svar fra Alexander Lindholmer Nepper på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger jeg er helt enig i målet om at vi alle skal kører på el, så hurtigt det et muligt. Så lad os skrue tiden 7 år frem, der har jeg forhåbenligt stadig min bil, fordi jeg reelt nu ikke havde mulighed for el. Skal jeg tvinge til at skrotte den for at kører i til mit eget hus. Det ansvarlige er jo at bruge ting der allerede er produceret på før man køber nyt. Jeres plan bør være inddelt. 1. Alle skal have mulighed for at vælge el (fx 2027) 2. Forbud mod indregistrering af nye forbrændingsmotorer fx 2028 3. Forbud mod at kører i dem fx 2040 (eller en bils gennemsnitlige levetid efter trin 1…. Og fri rooming på ladestandere så man ikke i Ørestaden tvinges til kun den udbyder By&Havn tilbyder, som reelt giver monopol og dårligere økonomisk incitament til at skifte til el. Som politiker er der desværre meget arbejde endnu før de store visionære symbolpolitiske udmeldinger.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerAlexander",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Alexander Lindholmer Neppers kommentar for 15 uger siden",
+      "text": "Hej Alexander, jeg forstår totalt meget dit dilemma. Vi har lige skrottet vores fossilbil herhjemme og er i tænkeboks om hvad vi gør nu. Tester blandt andet delebiler.\nDer er en del ting vi ikke kan som kommune i dag, og en af dem er registrerings-delen.\nMit håb er at vores “visions-beslutning” får ministeren til at vågne op og lave en tidligere slutdato for nyvalg, som du nævner.\nOg at han også giver mulighed for økonomisk hjælp til konvertering til elbil for alle dem der har de nyeste fossilbiler.\nFor ja, det er da for slapt med så få ladestandere. Og det kommer til at tage nogle år at få den store volumen op at stå.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Alexander Lindholmer Nepper",
+      "authorId": "alexander.h.nepper",
+      "timeLabel": "Svar fra Alexander Lindholmer Nepper på Alexander Lindholmer Neppers kommentar for 15 uger siden",
+      "text": "Tak for dit ærlige svar. Denne diskussion er nemlig fuldt med dilemmaer, og for mange familier er bilen blandt de største investeringer de laver.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Robert NielsenRasmus Steenberger",
+      "authorId": "robert.nielsen.948",
+      "timeLabel": "Svar fra Robert Nielsen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Har du nogen ide om hvad det vil koste? Og skal kommunen borgere også betale for ladestanderne - samtidig med at bilen skal skiftes ud.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Thomas AlsbirkRasmus Steenberger",
+      "authorId": "thomas.alsbirk",
+      "timeLabel": "Kommentar fra Thomas Alsbirk for 15 uger siden",
+      "text": "Det er stærkt i tør gøre det rigtige Rasmus Steenberger selvom det er upopulært, men det er bare uacceptabelt at så mange dør og bliver syge af partikelforurening her i vores by og det giver et markant mindre klimaaftryk. Mon ikke også det får endnu flere op på cyklen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 8,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "SF København",
+      "authorId": "sfkbh",
+      "timeLabel": "Svar fra SF København på Thomas Alsbirks kommentar for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækThomas Alsbirk",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Thomas Alsbirks kommentar for 15 uger siden",
+      "text": "Thomas Alsbirk\nPartikeludledningen er den samme fra fossilfri benzin som fra fossil benzin. Egenskaberne bed benzinen skal netop være den samme.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerJakob",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jakob Soland Engbæks kommentar for 15 uger siden",
+      "text": "Men carbon-fri benzin findes jo ikke, Jakob - så er det brint du skal gå efter",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækRasmus Steenberger",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nJeg må finde hvad I præcis har vedtaget.\nRapsolie er fossilfri men ja, der indeholder kulstof, ikke fossilt kulstof men kulstof.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mikkel W. A. Bæch-Laursen",
+      "authorId": "mikkelwabl",
+      "timeLabel": "Kommentar fra Mikkel W. A. Bæch-Laursen for 15 uger siden",
+      "text": "Så syntetisk fuel er også en mulighed?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMikkel",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Mikkel W. A. Bæch-Laursens kommentar for 15 uger siden",
+      "text": "I guess, Mikkel - men det vil næppe være økonomisk. Carbon-baserede synt-fuels er No-Go",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækRasmus Steenberger",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nHvorfor det? Det kan jo være kulstof fra planter.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerJakob",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jakob Soland Engbæks kommentar for 15 uger siden",
+      "text": "Carbon er stadig Carbon, Jakob - og når det ender i atmosfæren får vi global opvarmning",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jakob Soland EngbækRasmus Steenberger",
+      "authorId": "jengbaek",
+      "timeLabel": "Svar fra Jakob Soland Engbæk på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nKan du hjælpe med at finde ud af hvor jeg kan læse, at dieselbiler på rapsolie begrænses af et forbud mod kørsel på fossilebrandstoffer ?",
+      "hasMedia": true,
+      "mediaAltText": "Medlemsforslag om at Københavns Kommune skal arbejde for et fuldstændigt forbud for fossil kørsel senest i 2030",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Mikkel W. A. Bæch-LaursenRasmus Steenberger",
+      "authorId": "mikkelwabl",
+      "timeLabel": "Svar fra Mikkel W. A. Bæch-Laursen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger hvad er holdningen til produktion/afviklingen af elbiler og afgiftssystemet?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dan Vork Stokholm",
+      "authorId": "dan.stokholm",
+      "timeLabel": "Kommentar fra Dan Vork Stokholm for 15 uger siden",
+      "text": "Er der nogen der har regnet på hvad CO2 bidraget er for alle de biler der nu skal skiftes ud...måske et forbud mod erhvere sig nye fossil brændstofsbiler, men at skrotte de mange fine biler til fordel for tunge batteribiler. Jeg undres!!!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Dan Vork Stokholms kommentar for 15 uger siden",
+      "text": "Hej Dan - så længe der er gode afsætningsmuligheder for brugte fossilbiler er det vel ikke det allerstørste problem, i en samfundsøkonomisk betragtning. Fordi de nok skal blive brugt op, omend et andet og mindre ambitiøst sted.\nMen for den enkelte husstand, udgør det et dilemma. Helt klart, og det skal vi tage meget alvorligt.\nVi har sat forvaltningen til at se nærmere på mulige overgangsordninger. Så det klare signal herfra: køb ikke nye fossilbiler. Og så går vi i arbejdstøjet på alle de problemer der melder sig i overgangstiden",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Peer Emil ChristensenRasmus Steenberger",
+      "authorId": "profile.php",
+      "timeLabel": "Svar fra Peer Emil Christensen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nSå i fløjten med den globale opvarming ? Afsætningsmuligheder ? Altså at den fossil drevne bil ender i en andet land ændrer vel ikke på den globale opvarmning.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerPeer Emil Christensen",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Peer Emil Christensens kommentar for 15 uger siden",
+      "text": "Jo fordi det ændrer det samlede køb af nye fossilbiler Peer Emil Christensen",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan Vork StokholmRasmus Steenberger",
+      "authorId": "dan.stokholm",
+      "timeLabel": "Svar fra Dan Vork Stokholm på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger jeg gad stadig godt se regnestykket for verdenssamfundet, og ikke bare for København på en lyserød sky, men det lyder som om vi bare skal se godt ud og være glansbilledet.\nJeg er stor tilhænger af at bruge og vedligeholde det man køber…ikke bare smide ud og købe nyt. Gælder også biler.\nTænker også det er mængden af biler der er problemet i københavn, måske man skulle belønne københavnere uden biler",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Erik Palvig",
+      "authorId": "erik.palvig",
+      "timeLabel": "Kommentar fra Erik Palvig for 15 uger siden",
+      "text": "Det lyder som en ulovlig ekspropriation",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoErik Palvig",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Erik Palvigs kommentar for 15 uger siden",
+      "text": "Det er en lovhjemlet udvidelse af miljøzonerne Erik Palvig",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Erik PalvigRasmus Steenberger",
+      "authorId": "erik.palvig",
+      "timeLabel": "Svar fra Erik Palvig på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenbergerhele byen? Nej. Det er en overtolkning",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerErik Palvig",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Erik Palvigs kommentar for 15 uger siden",
+      "text": "Er du jurist i miljøministeriet, Erik Palvig ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Kommentar fra SF Amager KBH for 15 uger siden",
+      "text": "Godt at det lykkedes",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 5,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Holmbladsgade-kvarteret",
+      "authorId": "bedretrafikiholmbladsgade",
+      "timeLabel": "Svar fra Holmbladsgade-kvarteret på SF Amager KBHs kommentar for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Søren Andersen",
+      "authorId": "sor.andersen",
+      "timeLabel": "Kommentar fra Søren Andersen for 15 uger siden",
+      "text": "Spændende - bliver det i hele København eller kun indre by/bestemte miljøzoner, ved du det Rasmus?\n-Jeg tænker her lidt på de varebiler, håndværkere mv som skal ind med varer i byen, til butikkerne osv - og ikke mindst hvad med alle lastbilerne til og fra Lynetteholmen?\n(Altså hvis det kommer til at gælde hele København?)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerSøren",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Søren Andersens kommentar for 15 uger siden",
+      "text": "Hej Søren, jeg tror vi er nødt til at køre i tre spor:\n- et spor med personbiler (2030)\n- et spor med varebiler (snarest derefter, kræver analyse)\n- et spor med lastbiler (fx jord til Lynetteholm, her er By og Havn i intens dialog med de store firmaer om at få ellastbiler prøvet af, så vi kan blive klogere på hvad der kan lade sig gøre hvornår. Det er et felt i rivende udvikling)",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Søren AndersenRasmus Steenberger",
+      "authorId": "sor.andersen",
+      "timeLabel": "Svar fra Søren Andersen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Mange Tak for update og svar Det bliver en spændende proces at følge med i og rigtig godt forår",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerSøren",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Søren Andersens kommentar for 15 uger siden",
+      "text": "I lige måde, Søren",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jens Rasmussen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jens Rasmussen for 15 uger siden",
+      "text": "Jeg ved godt, at det er svært at spå om fremtiden, men jeg kunne tænke mig, at om 10 år vil brintbiler overtage markedet af fossilfri biler og der vil i årerne efter måske stå tusindvis af ikke benyttede lade standere.\nFDM skrev i 2020 - at på samme måde, som vi i disse år oplever det helt store gennembrud for batteridrevne elbiler, forventer store dele af bilindustrien, at vi vil komme til at opleve en tilsvarende bølge for brintbilen omkring år 2030. Altså om ca. 10 år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jens Rasmussens kommentar for 15 uger siden",
+      "text": "Hej Jens - det kan sagtens være at det sker. Men lige nu er brint hverken grønt eller rentabelt. Der er for stort energitab i produktionsledet.\nVi har en klimakrise der skal fixes, og her er elbiler det mest oplagte lige nu. Så må vi jo se, hvad fremtiden bringer, så længe vi er enige om at fossile biler er fortiden.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Michael Toppenberg",
+      "authorId": "michael.toppenberg",
+      "timeLabel": "Kommentar fra Michael Toppenberg for 15 uger siden",
+      "text": "Hvis enhver vision skal basere sig på kendte reduktioner og manglende erkendelse af videnskabelige possibiliteter kan vi lige så godt alle sammen investere i to trækkokser...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus Steenberger",
+      "authorId": "steenbergerSF",
+      "timeLabel": "Svar fra Rasmus Steenberger på Michael Toppenbergs kommentar for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Peer Emil Christensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Peer Emil Christensen for 15 uger siden",
+      "text": "Har man nogen beregninger for hvor meget det forurener det globale miljø at producere lithium batterier og hvordan de kan undgå at forurene, når de ikke længere kan bruges.\nDer går vel også en del energi til ved produktionen af de fantastiske el biler som måske ikke kan bruges i ret mange år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoThomas Alsbirk",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Peer Emil Christensens kommentar for 15 uger siden",
+      "text": "- måske Thomas Alsbirk vil hjælpe med relevante links her?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Peer Emil Christensen",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Peer Emil Christensen for 15 uger siden",
+      "text": "Rasmus dit ordvalg og måden du skriver det på er utroligt provokerende. Hvad vi må som dine medborgere er heldigvis ikke op til dig og din diktator formulering.\nEn øl på højkant på at du ikke får ret i dette statement selvom jeg også gerne vil redde planeten så tænker vi bare meget forskelligt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoPeer Emil",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Peer Emil Christensens kommentar for 15 uger siden",
+      "text": "Hej Peer Emil, vildt nok at du kalder mig diktator, når forslaget er vedtaget af alle partierne i Borgerrepræsentationen. Så slap lige af.\nHvad er din løsning på at reducere Købehavns CO2-udledning?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lars Bohn",
+      "authorId": "lars.bohn.9",
+      "timeLabel": "Kommentar fra Lars Bohn for 15 uger siden",
+      "text": "Tag toget. Hvis alle gør det, bliver der basis for en voldsom udbygning af metro, tog og letbaner, og langt færre skal dø for tidligt af sygdomme forårsaget af luftforurening.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Grønnere Amager",
+      "authorId": "gronnereamager",
+      "timeLabel": "Svar fra Grønnere Amager på Lars Bohns kommentar for 15 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Heidi Astrup",
+      "authorId": "heidi.astrup.94",
+      "timeLabel": "Kommentar fra Heidi Astrup for 15 uger siden",
+      "text": "Og hvad med dem, der ikke har råd til at købe el/hybridbil ? Det her går ud over folk med færrest penge",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoHeidi",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Heidi Astrups kommentar for 15 uger siden",
+      "text": "Hej Heidi, jeg vil skyde på der kommer en overgangsordning. Vi har sat kommunens forvaltning i gang med en analyse, som skal hjælpe os til at beslutte den endelige model inden årets udgang",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Heidi AstrupRasmus Steenberger",
+      "authorId": "heidi.astrup.94",
+      "timeLabel": "Svar fra Heidi Astrup på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger og nu er der jo 7 år til 2030, men fattige bilister skal ikke ekskluderes. Forhåbentligt løser tiden problemet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoHeidi",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Heidi Astrups kommentar for 15 uger siden",
+      "text": "Der sker i al fald store prisfald hele tiden, Heidi",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jonas Juul HjorthRasmus Steenberger",
+      "authorId": "jonashjorth",
+      "timeLabel": "Kommentar fra Jonas Juul Hjorth for 15 uger siden",
+      "text": "Siden du Rasmus Steenberger skrev om det i onsdags har jeg tygget lidt på det.\nJeg kiggede en masse på tal.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 9,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJonas",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Hej Jonas, mit bærende argument er klimakrisen. Det har det været siden 2017, da jeg stillede op til kommunalvalg første gang.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 20,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Mette West-PetersenRasmus Steenberger",
+      "authorId": "vulle.vonsen",
+      "timeLabel": "Svar fra Mette West-Petersen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Krydser fingre for, at dette argument kan blive springbræt for at få gjort noget ved brændeovne. (Og lufthavnen).",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan YsnæsJonas Juul Hjorth",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth Klassisk klapjagt? Så prøv at være cyklist...",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRasmus Steenberger",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\nGod pointe!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthDan Ysnæs",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Dan Ysnæss kommentar for 15 uger siden",
+      "text": "Dan Ysnæs Jeg er cyklist! Men husstanden har bil pga handicap i familien. Så dialogen er lidt ekstra sårbar.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalJonas Juul Hjorth",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth bilisterne er da fortsat velkomne i København",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRune Duban Grandal",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal\nMener ikke jeg skriver klapjagt?!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalJonas Juul Hjorth",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth du har da i hvert fald skrevet om en “klassisk klapjagt”",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRune Duban Grandal",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal\nDet er da Dan Ysnæs?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRune Duban Grandal",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalJonas Juul Hjorth",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth det kunne jeg da forstå, hvis bilerne blev helt afskåret fra at køre i KBH.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRune Duban Grandal",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal\nI et andet opslag af Rasmus redegører jeg for en masse statistik.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalJonas Juul Hjorth",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth der er vel ingen som har sagt, at de behøver skifte deres bil?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRune Duban Grandal",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rune Duban GrandalJonas Juul Hjorth",
+      "authorId": "rune.grandal",
+      "timeLabel": "Svar fra Rune Duban Grandal på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth hvordan skulle det så gøres anerledes?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Dan YsnæsJonas Juul Hjorth",
+      "authorId": "dysnes",
+      "timeLabel": "Svar fra Dan Ysnæs på Jonas Juul Hjorths kommentar for 15 uger siden",
+      "text": "Jonas Juul Hjorth Ok",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jonas Juul HjorthRune Duban Grandal",
+      "authorId": "jonashjorth",
+      "timeLabel": "Svar fra Jonas Juul Hjorth på Rune Duban Grandals kommentar for 15 uger siden",
+      "text": "Rune Duban Grandal\nJeg ville gennemtænke, gennemarbejde og generelt tænke mere på borgerne.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Ib Skaale ChristoffersenJonas Juul Hjorth",
+      "authorId": "ibskaale.christoffersen",
+      "timeLabel": "Svar fra Ib Skaale Christoffersen på Jonas Juul Hjorths kommentar for 14 uger siden",
+      "text": "Jonas Juul Hjorth Sh......brændeovne er fredede.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Dorthe la Cour",
+      "authorId": "dorthe.lacour",
+      "timeLabel": "Kommentar fra Dorthe la Cour for 15 uger siden",
+      "text": "Har man Overvejet de samlede samfundsomkostninger ved dette . Vugge til grav udgifter i forbindelse med produktion af og afskaffelse af elbiler ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoDorthe",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Dorthe la Cours kommentar for 15 uger siden",
+      "text": "Hej Dorthe. Vi har sat kommunens forvaltning i gang med en analyse, som skal vise de forskellige dilemmaer som visionen rummer. Det skal hjælpe os til at beslutte den endelige model inden årets udgang. Ud fra de data jeg kan finde vil forslaget have en positiv samfundsmæssig effekt, alene i form af langt lavere dødelighed i København som følge af mindre luftforurening",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Igor HolasDorthe la Cour",
+      "authorId": "hotpinkpants",
+      "timeLabel": "Svar fra Igor Holas på Dorthe la Cours kommentar for 15 uger siden",
+      "text": "Dorthe la Cour du har ret. de samfundsøkonomiske omkostninger ved biler (elektriske eller ej) er for høje. Vi bør forbyde alle biler i byen. At tillade elbiler er politikerne bløde på billister",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jesper Bo Seidler",
+      "authorId": "jesper.seidler",
+      "timeLabel": "Kommentar fra Jesper Bo Seidler for 15 uger siden",
+      "text": "Det er nok en postgang for tidligt - desuden hvordan kan København tage en beslutning som betyder at Frederiksberg lukkes inde spm Vestberlin ? Nå ja i gammel kommunister og salon socialister hylder jo fortsat undertrykkelse\nEndvidere så bliver Dragør og Tårnby kommunes borgere og bilister ramt af jeres forbud - fordi vi skal jo også gennem Ørestad og København\nPs har elbil - arbejder for en seriøs omstilling - men den skal gøres i respekt for alle",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJesper",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jesper Bo Seidlers kommentar for 15 uger siden",
+      "text": "Hej Jesper, en del af forslaget er at vi nu har sat kommunens forvaltning i gang med en masse undersøgelser om netop den typer problemer du nævner.\nFor de skal naturligvis løses. Jeg vil dog sætte pris på at du ikke kalder mig kommunist, for det er jo løgn. Særligt på en baggrund af, at alle partierne i Borgerrepræsentationen har stemt for forslaget",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 4,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jesper Bo SeidlerRasmus Steenberger",
+      "authorId": "jesper.seidler",
+      "timeLabel": "Svar fra Jesper Bo Seidler på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger det er så fint ikke at kalde dig kommunist (og beklager hvis jeg har stødt dig) - men SF er dog stiftet af udbrydere af DKP som Aksel Larsen mv - der alle var meget tro mod Stalin i 30’erne og 40’erne - så derfor tænker jeg på SF som partiet der forsøger at blive stuerene\nPs at alle partier har stemt for - viser blot hvor ynkelig den politiske situation er i København",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Frode Benedikt NielsenJesper Bo Seidler",
+      "authorId": "frode.nielsen.5",
+      "timeLabel": "Svar fra Frode Benedikt Nielsen på Jesper Bo Seidlers kommentar for 15 uger siden",
+      "text": "Jesper Bo Seidler, i første omgang handler det om politik - et reelt forbud har ingen gang på jord uden Christiansborg",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Linda MathiesenRasmus Steenberger",
+      "authorId": "linda.mathiesen.94",
+      "timeLabel": "Svar fra Linda Mathiesen på Rasmus Steenbergers kommentar for 14 uger siden",
+      "text": "Rasmus Steenberger masser af analyser og undersøgelser, ja det er jo også en måde at beholde sit job på. Hvor skal al den strøm komme fra til bilerne ?? Kobber osv til ledningerne ?\nHar selv el-bil, stress når man er på langfart, er der ledigt ved næste ladestation…….bruger alt for lang tid på at lade…..",
+      "hasMedia": true,
+      "mediaAltText": "Kobber – en mangelvare?",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoLinda",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Linda Mathiesens kommentar for 14 uger siden",
+      "text": "Hej Linda, Radius elnet oplyser at de sagtens kan nå at udbygge elnettet på 7 år",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Linda MathiesenRasmus Steenberger",
+      "authorId": "linda.mathiesen.94",
+      "timeLabel": "Svar fra Linda Mathiesen på Rasmus Steenbergers kommentar for 14 uger siden",
+      "text": "Rasmus Steenberger det er jo fint Radius mener det tager 7 år. Men er der nok kobber ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Preben Kastrup",
+      "authorId": "preben.kastrup.7",
+      "timeLabel": "Kommentar fra Preben Kastrup for 15 uger siden",
+      "text": "Når det at pudse sin (klima) glorie bliver vigtigere end både vores miljø og klima.",
+      "hasMedia": true,
+      "mediaAltText": "Dokumentar: Prisen på grøn energi - nejtil5g.dk",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Torsten MandalPreben Kastrup",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Svar fra Torsten Mandal på Preben Kastrups kommentar for 15 uger siden",
+      "text": "Preben Kastrup Elbiler er grønne hvis de bruges nok, og man bruger dansk strøm og ikke tysk strøm fra en forældet undersøgelse. Grønt, flydende brændsel vil nok være relevant i 2030 for mange der ikke kører ret meget og ikke køber ny bil.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Preben KastrupTorsten Mandal",
+      "authorId": "preben.kastrup.7",
+      "timeLabel": "Svar fra Preben Kastrup på Torsten Mandals kommentar for 15 uger siden",
+      "text": "Torsten Mandal Du mangler at inddrage hele elbilens miljøpåvirkning fra produktion til død.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Torsten MandalPreben Kastrup",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Svar fra Torsten Mandal på Preben Kastrups kommentar for 15 uger siden",
+      "text": "Preben Kastrup Nej, derfor skriver jeg det er grønt at skifte hvis man bruger dem en del, men hvis man har en fossil der ikke bruges dagligt kan grønt flydende brændsel måske være bedst og mindre dyrt. Personligt har jeg ikke brug for nogen bil.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Torsten MandalPreben Kastrup",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Svar fra Torsten Mandal på Preben Kastrups kommentar for 15 uger siden",
+      "text": "Preben Kastrup PS https://fdm.dk/.../her-er-35-myter-om-elbiler-faa-styr... gå til \"13. Elbiler er ikke bedre for klimaet end benzin- og dieselbiler\nFORKERT\" Her er tilmed brugt forældede Europæiske tal for strøms oprindelse og ikke nuværende og kommende danske.",
+      "hasMedia": true,
+      "mediaAltText": "Her er 35 myter om elbiler: Få styr på fup og fakta",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Linda MathiesenPreben Kastrup",
+      "authorId": "linda.mathiesen.94",
+      "timeLabel": "Svar fra Linda Mathiesen på Preben Kastrups kommentar for 14 uger siden",
+      "text": "Preben Kastrup hvad med prisen på et nyt batteri til bilen, det synes jeg ikke man hører så meget om ?? Fandt lige det her på Google :\nFor de billige elbiler kan du forvente en pris på ca. 60.000 kr. i dag. Det gælder altså for de biler, der har et batteri med op til 44 kW.\nTesla er over 100.000kr for er nyt batteri….. det glemmer de lige at fortælle når man køber bilen……",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Preben KastrupTorsten Mandal",
+      "authorId": "preben.kastrup.7",
+      "timeLabel": "Svar fra Preben Kastrup på Torsten Mandals kommentar for 14 uger siden",
+      "text": "Torsten Mandal Har løbet artiklen hurtigt igennem. Synes den fejlinformere temmelig meget. Lidt af la nu skal i have overbevidst jeres medlemmer. En taktik som stat og industri har brugt gennem snart mange år.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kristian Skaarup",
+      "authorId": "kristian.skaarup.39",
+      "timeLabel": "Kommentar fra Kristian Skaarup for 15 uger siden",
+      "text": "Hej Rasmus. Hvad hvis man kører på/i veteran motorcykel eller bil? Det er jo kun lejlighedsvis kørsel. Er de med i jeres tanker?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoKristian",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Kristian Skaarups kommentar for 15 uger siden",
+      "text": "Hej Kristian, det bliver en del af forvaltningen opgave at kigge på det - de skal levere en analyse inden årsskiftet",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Kirsten Elisabeth Eriksen",
+      "authorId": "kirsten.e.eriksen.1",
+      "timeLabel": "Kommentar fra Kirsten Elisabeth Eriksen for 15 uger siden",
+      "text": "Gælder det hele Kbh eller kun ‘inden for broerne’ / voldene?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "SF Amager KBH",
+      "authorId": "SFamager",
+      "timeLabel": "Svar fra SF Amager KBH på Kirsten Elisabeth Eriksens kommentar for 15 uger siden",
+      "text": "Det er som udgangspunkt hele kbh minus statsvejene, Kirsten - men den endelige afgrænsning skal ske ved en beslutning senere i år",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jesper Elmholt Gísli",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Kommentar fra Jesper Elmholt Gísli for 15 uger siden",
+      "text": "I det hele taget bør I politikere - røde som blå - i langt højere grad lægge vælgernes og ikke mindst jeres egne følelser til side. Der er alt for mange følelser i politik!! Det er dette et af mange eksempler på.\nKøbenhavn og Danmark har mange større opgaver foran os end at en by der er en tredjedel af Liverpool og en tiendedel af London skal være fossilfri i trafikken for klimaets skyld. Det ef følelser. Og de føles godt i maven. Også hos et stort flertal af vælgere i København - og så er den jo umiddelbart hjemme. Men er det dét I skal..?! Fylde maver med følelser?! :\nKøbenhavn som venskabsby med Kiev … fossilfri biltrafik i Stefansgade … 90% økologisk mad i daginstitutionernes køkken … og jeg kunne blive ved med politik baseret på gode følelser nede i maven.\nLøft jer ud af følelsernes vold og tag action på alle de sociale og menneskelige problemer vi har lige foran os hver dag. Veteraner der tager livet af sig i ensomhed, ludere der får symptombehandling på Vesterbro, og de ensomme mænd i Sydhavnen der efter et langt arbejdsliv med pligter og ret dør fattige og ensomme.\nDe store udfordringer for små og mellemstore virksomheder der slår Danmarksrekord i konkurser efter coronanedlukningen og ikke kan betale ågerkarle-lån tilbage til staten.\nFor ikke at tale om ytringsfrihed og undervisningsfrihed i skolerne, hvor frygt og afmagt gør skellet større mellem dem og os - hvor hensynet til muslimers sarte følelser står over alt, og ødelægger og eroderer folkeskolen, og sender de ressourcestærke ind i privatskolerne, og lader de fleste i stikken.\nTja, hvis bare sygemeldinger og dårligt arbejdsklima hos frygtsomme skolelærere fik bare en tiendedel af den opmærksomhed Onkel Reje får….",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJesper",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jesper Elmholt Gíslis kommentar for 15 uger siden",
+      "text": "Jesper, det er sgu lidt mere end følelser, at københavnerne dør af luftforurening.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jesper Elmholt GísliRasmus Steenberger",
+      "authorId": "jesper.elmholt.gisli",
+      "timeLabel": "Svar fra Jesper Elmholt Gísli på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Ja. Bestemt. Det medgiver jeg også, som du kan se i flere andre kommentarer.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret konto",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jesper Elmholt Gíslis kommentar for 14 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Mathilde Faber BendtsenRasmus Steenberger",
+      "authorId": "mathilde.faberbendtsen",
+      "timeLabel": "Kommentar fra Mathilde Faber Bendtsen for 15 uger siden",
+      "text": "Rasmus Steenberger\ndu glemte at svare på mit spørgsmål omkring min mors bil.\nmvh Mathilde",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoMathilde",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Mathilde Faber Bendtsens kommentar for 15 uger siden",
+      "text": "Hej Mathilde - det korte svar er, at jeg ikke har et svar. Vi venter på analysen fra kommunens forvaltning om mulige overgangsordninger, som fx din mors bil. Den kommer inden årets udgang.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Mathilde Faber BendtsenRasmus Steenberger",
+      "authorId": "mathilde.faberbendtsen",
+      "timeLabel": "Svar fra Mathilde Faber Bendtsen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger\njeg ved godt du Ikke har et svar til mig endu og i afventer analysen\nMen min mor er meget bekymret for hvordan hun skal kunne afhente brugt børnetøj fra både Frederiksberg og lyngby og kører det hen til sin mødrehjælps butik i Nørrebro lokalforening i Jægersborggade",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Torsten Mandal",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Kommentar fra Torsten Mandal for 15 uger siden",
+      "text": "Hvad hvis den bruger grønt brændstof? Det bliver nok billigere og grønnere i 2030 hvis der er efterspørgsel, og selv hvis det er dyrt kan det give mening hvis man ikke kører meget og har en fossil bil eller køber en brugt billigt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoTorsten",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Torsten Mandals kommentar for 15 uger siden",
+      "text": "Hvis der ikke er Carbon i brændslet, Torsten",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Torsten MandalRasmus Steenberger",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Svar fra Torsten Mandal på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Der kan da godt være carbon i hvis det er fra CO2 fangst med grøn energi til den meget energikrævende reduktion (det modsatte af oxidation = forbrænding). Det giver værdi til grøn overskudsstrøm og CO2 fangst, men koster og har som alt andet end elmotorer og kraftvarmeværker er der ca 2/3 varmespild.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Anette M. HansenTorsten MandalRasmus Steenberger",
+      "authorId": "anette.m.hansen.5",
+      "timeLabel": "Svar fra Anette M. Hansen på Torsten Mandals kommentar for 14 uger siden",
+      "text": "Torsten Mandal altså grønne brændsler er jo ikke fossile? Fossilt = hevet op fra jordens depoter og dannet af fortidens døde fossiler. Hvad end vi taler grøn strøm, grøn brint, biogas, methanol lavet på CCU eller andet, så er det jo ikke fossilt, og det udleder ikke fossil CO2 og må derfor være okay, Rasmus Steenberger?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Torsten MandalAnette M. Hansen",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Svar fra Torsten Mandal på Anette M. Hansens kommentar for 14 uger siden",
+      "text": "Anette M. Hansen Ja, men Rasmus skriver om \"fossile biler\" ikke fossile brændstoffer. Der kan være udfordringer med administration og hvor grønne grønne brændstoffer er og prisen, hvis man kører Det bliver også en udfordring at tvinge alle til at sælge deres forbrændingsmotor bil Polen, Rødovre, Frederiksberg el.lign. hvor den kan køre videre.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoTorsten Mandal",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Torsten Mandals kommentar for 14 uger siden",
+      "text": "Der er masser af udfordringer, Torsten Mandal - dem kigger vi på",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Torsten MandalRasmus Steenberger",
+      "authorId": "torsten.mandal",
+      "timeLabel": "Svar fra Torsten Mandal på Rasmus Steenbergers kommentar for 14 uger siden",
+      "text": "Rasmus Steenberger Godt, her er nogle nuancer, selvom de glemmer både eksisterende biler der ikke køres meget i, og mulighed for at lagreoverskudsstrøm i e-fuels. Energiforbruget ved at lave CO2 om til CH4 (metan) eller sprit er langt højere end til ren CO2, men det er jo også meningen med e-fuels at flytte energi ind i det der senere kan frigøres. https://www.euronews.com/.../what-are-e-fuels-and-can...",
+      "hasMedia": true,
+      "mediaAltText": "E-fuels: Are these synthetic fuels a good alternative to electric cars",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Jesper Hjort",
+      "authorId": "jesper.hjort.9",
+      "timeLabel": "Kommentar fra Jesper Hjort for 15 uger siden",
+      "text": "Det vil glæde mig endnu mere hvis KK vil forbyde den tunge trafik at køre på fossile brændstoffer, især den tunge trafik der skal køre til og fra katastrofe projektet Lynetteholmen helst fra imorgen men senest 2025!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoJesper",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Jesper Hjorts kommentar for 15 uger siden",
+      "text": "Hej Jesper, vi er i fuld gang med at undersøge muligheden for at konvertere til ellastbiler - men om det bliver i 2030 kan jeg ikke love",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Jesper HjortRasmus Steenberger",
+      "authorId": "jesper.hjort.9",
+      "timeLabel": "Svar fra Jesper Hjort på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger I stiller krav til jeres skatteydere at de SKAL omstille til grøn transport, men absolut ikke til DEN del af transport erhvervet der laver arbejde for KK. Tænk over det!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Jesper HjortRasmus Steenberger",
+      "authorId": "jesper.hjort.9",
+      "timeLabel": "Svar fra Jesper Hjort på Rasmus Steenbergers kommentar for 14 uger siden",
+      "text": "Rasmus Steenberger Hvis det er af helbredsmæssige årsager i vil gøre KK fossilbrændsel fri så må det også gælde de 1000-1200 tunge køretøjer der dagligt passere ad Stadsgraven til jeres katastrofe projekt “Lynetteholmen” at de også skal køre fossil frit!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Ib Skaale Christoffersen",
+      "authorId": "ibskaale.christoffersen",
+      "timeLabel": "Kommentar fra Ib Skaale Christoffersen for 15 uger siden",
+      "text": "Så herfra kommer den gamle dieselhakker til at holde til 2030, de sidste 7 år med partikelfilter, så satser jeg på der er kommet citybil i 100 procent el til den tid. Planen var ellers en Toyota Aygo benzin fra 2024, men den kan så kun bruges i 6 år før den skal skiftes, og det giver hverken mening økonomisk eller miljømæssigt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoIb",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Ib Skaale Christoffersens kommentar for 15 uger siden",
+      "text": "Hvad hvis du køber Aygoen brugt, Ib?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Ib Skaale ChristoffersenRasmus Steenberger",
+      "authorId": "ibskaale.christoffersen",
+      "timeLabel": "Svar fra Ib Skaale Christoffersen på Rasmus Steenbergers kommentar for 15 uger siden",
+      "text": "Rasmus Steenberger Køber altid nyt og bruger det til det er slidt op. Det er i orden med noget gammelt skrammel, hvis jeg også har haft det som nyt.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Lasse Bjergskov Jensen",
+      "authorId": "lasse.bjergskovjensen",
+      "timeLabel": "Kommentar fra Lasse Bjergskov Jensen for 15 uger siden",
+      "text": "Hvad hvis man har brug for en hybrid og kan dokumentere at man kun kører på el mellem bopælen og ud til statsveje?\nVi bor 3 km fra Øresundsmotorvejen og kører i forvejen stort set ikke i selve København. Men vi har brug for den fleksibilitet som forbrændingsmotoren giver.\nDer ud over:\nSørger I så for gratis pendlerparkeringer ude ved statsvejene? Der er mange mennesker uden for hovedstaden som arbejder inden for bygrænsen og de vil ikke alle kunne være i den offentlige transport.\nDer er nok også en hel del der vil få problemer hvis ikke f.eks. bedsteforældre der bor uden for byen kan komme på besøg og passe børn? Hvis man har små børn vil man vide at den slags ofte opstår ret akut, og vil koste massivt mere i barns sygedage. Den offentlige transport, særligt metroen, er jo i forvejen underdimensioneret og klaustrofobisk overfyldt i myldretiderne, og du kan ikke proppe flere derned.\nOg hvis I gør det SÅ svært at komme ind og ud af hovedstaden, så skal I vidst også ud at bede DSB om at købe endnu flere og endnu længere tog. Det har også en pris. Plus busser der binder byen sammen på kryds og tværs. Det vil betyde at I skal massivt gentænke den offentlige transport.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Ib Skaale ChristoffersenLasse Bjergskov Jensen",
+      "authorId": "ibskaale.christoffersen",
+      "timeLabel": "Svar fra Ib Skaale Christoffersen på Lasse Bjergskov Jensens kommentar for 14 uger siden",
+      "text": "Lasse Bjergskov Jensen Børneforældre skal da ud af København, ud til bedsteforældrene. Her arbejder vi lige på den millionindtægt flyttes til Rødovre Kommune, så kan jeg også komme på besøg med min dieselhakker.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bettine Værum ChristiansenRasmus Steenberger",
+      "authorId": "bettine.christiansen.9",
+      "timeLabel": "Kommentar fra Bettine Værum Christiansen for 15 uger siden",
+      "text": "Rasmus Steenberger man kan jo i den optik lade være med at frasælge dyre grunde til beboelse....og afgiftssætte 2. 3. og 4. barn ....Herved har folk ikke råd til at bosætte sig i København og må flytte til mindre befolkningstætte og billigere geografiske områder i Danmark. Herved løses også udkantsDanmarkproblemerne med lukning af købmænd, folkeskoler osv.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Linda Mathiesen",
+      "authorId": "linda.mathiesen.94",
+      "timeLabel": "Kommentar fra Linda Mathiesen for 14 uger siden",
+      "text": "Hvad med ældre eller gangbesværede mennesker der gerne vil køre bil, men ikke kan slæbe rundt på et ladekabel ?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoLinda",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Linda Mathiesens kommentar for 14 uger siden",
+      "text": "Det har vi best forvaltningen kigge nærmere på, Linda - men hvis man ikke kan skæve et ladekabel, kan man nok heller ikke tanke sin fossilbil?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Ib Skaale ChristoffersenLinda Mathiesen",
+      "authorId": "ibskaale.christoffersen",
+      "timeLabel": "Svar fra Ib Skaale Christoffersen på Linda Mathiesens kommentar for 14 uger siden",
+      "text": "Linda Mathiesen De skal da bare have en generator på tagbagebæreren, så er den ged barberet.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Walter Arnkov",
+      "authorId": "walter.arnkov",
+      "timeLabel": "Kommentar fra Walter Arnkov for 14 uger siden",
+      "text": "En bil kan være nødvendig i den udstrækning det offentlige transportsystem ikke længere dur pga. politikernes nedskæringer.\nOg SF stemte forresten for Lynetteholmen og tusindvis af diesellastbiler gennem København. Men CO2, NOx og partikler herfra bliver ikke medregnet i København's CO2 regnskab så det betyder ikke noget.\nHvad med at forbyde (krydstogt)skibe der sejler på svær og stærkt forurenende olie at lægge til i København? (i de få timer et krydstogtskib ligger til kaj udleder det mere skidt end 4000 personbiler).\nhttps://videnskab.dk/.../ny-beregning-luftforurening-fra.../",
+      "hasMedia": true,
+      "mediaAltText": "Ny beregning: Luftforurening fra krydstogtskibe i Danmark kan koste liv",
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Bo Kærsgaard",
+      "authorId": "bokaersgaard",
+      "timeLabel": "Kommentar fra Bo Kærsgaard for 14 uger siden",
+      "text": "Jeg tager gerne min diesel bil min ven, kun fordi batterierne er får svage i el biler",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Bo Kærsgaard",
+      "authorId": "bokaersgaard",
+      "timeLabel": "Svar fra Bo Kærsgaard på Bo Kærsgaards kommentar for 14 uger siden",
+      "text": "Tesla er ellers inde i vores overvejelser, men el biler, passer ikke i vores behov",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 1,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "authorName": "Rasmus SteenbergerVerificeret kontoBo",
+      "authorId": "rasmus.steenberger",
+      "timeLabel": "Svar fra Rasmus Steenberger på Bo Kærsgaards kommentar for 14 uger siden",
+      "text": "Hej Bo, handler det om rækkevidde?",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "authorName": "Bo Kærsgaard",
+      "authorId": "bokaersgaard",
+      "timeLabel": "Svar fra Bo Kærsgaard på Bo Kærsgaards kommentar for 14 uger siden",
+      "text": "Jeps, ville gerne have en bil med 7-800km",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "authorName": "Mahad YussufMahad YussufMahad Yussuf",
+  "authorId": "mbypol",
+  "text": "",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=657397383071287&amp;set=a.212902627520767&amp;__cft__[0]=AZWznN5u7_bTKV1bu1nDHAIqAy-3rC330MG6vEhISg6a9VYezcEbOumJKW4q1iBGsHxmz06Ozquok7LZsK_iOGdj0tz3CTUX4aajMmbbc7l_XxtoDgmKDwtwcor9lKAfiuvEpk4H3bg2N5rJhctUbu7EPMB7KrFe8iNw1UTgme3stg&amp;__tn__=~H-R",
+  "mediaText": "Kan være et billede af 1 person",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "32"
+    }
+  ],
+  "comments": [
+    {
+      "id": "242798525174224",
+      "parentId": null,
+      "authorName": "Dine Soumah",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Dine Soumah for 4 uger siden",
+      "text": "🥰👌🙏",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "id": "266876002595612",
+      "parentId": null,
+      "authorName": "Tove Schmidt",
+      "authorId": "tove.schmidt",
+      "timeLabel": "Kommentar fra Tove Schmidt for 4 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "authorName": "Gyda Heding",
+  "authorId": "gyda.heding",
+  "text": "Fugl Fønix flyver afsted. tak til Karise Permatopia og Jesper Lund for nyt. Vi synger vi vil fred her til land. Og ja vi skal ha fred. ❤️❤️❤️",
+  "hasMedia": true,
+  "mediaUrl": "https://www.facebook.com/photo/?fbid=10160412311790169&amp;set=a.10150376341850169&amp;__cft__[0]=AZWNaLnpnCpnfRh0MhYFtalTy1uRNXCwxKIU4yDdsRrwQlhn9ntmH9C64UVgTUvuGzqF70UeT_pQiQO5-jqtkFuF7WByJczyPqypd-MxoPf-HqAgRXvg2T-k10hQI5hkrKZ3pwiqdh15zrH9bcLK1twui9Qht99Lg1_JaQt0VqMn8w&amp;__tn__=EH-R",
+  "mediaText": "Kan være et billede af 1 person, ild og menneskemængde",
+  "reactions": [
+    {
+      "type": "like",
+      "count": "54"
+    },
+    {
+      "type": "heart",
+      "count": "15"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Jens Næsland",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Jens Næsland for 8 uger siden",
+      "text": "Fred med NATO!",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 3,
+        "types": [
+          "haha"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Maj-Britt Milsted",
+      "authorId": "majbritt.milsted",
+      "timeLabel": "Kommentar fra Maj-Britt Milsted for 8 uger siden",
+      "text": "Min mors gamle gård Jørslevlyst 😊",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 6,
+        "types": [
+          "heart"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Carsten René Hansen",
+      "authorId": "sparkisan",
+      "timeLabel": "Kommentar fra Carsten René Hansen for 8 uger siden",
+      "text": "Karise er et dejligt sted, velkommen i mit gamle hood.",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Yousef Alisen",
+      "authorId": "theBad.yousef",
+      "timeLabel": "Kommentar fra Yousef Alisen for 8 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    },
+    {
+      "parentId": null,
+      "authorName": "Anders Hauch Fenger",
+      "authorId": "anders.h.fenger",
+      "timeLabel": "Kommentar fra Anders Hauch Fenger for 8 uger siden",
+      "text": "Ja vi skal ha fred, selv om dit partis top ønsker krudt og kugler",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 2,
+        "types": [
+          "like"
+        ]
+      }
+    }
+  ]
+}
