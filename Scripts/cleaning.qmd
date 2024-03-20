@@ -1,0 +1,245 @@
+---
+title: "Preprocessing"
+format: html
+---
+
+# Setup
+
+```{r}
+library(tidyverse)
+library(jsonlite)
+pacman::p_load(here)
+```
+
+
+# Read in example files:
+
+
+
+#FIRST METHOD
+```{r}
+ex_file <- jsonlite::fromJSON(here::here("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/AaPeO-0105-1.json"))
+
+test_df <- ex_file %>% 
+  as.data.frame()
+
+#make column with count of comment 
+test_df <- test_df %>% 
+  mutate(total_n_comments = length(test_df$comments.text))
+
+
+#extract data from file
+#extract offentlig or privat in file
+#make week column based on date column
+
+
+#OBS/conclusion: this only works for some of the json files, depending on the format
+
+```
+
+
+# SECOND METHOD
+```{r}
+library(data.table)
+
+#read in file which has different kind of reactions to see how that looks 
+ex_file_diff_reac <- jsonlite::fromJSON(here::here("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/AaPeO-0705-1.json"))
+
+#can print the type of object: list
+#class(ex_file_diff_reac)
+#can print the content of the whole object
+#str(ex_file_diff_reac)
+
+
+#applies the function as.data.frame.list (making list to dataframe i.e each element of the list becomes a column in the resulting data frame.) to each element of the list ex_file_diff_reac using lapply function and stores the result in a new list called r1.
+r1 <- lapply(ex_file_diff_reac, as.data.frame.list)
+# takes the list of data frames r1, combines them row-wise into a single data frame using rbindlist, fill every missing value with NA, and then converts the resulting data table into a data frame using as.data.frame()
+test_df_diff_reac <- rbindlist(r1, fill=TRUE) %>% 
+  as.data.frame()
+
+#OBS/conclusion: this only works for some of the json files, depending on the format
+```
+
+
+#THIRD METHOD
+```{r}
+library(dplyr)
+library(tidyr)
+#test to load in json without comments to see how it looks
+
+no_com_file <- jsonlite::fromJSON(here::here("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/AnKeP-1405-1.json"))
+
+test_df_no_com <- no_com_file %>%
+  bind_rows() %>%
+  as.data.frame() %>%
+  #if the column 'coments.text does not exist make a new column 'no_comments' and set value to 0
+  mutate(has_comments = ifelse(!"comments.text" %in% names(.), 0, NA))
+
+#make has_comments column
+```
+
+
+###Test: loading in all 3 files using the second method, renaming columns and combining into 1 df 
+
+```{r}
+library(plyr)
+
+#for ex_file list
+r2 <- lapply(ex_file, as.data.frame.list)
+test_df_2 <- rbindlist(r2, fill=TRUE) %>% 
+  as.data.frame()
+
+#for no_com_file list
+r3 <- lapply(no_com_file, as.data.frame.list)
+test_df_3 <- rbindlist(r3, fill=TRUE) %>% 
+  as.data.frame()
+
+#rename the first 6 columns for the 3 dataframes i want to combine 
+colnames(test_df_diff_reac)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
+colnames(test_df_2)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
+colnames(test_df_3)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
+
+
+#combine:
+combined_df <- rbindlist(list(test_df_diff_reac, test_df_2, test_df_3), fill = TRUE, idcol=TRUE)
+#fill any missing values with NA
+#idcol=TRUE makes an id for each dataframe that is using when combining
+
+#ON TO SOMETHING HERE :-) 
+
+```
+
+#to do
+- look through first 35 json files to check for enough variability
+    is first 6 elements always named the same? Yes
+    is there always a reactions and comments list (even though it might be empty)? Yes
+- funtion for looping thorugh each file
+- use second method to convert each list to dataframe
+- for every dataframe rename the first 6 columns 
+- make a combined dataframe with all 35 'files'
+- Carry on with the preproccesing part creating and arranging columns the way i want
+
+```{r}
+#WORKS THE WAY I WANT!
+
+files <- list.files(path="/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/test_data_35_files", pattern="*.json", full.names=TRUE, recursive=FALSE)
+
+# Initialize an empty data frame to hold the combined data
+combined_data_frame_35 <- NULL  
+# Initialize an ID counter
+id_counter <- 1
+
+
+# for-loop going through each element in files
+for(i in 1:length(files)) { 
+  # Read in json file as list
+  list <- jsonlite::fromJSON(here::here(files[i]))
+  # Make a new list making everything in 'list' into dataframes
+  new_list <- lapply(list, as.data.frame.list)
+  # Takes the list of data frames new_list, combines them row-wise, fill with NA, and make a dataframe
+  data_frame <- rbindlist(new_list, fill=TRUE) %>% 
+    as.data.frame()
+  # Rename the first 6 columns
+  colnames(data_frame)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
+  # Add an ID column
+  data_frame$ID <- id_counter
+  # Increment ID counter for the next data frame
+  id_counter <- id_counter + 1
+  # Combine into dataframe
+  combined_data_frame_35 <- rbindlist(list(data_frame, combined_data_frame_35), fill = TRUE)
+}
+
+
+```
+
+
+#Preprocessing based on the 'combined_data_frame_35'
+
+```{r}
+#Creating total_n_comments
+
+
+#obs, code not working, carry on from here
+combined_data_frame_35_test <- combined_data_frame_35 %>%
+  group_by(ID) %>%
+  mutate(total_n_comments = sum(!is.na(text))) %>%
+  ungroup()  # Ungroup the data
+
+```
+
+
+
+
+
+When the desired structure is reached:
+# Loop through ALL files 
+```{r}
+
+```
+
+
+
+```{r}
+#loop through all files in folder
+#extract list data from file
+#make some kind of varible 'file_w_no_com' extracting info on list
+  #if the 8. element in list is empty, assign file_w_no_com = 0
+
+#if file_w_no_com = 1 (not empty) do preproccesing pipeline 1
+#else do preproccesing pipeline 2
+
+#in the end, assing treatment column
+#if name= AuKe, and week==1, treatment= yes
+#OR = if ''SIG FRA, ANDMELD, ..." is present in 'text', treatment= yes
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+##SIMONS CODE: 
+
+# check for files not converted
+
+Some of the html files were not converted to .json. Checking which ones here, to maybe rectify the problem.
+--> Saving the filenames not converted to automatically resave them as word files (correcting weird encoding issues that happened when they were initially saved).
+--> Using apple scripts to automatically open and resave these files.
+
+## First round files
+```{r}
+html_first_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/raw/first_round/html/") %>% #save all html filenames from first round folder in a list
+  str_remove_all(".html") #remove .html ending 
+
+json_first_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/") %>% #save all json filenames from first round folder in a list
+  str_remove_all(".json") #remove all .json ending
+
+length(html_first_round[!html_first_round %in% json_first_round])
+#lenght of files in html_first_round that is not in json_first_round
+
+html_first_round[!html_first_round %in% json_first_round] %>% #if in html_first_round and not in json_first_round
+  paste0(".html") %>% #write filename and extend with .html
+  write.table("filenames_not_converted_first_round_ida.txt", row.names = FALSE, col.names = FALSE) #write to a table and save in wd
+```
+
+
+## Second Round files
+```{r}
+html_second_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/raw/second_round/html/") %>% 
+  str_remove_all(".html")
+
+json_second_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/second_round_json/") %>% 
+  str_remove_all(".json")
+
+length(html_second_round[!html_second_round %in% json_second_round])
+
+```
+
