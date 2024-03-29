@@ -256,7 +256,7 @@ for (id_value in unique(combined_data_frame_35$ID)) {
 #Creating total_n_comments
 combined_data_frame_35 <- combined_data_frame_35 %>%
   group_by(ID) %>%
-  mutate(total_n_comments = sum(!is.na(id))) %>%
+  mutate(total_n_comments = sum(!is.na(timeLabel))) %>%
   ungroup()  # Ungroup the data
 
 #creating has_comments 
@@ -340,104 +340,6 @@ for (id_value in unique(combined_data_frame_35$ID)) {
   # Update the original dataframe with the modified subset
   combined_data_frame_35[subset_idx, ] <- subset_df
 }
-
-
-
-#make n_likes_com, n_heart_com etc. on the comments
-#Make new columns to be filled
-combined_data_frame_35$n_total_reactions_com <- NA
-#NEED TO DO THIS
-
-combined_data_frame_35$count_like_com	<- NA
-combined_data_frame_35$count_heart_com <- NA	
-combined_data_frame_35$count_haha_com <- NA
-combined_data_frame_35$count_care_com <- NA
-combined_data_frame_35$count_angry_com <- NA
-combined_data_frame_35$count_sad_com <- NA
-combined_data_frame_35$count_wow_com <- NA
-
-#make 'reactions.type' as character
-combined_data_frame_35 <- combined_data_frame_35 %>%
-  mutate(reactions.types= as.character(reactions.types)) 
-# first sub NULL , character(0) , list() with NAs
-combined_data_frame_35$reactions.types <- sub("NULL", NA, combined_data_frame_35$reactions.types)
-combined_data_frame_35$reactions.types <- sub("list()", NA, combined_data_frame_35$reactions.types)
-combined_data_frame_35$reactions.types[combined_data_frame_35$reactions.types == "character(0)"] <- NA
-
-#fill columns based on conditions:
-```
-
-```{r}
-#not working
-for (id_value in unique(combined_data_frame_35$ID)) {
-  # Subset the dataframe for the current ID
-  subset_idx <- which(combined_data_frame_35$ID == id_value)
-  subset_df <- combined_data_frame_35[subset_idx, ]
-  if ("like" %in% subset_df$reactions.types) {
-    # Find the index of the cell containing 'like'
-    like_index <- which(subset_df$reactions.types == "like")
-    
-    # Get the index of the value to the left of the cell containing 'like'
-    left_index <- like_index - 1
-    
-    # Check if the left index is valid (not out of bounds)
-    valid_index <- left_index > 0
-    
-    # Get the left variable if it is a valid index, otherwise assign NA
-    left_variable <- ifelse(any(valid_index), subset_df$reactions.totalCount[left_index[valid_index]], NA)
-    
-    # Place the saved value in the corresponding row of count_like_com column
-    subset_df$count_like_com[like_index] <- left_variable
-  }
-    combined_data_frame_35[subset_idx, ] <- subset_df
-}
-```
-
-```{r}
-combined_data_frame_35$reactions.totalCount[combined_data_frame_35$reactions.totalCount == 0] <- NA
-
-#not working
-for (id_value in unique(combined_data_frame_35$ID)) {
-  # Subset the dataframe for the current ID
-  subset_idx <- which(combined_data_frame_35$ID == id_value)
-  subset_df <- combined_data_frame_35[subset_idx, ]
-  if ("like" %in% subset_df$reactions.types) {
-    # Find the index of the cell containing 'like'
-    like_index <- which(subset_df$reactions.types == "like")
-    
-    # Get the index of the value to the left of the cell containing 'like'
-    left_index <- like_index - 1
-    
-    # Check if the left index is valid (not out of bounds)
-    valid_index <- left_index > 0
-    
-    # Get the left variable if it is a valid index, otherwise assign NA
-    left_variable <- ifelse(any(valid_index), subset_df$reactions.totalCount[left_index], NA)
-    
-    # Place the saved value in the corresponding row of count_like_com column
-    subset_df$count_like_com[like_index] <- left_variable
-  }
-  
-  combined_data_frame_35[subset_idx, ] <- subset_df
-}
-
-
-```
-
-
-```{r}
-like_index
-```
-```{r}
-left_index
-```
-```{r}
-left_variable
-```
-
-
-```{r}
-#make main_post variable
 ```
 
 
@@ -463,13 +365,252 @@ for (row in 1:nrow(combined_data_frame_35)) {
   combined_data_frame_35$offentlig_privat[row] <- substr(combined_data_frame_35$file_name[row], 5,5)
 }
 
-#Week
+
+```
+
+
+```{r}
+#make n_likes_com, n_heart_com etc. on the comments to be filled:
+
+combined_data_frame_35$count_like_com	<- NA
+combined_data_frame_35$count_heart_com <- NA	
+combined_data_frame_35$count_haha_com <- NA
+combined_data_frame_35$count_care_com <- NA
+combined_data_frame_35$count_angry_com <- NA
+combined_data_frame_35$count_sad_com <- NA
+combined_data_frame_35$count_wow_com <- NA
+
+#make 'reactions.type' as character
+combined_data_frame_35 <- combined_data_frame_35 %>%
+  mutate(reactions.types= as.character(reactions.types)) 
+# first sub NULL , character(0) , list() with NAs
+combined_data_frame_35$reactions.types <- sub("NULL", NA, combined_data_frame_35$reactions.types)
+combined_data_frame_35$reactions.types <- sub("list()", NA, combined_data_frame_35$reactions.types)
+combined_data_frame_35$reactions.types[combined_data_frame_35$reactions.types == "character(0)"] <- NA
+#replace all 0's in reactions.totalCount with NA
+combined_data_frame_35$reactions.totalCount[combined_data_frame_35$reactions.totalCount == 0] <- NA
+
+
+#fill columns based on conditions:
+
+# For-looping through each row in the subset_df 
+for (id_value in unique(combined_data_frame_35$ID)) {
+  
+  # Subset the dataframe for the current ID
+  subset_idx <- which(combined_data_frame_35$ID == id_value)
+  subset_df <- combined_data_frame_35[subset_idx, ]
+  
+  # For-looping through each row in the subset_df 
+  for (i in 1:nrow(subset_df)) {
+  
+    # Check if the row contains the word 'like' in the character column 'reactions.types'
+    if ("like" %in% subset_df$reactions.types[i]) {
+      
+      # Convert the value to character and then find the numeric value to the left of that column
+      # Assuming the numeric value is separated by a space
+      like_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      
+      # Place that numeric value in column 'count_like_com' for that row
+      subset_df$count_like_com[i] <- like_count
+    }
+    if ("heart" %in% subset_df$reactions.types[i]) {
+      heart_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      subset_df$count_heart_com[i] <- heart_count
+    }
+    if ("haha" %in% subset_df$reactions.types[i]) {
+      haha_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      subset_df$count_haha_com[i] <- haha_count
+    }
+    if ("care" %in% subset_df$reactions.types[i]) {
+      care_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      subset_df$count_care_com[i] <- care_count
+    }
+    if ("angry" %in% subset_df$reactions.types[i]) {
+      angry_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      subset_df$count_angry_com[i] <- angry_count
+    }
+    if ("sad" %in% subset_df$reactions.types[i]) {
+      sad_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      subset_df$count_sad_com[i] <- sad_count
+    }
+    if ("wow" %in% subset_df$reactions.types[i]) {
+      wow_count <- as.numeric(strsplit(as.character(subset_df$reactions.totalCount[i]), " ")[[1]][1])
+      subset_df$count_wow_com[i] <- wow_count
+    }
+  }
+  
+  # Update the original dataframe with the modified subset
+  combined_data_frame_35[subset_idx, ] <- subset_df
+  
+}
 
 
 
 ```
 
+```{r}
+#Make n_total_reactions_com
+combined_data_frame_35$n_total_reactions_com <- NA
 
+
+# For-looping through each row in the subset_df 
+for (id_value in unique(combined_data_frame_35$ID)) {
+  
+  # Subset the dataframe for the current ID
+  subset_idx <- which(combined_data_frame_35$ID == id_value)
+  subset_df <- combined_data_frame_35[subset_idx, ]
+  
+  # For-looping through each row in the subset_df 
+  for (i in 1:nrow(subset_df)) {
+    
+    # Fill 'n_total_reactions_com' for that row with the sum of column 33-39 (if a cell is NA, treat it as a 0)
+    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 35:41], na.rm = TRUE)
+    
+  }
+  
+  # Update the original dataframe with the modified subset
+  combined_data_frame_35[subset_idx, ] <- subset_df
+  
+}
+
+
+```
+
+
+```{r}
+#fix structure of column 1-6 moving information to the top 
+
+# For-looping through each ID in combined_data_frame_35
+for (id_value in unique(combined_data_frame_35$ID)) {
+  
+  # Subset the dataframe for the current ID
+  subset_idx <- which(combined_data_frame_35$ID == id_value)
+  subset_df <- combined_data_frame_35[subset_idx, ]
+  
+  # Move info in row 2 in column2 to the first row
+  subset_df[1, 2] <- subset_df[2, 2]
+  subset_df[2, 2] <- NA
+  
+  # Move info in row 3 in column3 to the first row
+  subset_df[1, 3] <- subset_df[3, 3]
+  subset_df[3, 3] <- NA
+  
+  # Move info in row 4 in column4 to the first row
+  subset_df[1, 4] <- subset_df[4, 4]
+  subset_df[4, 4] <- NA
+  
+  #if row 1 in column4 is ==TRUE
+  if (subset_df[1, 4] == TRUE) {
+    #move info in row 5 in column5 to the first row and fill old one with NA
+    subset_df[1, 5] <- subset_df[5, 5]
+    subset_df[5, 5] <- NA
+    #move info in row 6 in column6 to the first row
+    subset_df[1, 6] <- subset_df[6, 6]
+    subset_df[6, 6] <- NA
+    }
+  
+  # Update the original dataframe with the modified subset
+  combined_data_frame_35[subset_idx, ] <- subset_df
+  
+}
+```
+
+
+
+
+```{r}
+#delete rows depending on whether column4== TRUE or FALSE
+#if TRUE the following 5 rows are deleted
+#if FALSE the following 3 rows are deleted
+
+# Initialize empty list to store indices to remove
+indices_to_remove <- c()
+
+for (row in 1:nrow(combined_data_frame_35)) {
+  if (is.na(combined_data_frame_35[row, "Column4"])) {
+    # Do nothing for NA values
+  } else if (combined_data_frame_35[row, "Column4"] == TRUE) {
+    # Add the following 5 rows to the list of indices to remove
+    indices_to_remove <- c(indices_to_remove, (row+1):(row+5))
+  } else if (combined_data_frame_35[row, "Column4"] == FALSE) {
+    # Add the following 3 rows to the list of indices to remove
+    indices_to_remove <- c(indices_to_remove, (row+1):(row+3))
+  }
+}
+
+# Remove rows from the data frame
+combined_data_frame_35 <- combined_data_frame_35[-indices_to_remove, ]
+
+#if the column 'type' contains anything else than NA, delete that row 
+target_strings <- c("like", "heart", "wow", "sad", "care", "angry", "haha")
+combined_data_frame_35 <- combined_data_frame_35[!grepl(paste(target_strings, collapse = "|"), combined_data_frame_35$type), ]
+  
+
+```
+
+
+
+```{r}
+#merging
+
+#preprocesing n_total_reactions_com and n_total_reactions_post before merging
+combined_data_frame_35$n_total_reactions_com[combined_data_frame_35$n_total_reactions_com == 0] <- NA
+for (id_value in unique(combined_data_frame_35$ID)) {
+  
+  # Subset the dataframe for the current ID
+  subset_idx <- which(combined_data_frame_35$ID == id_value)
+  subset_df <- combined_data_frame_35[subset_idx, ]
+  
+  # in the column 'n_total_reactions_post' keep the value in the first row
+  subset_df$n_total_reactions_post[-1] <- NA
+  
+  # Update the original dataframe with the modified subset
+  combined_data_frame_35[subset_idx, ] <- subset_df
+  
+}
+
+#Pipe for merging, renaming, deleting and replacing NA's
+combined_data_frame_35 <- combined_data_frame_35 %>%
+  mutate(
+    authorName = coalesce(Column1, authorName),
+    authorId = coalesce(Column2, authorId),
+    text = coalesce(Column3, text),
+    hasMedia = coalesce(Column4,hasMedia),
+    mediaUrl = coalesce(Column5, mediaUrl),
+    count_like = coalesce(count_like_pos, count_like_com),
+    count_heart = coalesce(count_heart_pos, count_heart_com),
+    count_haha= coalesce(count_haha_pos, count_haha_com), 
+    count_care = coalesce(count_care_pos, count_care_com),
+    count_angry = coalesce(count_angry_pos, count_angry_com),
+    count_sad = coalesce(count_sad_pos, count_sad_com),
+    count_wow = coalesce(count_wow_pos, count_wow_com),
+    n_total_reactions = coalesce(n_total_reactions_post, n_total_reactions_com)) %>%
+  #rename Column6
+  rename(mediaText = Column6) %>% 
+  #delete columns
+  select(-Column1, -Column2, -Column3, -Column4, -Column5, 
+         -type, -count, -reactions.totalCount, -reactions.types,
+         -n_total_reactions_post, -count_like_pos, -count_heart_pos,
+         -count_haha_pos, -count_care_pos, -count_angry_pos, -count_sad_pos,
+         -count_wow_pos, -count_like_com, -count_heart_com, -count_haha_com,
+         -count_care_com, -count_angry_com, -count_sad_com, -count_wow_com,
+         -n_total_reactions_com)%>%
+  #in all the count_ columns replace NA with 0 
+  mutate(across(starts_with("count"), ~replace_na(., 0)))
+
+
+```
+
+
+
+```{r}
+#make main_post variable
+```
+
+
+
+
+#Make weeks:
 Week 1: monday 0105 to 0705
 
 Week 2: 0805 to 1405
@@ -488,7 +629,7 @@ Week 8: 1906 to 2506
 
 (Week 9: 2606 to 0207)
 ```{r}
-#Weeks
+#make week column
 
 for (row in 1:nrow(combined_data_frame_35)) {
   combined_data_frame_35$week[row] <- 
@@ -501,6 +642,7 @@ for (row in 1:nrow(combined_data_frame_35)) {
 
 ```{r}
 #make subcomment variable
+#OBS: when making the subcomment column i cant use id to make it since after looking at the json files it seems not all comments has an id
 ```
 
 
