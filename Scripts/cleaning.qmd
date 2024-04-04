@@ -355,14 +355,19 @@ for (row in 1:nrow(combined_data_frame_35)) {
   combined_data_frame_35$name_abbreviation[row] <- substr(combined_data_frame_35$file_name[row], 1, 4)
 }
 
-#date_data_collection
+#date_post
 for (row in 1:nrow(combined_data_frame_35)) {
-  combined_data_frame_35$date_data_collection[row] <- substr(combined_data_frame_35$file_name[row], 7, 10)
+  combined_data_frame_35$date_post[row] <- substr(combined_data_frame_35$file_name[row], 7, 10)
 }
 
 #offentlig_privat
 for (row in 1:nrow(combined_data_frame_35)) {
   combined_data_frame_35$offentlig_privat[row] <- substr(combined_data_frame_35$file_name[row], 5,5)
+}
+
+#n_post_day
+for (row in 1:nrow(combined_data_frame_35)) {
+  combined_data_frame_35$n_post_day[row] <- substr(combined_data_frame_35$file_name[row], 12,12)
 }
 
 
@@ -463,8 +468,8 @@ for (id_value in unique(combined_data_frame_35$ID)) {
   # For-looping through each row in the subset_df 
   for (i in 1:nrow(subset_df)) {
     
-    # Fill 'n_total_reactions_com' for that row with the sum of column 33-39 (if a cell is NA, treat it as a 0)
-    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 35:41], na.rm = TRUE)
+    # Fill 'n_total_reactions_com' for that row with the sum of column 36-42 (if a cell is NA, treat it as a 0)
+    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 36:42], na.rm = TRUE)
     
   }
   
@@ -598,16 +603,33 @@ combined_data_frame_35 <- combined_data_frame_35 %>%
   #in all the count_ columns replace NA with 0 
   mutate(across(starts_with("count"), ~replace_na(., 0)))
 
+#in n_total_reactions replace NA with 0 
+combined_data_frame_35$n_total_reactions[is.na(combined_data_frame_35$n_total_reactions)] <- 0
+
 
 ```
 
 
 
 ```{r}
-#make main_post variable
+#make main_post column
+
+combined_data_frame_35$main_post <- NA
+
+for (id_value in unique(combined_data_frame_35$ID)) {
+  # Subset the dataframe for the current ID
+  subset_idx <- which(combined_data_frame_35$ID == id_value)
+  subset_df <- combined_data_frame_35[subset_idx, ]
+  
+  # in the column 'main_post' fill in the first row with 1, and the remaining rows with 0
+  subset_df$main_post <- ifelse(seq_along(subset_df$main_post) == 1, 1, 0)
+  
+  # Update the original dataframe with the modified subset
+  combined_data_frame_35[subset_idx, ] <- subset_df
+}
+
+
 ```
-
-
 
 
 #Make weeks:
@@ -628,38 +650,282 @@ Week 7: 1206 to 1806
 Week 8: 1906 to 2506
 
 (Week 9: 2606 to 0207)
+
+
 ```{r}
 #make week column
 
 for (row in 1:nrow(combined_data_frame_35)) {
-  combined_data_frame_35$week[row] <- 
-    
+  date_post <- as.character(combined_data_frame_35$date_post[row])
+  first_two_digits <- as.numeric(substr(date_post, 1, 2))
+  last_digit <- as.numeric(substr(date_post, nchar(date_post), nchar(date_post)))
+  
+  if ((first_two_digits >= 1 & first_two_digits <= 7) & last_digit == 5) {
+    combined_data_frame_35$week[row] <- 1
+  } else if ((first_two_digits >= 8 & first_two_digits <= 14) & last_digit == 5) {
+    combined_data_frame_35$week[row] <- 2
+  } else if ((first_two_digits >= 15 & first_two_digits <= 21) & last_digit == 5) {
+    combined_data_frame_35$week[row] <- 3
+  } else if ((first_two_digits >= 22 & first_two_digits <= 28) & last_digit == 5) {
+    combined_data_frame_35$week[row] <- 4
+  } else if (((first_two_digits >= 29 & first_two_digits <= 31) & (last_digit == 5)) |
+      ((first_two_digits >= 1 & first_two_digits <= 4) & (last_digit == 6))) {
+    combined_data_frame_35$week[row] <- 5
+  } else if ((first_two_digits >= 5 & first_two_digits <= 11) & last_digit == 6) {
+    combined_data_frame_35$week[row] <- 6
+  } else if ((first_two_digits >= 12 & first_two_digits <= 18) & last_digit == 6) {
+    combined_data_frame_35$week[row] <- 7
+  } else if ((first_two_digits >= 19 & first_two_digits <= 25) & last_digit == 6) {
+    combined_data_frame_35$week[row] <- 8
+  } else if (((first_two_digits >= 26 & first_two_digits <= 31) | (first_two_digits >= 1 & first_two_digits <= 2)) & last_digit == 6) {
+    combined_data_frame_35$week[row] <- 9
+  }
+}
+
+```
+
+
+
+```{r}
+#make subcomment variable
+combined_data_frame_35$subcomment <- NA
+
+for (id_value in unique(combined_data_frame_35$ID)) {
+  # Subset the dataframe for the current ID
+  subset_idx <- which(combined_data_frame_35$ID == id_value)
+  subset_df <- combined_data_frame_35[subset_idx, ]
+  
+  # if character in the column 'timeLabel' begins with 'Kommentar', assign 0 to subcomment, if it begins with 'Svar' assign 1: 
+  subset_df$subcomment <- ifelse(substr(subset_df$timeLabel, 1, 9) == "Kommentar", 0, 
+                               ifelse(substr(subset_df$timeLabel, 1, 4) == "Svar", 1, NA))
+
+  
+  # Update the original dataframe with the modified subset
+  combined_data_frame_35[subset_idx, ] <- subset_df
 }
 
 
 ```
 
 
-```{r}
-#make subcomment variable
-#OBS: when making the subcomment column i cant use id to make it since after looking at the json files it seems not all comments has an id
-```
+#columns that might need to be (at least partly) manually coded 
 
 
 ```{r}
-#what might need to be (at least partly) manually coded 
-
-#group (treatment vs. control)
-  #assigning treatment column
-  #if name= AuKe, and week==1, treatment= yes
-  #OR = if ''SIG FRA, ANDMELD, ..." is present in 'text', treatment= yes
-
 #municupality
-  #list of abbrivations
-  #from_århus = c[AmBe, KuDo]
-    #if combined_data_frame$pol_abbrivations == in list 
+
+#make lists of abbrivations:
+from_copenhagen <- list("AnKe",
+                   "AnSm",
+                   "AsAl",
+                   "BeMø",
+                   "ChLu",
+                   "ChRø",
+                   "CiEg",
+                   "ClBu",
+                   "EmMo",
+                   "EmAn",
+                   "FiRu",
+                   "HaNe",
+                   "FrKr",
+                   "GoGu",
+                   "GyHe",
+                   "HaWa",
+                   "HeWa",
+                   "HeBo",
+                   "HeJø",
+                   "JaNæ",
+                   "JeTh",
+                   "JoJe",
+                   "KaBe",
+                   "KaMa",
+                   "KaAh",
+                   "KaHa",
+                   "KaKi",
+                   "KlGo",
+                   "KnNi",
+                   "LaWe",
+                   "LeFr",
+                   "LiBa",
+                   "LiEr",
+                   "LoTh",
+                   "MaVe",
+                   "MaKa",
+                   "TrJa",
+                   "MiNy",
+                   "MiSk",
+                   "MoMe",
+                   "OlOl",
+                   "PeBj",
+                   "RaSt",
+                   "SiDe",
+                   "SiWe",
+                   "SoSe",
+                   "StTo",
+                   "YiAk",
+                   "YiYi",
+                   "SoHæ",
+                   "LaRo",
+                   "KlMy",
+                   "BiHo",
+                   "JeLü",
+                   "NiPe")
+
+from_aarhus <- list("ThMe",
+                    "NiBa",
+                    "AnWi",
+                    "ChBu",
+                    "ThHa",
+                    "HeAr",
+                    "AnPo",
+                    "ChBa",
+                    "GeBj",
+                    "JaSø",
+                    "JaCh",
+                    "LiGr",
+                    "SeKa",
+                    "MaYu",
+                    "PeSp",
+                    "StWi",
+                    "SoMu",
+                    "BüSi",
+                    "MeSk",
+                    "PoBa",
+                    "RaAz",
+                    "HüAr",
+                    "JeKj",
+                    "AaPe",
+                    "JaBu",
+                    "MeAy",
+                    "EvMe",
+                    "MaHj",
+                    "MeBj",
+                    "LoHi",
+                    "KaNi")
+
+
+
+# Loop through each row
+for (row in 1:nrow(combined_data_frame_35)) {
+  # Check if name_abbreviation is in the list from_copenhagen
+  if (combined_data_frame_35$name_abbreviation[row] %in% from_copenhagen) {
+    combined_data_frame_35$municipality[row] <- "copenhagen"
+  }
+  
+  # Check if name_abbreviation is in the list from_aarhus
+  if (combined_data_frame_35$name_abbreviation[row] %in% from_aarhus) {
+    combined_data_frame_35$municipality[row] <- "aarhus"
+  }
+  
+  # If name_abbreviation is not in either list, assign NA
+  if (!(combined_data_frame_35$name_abbreviation[row] %in% c(from_copenhagen, from_aarhus))) {
+    combined_data_frame_35$municipality[row] <- NA
+  }
+}
+
 
 ```
+
+
+
+
+```{r}
+#group 
+
+for (row in 1:nrow(combined_data_frame_35)) {
+  # Check conditions and assign values to the 'group' column
+  
+  if (combined_data_frame_35$name_abbreviation[row] == 'BüSi' &
+             combined_data_frame_35$week[row] %in% c(1, 5, 7, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+    
+    else if (combined_data_frame_35$name_abbreviation[row] == 'MeSk' & 
+      combined_data_frame_35$week[row] %in% c(2, 4, 5, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'PoBa' & 
+      combined_data_frame_35$week[row] %in% c(1, 4, 5, 7)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'SoHæ' & 
+      combined_data_frame_35$week[row] %in% c(2, 3, 7, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'LaRo' & 
+      combined_data_frame_35$week[row] %in% c(1, 3, 6, 7)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'RaAz' & 
+      combined_data_frame_35$week[row] %in% c(1, 2, 3, 6)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'KlMy' & 
+      combined_data_frame_35$week[row] %in% c(1, 2, 5, 6)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'HüAr' & 
+      combined_data_frame_35$week[row] %in% c(3, 5, 7, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'JeKj' & 
+      combined_data_frame_35$week[row] %in% c(1, 5, 6, 7)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'AaPe' & 
+      combined_data_frame_35$week[row] %in% c(1, 3, 4, 7)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'JaBu' & 
+      combined_data_frame_35$week[row] %in% c(5, 6, 7, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'BiHo' & 
+      combined_data_frame_35$week[row] %in% c(1, 2, 3, 4)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'MeAy' & 
+      combined_data_frame_35$week[row] %in% c(1, 3, 4, 5)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'EvMe' & 
+      combined_data_frame_35$week[row] %in% c(2, 3, 4, 7)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'JeLü' & 
+      combined_data_frame_35$week[row] %in% c(1, 3, 7, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'MaHj' & 
+      combined_data_frame_35$week[row] %in% c(1, 2, 5, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'MeBj' & 
+      combined_data_frame_35$week[row] %in% c(2, 3, 4, 5)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'LoHi' & 
+      combined_data_frame_35$week[row] %in% c(1, 2, 5, 6)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'NiPe' & 
+      combined_data_frame_35$week[row] %in% c(1, 2, 3, 8)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+  
+    else if (combined_data_frame_35$name_abbreviation[row] == 'KaNi' & 
+      combined_data_frame_35$week[row] %in% c(1, 3, 4, 5)) {
+    combined_data_frame_35$group[row] <- 'treatment' }
+    
+   else {
+    combined_data_frame_35$group[row] <- 'control'}
+}
+```
+
+
+```{r}
+#make a complience comments
+  #did the politician actually follow the schedule 
+```
+
 
 
 
@@ -715,3 +981,4 @@ length(html_second_round[!html_second_round %in% json_second_round])
 
 ```
 
+#files that are differ from round_1_json and round_2_json
