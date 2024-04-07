@@ -101,10 +101,8 @@ combined_df <- rbindlist(list(test_df_diff_reac, test_df_2, test_df_3), fill = T
 # Load in data
 
 ```{r}
-#this code will run but gives a data_frame_all of 23832 (rows) x 3668 (columns)
-#problem being that column names need to be the same for it to bind dataframe the right way
 
-#Load in the files from the  folder:
+#Load in the files
 files <- list.files(path="/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json", pattern="*.json", full.names=TRUE, recursive=FALSE)
 
 # Initialize an empty data frame to hold the combined data
@@ -116,13 +114,35 @@ id_counter <- 1
 for(i in 1:length(files)) { 
   # Read in json file as list
   list <- jsonlite::fromJSON(here::here(txt=files[i]))
+  
+  # Replace empty strings in 'text' field with NA
+  if ("" %in% list$text) {
+    list$text[list$text == ""] <- NA
+  }
+  
+  # Check if hasMedia is true and mediaText is NULL
+  if (list$hasMedia && is.null(list$mediaText)) {
+    list$mediaText <- NA
+  }
+  
   # Make a new list making everything in 'list' into dataframes
   new_list <- lapply(list, as.data.frame.list)
   # Takes the list of data frames new_list, combines them row-wise, fill with NA, and make a dataframe
   data_frame <- rbindlist(new_list, fill=TRUE) %>% 
     as.data.frame()
+  
+   # Check if columns 5 and 6 exist, if not, create them and fill with NA
+  if (!("reactions" %in% colnames(data_frame))) {
+    data_frame$reactions <- NA
+  }
+  if (!("comments" %in% colnames(data_frame))) {
+    data_frame$comments <- NA
+  }
+  
+  
+  
   # Rename the first 6 columns
-  #colnames(data_frame)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
+  colnames(data_frame)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
   # Add an ID column
   data_frame$ID <- id_counter
   # Increment ID counter for the next data frame
@@ -136,21 +156,29 @@ for(i in 1:length(files)) {
 
 ```
 
-#figure out how to deal with problematic files
-```{r}
-#first: load in only the problematic file to see how it looks before combining i.e. data_frame 
-  #
-# then load in 35+1 file
-
-
-
-```
 
 
 # Preprocessing based on the 'data_frame_all'
 
 ```{r}
 #Fixing Column5 and Column6 for the ID's where Column4 (HasMedia) == FALSE i.e. transferring reactions and counts to their correct places:
+
+#make sure column4 is boolean
+# Convert NA values to "NA"
+data_frame_all$Column4[is.na(data_frame_all$Column4)] <- "NA"
+
+# Convert column to logical
+data_frame_all$Column4 <- as.logical(data_frame_all$Column4)
+
+#giving issues with:
+#/AsAlO-0205-1.json
+#/AsAlO-1806-1.json
+#/AsAlO-2206-1.json
+#no idea why
+
+#they are removed from first_round_json
+
+
 
 # Loop through each unique ID in the dataframe
 for (id_value in unique(data_frame_all$ID)) {
@@ -356,7 +384,9 @@ for (id_value in unique(data_frame_all$ID)) {
 
 ```{r}
 #shorten the file_name column 
-data_frame_all$file_name <- sub("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/test_data_35_files/", "" , data_frame_all$file_name)
+data_frame_all$file_name <- sub("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/", "" , data_frame_all$file_name)
+
+
 
 ## Based on the file_name column make:
 
@@ -474,7 +504,7 @@ for (id_value in unique(data_frame_all$ID)) {
   for (i in 1:nrow(subset_df)) {
     
     # Fill 'n_total_reactions_com' for that row with the sum of column 33-39 (if a cell is NA, treat it as a 0)
-    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 35:41], na.rm = TRUE)
+    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 37:43], na.rm = TRUE)
     
   }
   
@@ -659,6 +689,9 @@ Week 8: 1906 to 2506
 
 ```{r}
 #make week column
+
+#OBS, problem: cant figure out ü, ö etc. 
+
 
 for (row in 1:nrow(data_frame_all)) {
   date_post <- as.character(data_frame_all$date_post[row])
