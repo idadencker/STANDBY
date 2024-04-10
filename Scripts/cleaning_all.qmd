@@ -15,95 +15,12 @@ library(here)
 ```
 
 
-# Read in example files:
-
-
-## FIRST METHOD
-```{r}
-ex_file <- jsonlite::fromJSON(here::here("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/AaPeO-0105-1.json"))
-
-test_df <- ex_file %>% 
-  as.data.frame()
-
-
-#OBS/conclusion: this only works for some of the json files, depending on the format
-
-```
-
-
-## SECOND METHOD
-```{r}
-#read in file which has different kind of reactions to see how that looks 
-ex_file_diff_reac <- jsonlite::fromJSON(here::here("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/AaPeO-0705-1.json"))
-
-#can print the type of object: list
-#class(ex_file_diff_reac)
-#can print the content of the whole object
-#str(ex_file_diff_reac)
-
-
-#applies the function as.data.frame.list (making list to dataframe i.e each element of the list becomes a column in the resulting data frame.) to each element of the list ex_file_diff_reac using lapply function and stores the result in a new list called r1.
-r1 <- lapply(ex_file_diff_reac, as.data.frame.list)
-# takes the list of data frames r1, combines them row-wise into a single data frame using rbindlist, fill every missing value with NA, and then converts the resulting data table into a data frame using as.data.frame()
-test_df_diff_reac <- rbindlist(r1, fill=TRUE) %>% 
-  as.data.frame()
-
-#OBS/conclusion: this only works for some of the json files, depending on the format
-```
-
-
-## THIRD METHOD
-```{r}
-#test to load in json without comments to see how it looks
-no_com_file <- jsonlite::fromJSON(here::here("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/AnKeP-1405-1.json"))
-
-test_df_no_com <- no_com_file %>%
-  bind_rows() %>%
-  as.data.frame() %>%
-  #if the column 'coments.text does not exist make a new column 'no_comments' and set value to 0
-  mutate(has_comments = ifelse(!"comments.text" %in% names(.), 0, NA))
-
-
-```
-
-
-### Test: loading in all 3 files using the second method, renaming columns and combining into 1 df 
-
-```{r}
-library(plyr)
-
-#for ex_file list
-r2 <- lapply(ex_file, as.data.frame.list)
-test_df_2 <- rbindlist(r2, fill=TRUE) %>% 
-  as.data.frame()
-
-#for no_com_file list
-r3 <- lapply(no_com_file, as.data.frame.list)
-test_df_3 <- rbindlist(r3, fill=TRUE) %>% 
-  as.data.frame()
-
-#rename the first 6 columns for the 3 dataframes i want to combine 
-colnames(test_df_diff_reac)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
-colnames(test_df_2)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
-colnames(test_df_3)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
-
-
-#combine:
-combined_df <- rbindlist(list(test_df_diff_reac, test_df_2, test_df_3), fill = TRUE, idcol=TRUE)
-#fill any missing values with NA
-#idcol=TRUE makes an id for each dataframe that is using when combining
-
-#Use this approach from here on!
-
-```
-
-
 # Load in data
 
-```{r}
+```{r, warning=FALSE}
 
 #Load in the files
-files <- list.files(path="/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json", pattern="*.json", full.names=TRUE, recursive=FALSE)
+files <- list.files(path="/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/second_round_json", pattern="*.json", full.names=TRUE, recursive=FALSE)
 
 # Initialize an empty data frame to hold the combined data
 data_frame_all <- NULL  
@@ -139,8 +56,6 @@ for(i in 1:length(files)) {
     data_frame$comments <- NA
   }
   
-  
-  
   # Rename the first 6 columns
   colnames(data_frame)[1:6] <- c("Column1", "Column2", "Column3", "Column4", "Column5", "Column6")
   # Add an ID column
@@ -157,27 +72,27 @@ for(i in 1:length(files)) {
 ```
 
 
+```{r}
+# Check the encoding of each column in the data frame
+encodings <- sapply(data_frame_all, function(x) Encoding(as.character(x)))
+
+# Print the encodings
+print(encodings)
+```
+
+
 
 # Preprocessing based on the 'data_frame_all'
 
 ```{r}
 #Fixing Column5 and Column6 for the ID's where Column4 (HasMedia) == FALSE i.e. transferring reactions and counts to their correct places:
 
-#make sure column4 is boolean
+#make sure column4 is Boolean
 # Convert NA values to "NA"
 data_frame_all$Column4[is.na(data_frame_all$Column4)] <- "NA"
 
 # Convert column to logical
 data_frame_all$Column4 <- as.logical(data_frame_all$Column4)
-
-#giving issues with:
-#/AsAlO-0205-1.json
-#/AsAlO-1806-1.json
-#/AsAlO-2206-1.json
-#no idea why
-
-#they are removed from first_round_json
-
 
 
 # Loop through each unique ID in the dataframe
@@ -298,8 +213,6 @@ data_frame_all <- data_frame_all %>%
   ungroup()  # Ungroup the data
 
 #creating has_comments 
-data_frame_all$has_comments <- 0  # Initialize the column with 0
-
 for (i in 1:nrow(data_frame_all)) {
   if (data_frame_all$total_n_comments[i] < 1)
     data_frame_all$has_comments[i] <- 0
@@ -320,6 +233,8 @@ data_frame_all <- data_frame_all %>%
 
 
 ```{r}
+#making count columns for reactions on posts
+
 #Make new columns to be filled
 data_frame_all$count_like_pos	<- NA
 data_frame_all$count_heart_pos <- NA	
@@ -384,8 +299,7 @@ for (id_value in unique(data_frame_all$ID)) {
 
 ```{r}
 #shorten the file_name column 
-data_frame_all$file_name <- sub("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/", "" , data_frame_all$file_name)
-
+data_frame_all$file_name <- sub("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/second_round_json/", "" , data_frame_all$file_name)
 
 
 ## Based on the file_name column make:
@@ -405,12 +319,16 @@ for (row in 1:nrow(data_frame_all)) {
   data_frame_all$offentlig_privat[row] <- substr(data_frame_all$file_name[row], 5,5)
 }
 
+#n_post_day
+for (row in 1:nrow(data_frame_all)) {
+  data_frame_all$n_post_day[row] <- substr(data_frame_all$file_name[row], 12,12)
+}
 
 ```
 
 
 ```{r}
-#make n_likes_com, n_heart_com etc. on the comments to be filled:
+#making count columns for reactions on comments
 
 data_frame_all$count_like_com	<- NA
 data_frame_all$count_heart_com <- NA	
@@ -484,9 +402,9 @@ for (id_value in unique(data_frame_all$ID)) {
   
 }
 
-
-
 ```
+
+
 
 ```{r}
 #Make n_total_reactions_com
@@ -503,8 +421,8 @@ for (id_value in unique(data_frame_all$ID)) {
   # For-looping through each row in the subset_df 
   for (i in 1:nrow(subset_df)) {
     
-    # Fill 'n_total_reactions_com' for that row with the sum of column 33-39 (if a cell is NA, treat it as a 0)
-    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 37:43], na.rm = TRUE)
+    # Fill 'n_total_reactions_com' for that row with the sum of column 38-44 (if a cell is NA, treat it as a 0)
+    subset_df$n_total_reactions_com[i] <- sum(subset_df[i, 38:44], na.rm = TRUE)
     
   }
   
@@ -593,8 +511,10 @@ data_frame_all <- data_frame_all[!grepl(paste(target_strings, collapse = "|"), d
 ```{r}
 #merging
 
-#preprocesing n_total_reactions_com and n_total_reactions_post before merging
+#preprocesing n_total_reactions_com before merging
 data_frame_all$n_total_reactions_com[data_frame_all$n_total_reactions_com == 0] <- NA
+
+#preprocesing n_total_reactions_post before merging
 for (id_value in unique(data_frame_all$ID)) {
   
   # Subset the dataframe for the current ID
@@ -611,6 +531,7 @@ for (id_value in unique(data_frame_all$ID)) {
 
 #Pipe for merging, renaming, deleting and replacing NA's
 data_frame_all <- data_frame_all %>%
+  #merging:
   mutate(
     authorName = coalesce(Column1, authorName),
     authorId = coalesce(Column2, authorId),
@@ -634,7 +555,7 @@ data_frame_all <- data_frame_all %>%
          -count_haha_pos, -count_care_pos, -count_angry_pos, -count_sad_pos,
          -count_wow_pos, -count_like_com, -count_heart_com, -count_haha_com,
          -count_care_com, -count_angry_com, -count_sad_com, -count_wow_com,
-         -n_total_reactions_com)%>%
+         -n_total_reactions_com, -reactions, -comments)%>%
   #in all the count_ columns replace NA with 0 
   mutate(across(starts_with("count"), ~replace_na(., 0)))
 
@@ -687,10 +608,9 @@ Week 8: 1906 to 2506
 (Week 9: 2606 to 0207)
 
 
+
 ```{r}
 #make week column
-
-#OBS, problem: cant figure out ü, ö etc. 
 
 
 for (row in 1:nrow(data_frame_all)) {
@@ -725,7 +645,7 @@ for (row in 1:nrow(data_frame_all)) {
 
 
 ```{r}
-#make subcomment variable
+# Make subcomment variable
 data_frame_all$subcomment <- NA
 
 for (id_value in unique(data_frame_all$ID)) {
@@ -733,10 +653,13 @@ for (id_value in unique(data_frame_all$ID)) {
   subset_idx <- which(data_frame_all$ID == id_value)
   subset_df <- data_frame_all[subset_idx, ]
   
-  # if character in the column 'timeLabel' begins with 'Kommentar', assign 0 to subcomment, if it begins with 'Svar' assign 1: 
-  subset_df$subcomment <- ifelse(substr(subset_df$timeLabel, 1, 9) == "Kommentar", 0, 
-                               ifelse(substr(subset_df$timeLabel, 1, 4) == "Svar", 1, NA))
-
+  # If character in the column 'timeLabel' begins with 'Kommentar' or 'Comment', assign 0 to subcomment,
+  # If it begins with 'Svar' or 'Reply', assign 1
+  subset_df$subcomment <- ifelse(substr(subset_df$timeLabel, 1, 9) == "Kommentar" | substr(subset_df$timeLabel, 1, 7) == "Comment", 
+                                 0,
+                               ifelse(substr(subset_df$timeLabel, 1, 4) == "Svar" | substr(subset_df$timeLabel, 1, 5) == "Reply", 
+                                      1, 
+                                      NA))
   
   # Update the original dataframe with the modified subset
   data_frame_all[subset_idx, ] <- subset_df
@@ -750,7 +673,7 @@ for (id_value in unique(data_frame_all$ID)) {
 
 
 ```{r}
-#municupality
+#making municupality column
 
 #make lists of abbrivations:
 from_copenhagen <- list("AnKe",
@@ -781,7 +704,7 @@ from_copenhagen <- list("AnKe",
                    "KaHa",
                    "KaKi",
                    "KlGo",
-                   "KnNi",
+                   "KnHo",
                    "LaWe",
                    "LeFr",
                    "LiBa",
@@ -806,8 +729,8 @@ from_copenhagen <- list("AnKe",
                    "LaRo",
                    "KlMy",
                    "BiHo",
-                   "JeLü",
-                   "NiPe")
+                   "JeLu",
+                   "NiPe") 
 
 from_aarhus <- list("ThMe",
                     "NiBa",
@@ -826,20 +749,21 @@ from_aarhus <- list("ThMe",
                     "PeSp",
                     "StWi",
                     "SoMu",
-                    "BüSi",
+                    "BuSi",
                     "MeSk",
                     "PoBa",
                     "RaAz",
-                    "HüAr",
+                    "HuAr",
                     "JeKj",
                     "AaPe",
                     "JaBu",
-                    "MeAy",
+                    "MeLi",
                     "EvMe",
                     "MaHj",
                     "MeBj",
                     "LoHi",
-                    "KaNi")
+                    "KaNi",
+                    "MaAg")
 
 
 
@@ -871,7 +795,7 @@ for (row in 1:nrow(data_frame_all)) {
 for (row in 1:nrow(data_frame_all)) {
   # Check conditions and assign values to the 'group' column
   
-  if (data_frame_all$name_abbreviation[row] == 'BüSi' &
+  if (data_frame_all$name_abbreviation[row] == 'BuSi' &
              data_frame_all$week[row] %in% c(1, 5, 7, 8)) {
     data_frame_all$group[row] <- 'treatment' }
     
@@ -899,7 +823,7 @@ for (row in 1:nrow(data_frame_all)) {
       data_frame_all$week[row] %in% c(1, 2, 5, 6)) {
     data_frame_all$group[row] <- 'treatment' }
   
-    else if (data_frame_all$name_abbreviation[row] == 'HüAr' & 
+    else if (data_frame_all$name_abbreviation[row] == 'HuAr' & 
       data_frame_all$week[row] %in% c(3, 5, 7, 8)) {
     data_frame_all$group[row] <- 'treatment' }
   
@@ -919,78 +843,72 @@ for (row in 1:nrow(data_frame_all)) {
       data_frame_all$week[row] %in% c(1, 2, 3, 4)) {
     data_frame_all$group[row] <- 'treatment' }
   
-    else if (data_frame_all$name_abbreviation[row] == 'MeAy' & 
+    else if (data_frame_all$name_abbreviation[row] == 'MeLi' & 
       data_frame_all$week[row] %in% c(1, 3, 4, 5)) {
     data_frame_all$group[row] <- 'treatment' }
   
-    
-    #carry on from here
-    
-    
+    else if (data_frame_all$name_abbreviation[row] == 'EvMe' & 
+      data_frame_all$week[row] %in% c(2, 3, 4, 7)) {
+    data_frame_all$group[row] <- 'treatment' }
+  
+    else if (data_frame_all$name_abbreviation[row] == 'JeLu' & 
+      data_frame_all$week[row] %in% c(1, 3, 7, 8)) {
+    data_frame_all$group[row] <- 'treatment' }
+  
+    else if (data_frame_all$name_abbreviation[row] == 'MaHj' & 
+      data_frame_all$week[row] %in% c(1, 2, 5, 8)) {
+    data_frame_all$group[row] <- 'treatment' }
+  
+    else if (data_frame_all$name_abbreviation[row] == 'MeBj' & 
+      data_frame_all$week[row] %in% c(2, 3, 4, 5)) {
+    data_frame_all$group[row] <- 'treatment' }
+  
+    else if (data_frame_all$name_abbreviation[row] == 'LoHi' & 
+      data_frame_all$week[row] %in% c(1, 2, 5, 6)) {
+    data_frame_all$group[row] <- 'treatment' }
+  
+    else if (data_frame_all$name_abbreviation[row] == 'NiPe' & 
+      data_frame_all$week[row] %in% c(1, 2, 3, 8)) {
+    data_frame_all$group[row] <- 'treatment' }
+  
+    else if (data_frame_all$name_abbreviation[row] == 'KaNi' & 
+      data_frame_all$week[row] %in% c(1, 3, 4, 5)) {
+    data_frame_all$group[row] <- 'treatment' }
+
    else {
     data_frame_all$group[row] <- 'control'}
 }
 ```
 
+#Rearrange columns
+```{r}
+#31 columns 
+
+data_frame_all <- data_frame_all[, c(2, 3, 27, 15, 17, 16, 18, 28, 31, 30, 5, 6, 12, 4, 7, 29, 8, 9, 11, 1, 10, 14, 13, 26, 19, 20, 21, 22, 23, 24, 25 )]
+```
+
+
 
 ```{r}
-#make a complience comments
+#make a compliance column
   #did the politician actually follow the schedule 
+
+data_frame_all%>%
+  filter(group=="treatment")
+
 ```
 
 
 
 
-When the desired structure is reached:
-# Loop through ALL files 
+#Save final dataframe as csv
+
 ```{r}
 
+write.csv(data_frame_all, "/Users/idahelenedencker/Desktop/STANDBY/all_files_preliminary.csv", row.names=FALSE)
 ```
 
 
 
 
 
-
-
-
-
-
-##SIMONS CODE: 
-
-# check for files not converted
-
-Some of the html files were not converted to .json. Checking which ones here, to maybe rectify the problem.
---> Saving the filenames not converted to automatically resave them as word files (correcting weird encoding issues that happened when they were initially saved).
---> Using apple scripts to automatically open and resave these files.
-
-## First round files
-```{r}
-html_first_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/raw/first_round/html/") %>% #save all html filenames from first round folder in a list
-  str_remove_all(".html") #remove .html ending 
-
-json_first_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/first_round_json/") %>% #save all json filenames from first round folder in a list
-  str_remove_all(".json") #remove all .json ending
-
-length(html_first_round[!html_first_round %in% json_first_round])
-#lenght of files in html_first_round that is not in json_first_round
-
-html_first_round[!html_first_round %in% json_first_round] %>% #if in html_first_round and not in json_first_round
-  paste0(".html") %>% #write filename and extend with .html
-  write.table("filenames_not_converted_first_round_ida.txt", row.names = FALSE, col.names = FALSE) #write to a table and save in wd
-```
-
-
-## Second Round files
-```{r}
-html_second_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/raw/second_round/html/") %>% 
-  str_remove_all(".html")
-
-json_second_round <- list.files(path = "/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/second_round_json/") %>% 
-  str_remove_all(".json")
-
-length(html_second_round[!html_second_round %in% json_second_round])
-
-```
-
-#files that are differ from round_1_json and round_2_json

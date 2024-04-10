@@ -1,0 +1,30 @@
+{
+  "authorName": "Hüseyin Arac",
+  "authorId": "huseyin.arac.35",
+  "text": "",
+  "hasMedia": false,
+  "mediaUrl": null,
+  "mediaText": null,
+  "reactions": [
+    {
+      "type": "like",
+      "count": "41"
+    }
+  ],
+  "comments": [
+    {
+      "parentId": null,
+      "authorName": "Bırnur Şimşek",
+      "authorId": "profile.php",
+      "timeLabel": "Kommentar fra Bırnur Şimşek for 16 uger siden",
+      "text": "",
+      "hasMedia": false,
+      "mediaAltText": null,
+      "mediaUrl": null,
+      "reactions": {
+        "totalCount": 0,
+        "types": []
+      }
+    }
+  ]
+}

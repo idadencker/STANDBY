@@ -17,5 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #Simple initial analysis 
 ```{r}
 #count 
+
+#how many main_post== 1 (should be 1591)
 ```
 
