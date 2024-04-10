@@ -1,0 +1,21 @@
+---
+title: "Data_analysis"
+author: "Ida Dencker"
+date: "2024-04-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Load in csv data
+```{r}
+
+```
+
+#Simple initial analysis 
+```{r}
+#count 
+```
+
