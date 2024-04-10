@@ -893,11 +893,18 @@ data_frame_all <- data_frame_all[, c(2, 3, 27, 15, 17, 16, 18, 28, 31, 30, 5, 6,
 #make a compliance column
   #did the politician actually follow the schedule 
 
-data_frame_all%>%
+#count how many treatment post there should be: 207
+data_frame_treatment <- data_frame_all%>%
+  filter(main_post==1) %>%
   filter(group=="treatment")
 
-```
+print(data_frame_treatment$file_name) #print all the 207 filenames 
 
+#based on searching: 51 contains 
+sum(grepl("SIG FRA, ANMELD, STØT OP", data_frame_all$text))
+
+
+```
 
 
 

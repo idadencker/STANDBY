@@ -9,15 +9,55 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+library(tidyverse)
+library(dplyr)
+library(magrittr)
+```
+
+
 #Load in csv data
 ```{r}
-
+data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/all_files_preliminary.csv',show_col_types = FALSE)
 ```
+
 
 #Simple initial analysis 
 ```{r}
-#count 
+#counts:
 
-#how many main_post== 1 (should be 1591)
+
+#how many posts: 1601
+data$main_post <- as.numeric(data$main_post)
+sum(data$main_post)
+
+
+
+#how many different politicians: 77
+unique_counts <- table(data$name_abbreviation) # Count unique occurrences
+print(unique_counts) # Print the counts
+total_unique <- length(unique(data$name_abbreviation))
+print(total_unique)  # Print the total number of unique occurrences
+
+
+
+#how many politicians from aarhus: 27
+unique_aarhus <- data %>%
+  filter(municipality == "aarhus") %>%
+  pull(name_abbreviation) %>%
+  unique() %>%
+  length()
+print(unique_aarhus) # Print the result
+
+
+
+#how many politicians from copenhagen: 50
+unique_copenhagen <- data %>%
+  filter(municipality == "copenhagen") %>%
+  pull(name_abbreviation) %>%
+  unique() %>%
+  length()
+print(unique_copenhagen) # Print the result
+
 ```
 
