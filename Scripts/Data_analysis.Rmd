@@ -18,7 +18,7 @@ library(magrittr)
 
 #Load in csv data
 ```{r}
-data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/all_files_preliminary.csv',show_col_types = FALSE)
+data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/all_files_final.csv',show_col_types = FALSE)
 ```
 
 

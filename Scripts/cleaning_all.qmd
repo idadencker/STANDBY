@@ -894,46 +894,80 @@ for (row in 1:nrow(data_frame_all)) {
 }
 ```
 
-#Rearrange columns
-```{r}
-#31 columns 
-
-data_frame_all <- data_frame_all[, c(2, 3, 27, 15, 17, 16, 18, 28, 31, 30, 5, 6, 12, 4, 7, 29, 8, 9, 11, 1, 10, 14, 13, 26, 19, 20, 21, 22, 23, 24, 25 )]
-```
-
-
+# Compliance
 
 ```{r}
-#make a compliance column
-  #did the politician actually follow the schedule 
+# investigating:
 
 #count how many treatment post there should be: 203
 data_frame_treatment <- data_frame_all%>%
   filter(main_post==1) %>%
   filter(group=="treatment")
+print(data_frame_treatment$file_name) #print all the 203 filenames
 
-#/Users/idahelenedencker/Desktop/STANDBY/
+#how many politicians are present: is all 20 there?
+length(unique(data_frame_treatment$name_abbreviation)) #only 19 politicians, obs: no PoBa files that are treatment exist, so the number 19 is correct 
 
-write.csv(data_frame_treatment, file = "/Users/idahelenedencker/Desktop/STANDBY/treatment_data.csv", row.names = FALSE)
+#Searching for how many of the post actually have the comment
+data_frame_treatment_w_com <- data_frame_all%>%
+  filter(group=="treatment")
+#when searching 'SIG FRA, ANMELD, STØT OP' = 28 entries (consistent with the number i manually counted going through all files )
 
-print(data_frame_treatment$file_name) #print all the 203 filenames 
+#How many entries when searching in the whole dataset
+sum(grepl("SIG FRA, ANMELD, STØT OP", data_frame_all$text)) #51 entries
 
-length(unique(data_frame_treatment$name_abbreviation)) #only 19 politicians, obs: no PoBa that are treatment so number is correct 
 
-
-#based on searching: 51 contains 
-sum(grepl("SIG FRA, ANMELD, STØT OP", data_frame_all$text))
+#count number of treatments and control for the 51 entries 
+data_frame_search_key <- data_frame_all%>%
+  filter((grepl("SIG FRA, ANMELD, STØT OP", data_frame_all$text)))
+table(data_frame_search_key$group, useNA = 'always') #28 treatment, 23 control 
 
 
 ```
 
+
+
+```{r}
+#make a compliance (intervention) column: code all the posts containing an intervention comment as treatment, regardless of whether the politician is in a treatment week
+
+#make compliance (intervention) column:
+
+data_frame_all$intervention <- NA
+
+for (id_value in unique(data_frame_all$ID)) {
+  # Subset the dataframe for the current ID
+  subset_idx <- which(data_frame_all$ID == id_value)
+  subset_df <- data_frame_all[subset_idx, ]
+  
+  # Check if any row in the subset contains the specified string
+  if (any(grepl("SIG FRA, ANMELD, STØT OP", subset_df$text))) {
+    # If yes, assign 'yes' to compliance column
+    subset_df$intervention <- 'yes'
+  } else {
+    # If no, assign 'no' to compliance column
+    subset_df$intervention <- 'no'
+  }
+  
+  # Update the original dataframe with the modified subset
+  data_frame_all[subset_idx, ] <- subset_df
+}
+
+
+```
+
+```{r}
+#Rearrange columns
+#32 columns 
+
+data_frame_all <- data_frame_all[, c(2, 3, 27, 15, 17, 16, 18, 28, 31, 32, 30, 5, 6, 12, 4, 7, 29, 8, 9, 11, 1, 10, 14, 13, 26, 19, 20, 21, 22, 23, 24, 25 )]
+```
 
 
 #Save final dataframe as csv
 
 ```{r}
 
-write.csv(data_frame_all, "/Users/idahelenedencker/Desktop/STANDBY/all_files_preliminary.csv", row.names=FALSE)
+write.csv(data_frame_all, "/Users/idahelenedencker/Desktop/STANDBY/all_files_final.csv", row.names=FALSE)
 ```
 
 
