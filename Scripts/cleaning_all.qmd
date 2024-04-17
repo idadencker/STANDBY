@@ -609,9 +609,12 @@ Week 8: 1906 to 2506
 
 
 
-```{r}
-#make week column
 
+```{r}
+#make week column 
+
+# Create an empty data frame to hold rows assigned to week 9 (for checking)
+week_9_df <- data.frame(row_index = integer(), date_post = character())
 
 for (row in 1:nrow(data_frame_all)) {
   date_post <- as.character(data_frame_all$date_post[row])
@@ -620,28 +623,39 @@ for (row in 1:nrow(data_frame_all)) {
   
   if ((first_two_digits >= 1 & first_two_digits <= 7) & last_digit == 5) {
     data_frame_all$week[row] <- 1
+    
   } else if ((first_two_digits >= 8 & first_two_digits <= 14) & last_digit == 5) {
     data_frame_all$week[row] <- 2
+    
   } else if ((first_two_digits >= 15 & first_two_digits <= 21) & last_digit == 5) {
     data_frame_all$week[row] <- 3
+    
   } else if ((first_two_digits >= 22 & first_two_digits <= 28) & last_digit == 5) {
     data_frame_all$week[row] <- 4
+    
   } else if (((first_two_digits >= 29 & first_two_digits <= 31) & (last_digit == 5)) |
       ((first_two_digits >= 1 & first_two_digits <= 4) & (last_digit == 6))) {
     data_frame_all$week[row] <- 5
+    
   } else if ((first_two_digits >= 5 & first_two_digits <= 11) & last_digit == 6) {
     data_frame_all$week[row] <- 6
+    
   } else if ((first_two_digits >= 12 & first_two_digits <= 18) & last_digit == 6) {
     data_frame_all$week[row] <- 7
+    
   } else if ((first_two_digits >= 19 & first_two_digits <= 25) & last_digit == 6) {
     data_frame_all$week[row] <- 8
-  } else if (((first_two_digits >= 26 & first_two_digits <= 31) | (first_two_digits >= 1 & first_two_digits <= 2)) & last_digit == 6) {
+    
+  } else if (((first_two_digits >= 26 & first_two_digits <= 31) & (last_digit == 6)) | ((first_two_digits >= 1 & first_two_digits <= 2) & (last_digit == 7))) {
     data_frame_all$week[row] <- 9
+    
+    #to check: 
+    week_9_df <- rbind(week_9_df, data.frame(row_index = row, date_post = date_post))
+    
   }
 }
 
 ```
-
 
 
 ```{r}
@@ -893,12 +907,19 @@ data_frame_all <- data_frame_all[, c(2, 3, 27, 15, 17, 16, 18, 28, 31, 30, 5, 6,
 #make a compliance column
   #did the politician actually follow the schedule 
 
-#count how many treatment post there should be: 207
+#count how many treatment post there should be: 203
 data_frame_treatment <- data_frame_all%>%
   filter(main_post==1) %>%
   filter(group=="treatment")
 
-print(data_frame_treatment$file_name) #print all the 207 filenames 
+#/Users/idahelenedencker/Desktop/STANDBY/
+
+write.csv(data_frame_treatment, file = "/Users/idahelenedencker/Desktop/STANDBY/treatment_data.csv", row.names = FALSE)
+
+print(data_frame_treatment$file_name) #print all the 203 filenames 
+
+length(unique(data_frame_treatment$name_abbreviation)) #only 19 politicians, obs: no PoBa that are treatment so number is correct 
+
 
 #based on searching: 51 contains 
 sum(grepl("SIG FRA, ANMELD, STØT OP", data_frame_all$text))
