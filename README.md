@@ -5,11 +5,13 @@ To-Do:
 analysis
 
 - ~~import final csv file containing all comments to python~~
-- Sentiment analysis on ‘text’
-- https://www.youtube.com/watch?v=QpzMWQvxXWk
+- Sentiment analysis on ‘text’:
     - Need to extract information from comments and turn into something like: sad/happy, anderkendende/ikke-anerkendende,  hostility_score, neutral_score etc. by in order to do any predicting modelling
+        - ~~Multilingual VADER~~
+        - ~~XLM- Roberta multilingual~~
+        - https://www.youtube.com/watch?v=QpzMWQvxXWk
         - apply rec-nition model to ‘text’ column: produces binary class: anderkendende/ikke-anerkendende
-        - Try other types of sentiment extraction on ‘text’
+        - Other types of sentiment analysis models? one fine-tuned on danish maybe?
 - do modelling (multi-level) and visualisation of ‘sentiment’ based on different conditions (in R?)
     - How is the ‘sentiment’ of comments, based on different conditions?
     - i.e can x (e.g. municipality, offentlig/privat, n_reactions etc.) predict sentiment of comments?
