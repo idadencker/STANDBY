@@ -1,0 +1,33 @@
+---
+title: "Multilevel modelling"
+author: "Ida Dencker"
+date: "2024-05-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pacman::p_load(tidyverse, lme4, lmer)
+```
+
+
+```{r}
+sentiment_data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/vaders_roberta_bert.csv')
+```
+
+# Multilevel modelling (predictive modelling)
+
+List of predictors:
+.....
+
+
+```{r}
+#test
+model <- lmer(pos_score_roberta ~ roberta_label + (1 | municipality), data=sentiment_data)
+
+model
+```
+
