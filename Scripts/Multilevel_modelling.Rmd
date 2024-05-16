@@ -12,7 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 pacman::p_load(tidyverse, lme4) 
-
 ```
 
 
@@ -21,13 +20,13 @@ pacman::p_load(tidyverse, lme4)
 sentiment_data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/vaders_roberta_bert.csv')
 
 #can check number of distinct values for a column
-n_distinct(sentiment_data$name_abbreviation)
+n_distinct(sentiment_data$ID)
 ```
 
 # Multilevel modelling (predictive modelling)
 
 List of predictors:
-- offentlig/privat
+- offentlig_privat
 - week
 - n_post_day
 - municipality
@@ -123,27 +122,16 @@ p4 <- ggplot(sentiment_data, aes(x = intervention, y = compound_roberta)) +
 grid.arrange(p1, p2, p3, p4, ncol = 2)
 
 
-#looking here we see that when the intervention is yes the comments are generally more negative (lower pos score + higher neg score + lower compound score). This is good to know when starting to model the effect of intervention. So looking at this, we expect that an intervention (intervention==yes) will entail a more negative sentiment in comments compared to no intervention (intercention == no)
+#looking here we see that when the intervention is yes the comments are generally more negative (lower pos score + higher neg score + lower compound score). This is good to know before starting to model the effect of intervention. So looking at this, we expect that an intervention (intervention==yes) will entail a more negative sentiment in comments compared to no intervention (intervention == no)
 
 ```
 
 
 Now we can start on making multilevel logistic regression models predicting intervention, i.e intervention as a function of different predictors
 
-The more complex models have a 3-level design to account for nestedness: post (ID) nested in politicians (name_abbreviation) nested in kommune (municipality)
+The data has a 4 level structure with nestedness: comments (here comments are represented by a sentiment score) nested in posts (ID) nested in politicians (name_abbreviation) nested in kommune (municipality)
 
 
-```{r}
-#test lme4 is working
-model <- lmer(pos_score_roberta ~ roberta_label + (1 | municipality), data=sentiment_data)
-model
-```
-
-
-```{r}
-#simple plotting
-plot(pos_score_roberta ~ neg_score_roberta, data = sentiment_data, main = "pos_score_roberta ~ neg_score_roberta") 
-```
 ```{r}
 #First: check level of the outcome variable 
 levels(sentiment_data$intervention)
@@ -152,40 +140,128 @@ levels(sentiment_data$intervention)
 
 read: https://rips-irsp.com/articles/10.5334/irsp.90
 
+predictors
+- compound
+- compound_roberta
+- bert_emotion_label
+- municipality 
+- offentlig_privat
+- total_n_comments
+- total_n_reactions
+- count_XX
+
+
+
+a '/' is the syntax used to account for nestedness. Nested random effects are hierarchical, with one level nested within another meaning that the same politician e.g. cant be part of multiple municipalities 
+
+It is different from using ':' which is used to specify crossed random effects. Crossed random effects are random effects that are not nested within each other but are crossed with each other. For example, if you have random effects for both municipalities and politicians, and each politician can make posts in multiple municipalities and each municipality can have multiple politicians, you might use the :` syntax to specify crossed random effects:
+
+
 ```{r}
+#remember that in logistic regression coefficients are a on log-oods scale = positive means increase in possibility
+##log odds of intervention is predicted by compound score (fixed effect) allowing the model to vary by group
+
+##INTERCEPT ONLY MODEL:
+
+#Below are the commands to run an empty model, that is, a model containing no predictors, 
+# and calculate the intraclass correlation coefficient (ICC; the degree of homogeneity of the outcome within clusters).
+empty_model <- glmer(intervention ~ ( 1 | ID), data=sentiment_data, family = "binomial")
+summary(empty_model)
+#The random intercept variance (i.e., the level-2 residual) is in the "Random effects" part of the output: classes (Intercept) 115.2;
+#The ICC represents the proportion of group-level variance to total variance.
+icc <- empty_model@theta[1]^2/ (empty_model@theta[1]^2 + (3.14159^2/3))
+icc #0.97
+#This indicates that 97% of the chance of intervention is explained by between-classroom differences 
+
+
+## SIMPLE LOGISTIC REGRESSION MODEL (no mixed effects):
+
 #no mixed effects model
-no_mixed_model <- glm(intervention ~ compound,family=binomial(link='logit'),data=sentiment_data)
+no_mixed_model <- glm(intervention ~ compound_roberta,family=binomial(link='logit'),data=sentiment_data)
 summary(no_mixed_model)
 #no random effects: assume all data are independent from each other (not the case here)
-
-
-#simple model
-# in logistic regression coefficients are a on log-oods scale = positive means increase in possibility
-simple_model <- glmer(intervention ~ compound + (1| municipality), data = sentiment_data, family = binomial)
-#log odds of intervention is predicted by compound score (fixed effect) allowing the model to vary by municipality 
-summary(simple_model)
-#when the compound score increase with 1 (more positive sentiment) the log odds of the intervention being yes decreases with -0.78, i.e. more positive sentiment entails a lower probability of the intervention being yes, in accordance with what the plots above are showing. 
+#when the compound score increase with 1 (more positive sentiment) the log odds of the intervention being yes decreases with -0.59, i.e. more positive sentiment entails a lower probability of the intervention being yes, in accordance with what the plots above are showing. The predictor is siggnificant here.  
 
 
 
-#simple model 2
-simple_model_2 <- glmer(intervention ~ compound + (1| name_abbreviation), data = sentiment_data, family = binomial)
-#log odds of intervention is predicted by compound score (fixed effect) allowing the model to vary by politician  
-summary(simple_model_2)
+## 2-LEVEL MODEL (Comments nested in ID):
+two_level_model <- glmer(intervention ~ compound_roberta + (1| ID), data = sentiment_data, family = binomial)
+summary(two_level_model)
+# allowing to vary by ID 
 
 
 
+
+## 3-LEVEL MODEL (comments nested in ID nested in politicians):
+three_level_model <- glmer(intervention ~ compound_roberta + (1| ID/name_abbreviation), data = sentiment_data, family = binomial)
+summary(three_level_model)
+
+
+## 4-LEVEL MODEL (comments nested in ID nested in politicians nested in municipality):
+four_level_model <- glmer(intervention ~ compound_roberta + (1| ID/name_abbreviation/municipality), data = sentiment_data, family = binomial)
+summary(four_level_model)
+
+
+
+## NO HIERARCHY MODEL
+
+#a model with separate random intercepts for each grouping variable without explicitly specifying the nesting. This is assuming that the grouping variables are independent of each other.
+no_hier_model <- glmer(intervention ~ compound_roberta + (1| ID) + (1| name_abbreviation) + (1| municipality), data = sentiment_data, family = binomial)
+summary(no_hier_model)
+
+
+#maybe make a model only varying by ID, 1 only my politician, 1 only by municipality?
+
+
+#compare the different models like this:
+f1 <- performance::model_performance(empty_model, metrics= "common")
+f2 <- performance::model_performance(no_mixed_model, metrics= "common")
+f3 <- performance::model_performance(two_level_model, metrics= "common")
+f4 <- performance::model_performance(three_level_model, metrics= "common")
+f5 <- performance::model_performance(four_level_model, metrics= "common")
+f6 <- performance::model_performance(no_hier_model, metrics= "common")
+
+print("empty_model:")
+f1
+print("no_mixed_model:")
+f2
+print("two_level_model:")
+f3
+print("three_level_model:")
+f4
+print("four_level_model:")
+f5
+print("no_hier_model:")
+f6
+
+# The empty model and and the 2 level models has the lowest AIC indicating better model performance
 
 ```
 
+```{r}
+# make a plot like this one: https://blogs.uoregon.edu/rclub/2016/04/05/plotting-your-logistic-regression-models/
+
+#like i did for a previous exam
+```
 
 
-
+```{r}
+#can do some simple plotting 
+plot(pos_score_roberta ~ neg_score_roberta, data = sentiment_data, main = "pos_score_roberta ~ neg_score_roberta") 
+```
 
 
 # predcting the sentiment, i.e. can the sentiment of the comments be predicted by e.g. municipality, n_likes, n_hearts, politician (name_abbreviation)
 
 ```{r}
 
+```
+
+
+#investigate intercorrelation between variables
+e.g is there a correlation between municipality and sentiment, between sentiment and n_likes etc.
+
+```{r}
+# plotting and calculations 
 ```
 
