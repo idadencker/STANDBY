@@ -17,7 +17,7 @@ pacman::p_load(tidyverse, lme4)
 
 ```{r}
 #load in data
-sentiment_data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/vaders_roberta_bert.csv')
+sentiment_data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/Sentiment CSV files/5_types_sen.csv')
 
 #can check number of distinct values for a column
 n_distinct(sentiment_data$ID)
@@ -43,16 +43,18 @@ List of predictors:
 - count_heart
 
 sentiment predictors
-- neg
-- neu
-- pos
-- compound
+- neg_vader
+- neu_vader
+- pos_vader
+- compound_vader
 - pos_score_roberta
 - neg_score_roberta
 - neu_score_roberta
 - compound_roberta
 - roberta_label
 - bert_emotion_label 
+- attack
+- rec-nition
 
 outcome
 - intervention
