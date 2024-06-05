@@ -143,15 +143,16 @@ levels(sentiment_data$intervention)
 read: https://rips-irsp.com/articles/10.5334/irsp.90
 
 predictors
-- compound
+- compound_vader
 - compound_roberta
 - bert_emotion_label
+- attack
+- rec-nition
 - municipality 
 - offentlig_privat
 - total_n_comments
 - total_n_reactions
 - count_XX
-
 
 
 a '/' is the syntax used to account for nestedness. Nested random effects are hierarchical, with one level nested within another meaning that the same politician e.g. cant be part of multiple municipalities 
@@ -163,17 +164,18 @@ It is different from using ':' which is used to specify crossed random effects. 
 #remember that in logistic regression coefficients are a on log-oods scale = positive means increase in possibility
 ##log odds of intervention is predicted by compound score (fixed effect) allowing the model to vary by group
 
+
+
+
 ##INTERCEPT ONLY MODEL:
 
 #Below are the commands to run an empty model, that is, a model containing no predictors, 
-# and calculate the intraclass correlation coefficient (ICC; the degree of homogeneity of the outcome within clusters).
 empty_model <- glmer(intervention ~ ( 1 | ID), data=sentiment_data, family = "binomial")
 summary(empty_model)
-#The random intercept variance (i.e., the level-2 residual) is in the "Random effects" part of the output: classes (Intercept) 115.2;
-#The ICC represents the proportion of group-level variance to total variance.
-icc <- empty_model@theta[1]^2/ (empty_model@theta[1]^2 + (3.14159^2/3))
-icc #0.97
-#This indicates that 97% of the chance of intervention is explained by between-classroom differences 
+#There is substantial variability in the intercept across different levels of ID (Std.Dev. = 88.07), suggesting that the random effect of ID is important in the model.
+# The intercept of -17.689 is significantly different from zero, indicating that on average, without considering the random effect, the log odds of intervention are very low. That makes sence since there are way more no-intervention posts, so the general probabilty of the post being intervention is very low
+
+
 
 
 ## SIMPLE LOGISTIC REGRESSION MODEL (no mixed effects):
@@ -190,6 +192,7 @@ summary(no_mixed_model)
 two_level_model <- glmer(intervention ~ compound_roberta + (1| ID), data = sentiment_data, family = binomial)
 summary(two_level_model)
 # allowing to vary by ID 
+# The intercept of the fixed effects are stil negative, indicating that in increse in compund decreses the possibility of intervention. After having accounted for the fact that some of the variance in sentiment can be accounted for by ID, not 'much is left' for the model to explaing the compund by the intervention
 
 
 
@@ -197,11 +200,15 @@ summary(two_level_model)
 ## 3-LEVEL MODEL (comments nested in ID nested in politicians):
 three_level_model <- glmer(intervention ~ compound_roberta + (1| ID/name_abbreviation), data = sentiment_data, family = binomial)
 summary(three_level_model)
+# Same case as with the 2-level model 
+
+
 
 
 ## 4-LEVEL MODEL (comments nested in ID nested in politicians nested in municipality):
 four_level_model <- glmer(intervention ~ compound_roberta + (1| ID/name_abbreviation/municipality), data = sentiment_data, family = binomial)
 summary(four_level_model)
+
 
 
 
@@ -236,7 +243,7 @@ f5
 print("no_hier_model:")
 f6
 
-# The empty model and and the 2 level models has the lowest AIC indicating better model performance
+# The empty model and and the 2 level models has the lowest AIC indicating better model performance. These howver are not very useful to us. The empty model has obviously no predictors. The 2-level model
 
 ```
 

@@ -59,5 +59,15 @@ unique_copenhagen <- data %>%
   length()
 print(unique_copenhagen) # Print the result
 
+
+
+#how many politicians in the intervention
+unique <- data %>%
+  filter(intervention == "yes") %>%
+  pull(name_abbreviation) %>%
+  unique() %>%
+  length()
+print(unique) # Print the result
+
 ```
 
