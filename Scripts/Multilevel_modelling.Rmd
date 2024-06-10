@@ -87,6 +87,8 @@ sapply(sentiment_data, levels)
 #can check the number of levels for a factor column
 nlevels(sentiment_data$name_abbreviation)
 
+#OBS note that the sentiment_data dataframe contains both the post and the comments!
+
 ```
 
 #getting an idea of how the data looks, to understand the output of the models better
@@ -251,6 +253,67 @@ f6
 # make a plot like this one: https://blogs.uoregon.edu/rclub/2016/04/05/plotting-your-logistic-regression-models/
 
 #like i did for a previous exam
+
+#make a model like two_level_model with muni as predictor too 
+two_level_model_muni <- glmer(intervention ~ compound_roberta + municipality + (1| ID), data = sentiment_data, family = binomial)
+summary(two_level_model_muni)
+
+# check the levels
+levels(sentiment_data$municipality)
+
+
+#Get the coefficients from the (best) model
+fixed_effects <- fixef(two_level_model_muni)
+print(fixed_effects)
+
+b0 <- -16.2807   # intercept
+rob <- -0.4848 
+cop <- -1.9202
+
+#set range
+compound_range <- seq(from=min(sentiment_data$compound_roberta), to=max(sentiment_data$compound_roberta), by=.01)
+
+#calculate probs for each of the 2 levels
+aar_logits <-b0 + 
+  rob * compound_range +
+  cop *0  #This is the reference group, i.e the first level of the muni i.e. aarhus
+
+cop_logits <-b0 + 
+  rob * compound_range +
+  cop *1  
+
+# Compute the probabilities (this is what will actually get plotted):
+aar_probs<- exp(aar_logits)/(1 + exp(aar_logits))
+cop_probs<- exp(cop_logits)/(1 + exp(cop_logits))
+
+
+# the plot can be done in ggplot, which automatically adds legends 
+# first you have to get the information into a long dataframe, which is what ggplot likes :)
+plot.data <- data.frame(aar=aar_probs, cop=cop_probs, compound_roberta=compound_range)
+plot.data <- gather(plot.data, key=group, value=probs, aar:cop)
+head(plot.data)
+
+#ggplot(plot.data, aes(x=compound_roberta, y=probs, color=group)) + # asking it to set the color by the variable "group" is what makes it draw different lines
+  #geom_line(lwd=2) + 
+  #labs(x="Compound", y="Probability of the intervention being yes", title="Probability of intervention by municipality") 
+
+
+# Your plotting code
+ggplot(plot.data, aes(x=compound_roberta, y=probs, color=group)) + 
+  geom_line(lwd=2) + 
+  labs(x="Compound", y="Probability of the intervention being yes", title="Probability of intervention by municipality") +
+  
+  # Scale the y-axis using log10 transformation
+  scale_y_continuous(trans = "log10", 
+                     breaks = scales::trans_breaks("log10", function(x) 10^x),
+                     labels = scales::trans_format("log10", scales::math_format(10^.x)))
+
+#ggplot(plot.data, aes(x=compound_roberta, y=log(probs), color=group)) + 
+  #geom_line(lwd=2) + 
+  #labs(x="Compound", y="Log Probability of the intervention being yes", title="Probability of intervention by municipality")
+
+
+#the results show any possible difference in effect for the different municipalities. Generally, the probability for the intervention being yes is low, hence the very small numbers on the y-axis. The curvature of the 2 lines resemble each other 
 ```
 
 
@@ -262,7 +325,38 @@ plot(pos_score_roberta ~ neg_score_roberta, data = sentiment_data, main = "pos_s
 
 # predcting the sentiment, i.e. can the sentiment of the comments be predicted by e.g. municipality, n_likes, n_hearts, politician (name_abbreviation)
 
+predictors
+- compound_vader
+- compound_roberta
+- bert_emotion_label
+- attack
+- rec-nition
+- municipality 
+- offentlig_privat
+- total_n_comments
+- n_total_reactions
+- count_XX
+
 ```{r}
+# Remove rows where 'main_post' is '1'
+sentiment_data_only_comments <- sentiment_data[sentiment_data$main_post != 1, ]
+
+model <- lmer(compound_roberta ~ municipality + offentlig_privat + total_n_comments + n_total_reactions + (1 | ID), data=sentiment_data)
+
+summary(model)
+
+levels(sentiment_data$offentlig_privat)
+
+#0.2848808 is the compound score when municipality is århus, offentlig, and total number of comments and reaction are both 0. The Estimates are the change in compound when all the other predictors are being held constant. If e.g. the level change from Århus to Copenhagen it will entail a change in compound by -0.1795006 (still offentlig, and total number of comments and reaction are both 0) This is in accordance with previous findings showing that comments are generally more negative on copenhagen posts. 
+
+#the estimate for offentlig_privatP -0.0013759 shows that a change from privat to offenrlig will entail a drop in sentiment i.e more negative sentiment. The low estimates for n_total_reactions and total_n_comments show that an increase in comments per post or n_total_reactions will only entail a very small increase in sentiment
+
+
+#incorporate count of different types of reactions, to determine if any types of reactions, e.g. 'angry' or 'sad' will significantly predict the sentiment 
+
+model_reactions <- lmer(compound_roberta ~ municipality + offentlig_privat + total_n_comments + n_total_reactions + count_like + count_haha+ count_heart+ count_care + count_sad + count_wow + count_angry + (1 | ID), data=sentiment_data_only_comments)
+
+summary(model_reactions)
 
 ```
 
