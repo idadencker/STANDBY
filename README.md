@@ -8,3 +8,4 @@ To-Do:
 - ny df i r markdown, opdatere interpretation comments
 - Cleanup of folders and documents 
 - wrap up the project, write a 3 page paper
+- Prepare slides/presentation for zoom meeting with politicians 
