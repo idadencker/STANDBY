@@ -2,11 +2,9 @@ Link to my notion page 'STANDBY' containing notes on e.g. the facebook experimen
 
 To-Do:
 
-analysis
-
-- do multilevel modelling in R
-    - ~~can intervention by predicted by sentiment (accounting for nestedness)~~ = NO
-    - Try other models: can sentiment of comments be predicted by e.g. municipality, offentlig/privat, n_reactions etc.
-    - see ‘Research question(s)’ page for inspiration
-- Machine learning
-    - Can a classifier learn to predict the sentiment of a comment based on some predictors (e.g. kommune, n_likes, n_comments, etc.)
+- make new plots investigating tendencies/sentiment for the subcomment
+    - devide data in label == pos and label == neg
+    - If the comment is negative, is the subcomment (to that comment also) negative, and vice versa
+- ny df i r markdown, opdatere interpretation comments
+- Cleanup of folders and documents 
+- wrap up the project, write a 3 page paper
