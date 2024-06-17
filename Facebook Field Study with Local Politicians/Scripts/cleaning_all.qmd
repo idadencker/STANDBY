@@ -20,7 +20,7 @@ library(here)
 ```{r, warning=FALSE}
 
 #Load in the files
-files <- list.files(path="/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/second_round_json", pattern="*.json", full.names=TRUE, recursive=FALSE)
+files <- list.files(path="/Users/idahelenedencker/Desktop/STANDBY/Facebook Field Study with Local Politicians/Facebook_Field_2023-kopi/data/preprocessed/second_round_json", pattern="*.json", full.names=TRUE, recursive=FALSE)
 
 # Initialize an empty data frame to hold the combined data
 data_frame_all <- NULL  
@@ -299,7 +299,7 @@ for (id_value in unique(data_frame_all$ID)) {
 
 ```{r}
 #shorten the file_name column 
-data_frame_all$file_name <- sub("/Users/idahelenedencker/Desktop/STANDBY/Facebook_Field_2023-kopi/data/preprocessed/second_round_json/", "" , data_frame_all$file_name)
+data_frame_all$file_name <- sub("/Users/idahelenedencker/Desktop/STANDBY/Facebook Field Study with Local Politicians/Facebook_Field_2023-kopi/data/preprocessed/second_round_json/", "" , data_frame_all$file_name)
 
 
 ## Based on the file_name column make:
@@ -967,7 +967,7 @@ data_frame_all <- data_frame_all[, c(2, 3, 27, 15, 17, 16, 18, 28, 31, 32, 30, 5
 
 ```{r}
 
-write.csv(data_frame_all, "/Users/idahelenedencker/Desktop/STANDBY/all_files_final.csv", row.names=FALSE)
+write.csv(data_frame_all, "/Users/idahelenedencker/Desktop/STANDBY/Facebook Field Study with Local Politicians/all_files_final.csv", row.names=FALSE)
 ```
 
 
@@ -984,7 +984,7 @@ library(magrittr)
 
 #Load in csv data
 ```{r}
-data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/all_files_final.csv',show_col_types = FALSE)
+data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/Facebook Field Study with Local Politicians/all_files_final.csv',show_col_types = FALSE)
 ```
 
 
@@ -1034,6 +1034,20 @@ unique <- data %>%
   unique() %>%
   length()
 print(unique) # Print the result
+
+
+# what municipalities are the intervention politicians from
+unique_name_df <- data %>%
+  filter(intervention == "yes") %>%
+  distinct(name_abbreviation, .keep_all = TRUE)
+
+
+#what in the name_abbreviation of the intervention politicians 
+unique_name <- data %>%
+  filter(intervention == "yes") %>%
+  pull(name_abbreviation) %>%
+  unique() 
+print(unique_name) # Print the result
 
 ```
 
