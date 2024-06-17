@@ -21,6 +21,9 @@ sentiment_data <- read_csv('/Users/idahelenedencker/Desktop/STANDBY/Sentiment CS
 
 #can check number of distinct values for a column
 n_distinct(sentiment_data$ID)
+
+#limiting the data to exclude the main posts
+sentiment_data <- subset(sentiment_data, main_post == 0)
 ```
 
 # Multilevel modelling (predictive modelling)
@@ -79,7 +82,6 @@ sentiment_data <- sentiment_data %>%
     name_abbreviation = as.factor(name_abbreviation)
   )
 
-#should ID be level??
 
 #check the levels look right 
 sapply(sentiment_data, levels)
@@ -87,7 +89,6 @@ sapply(sentiment_data, levels)
 #can check the number of levels for a factor column
 nlevels(sentiment_data$name_abbreviation)
 
-#OBS note that the sentiment_data dataframe contains both the post and the comments!
 
 ```
 
@@ -164,7 +165,7 @@ It is different from using ':' which is used to specify crossed random effects. 
 
 ```{r}
 #remember that in logistic regression coefficients are a on log-oods scale = positive means increase in possibility
-##log odds of intervention is predicted by compound score (fixed effect) allowing the model to vary by group
+##log odds of intervention is predicted by compound score (fixed effect) allowing some of the models to vary by groups (random effects)
 
 
 
@@ -174,8 +175,8 @@ It is different from using ':' which is used to specify crossed random effects. 
 #Below are the commands to run an empty model, that is, a model containing no predictors, 
 empty_model <- glmer(intervention ~ ( 1 | ID), data=sentiment_data, family = "binomial")
 summary(empty_model)
-#There is substantial variability in the intercept across different levels of ID (Std.Dev. = 88.07), suggesting that the random effect of ID is important in the model.
-# The intercept of -17.689 is significantly different from zero, indicating that on average, without considering the random effect, the log odds of intervention are very low. That makes sence since there are way more no-intervention posts, so the general probabilty of the post being intervention is very low
+#There is substantial variability in the intercept across different levels of ID (Std.Dev. = 84.32), suggesting that the random effect of ID is important in the model.
+# The intercept of -17.455 is significantly different from zero, indicating that on average, without considering the random effect, the log odds of intervention are very low. That makes sense since there are way more no-intervention posts, so the general probability of the post being intervention is very low
 
 
 
@@ -185,8 +186,8 @@ summary(empty_model)
 #no mixed effects model
 no_mixed_model <- glm(intervention ~ compound_roberta,family=binomial(link='logit'),data=sentiment_data)
 summary(no_mixed_model)
-#no random effects: assume all data are independent from each other (not the case here)
-#when the compound score increase with 1 (more positive sentiment) the log odds of the intervention being yes decreases with -0.59, i.e. more positive sentiment entails a lower probability of the intervention being yes, in accordance with what the plots above are showing. The predictor is siggnificant here.  
+#no random effects: assume all data are independent from each other (not the case in our data though)
+#when the compound score increase with 1 (more positive sentiment) the log odds of the intervention being yes decreases with -0.59, i.e. more positive sentiment entails a lower probability of the intervention being yes, in accordance with what the plots above are showing. The predictor is significant here.  
 
 
 
@@ -194,7 +195,7 @@ summary(no_mixed_model)
 two_level_model <- glmer(intervention ~ compound_roberta + (1| ID), data = sentiment_data, family = binomial)
 summary(two_level_model)
 # allowing to vary by ID 
-# The intercept of the fixed effects are stil negative, indicating that in increse in compund decreses the possibility of intervention. After having accounted for the fact that some of the variance in sentiment can be accounted for by ID, not 'much is left' for the model to explaing the compund by the intervention
+# The intercept of the fixed effects are still negative, indicating that in increase in compound decreases the possibility of intervention. After having accounted for the fact that some of the variance in sentiment can be accounted for by ID, not 'much is left' for the model to explain the compound by the intervention (so significance)
 
 
 
@@ -210,21 +211,19 @@ summary(three_level_model)
 ## 4-LEVEL MODEL (comments nested in ID nested in politicians nested in municipality):
 four_level_model <- glmer(intervention ~ compound_roberta + (1| ID/name_abbreviation/municipality), data = sentiment_data, family = binomial)
 summary(four_level_model)
-
+#Same case again
 
 
 
 ## NO HIERARCHY MODEL
 
-#a model with separate random intercepts for each grouping variable without explicitly specifying the nesting. This is assuming that the grouping variables are independent of each other.
+#Exploratory: a model with separate random intercepts for each grouping variable without explicitly specifying the nesting. This is assuming that the grouping variables are independent of each other.
 no_hier_model <- glmer(intervention ~ compound_roberta + (1| ID) + (1| name_abbreviation) + (1| municipality), data = sentiment_data, family = binomial)
 summary(no_hier_model)
 
 
-#maybe make a model only varying by ID, 1 only my politician, 1 only by municipality?
 
-
-#compare the different models like this:
+#compare the different models:
 f1 <- performance::model_performance(empty_model, metrics= "common")
 f2 <- performance::model_performance(no_mixed_model, metrics= "common")
 f3 <- performance::model_performance(two_level_model, metrics= "common")
@@ -245,24 +244,24 @@ f5
 print("no_hier_model:")
 f6
 
-# The empty model and and the 2 level models has the lowest AIC indicating better model performance. These howver are not very useful to us. The empty model has obviously no predictors. The 2-level model
+# The empty model and and the 2 level models has the lowest AIC indicating better model performance. These however are not very useful to us. The empty model has obviously no predictors. The 2-level model does not account for the nestedness in the data. 
 
 ```
 
 ```{r}
 # make a plot like this one: https://blogs.uoregon.edu/rclub/2016/04/05/plotting-your-logistic-regression-models/
 
-#like i did for a previous exam
 
-#make a model like two_level_model with muni as predictor too 
+#make a model like two_level_model with muni as predictor also:
 two_level_model_muni <- glmer(intervention ~ compound_roberta + municipality + (1| ID), data = sentiment_data, family = binomial)
 summary(two_level_model_muni)
+
 
 # check the levels
 levels(sentiment_data$municipality)
 
 
-#Get the coefficients from the (best) model
+#Get the coefficients from the new model
 fixed_effects <- fixef(two_level_model_muni)
 print(fixed_effects)
 
@@ -288,17 +287,13 @@ cop_probs<- exp(cop_logits)/(1 + exp(cop_logits))
 
 
 # the plot can be done in ggplot, which automatically adds legends 
-# first you have to get the information into a long dataframe, which is what ggplot likes :)
+# first you have to get the information into a long dataframe, which is what ggplot likes 
 plot.data <- data.frame(aar=aar_probs, cop=cop_probs, compound_roberta=compound_range)
 plot.data <- gather(plot.data, key=group, value=probs, aar:cop)
 head(plot.data)
 
-#ggplot(plot.data, aes(x=compound_roberta, y=probs, color=group)) + # asking it to set the color by the variable "group" is what makes it draw different lines
-  #geom_line(lwd=2) + 
-  #labs(x="Compound", y="Probability of the intervention being yes", title="Probability of intervention by municipality") 
 
-
-# Your plotting code
+# plotting code
 ggplot(plot.data, aes(x=compound_roberta, y=probs, color=group)) + 
   geom_line(lwd=2) + 
   labs(x="Compound", y="Probability of the intervention being yes", title="Probability of intervention by municipality") +
@@ -308,19 +303,11 @@ ggplot(plot.data, aes(x=compound_roberta, y=probs, color=group)) +
                      breaks = scales::trans_breaks("log10", function(x) 10^x),
                      labels = scales::trans_format("log10", scales::math_format(10^.x)))
 
-#ggplot(plot.data, aes(x=compound_roberta, y=log(probs), color=group)) + 
-  #geom_line(lwd=2) + 
-  #labs(x="Compound", y="Log Probability of the intervention being yes", title="Probability of intervention by municipality")
 
 
 #the results show any possible difference in effect for the different municipalities. Generally, the probability for the intervention being yes is low, hence the very small numbers on the y-axis. The curvature of the 2 lines resemble each other 
 ```
 
-
-```{r}
-#can do some simple plotting 
-plot(pos_score_roberta ~ neg_score_roberta, data = sentiment_data, main = "pos_score_roberta ~ neg_score_roberta") 
-```
 
 
 # predcting the sentiment, i.e. can the sentiment of the comments be predicted by e.g. municipality, n_likes, n_hearts, politician (name_abbreviation)
@@ -338,8 +325,7 @@ predictors
 - count_XX
 
 ```{r}
-# Remove rows where 'main_post' is '1'
-sentiment_data_only_comments <- sentiment_data[sentiment_data$main_post != 1, ]
+#Explorative models with more predictors 
 
 model <- lmer(compound_roberta ~ municipality + offentlig_privat + total_n_comments + n_total_reactions + (1 | ID), data=sentiment_data)
 
@@ -347,24 +333,17 @@ summary(model)
 
 levels(sentiment_data$offentlig_privat)
 
-#0.2848808 is the compound score when municipality is århus, offentlig, and total number of comments and reaction are both 0. The Estimates are the change in compound when all the other predictors are being held constant. If e.g. the level change from Århus to Copenhagen it will entail a change in compound by -0.1795006 (still offentlig, and total number of comments and reaction are both 0) This is in accordance with previous findings showing that comments are generally more negative on copenhagen posts. 
+#0.2915654 is the compound score when municipality is århus, offentlig, and total number of comments and reaction are both 0. The estimates are the change in compound when all the other predictors are being held constant. If e.g. the level change from Århus to Copenhagen it will entail a change in compound by -0.1795006 (still offentlig, and total number of comments and reaction are both 0) This is in accordance with previous findings showing that comments are generally more negative on copenhagen posts. 
 
-#the estimate for offentlig_privatP -0.0013759 shows that a change from privat to offenrlig will entail a drop in sentiment i.e more negative sentiment. The low estimates for n_total_reactions and total_n_comments show that an increase in comments per post or n_total_reactions will only entail a very small increase in sentiment
+#the estimate for offentlig_privatP -0.0013759 shows that a change from offentlig to privat will entail a drop in sentiment i.e more negative sentiment. The low estimates for n_total_reactions and total_n_comments show that an increase in comments per post or n_total_reactions will only entail a very small increase in sentiment
 
 
 #incorporate count of different types of reactions, to determine if any types of reactions, e.g. 'angry' or 'sad' will significantly predict the sentiment 
-
-model_reactions <- lmer(compound_roberta ~ municipality + offentlig_privat + total_n_comments + n_total_reactions + count_like + count_haha+ count_heart+ count_care + count_sad + count_wow + count_angry + (1 | ID), data=sentiment_data_only_comments)
-
+model_reactions <- lmer(compound_roberta ~ municipality + offentlig_privat + total_n_comments + n_total_reactions + count_like + count_haha+ count_heart+ count_care + count_sad + count_wow + count_angry + (1 | ID), data=sentiment_data)
 summary(model_reactions)
 
+#interestingly, only an increase in the count of heart and care reactions to a comment will increase the compound score. Like the model above, this one also shows that if the level change from Århus to Copenhagen it will entail a negative change in compound by -0.2156951 
+
 ```
 
-
-#investigate intercorrelation between variables
-e.g is there a correlation between municipality and sentiment, between sentiment and n_likes etc.
-
-```{r}
-# plotting and calculations 
-```
 
