@@ -3,17 +3,20 @@ Link to my notion page 'STANDBY' containing notes on e.g. the the facebook exper
 To-Do:
 
 1.  **Apply rec-nition & A-ttack on main Danish tweet corpus**
-    - New folder in GitHub for this task
-    - Load parquet file into new python script
-        - data overview: what does the data contain?
-        - filter to only danish tweets
+    - ~~New folder in GitHub for this task~~
+    - ~~Load parquet file into new python script~~
+        - ~~data overview: what does the data contain?~~
+        - ~~filter to only danish tweets~~
     - set up tmux on jupyternotebook?
-    - Apply recognition and attack
-    - Plot results:
-        - Pie-charts distributions of labels (see previous code)
-        - Development over time
+    - Apply recognition and attack to full data
+    - ~~Plot results:~~
+        - ~~Pie-charts distributions of labels (see previous code)~~
+        - ~~Development over time~~
         - Results to Tanja?
     - Save the scored dataset as csv on the o-drive
+    - OBS:
+        - ‘Da’ is often swedish/norwegian: is that problematic?
+    
 
 1. **Creating a dataset of reference tweets to prepare for hand coding and evaluate different classifiers on**
     - New folder in GitHub for this task
